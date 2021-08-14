@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(code VERSION 0.1.0)
+
+include(CTest)
+enable_testing()
+
+add_executable(code03 03array.cpp)
+add_executable(code06a 06linked_a.cpp)
+add_executable(code06b 06linked_b.cpp)
+add_executable(code10 10dp.cpp)
+add_executable(code10b 10dp_b.cpp)
+add_executable(code30 30stack.cpp)
+
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)
