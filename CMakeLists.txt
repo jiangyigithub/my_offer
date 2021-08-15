@@ -5,6 +5,7 @@ include(CTest)
 enable_testing()
 
 add_executable(code03 03array.cpp)
+add_executable(code05 05string.cpp)
 add_executable(code06a 06linked_a.cpp)
 add_executable(code06b 06linked_b.cpp)
 add_executable(code10 10dp.cpp)
