@@ -72,8 +72,8 @@ string integerVectorToString(vector<int> list, int length = -1) {
 }
 
 int main() {
-    string line = "[3,2,4,6,8,1]";
-    string linek= "3";
+    string line = "[1,0,2,4,3,5]";
+    string linek= "4";
     vector<int> arr = stringToIntegerVector(line);
     int k = stringToInteger(linek);
     
