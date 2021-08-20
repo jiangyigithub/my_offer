@@ -11,6 +11,7 @@ add_executable(code06b 06linked_b.cpp)
 add_executable(code10 10dp.cpp)
 add_executable(code10b 10dp_b.cpp)
 add_executable(code30 30stack.cpp)
+add_executable(code40b 40sort_b.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
