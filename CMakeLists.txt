@@ -10,6 +10,8 @@ add_executable(code06a 06linked_a.cpp)
 add_executable(code06b 06linked_b.cpp)
 add_executable(code10 10dp.cpp)
 add_executable(code10b 10dp_b.cpp)
+add_executable(code16 16linked.cpp)
+add_executable(code25 25linked.cpp)
 add_executable(code30 30stack.cpp)
 add_executable(code40b 40sort_b.cpp)
 
