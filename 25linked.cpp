@@ -9,19 +9,22 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        
         ListNode* dump = new ListNode(0);
-        ListNode * cur= dump;
-        while(l1->next != nullptr || l2->next != nullptr){
-            if(l1->val < l2->val){
-                cur->val = l1->val;
+        ListNode* cur = dump;
+        while(l1!= nullptr && l2!=nullptr){
+            if(l1->val <= l2->val){
+                //cur->next->val = l1->val;
+                cur->next = l1;
+                l1 = l1->next; 
             }
-            else if(l1->val >= l2->val){
-                cur->val = l2->val;
+            else{
+                //cur->next->val = l2->val;
+                cur->next = l2;
+                l2 = l2->next;
             }
             cur = cur->next;
-        }
-        cur ->next = l1->next != nullptr? l1:l2;
+        } 
+        cur->next = l1!=nullptr? l1:l2;
         return dump->next;
     }
 };
@@ -83,16 +86,16 @@ string listNodeToString(ListNode* node) {
 }
 
 int main() {
-    string line;
-    while (getline(cin, line)) {
-        ListNode* l1 = stringToListNode(line);
-        getline(cin, line);
-        ListNode* l2 = stringToListNode(line);
-        
-        ListNode* ret = Solution().mergeTwoLists(l1, l2);
+    string line = "[1,2,4]";
+  
+    ListNode* l1 = stringToListNode(line);
+    line = "[1,3,4]";
+    ListNode* l2 = stringToListNode(line);
+    
+    ListNode* ret = Solution().mergeTwoLists(l1, l2);
 
-        string out = listNodeToString(ret);
-        cout << out << endl;
-    }
+    string out = listNodeToString(ret);
+    cout << out << endl;
+    
     return 0;
 }
