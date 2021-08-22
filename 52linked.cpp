@@ -8,21 +8,32 @@ struct ListNode {
 
 class Solution {
 public:
-    ListNode* deleteNode(ListNode* head, int val) {
-        // is header
-        if(head->val == val) return head->next;
-        ListNode *pre = head,*cur = head->next;
-        while(cur->val!= val){
-            pre = cur;
-            cur = cur->next;
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode *A = headA ,*B = headB;
+        while(A!=B&& (A!=nullptr) &&(B!=nullptr) ){
+            // A = A!=nullptr? A->next: headB;
+            // B = B!=nullptr? B->next: headA;
+            if(A!=nullptr){
+              A = A->next;
+            }
+            else{
+                A = headB;
+            }
+            if(B!=nullptr){
+              B = B->next;
+            }
+            else{
+              B = headA;
+            }
         }
-        // is not tail
-        if(cur->next!=nullptr){
-            pre->next = cur->next;
-        }
-        return head;
+        return A;
+        
     }
 };
+
+int stringToInteger(string input) {
+    return stoi(input);
+}
 
 void trimLeftTrailingSpaces(string &input) {
     input.erase(input.begin(), find_if(input.begin(), input.end(), [](int ch) {
@@ -67,10 +78,6 @@ ListNode* stringToListNode(string input) {
     return ptr;
 }
 
-int stringToInteger(string input) {
-    return stoi(input);
-}
-
 string listNodeToString(ListNode* node) {
     if (node == nullptr) {
         return "[]";
@@ -85,14 +92,18 @@ string listNodeToString(ListNode* node) {
 }
 
 int main() {
-    string line = "[4,5,1,9]";
-        ListNode* head = stringToListNode(line);
-        string lineval = "1";
-        int val = stringToInteger(lineval);
-        
-        ListNode* ret = Solution().deleteNode(head, val);
-
-        string out = listNodeToString(ret);
-        cout << out << endl;
+    string line = "8";
+    int intersectVal = stringToInteger(line);
+    line ="[4,1,8,4,5]";
+    ListNode* listA = stringToListNode(line);
+    line = "[5,0,1,8,4,5]";
+    ListNode* listB = stringToListNode(line);
+    line ="2";
+    int skipA = stringToInteger(line);
+    line ="3";
+    int skipB = stringToInteger(line);
+    ListNode* ret = Solution().getIntersectionNode(listA, listB);
+    string out = listNodeToString(ret);
+    cout << out << endl;
     return 0;
 }
