@@ -16,6 +16,7 @@ add_executable(code30 30stack.cpp)
 add_executable(code40b 40sort_b.cpp)
 add_executable(code52 52linked.cpp)
 add_executable(code57 57array.cpp)
+add_executable(codetree tree.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
