@@ -23,7 +23,7 @@ public:
             x=x->left;
         }
     }
-    vector<int> levelOrder(TreeNode* root) {
+    vector<int> inOrder(TreeNode* root) {
         vector<int > res;
         while(true){
             goAlongLeftBranch(root,s);
@@ -117,7 +117,7 @@ int main() {
   
     TreeNode* root = stringToTreeNode(line);
     
-    vector<int> ret = Solution().levelOrder(root);
+    vector<int> ret = Solution().inOrder(root);
 
     string out = integerVectorToString(ret);
     cout << out << endl;
