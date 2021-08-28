@@ -15,26 +15,41 @@
 
 class Solution {
 public:
-    vector<vector<int>> deepOrder2(TreeNode* root) {
+    vector<vector<int>> deepOrder3(TreeNode* root) {
         vector<vector<int>> res;
-        vector<int> temp;
-        if (!root) return res;
-        queue<TreeNode*> que;
-        que.push(root);
-        while (!que.empty()) {
-            for (int i = que.size(); i > 0; i--) {
-                TreeNode* node = que.front();
-                que.pop();
-                temp.push_back(node->val);
-                if (node->left) que.push(node->left);
-                if (node->right) que.push(node->right);
+        if(!root) return res;
+        vector<int> tmp;
+        deque<TreeNode*> deq;
+        deq.push_back(root);
+        while(!deq.empty()){
+            for(int i =deq.size();i>0;i--){
+                TreeNode* node = deq.front();
+                deq.pop_front();
+                tmp.push_back(node->val);
+                if(node->left) deq.push_back(node->left);
+                if(node->right) deq.push_back(node->right);
             }
-            res.push_back(temp);
-            temp.clear();
+            res.push_back(tmp);
+            // if(deq.empty()) break;
+            tmp.clear();
+            for(int i =deq.size();i>0;i--){
+                TreeNode* node = deq.back();
+                deq.pop_back();
+                tmp.push_back(node->val);
+                if(node->right) deq.push_front(node->right);
+                if(node->left) deq.push_front(node->left);
+            }
+            res.push_back(tmp);
+            tmp.clear();
         }
         return res;
+
+ 
+
     }
+
 };
+
 
 void trimLeftTrailingSpaces(string &input) {
     input.erase(input.begin(), find_if(input.begin(), input.end(), [](int ch) {
@@ -116,7 +131,7 @@ int main() {
   
     TreeNode* root = stringToTreeNode(line);
     
-    vector<vector<int>> rets = Solution().deepOrder2(root);
+    vector<vector<int>> rets = Solution().deepOrder3(root);
     
     for(auto ret:rets)
     {

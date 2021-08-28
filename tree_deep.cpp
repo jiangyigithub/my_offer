@@ -15,9 +15,11 @@
 
 class Solution {
 public:
-    vector<int> inOrder(TreeNode* root) {
-        queue<TreeNode*> que;
+    vector<int> deepOrder1(TreeNode* root) {
+        
         vector<int> res;
+        if(!root) return res;
+        queue<TreeNode*> que;
         que.push(root);
         while(!que.empty()){
             TreeNode* node = que.front();
@@ -110,7 +112,7 @@ int main() {
   
     TreeNode* root = stringToTreeNode(line);
     
-    vector<int> ret = Solution().inOrder(root);
+    vector<int> ret = Solution().deepOrder1(root);
 
     string out = integerVectorToString(ret);
     cout << out << endl;

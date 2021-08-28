@@ -14,25 +14,24 @@
 // 8  15   7
 
 class Solution {
+    private:
+    vector<int> res;
+    
 public:
-    vector<vector<int>> deepOrder2(TreeNode* root) {
-        vector<vector<int>> res;
-        vector<int> temp;
-        if (!root) return res;
-        queue<TreeNode*> que;
-        que.push(root);
-        while (!que.empty()) {
-            for (int i = que.size(); i > 0; i--) {
-                TreeNode* node = que.front();
-                que.pop();
-                temp.push_back(node->val);
-                if (node->left) que.push(node->left);
-                if (node->right) que.push(node->right);
-            }
-            res.push_back(temp);
-            temp.clear();
-        }
-        return res;
+    vector<int> getRes(void){ return res;}
+    void clearRes(void){res.clear();}
+    void inOrder(TreeNode* root) {
+        
+        if(root==nullptr)  return;
+        inOrder(root->left);
+        res.push_back(root->val);
+        inOrder(root->right);
+    }
+    void preOrder(TreeNode* root) {
+        if(root==nullptr)  return;
+        res.push_back(root->val);
+        preOrder(root->left);
+        preOrder(root->right);
     }
 };
 
@@ -115,13 +114,19 @@ int main() {
     string line = "[3,9,20,8,null,15,7]";
   
     TreeNode* root = stringToTreeNode(line);
-    
-    vector<vector<int>> rets = Solution().deepOrder2(root);
-    
-    for(auto ret:rets)
-    {
+    Solution sol;
+    sol.inOrder(root);
+    vector<int> ret = sol.getRes();
+
     string out = integerVectorToString(ret);
-    cout << out << endl;
-    }
+    cout << "in order: "<<out << endl;
+
+    
+    sol.clearRes();
+    sol.preOrder(root);
+    ret = sol.getRes();
+    out = integerVectorToString(ret);
+    cout << "pre order: "<<out << endl;
+    
     return 0;
 }

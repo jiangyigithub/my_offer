@@ -7,32 +7,16 @@
       TreeNode(int node) : val(node), left(nullptr), right(nullptr) {}
 };
 
-//     3
-//    / \
-//   9  20
-//  /  /  \
-// 8  15   7
-
 class Solution {
 public:
-    vector<vector<int>> deepOrder2(TreeNode* root) {
-        vector<vector<int>> res;
-        vector<int> temp;
-        if (!root) return res;
-        queue<TreeNode*> que;
-        que.push(root);
-        while (!que.empty()) {
-            for (int i = que.size(); i > 0; i--) {
-                TreeNode* node = que.front();
-                que.pop();
-                temp.push_back(node->val);
-                if (node->left) que.push(node->left);
-                if (node->right) que.push(node->right);
-            }
-            res.push_back(temp);
-            temp.clear();
-        }
-        return res;
+    bool isSubStructure(TreeNode* A, TreeNode* B) {
+        return (A != nullptr && B != nullptr) && (recur(A, B) || isSubStructure(A->left, B) || isSubStructure(A->right, B));
+    }
+private:
+    bool recur(TreeNode* A, TreeNode* B) {
+        if(B == nullptr) return true;
+        if(A == nullptr || A->val != B->val) return false;
+        return recur(A->left, B->left) && recur(A->right, B->right);
     }
 };
 
@@ -94,34 +78,20 @@ TreeNode* stringToTreeNode(string input) {
     return root;
 }
 
-string integerVectorToString(vector<int> list, int length = -1) {
-    if (length == -1) {
-        length = list.size();
-    }
-
-    if (length == 0) {
-        return "[]";
-    }
-
-    string result;
-    for(int index = 0; index < length; index++) {
-        int number = list[index];
-        result += to_string(number) + ", ";
-    }
-    return "[" + result.substr(0, result.length() - 2) + "]";
+string boolToString(bool input) {
+    return input ? "True" : "False";
 }
 
 int main() {
-    string line = "[3,9,20,8,null,15,7]";
-  
-    TreeNode* root = stringToTreeNode(line);
+    string line = "[3,4,5,1,2]";
+        TreeNode* A = stringToTreeNode(line);
+        line = "[4,1]";
+        TreeNode* B = stringToTreeNode(line);
+        
+        bool ret = Solution().isSubStructure(A, B);
+
+        string out = boolToString(ret);
+        cout << out << endl;
     
-    vector<vector<int>> rets = Solution().deepOrder2(root);
-    
-    for(auto ret:rets)
-    {
-    string out = integerVectorToString(ret);
-    cout << out << endl;
-    }
     return 0;
 }
