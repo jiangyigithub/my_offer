@@ -15,16 +15,22 @@
 
 class Solution {
 public:
-    vector<int> inOrder(TreeNode* root) {
+    vector<vector<int>> inOrder(TreeNode* root) {
+        vector<vector<int>> res;
+        vector<int> temp;
+        if (!root) return res;
         queue<TreeNode*> que;
-        vector<int> res;
         que.push(root);
-        while(!que.empty()){
-            TreeNode* node = que.front();
-            que.pop();
-            res.push_back(node->val);
-            if(node->left) que.push(node->left);
-            if(node->right) que.push(node->right);
+        while (!que.empty()) {
+            for (int i = que.size(); i > 0; i--) {
+                TreeNode* node = que.front();
+                que.pop();
+                temp.push_back(node->val);
+                if (node->left) que.push(node->left);
+                if (node->right) que.push(node->right);
+            }
+            res.push_back(temp);
+            temp.clear();
         }
         return res;
     }
@@ -110,10 +116,12 @@ int main() {
   
     TreeNode* root = stringToTreeNode(line);
     
-    vector<int> ret = Solution().inOrder(root);
-
+    vector<vector<int>> rets = Solution().inOrder(root);
+    
+    for(auto ret:rets)
+    {
     string out = integerVectorToString(ret);
     cout << out << endl;
-    
+    }
     return 0;
 }

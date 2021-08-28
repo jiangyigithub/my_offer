@@ -19,6 +19,7 @@ add_executable(code57 57array.cpp)
 add_executable(codetreein tree_inorder.cpp)
 add_executable(codetreepre tree_preorder.cpp)
 add_executable(codedeepTree tree_deep.cpp)
+add_executable(codedeepTree2 tree_deep2.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
