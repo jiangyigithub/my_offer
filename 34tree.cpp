@@ -7,6 +7,7 @@
       TreeNode(int node) : val(node), left(nullptr), right(nullptr) {}
 };
 
+
 class Solution {
 public:
     vector<vector<int>> pathSum(TreeNode* root, int sum) {
@@ -27,7 +28,13 @@ private:
         path.pop_back();
     }
 };
-
+        //       5
+        //      / \
+        //     4   8
+        //    /   / \
+        //   11  13  4
+        //  /  \    / \
+        // 7    2  5   1
 void trimLeftTrailingSpaces(string &input) {
     input.erase(input.begin(), find_if(input.begin(), input.end(), [](int ch) {
         return !isspace(ch);
