@@ -33,6 +33,12 @@ public:
         preOrder(root->left);
         preOrder(root->right);
     }
+    void postOrder(TreeNode* root) {
+        if(root==nullptr)  return;
+        postOrder(root->left);
+        postOrder(root->right);
+        res.push_back(root->val);
+    }
 };
 
 void trimLeftTrailingSpaces(string &input) {
@@ -127,6 +133,12 @@ int main() {
     ret = sol.getRes();
     out = integerVectorToString(ret);
     cout << "pre order: "<<out << endl;
+
+    sol.clearRes();
+    sol.postOrder(root);
+    ret = sol.getRes();
+    out = integerVectorToString(ret);
+    cout << "post order: "<<out << endl;
     
     return 0;
 }
