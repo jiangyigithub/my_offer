@@ -86,10 +86,11 @@ TreeNode* stringToTreeNode(string input) {
 
 int main() {
     string line = "[1,2,3,null,null,4,5]";
-    
     TreeNode* root = stringToTreeNode(line);
-    
-    string ret = Codec().serialize(root);
+
+    Codec codec;
+    string ret = codec.serialize(root);
+    TreeNode* treeRet = codec.deserialize(codec.serialize(root));
 
     string out = (ret);
     cout << out << endl;
