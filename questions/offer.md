@@ -115,6 +115,14 @@ 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
 
 - 关注visit 向量和queue中存的值
 
+- 根判空返回
+
+  队列先进根
+
+  循环取队头
+
+  进值看左右
+
 **offer 32-2** 二叉树按层打印
 
 - queue  的size() 方法 
