@@ -1,5 +1,5 @@
 ### 剑指offer
-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
+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
 优先队列和堆
 双向链表
 平衡二叉树
@@ -90,6 +90,9 @@ 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
 - 二维矩阵的下标与树的指针，数组前后-->上下左右，双向链表pre/next-->左子树/右子树
 - 顺序存储和链式存储
 - k值怎么加1
+- 回溯法的几个普遍问题
+  - 找到一条可行路径就退出
+  - 剪枝
 
 **offer 26** 二叉树的子树
 
