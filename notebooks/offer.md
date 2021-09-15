@@ -8,10 +8,9 @@ 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
 对称
 
 - DFS和BFS
-
 - 顺序存储和链式存储
-
 - 自下而上（循环） 自上而下（递归）
+- 实践-量变-质变-认识
 
 
 
