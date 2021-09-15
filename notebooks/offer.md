@@ -1,5 +1,12 @@
 ### 剑指offer
-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
+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
+
+https://github.com/settings/tokens
+
+https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55bvvv/
+
+https://labuladong.gitbook.io/algo/
+
 优先队列和堆
 双向链表
 平衡二叉树
@@ -103,6 +110,7 @@ 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
 
 **offer13 机器人的运动范围**
 
+- 数位和的求法，数位增量公式
 - 怎么把一个矩阵看做一个抽象的二叉树
 - 显式metric1-位数和，隐式metric2-无法跨越obstacle
 - dfs 和 bfs
