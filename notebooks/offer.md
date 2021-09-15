@@ -1,11 +1,4 @@
 ### 剑指offer
-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
-
-https://github.com/settings/tokens
-
-https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55bvvv/
-
-https://labuladong.gitbook.io/algo/
 
 优先队列和堆
 双向链表
