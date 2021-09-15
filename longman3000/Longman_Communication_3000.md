@@ -1,4 +1,4 @@
-﻿﻿a 
+﻿a 
 abandon 
 ability 
 able 
@@ -45,8 +45,8 @@ address
 adjust 
 **administration** 
 **administrative** 
-admire 
-admission 
+**admire** 
+**admission** 
 admit 
 adopt 
 **adult** 

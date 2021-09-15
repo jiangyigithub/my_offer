@@ -5,6 +5,14 @@ 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
 平衡二叉树
 二叉搜索树
 
+对称
+
+- DFS和BFS
+
+- 顺序存储和链式存储
+
+- 自下而上（循环） 自上而下（递归）
+
 
 
 #### 1 数据结构
@@ -94,7 +102,13 @@ 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
   - 找到一条可行路径就退出
   - 剪枝
 
-**offer 26** 二叉树的子树
+**offer13 机器人的运动范围**
+
+- 怎么把一个矩阵看做一个抽象的二叉树
+- 显式metric1-位数和，隐式metric2-无法跨越obstacle
+- dfs 和 bfs
+
+**offer 26 二叉树的子树**
 
 - 叶子节点和底层叶子节点的特点
 
@@ -160,16 +174,18 @@ path.pop_back();
 
 **？offer 38 字符串的排列**
 
-**offer 54**
+**offer 54 二叉搜索树的第 k 大节点**
 
 - 遍历完再取值，和边遍历边比较
 - 递归中找到对应的值怎么退出递归
 
-**offer 55a**
+**offer 55a二叉树的深度**
 
-**offer 55b**
+**offer 55b平衡二叉树**
 
 - 递归有返回值
+
+**offer64**
 
 **offer 68 最近公共祖先**
 
