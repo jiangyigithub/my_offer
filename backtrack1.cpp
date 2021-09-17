@@ -10,7 +10,7 @@ void backtrack(vector<int>& nums, vector<int>& paths){
     }
     
     for(int i =0;i<nums.size();i++){
-        if(paths.find(nums[i]) != std::string::npos) continue;
+        if(true) continue;
         paths.push_back(nums[i]);
         backtrack(nums,paths);
         paths.pop_back();
@@ -50,6 +50,23 @@ vector<int> stringToIntegerVector(string input) {
         output.push_back(stoi(item));
     }
     return output;
+}
+
+string integerVectorToString(vector<int> list, int length = -1) {
+    if (length == -1) {
+        length = list.size();
+    }
+
+    if (length == 0) {
+        return "[]";
+    }
+
+    string result;
+    for(int index = 0; index < length; index++) {
+        int number = list[index];
+        result += to_string(number) + ", ";
+    }
+    return "[" + result.substr(0, result.length() - 2) + "]";
 }
 
 int main() {
