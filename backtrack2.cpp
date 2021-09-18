@@ -68,18 +68,18 @@ int stringToInteger(string input) {
 }
 
 int main() {
-    string line = "8";
+    string line = "4";
     int k = stringToInteger(line);
     vector<vector<string>> rets = Solution().solveNQueens(k);
     int num = 1;
     for(auto ret:rets)
     {   
-        cout<<"sln_"<<num<<endl;
-        num ++;
+        cout<<"----sln"<<num<<"----"<<endl;
         for(auto r:ret){
             cout <<r<<endl;
         }
-        cout<<"--------"<<endl;
+        cout<<"----end"<<num<<"----"<<endl;
+        num ++;
     }
     return 0;
 }
