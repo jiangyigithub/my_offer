@@ -28,6 +28,7 @@ apl_bjev/tools/Jenkins/Canalyzer/*.txt
 build/
 build_cmake/
 generatedFiles/
+key.md
 
 # SW uP build
 build.previous/
