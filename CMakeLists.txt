@@ -31,6 +31,7 @@ add_executable(code32b 32tree_b.cpp)
 add_executable(code32c 32tree_c.cpp)
 add_executable(codeRecur tree_recur.cpp)
 add_executable(codebackTrack01 backtrack1.cpp)
+add_executable(codebackTrack02 backtrack2.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

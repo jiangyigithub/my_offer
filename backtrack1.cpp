@@ -10,9 +10,12 @@ void backtrack(vector<int>& nums, vector<int>& paths){
     }
     
     for(std::size_t i=0;i!=nums.size();i++){
-        if(std::find(paths.begin(), paths.end(), nums[i]) != paths.end()) continue;
+        //pruning
+        if(std::find(paths.begin(), paths.end(), nums[i]) != paths.end()) 
+            continue;
         paths.push_back(nums[i]);
         backtrack(nums,paths);
+        //backtrack
         paths.pop_back();
     }
 }
