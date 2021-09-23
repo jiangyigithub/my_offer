@@ -46,23 +46,17 @@ public:
         TreeNode* root = new TreeNode(stoi(res[0]));
         queue<TreeNode*> que;
         que.push(root);
-        int i=0;
+        int i=1;
         while(!que.empty()){
             TreeNode* node = que.front();
             que.pop();
-
-            if(res[2*i+1]=="null"){
-                node->left = nullptr;
-            }
-            else{
-                node->left = new TreeNode(stoi(res[2*i+1]));
+            if(res[i]!="null"){
+                node->left = new TreeNode(stoi(res[i]));
                 que.push(node->left);
             }
-            if(res[2*i+2]=="null"){
-                node->right = nullptr;
-            }
-            else{
-                node->right = new TreeNode(stoi(res[2*i+2]));
+            ++i;
+            if(res[i]!="null"){
+                node->right = new TreeNode(stoi(res[i]));
                 que.push(node->right);
             }
             ++i;
@@ -79,6 +73,8 @@ private:
             res.push_back(str2.substr(beg,end-beg));
             beg=end+1;
         }
+        //last string
+        res.push_back(str2.substr(beg));
         return res;
     }
 
@@ -154,9 +150,8 @@ int main() {
     Codec codec;
     string ret = codec.serialize(root);
     cout << "serialize: "<<ret << endl;
-
+  
     TreeNode* root2 = codec.deserialize(codec.serialize(root));
-    string out = (ret);
     
     return 0;
 }
