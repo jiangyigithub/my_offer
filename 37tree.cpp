@@ -12,7 +12,23 @@ public:
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
         if (root == nullptr)return "[null]";
-        string ret = "[";
+        string ret= "[";
+        queue<TreeNode*> que;
+        que.push(root);
+        while(!que.empty()){
+            TreeNode* node = que.front();
+            que.pop();
+            if(node!=nullptr){
+                ret+=to_string(node->val);
+                ret+=",";
+                que.push(node->left);
+                que.push(node->right);
+            }
+            else ret+="null,";
+        }
+        //delte last comma
+        ret.pop_back();
+        ret+="]";
         return ret;
     }
     
@@ -25,9 +41,45 @@ public:
 
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
-       
-        TreeNode* root = new TreeNode(2);
+        if(data.empty()) return nullptr;
+        vector<string> res = this->spilit(data,',');
+        TreeNode* root = new TreeNode(stoi(res[0]));
+        queue<TreeNode*> que;
+        que.push(root);
+        int i=0;
+        while(!que.empty()){
+            TreeNode* node = que.front();
+            que.pop();
+
+            if(res[2*i+1]=="null"){
+                node->left = nullptr;
+            }
+            else{
+                node->left = new TreeNode(stoi(res[2*i+1]));
+                que.push(node->left);
+            }
+            if(res[2*i+2]=="null"){
+                node->right = nullptr;
+            }
+            else{
+                node->right = new TreeNode(stoi(res[2*i+2]));
+                que.push(node->right);
+            }
+            ++i;
+        }
         return root;
+    }
+private:
+    vector<string> spilit(string str,char sym){
+        string str2=str.substr(1,str.size()-2);
+        if(str.empty()) return{};
+        vector<string> res;
+        string::size_type beg=0;
+        for(auto end=0;(end=str2.find(sym,end))!=string::npos;++end){
+            res.push_back(str2.substr(beg,end-beg));
+            beg=end+1;
+        }
+        return res;
     }
 
 
@@ -101,10 +153,10 @@ int main() {
 
     Codec codec;
     string ret = codec.serialize(root);
-    TreeNode* treeRet = codec.deserialize(codec.serialize(root));
+    cout << "serialize: "<<ret << endl;
 
+    TreeNode* root2 = codec.deserialize(codec.serialize(root));
     string out = (ret);
-    cout << out << endl;
     
     return 0;
 }
