@@ -183,6 +183,7 @@ path.pop_back();
 **offer 37 序列化二叉树**
 
 - (子问题)字符串的spilit-->双指针
+- 树节点的创建，new TreeNode*
 
 **offer 38 字符串的排列**
 
@@ -193,16 +194,49 @@ path.pop_back();
 - 遍历完再取值，和边遍历边比较
 - 递归中找到对应的值怎么退出递归
 
-**offer 55a二叉树的深度**
+**offer 55a 二叉树的深度**
 
-**offer 55b平衡二叉树**
+**offer 55b 平衡二叉树**
 
 - 递归有返回值
 
-**offer64**
+**offer 64 求1到n的和**
 
 **offer 68 最近公共祖先**
 
 - 最近公共祖先的定义
 - 最近公共祖先的情况遍历
 - 与链表的公共节点的联系
+
+#### 6 搜索与回溯算法
+
+**offer 07 重建二叉树**
+
+- 中序+先序/后序可重建，必须包含中序
+
+- 重建二叉树关键在于怎么计算递归参数，本题中有3个递归参数:root,left,right
+
+- 在preorder list中确定root的位置，通过root新建二叉树节点-->参数root
+
+- 在inorder list确定左/右子树元素的数量-->参数left,right
+
+- inorder 和 preorder里元素都是相同，重建二叉树需要同时参考这两个列表，两者关联点在于元素，所以把元素作为hashmap的key
+
+- 右子树的根节点索引：根节点索引 + 左子树长度 + 1
+
+  ```
+  先序遍历用来确定根的位置；
+  中序遍历用来确定左右子树的数量；
+  在递归体中，root表示根的位置in preorder；
+  left和right表示左右子树的边界in inorder;
+  用到了三次recur，其中参数分别表示：
+  
+  recur(0,0,len(inorder)-1):本句为建立整棵二叉树，pre[0]为根元素，在inorder中左边界和 右边界分别是整个数组的左右边界
+  
+  node.left = recur(root+1,left,i-1)：本句为建立左子树，左子树的根在整棵树根的下一个位置（在preorder中找位置）即root+1；左子树的左边界仍为原树的左边界；左子树的右边界在inorder中位于根元素位置的左侧一个，即i-1
+  
+  node.right = recur(i-left+root+1,i+1,right):本句为建立右子树，右子树的根的位置需要在原树根位置root的基础上加上左子树的元素个数i-left的下一位置（在preorder中找位置）,即root+(i-left)+1；右子树的右边界仍为原树的右边界；右子树的左边界在inorder中位于根元素位置的右侧一个，即i+1
+  ```
+
+  
+
