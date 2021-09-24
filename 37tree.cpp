@@ -63,6 +63,27 @@ public:
         }
         return root;
     }
+
+    vector<vector<int>> deepOrder2(TreeNode* root) {
+        vector<vector<int>> res;
+        vector<int> temp;
+        if (!root) return res;
+        queue<TreeNode*> que;
+        que.push(root);
+        while (!que.empty()) {
+            for (int i = que.size(); i > 0; i--) {
+                TreeNode* node = que.front();
+                que.pop();
+                temp.push_back(node->val);
+                if (node->left) que.push(node->left);
+                if (node->right) que.push(node->right);
+            }
+            res.push_back(temp);
+            temp.clear();
+        }
+        return res;
+    }
+
 private:
     vector<string> spilit(string str,char sym){
         string str2=str.substr(1,str.size()-2);
@@ -77,6 +98,8 @@ private:
         res.push_back(str2.substr(beg));
         return res;
     }
+
+
 
 
 };
@@ -143,6 +166,23 @@ TreeNode* stringToTreeNode(string input) {
     return root;
 }
 
+string integerVectorToString(vector<int> list, int length = -1) {
+    if (length == -1) {
+        length = list.size();
+    }
+
+    if (length == 0) {
+        return "[]";
+    }
+
+    string result;
+    for(int index = 0; index < length; index++) {
+        int number = list[index];
+        result += to_string(number) + ", ";
+    }
+    return "[" + result.substr(0, result.length() - 2) + "]";
+}
+
 int main() {
     string line = "[1,2,3,null,null,4,5]";
     TreeNode* root = stringToTreeNode(line);
@@ -152,6 +192,13 @@ int main() {
     cout << "serialize: "<<ret << endl;
   
     TreeNode* root2 = codec.deserialize(codec.serialize(root));
+    vector<vector<int>> rets = codec.deepOrder2(root2);
+    cout << "deserialize: "<< endl;
+    for(auto r:rets)
+    {
+    string out = integerVectorToString(r);
+    cout << out << endl;
+    }
     
     return 0;
 }
