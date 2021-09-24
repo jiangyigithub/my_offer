@@ -224,7 +224,7 @@ path.pop_back();
 
 - 右子树的根节点索引：根节点索引 + 左子树长度 + 1
 
-  ```
+  ```markdown
   先序遍历用来确定根的位置；
   中序遍历用来确定左右子树的数量；
   在递归体中，root表示根的位置in preorder；
@@ -237,6 +237,3 @@ path.pop_back();
   
   node.right = recur(i-left+root+1,i+1,right):本句为建立右子树，右子树的根的位置需要在原树根位置root的基础上加上左子树的元素个数i-left的下一位置（在preorder中找位置）,即root+(i-left)+1；右子树的右边界仍为原树的右边界；右子树的左边界在inorder中位于根元素位置的右侧一个，即i+1
   ```
-
-  
-
