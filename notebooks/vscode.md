@@ -26,6 +26,7 @@ Ctrl+\
 Ctrl+P
 Ctrl+Shift+P
 Ctrl+/
+Ctrl+K Ctrl+T
 
 **extension**
 
