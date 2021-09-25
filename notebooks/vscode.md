@@ -20,6 +20,15 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 **linting**
 "C_Cpp.errorSquiggles": "Enabled" from the Command Palette (Ctrl+Shift+P)
 
+**edit**
+Ctrl+`
+Ctrl+\
+Ctrl+P
+Ctrl+Shift+P
+Ctrl+/
+
+**extension**
+
 **reference**
 1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
 2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
