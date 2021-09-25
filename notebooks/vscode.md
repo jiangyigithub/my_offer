@@ -1,10 +1,10 @@
 ### vscode tutorial
 
 **compiler**
-Get started with CMake Tools on Linux:https://code.visualstudio.com/docs/cpp/cmake-linux
+Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 
 **debuger**
-Get started with CMake Tools on Linux:https://code.visualstudio.com/docs/cpp/cmake-linux
+Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 
 **intelliSense**
 "intelliSenseMode": "linux-gcc-x64",
@@ -23,7 +23,8 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 **reference**
 1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
 2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
-3. ABout .json file
+3. Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
+4. ABout .json file
     tasks.json (compiler build settings)
     launch.json (debugger settings)
     c_cpp_properties.json (compiler path and IntelliSense settings)
