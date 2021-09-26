@@ -1,6 +1,6 @@
-### vscode tutorial
+# vscode tutorial
 
-#### c++
+## c++
 **compiler**
 Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 
@@ -8,7 +8,7 @@ Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cm
 Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 
 **intelliSense**
-"intelliSenseMode": "linux-gcc-x64",
+"intelliSenseMode": "linux-gcc-x64"
 These configuration settings are stored in your project's c_cpp_properties.json file. To edit this file, in VS Code, select C/C++: Edit Configurations (UI) from the Command Palette (Ctrl+Shift+P).
 
 **semantic colorization**
@@ -19,28 +19,24 @@ The C/C++ extension for Visual Studio Code supports source code formatting using
 You can format an entire file with Format Document (Ctrl+Shift+I) 
 
 **linting**
-"C_Cpp.errorSquiggles": "Enabled" from the Command Palette (Ctrl+Shift+P)
+"C_Cpp.errorSquiggles": "Enabled" 
+from the Command Palette (Ctrl+Shift+P)-->C/C++:Enable Error Squiggles
 
 **edit**
-Ctrl+`
-Ctrl+\
-Ctrl+P
-Ctrl+Shift+P
-Ctrl+/
-Ctrl+K Ctrl+T
+- Ctrl+K Ctrl+S -->Keybord Shortcuts
+- Ctrl+` -->Toggle Terminal
+- Ctrl+\ -->Split Editor
+- Ctrl+P -->File Go-to
+- Ctrl+Shift+P -->Commands
+- Ctrl+/ -->Comment
+- Ctrl+K Ctrl+T -->Color Theme
+- Ctrl+Shift+V -->Markdown Preview
 
 **extension**
+- C/C++
+- CMake Tools
 
-**reference**
-1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
-2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
-3. Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
-4. ABout .json file
-    tasks.json (compiler build settings)
-    launch.json (debugger settings)
-    c_cpp_properties.json (compiler path and IntelliSense settings)
-
-#### python
+## python
 **interpreter**
 Python is an interpreted language, and in order to run Python code and get Python IntelliSense, you must tell VS Code which interpreter to use.
 From within VS Code, select a Python 3 interpreter by opening the Command Palette (Ctrl+Shift+P), start typing the Python: Select Interpreter command to search, then select the command. 
@@ -58,4 +54,16 @@ You can also use the keyboard shortcut (Ctrl+Shift+I)-Linux or (Shift+Alt+F)-Win
 The Python extension supports source code formatting using either autopep8 (the default), black, or yapf.
 
 **linting**
+"python.linting.enabled": true
 To enable linters other than the default PyLint, open the Command Palette (Ctrl+Shift+P) and select the Python: Select Linter command. This command adds "python.linting.<linter>Enabled": true to your settings, where <linter> is the name of the chosen linter. 
+
+## reference
+1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
+2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
+3. Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
+4. Editing Python in Visual Studio Code: https://code.visualstudio.com/docs/python/python-tutorial
+5. ABout .json file
+    - tasks.json (compiler build settings)
+    - launch.json (debugger settings)
+    - c_cpp_properties.json (compiler path and IntelliSense settings)
+    - setting.json (Ctrl+Shift+P --> Open Workspaces Settings (JSON) command)  
