@@ -36,6 +36,12 @@ from the Command Palette (Ctrl+Shift+P)-->C/C++:Enable Error Squiggles
 - C/C++
 - CMake Tools
 
+**more**
+- collaboration --> library
+- unit test --> gtest
+- muti-files --> cmake
+- iteration/version control --> git
+
 ## python
 **interpreter**
 Python is an interpreted language, and in order to run Python code and get Python IntelliSense, you must tell VS Code which interpreter to use.
@@ -57,7 +63,11 @@ The Python extension supports source code formatting using either autopep8 (the 
 "python.linting.enabled": true
 To enable linters other than the default PyLint, open the Command Palette (Ctrl+Shift+P) and select the Python: Select Linter command. This command adds "python.linting.<linter>Enabled": true to your settings, where <linter> is the name of the chosen linter. 
 
-## reference
+**more**
+packages-management/environment --> conda
+unit test --> pytest
+
+## references
 1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
 2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
 3. Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
