@@ -2,6 +2,9 @@
 ### Global gitignore for PJ-IF			###
 ###########################################
 # generated SCOM FILES
+*.pyc
+python/__pycache__
+.pytest_cache/v/cache
 apl_bjev/main/scom_generated/generated_SCOM.cpp
 apl_bjev/main/scom_generated/generated_SCOM.hpp
 apl_bjev/main/scom_generated/generated_SCOM_log.txt
@@ -12,6 +15,7 @@ lowInit/
 
 #logfile
 *.log
+
 
 #CANoe/CANalyzer Binary files
 *.cbf

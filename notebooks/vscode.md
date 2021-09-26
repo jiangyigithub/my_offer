@@ -37,8 +37,8 @@ from the Command Palette (Ctrl+Shift+P)-->C/C++:Enable Error Squiggles
 - CMake Tools
 
 **more**
-- collaboration --> library
 - unit test --> gtest
+- collaboration --> library
 - muti-files --> cmake
 - iteration/version control --> git
 
@@ -64,15 +64,16 @@ The Python extension supports source code formatting using either autopep8 (the 
 To enable linters other than the default PyLint, open the Command Palette (Ctrl+Shift+P) and select the Python: Select Linter command. This command adds "python.linting.<linter>Enabled": true to your settings, where <linter> is the name of the chosen linter. 
 
 **more**
-packages-management/environment --> conda
-unit test --> pytest
+- unit test --> pytest
+- packages-management/environment --> conda
 
 ## references
 1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
 2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
 3. Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 4. Editing Python in Visual Studio Code: https://code.visualstudio.com/docs/python/python-tutorial
-5. ABout .json file
+5. Python testing in Visual Studio Code
+6. ABout .json file
     - tasks.json (compiler build settings)
     - launch.json (debugger settings)
     - c_cpp_properties.json (compiler path and IntelliSense settings)
