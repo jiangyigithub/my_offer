@@ -1,5 +1,6 @@
 ### vscode tutorial
 
+#### c++
 **compiler**
 Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 
@@ -38,3 +39,8 @@ Ctrl+K Ctrl+T
     tasks.json (compiler build settings)
     launch.json (debugger settings)
     c_cpp_properties.json (compiler path and IntelliSense settings)
+
+#### python
+**interpreter**
+Python is an interpreted language, and in order to run Python code and get Python IntelliSense, you must tell VS Code which interpreter to use.
+From within VS Code, select a Python 3 interpreter by opening the Command Palette (Ctrl+Shift+P), start typing the Python: Select Interpreter command to search, then select the command. 
