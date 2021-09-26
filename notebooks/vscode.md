@@ -10,7 +10,6 @@
 - linux: GDB
 - configure GDB with cmake tools on linux-->Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
 
-
 **intelliSense**
 - "intelliSenseMode": "linux-gcc-x64" -->(c_cpp_properties.json)
 - These configuration settings are stored in your project's c_cpp_properties.json file. To edit this file, in VS Code, select C/C++: Edit Configurations (UI) from the Command Palette (Ctrl+Shift+P).
@@ -50,11 +49,11 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 ## python
 **interpreter**
 - Python is an interpreted language, and in order to run Python code and get Python IntelliSense, you must tell VS Code which interpreter to use.
-- From within VS Code, select a Python 3 interpreter by opening the Command Palette (Ctrl+Shift+P), start typing the Python: Select Interpreter command to search, then select the command. 
+- From within VS Code, select a Python3 interpreter by opening the Command Palette (Ctrl+Shift+P), start typing the Python: Select Interpreter command to search, then select the command. 
 - There are three ways you can run Python code within VS Code:
-  1. Click the Run Python File in Terminal play button in the top-right side of the editor.
-  2. Right-click anywhere in the editor window and select Run Python File in Terminal 
-  3. Select one or more lines, then press Shift+Enter or right-click and select Run Selection/Line in Python Terminal.
+  Click the Run Python File in Terminal play button in the top-right side of the editor.
+  Right-click anywhere in the editor window and select Run Python File in Terminal. 
+  Select one or more lines, then press Shift+Enter or right-click and select Run Selection/Line in Python Terminal.
 
 **debuger**
 - Start the debugger by clicking on the down-arrow next to the run button on the editor, and selecting Debug Python File in Terminal.
