@@ -66,6 +66,10 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 - "python.linting.enabled": true -->(setting.json)
 - To enable linters other than the default PyLint, open the Command Palette (Ctrl+Shift+P) and select the Python: Select Linter command. This command adds "python.linting.<linter>Enabled": true to your settings, where <linter> is the name of the chosen linter. 
 
+**extension**
+- Python
+- Pylance
+
 **more**
 - unit test --> pytest("python.testing.pytestEnabled": true -->(setting.json))
 - package --> pip install
