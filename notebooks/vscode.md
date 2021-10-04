@@ -82,7 +82,7 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 4. Editing Python in Visual Studio Code: https://code.visualstudio.com/docs/python/python-tutorial
 5. Python testing in Visual Studio Code: https://code.visualstudio.com/docs/python/testing
 6. About .json file
-    - tasks.json (compiler build settings)
+    - tasks.json (compiler build settings) -->g++(https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html)
     ```json
     // tasks.json
     "tasks": [
