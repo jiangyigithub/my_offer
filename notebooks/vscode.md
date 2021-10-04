@@ -83,6 +83,47 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 5. Python testing in Visual Studio Code: https://code.visualstudio.com/docs/python/testing
 6. About .json file
     - tasks.json (compiler build settings)
+    ```json
+    // tasks.json
+    "tasks": [
+      {
+        "label": "C/C++: g++ build active file",
+        "args": ["-o","${workspaceFolder}/build/${fileBasenameNoExtension}"]
+      }
+    ]
+    ```
     - launch.json (debugger settings)
-    - c_cpp_properties.json (compiler path and IntelliSense settings)
-    - setting.json (Ctrl+Shift+P --> Open Workspaces Settings (JSON) command)  
+    ```json
+    // launch.json
+    "configurations": [
+      {
+          "name": "g++ - Build and debug active file",
+          "program": "${workspaceFolder}/build/${fileBasenameNoExtension}"
+      }
+    ]
+    ```
+    - c_cpp_properties.json (includePath, compiler path and IntelliSense settings)
+    ```json
+    // c_cpp_properties.json
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}"
+            ]
+        }
+    ]
+    ```
+    - setting.json (Ctrl+Shift+P --> Open Workspaces Settings (JSON) command)
+    ```json
+    // setting.json
+    {
+      "python.linting.enabled": true,
+      "python.testing.pytestArgs": [
+          "python"
+      ],
+      "python.testing.unittestEnabled": false,
+      "python.testing.pytestEnabled": true,
+      "C_Cpp.errorSquiggles": "Enabled"
+    }
+    ```  

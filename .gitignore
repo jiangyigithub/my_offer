@@ -71,7 +71,7 @@ filelist_output.flist
 #_gen/ is the generated folder from idcsim but also the same name for the rte generation ....
 
 #other
-.vscode/
+# .vscode/
 .cproject
 .fluxuser
 *.code-workspace
