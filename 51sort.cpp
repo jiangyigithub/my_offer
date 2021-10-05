@@ -26,14 +26,32 @@ private:
         }
         for (int k = l; k <= r; k++)
         {
+            // 左子数组已合并完
             if (i == m + 1)
-                nums[k] = tmp[j++];
-            else if (j == r + 1 || tmp[i] <= tmp[j])
-                nums[k] = tmp[i++];
+            {
+                nums[k] = tmp[j];
+                j++;
+            }
+            // 右子数组已合并完
+            else if (j == r + 1)
+            {
+                nums[k] = tmp[i];
+                i++;
+            }
+            else if (tmp[i] <= tmp[j])
+            {
+                nums[k] = tmp[i];
+                i++;
+            }
+            else if (tmp[i] > tmp[j])
+            {
+                nums[k] = tmp[j];
+                j++;
+                res += (m - i + 1); //reverse pair
+            }
             else
             {
-                nums[k] = tmp[j++];
-                res += m - i + 1;
+                /** do nothing **/
             }
         }
         return res;
@@ -73,7 +91,8 @@ vector<int> stringToIntegerVector(string input)
 
 int main()
 {
-    string line = "[7,5,6,4]";
+    string line = "[7,3,2,6]";
+    // string line = "[7,3,2,6,0,1,5,4]";
 
     vector<int> nums = stringToIntegerVector(line);
 

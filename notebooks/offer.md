@@ -239,3 +239,10 @@ path.pop_back();
   
   node.right = recur(i-left+root+1,i+1,right):本句为建立右子树，右子树的根的位置需要在原树根位置root的基础上加上左子树的元素个数i-left的下一位置（在preorder中找位置）,即root+(i-left)+1；右子树的右边界仍为原树的右边界；右子树的左边界在inorder中位于根元素位置的右侧一个，即i+1
   ```
+
+**offer 51**  归并排序
+
+- if else 在递归类函数中的调用，if else 的条件顺序
+
+- 双指针
+
