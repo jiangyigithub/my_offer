@@ -28,19 +28,19 @@ private:
         // select element from left sub-array and right sub-array
         for (int k = l; k <= r; k++)
         {
-            // 左子数组已合并完
+            // 左子数组已合并完 +1
             if (i == m + 1)
             {
                 nums[k] = tmp[j];
                 j++;
             }
-            // 右子数组已合并完
+            // 右子数组已合并完 +1
             else if (j == r + 1)
             {
                 nums[k] = tmp[i];
                 i++;
             }
-            //if right > left
+            //if right >= left
             else if (tmp[i] <= tmp[j])
             {
                 nums[k] = tmp[i]; //select left element
@@ -95,7 +95,7 @@ vector<int> stringToIntegerVector(string input)
 
 int main()
 {
-    string line = "[3,7,2,6]";
+    string line = "[7,5,6,4]";
     // string line = "[7,3,2,6,0,1,5,4]";
 
     vector<int> nums = stringToIntegerVector(line);
