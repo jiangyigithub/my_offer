@@ -12,18 +12,20 @@ public:
 private:
     int mergeSort(int l, int r, vector<int> &nums, vector<int> &tmp)
     {
-        // end
+        // recur end
         if (l >= r)
             return 0;
-        // recur
-        int m = (l + r) / 2;
+        int m = (l + r) / 2; //binary split
+        // recur body
         int res = mergeSort(l, m, nums, tmp) + mergeSort(m + 1, r, nums, tmp);
-        // merge
-        int i = l, j = m + 1;
+        // double point i,j
+        int i = l, j = m + 1; // i: the first element index of left sub array,j: the first element index of right sub array
+        // copy elements from nums[] to temp[]
         for (int k = l; k <= r; k++)
         {
             tmp[k] = nums[k];
         }
+        // select element from left sub-array and right sub-array
         for (int k = l; k <= r; k++)
         {
             // 左子数组已合并完
@@ -38,14 +40,16 @@ private:
                 nums[k] = tmp[i];
                 i++;
             }
+            //if right > left
             else if (tmp[i] <= tmp[j])
             {
-                nums[k] = tmp[i];
+                nums[k] = tmp[i]; //select left element
                 i++;
             }
+            //if left > right
             else if (tmp[i] > tmp[j])
             {
-                nums[k] = tmp[j];
+                nums[k] = tmp[j]; //select right element
                 j++;
                 res += (m - i + 1); //reverse pair
             }
@@ -91,7 +95,7 @@ vector<int> stringToIntegerVector(string input)
 
 int main()
 {
-    string line = "[7,3,2,6]";
+    string line = "[3,7,2,6]";
     // string line = "[7,3,2,6,0,1,5,4]";
 
     vector<int> nums = stringToIntegerVector(line);
