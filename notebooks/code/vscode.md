@@ -35,6 +35,8 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 - Ctrl+K Ctrl+T -->Color Theme
 - Ctrl+Shift+V -->Markdown Preview
 - Ctrl+W --> Close 
+- Ctrl+B --> toggle Side bar Visibility
+
 
 **extension**
 - C/C++
