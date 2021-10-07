@@ -1,53 +1,63 @@
-# markdown
+# markdown tutorial
 
-## markdown
-- extension for vscode
-  - Markdown Shortcuts
-  - Markdown Preview Enhanced
-
-headline
-
+## headline
+```md
 HEAD1 markdown tutorial
 === 
 
 HEAD2 markdown basic usage
---- 
+---
+``` 
 
-paragraph
+## paragraph
+```md
 # parag1
 ## parag2
 line end<br/>
+```
 
-emphasis
-
+## emphasis
+```md
 **b**
 *f*
 ***bf***
 `ROS2`
+```
 
-list
+## list
+```md
 1. first
 2. second
 - point 1
 - point 2
+```
 
-web link
+## web link
+```md
 [install ROS foxy](https://docs.ros.org/en/foxy/Installation/Linux-Install-Debians.html)
+```
 
-quote
+## quote
+```md
 > cited my article
+```
 
-insert picture
+## insert picture
 
 ![alt text](Nodes-TopicandService.gif "Output from ros2")
 
-block
+## block
 ```py
-# comment
+# python comment
 print("hello world")
 ```
-cross line
+## cross line
+```md
 ***
+```
 
+## extension for vscode
+- Markdown Shortcuts
+- Markdown Preview Enhanced
 
 

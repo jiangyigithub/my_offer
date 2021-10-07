@@ -4,11 +4,11 @@
 **compiler**
 - linux: gcc/g++
 - window: Mingw/cl
-- configure g++ with cmake tools on linux-->Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
+- configure g++ with cmake tools on linux --> [Get started with CMake Tools on Linux](https://code.visualstudio.com/docs/cpp/cmake-linux)
 
 **debuger**
 - linux: GDB
-- configure GDB with cmake tools on linux-->Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
+- configure GDB with cmake tools on linux --> [Get started with CMake Tools on Linux](https://code.visualstudio.com/docs/cpp/cmake-linux)
 
 **intelliSense**
 - "intelliSenseMode": "linux-gcc-x64" -->(c_cpp_properties.json)
@@ -36,6 +36,7 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 - Ctrl+Shift+V -->Markdown Preview
 - Ctrl+W --> Close 
 - Ctrl+B --> toggle Side bar Visibility
+- Ctrl+Z --> undo
 
 
 **extension**
@@ -78,13 +79,13 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
 - packages-management/environment --> conda
 
 ## references
-1. Using C++ on Linux in VS Code: https://code.visualstudio.com/docs/cpp/config-linux
-2. Edit C++ in Visual Studio Code: https://code.visualstudio.com/docs/cpp/cpp-ide
-3. Get started with CMake Tools on Linux: https://code.visualstudio.com/docs/cpp/cmake-linux
-4. Editing Python in Visual Studio Code: https://code.visualstudio.com/docs/python/python-tutorial
-5. Python testing in Visual Studio Code: https://code.visualstudio.com/docs/python/testing
+1. [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
+2. [Edit C++ in Visual Studio Code](https://code.visualstudio.com/docs/cpp/cpp-ide)
+3. [Get started with CMake Tools on Linux](https://code.visualstudio.com/docs/cpp/cmake-linux)
+4. [Editing Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
+5. [Python testing in Visual Studio Code](https://code.visualstudio.com/docs/python/testing)
 6. About .json file
-    - tasks.json (compiler build settings) -->g++(https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html)
+    - `tasks.json` (compiler build settings) --> [g++](https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html)
     ```json
     // tasks.json
     "tasks": [
@@ -94,7 +95,7 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
       }
     ]
     ```
-    - launch.json (debugger settings)
+    - `launch.json` (debugger settings)
     ```json
     // launch.json
     "configurations": [
@@ -104,7 +105,7 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
       }
     ]
     ```
-    - c_cpp_properties.json (includePath, compiler path and IntelliSense settings)
+    - `c_cpp_properties.json` (includePath, compiler path and IntelliSense settings)
     ```json
     // c_cpp_properties.json
     "configurations": [
@@ -116,7 +117,7 @@ You can format an entire file with Format Document (Ctrl+Shift+I)
         }
     ]
     ```
-    - setting.json (Ctrl+Shift+P --> Open Workspaces Settings (JSON) command)
+    - `setting.json` (Ctrl+Shift+P --> Open Workspaces Settings (JSON) command)
     ```json
     // setting.json
     {
