@@ -10,15 +10,22 @@ public:
 
 private:
     bool recur(vector<int> &postorder, int i, int j)
-    {
+    {   
+        // recur end
         if (i >= j)
             return true;
         int p = i;
+        // find the first element larger than the root element
+        // the m element is the first element of right subtree of binary search tree
         while (postorder[p] < postorder[j])
             p++;
         int m = p;
+        // the rest elements of right side of the binary search tree should large than the root element 
         while (postorder[p] > postorder[j])
             p++;
+        // left subtree range i,m-1
+        // right subtree range m,j-1
+        // the root of the tree j
         return p == j && recur(postorder, i, m - 1) && recur(postorder, m, j - 1);
     }
 };

@@ -1,5 +1,7 @@
 # 剑指offer
 
+## [illustration-of-algorithm](https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55bvvv/)
+
 ## 认识
 ### 数据结构
 * 优先队列和堆
@@ -240,6 +242,13 @@ path.pop_back();
   node.right = recur(i-left+root+1,i+1,right):本句为建立右子树，右子树的根的位置需要在原树根位置root的基础上加上左子树的元素个数i-left的下一位置（在preorder中找位置）,即root+(i-left)+1；右子树的右边界仍为原树的右边界；右子树的左边界在inorder中位于根元素位置的右侧一个，即i+1
   ```
 
+**offer33 二叉搜索树的后序遍历**
+
+- 后序遍历的特点，左子树->右子树->根，根必然是最后一个元素，设右子树的第一个元素为m，树的第一个元素为i，最后一个元素为j，这树可表示为 (左子树[i:m-1],右子树[m:j-1],根[j])
+- 问题是判断是否为二叉搜索树的后序遍历，转化为问题-->判断后序遍历是否为二叉搜索树
+- 递归终止条件在递归函数的最开始
+- 递归参数tree,i,j
+
 **offer 51 归并排序**
 
 - if else 在递归类函数中的调用，不同递归层次执行的判断条件不一样
@@ -260,4 +269,3 @@ path.pop_back();
 
 - 逆序对个数m-i+1个
 
-  
