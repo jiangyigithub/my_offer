@@ -269,3 +269,13 @@ path.pop_back();
 
 - 逆序对个数m-i+1个
 
+### 7 动态规划
+
+**offer 10 fib**
+
+- fib的四种方法
+  1. brute force recur
+  2. recur with pruning --> time comlexity optimize
+  3. convert top-down to down-top(recur-->loop)
+  4. space complexity optimization for DP table
+
