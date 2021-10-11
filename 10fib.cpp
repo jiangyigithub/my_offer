@@ -70,6 +70,19 @@ int fib4(int n)
     return sum;
 }
 
+
+int fib5(int n) 
+{
+    int pre = 0, cur = 1, sum;
+    for(int i = 0; i < n; i++)
+    {
+        sum = (pre + cur) % 1000000007;
+        pre = cur;
+        cur = sum;
+    }
+    return pre;// not return sum
+}
+
 int main()
 {
     int result = fib4(5);
