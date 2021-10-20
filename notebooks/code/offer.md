@@ -278,11 +278,12 @@ path.pop_back();
   2. recur with pruning --> time comlexity optimize
   3. convert top-down to down-top(recur-->loop)
   4. space complexity optimization for DP table
-- return `pre` but not `sum`
+- return `pre` but not `sum`, loop boundry`(i<n)`
 
 
 
 **offer 10b **
+- different initial value
 
 
 
