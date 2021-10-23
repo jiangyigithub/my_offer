@@ -8,7 +8,7 @@
    operation system
 
 2. domain
-   fusion object feature level
+   fusion: object level --> feature level
    path plan
    control
    

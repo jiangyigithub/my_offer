@@ -1,0 +1,108 @@
+## 2021.10.2
+**abroad**
+We never travelled abroad when we were kids.
+
+**absence**
+Her work involved repeated absences from home.
+
+**absorb**
+Her capacity to absorb information is amazing.
+
+**academic**
+a pragram to raise academic standards
+
+**accpeptable**
+Students who achieve an acceptable standard will progress to degree studies.
+
+**accident** 
+Over 70,000 people are seriously injured every year in road accidents.
+
+**accommodation**
+The price for the holiday includes flights and accommodation.
+
+**accompany**
+Children under 14 must be accompany by an adult.
+
+**account**
+He was too shocked to give an account of what had happened.
+
+**accurate** 
+The brochure tries to give a fair and accurate description of each hotel.
+
+**accuse**
+The professor stands accused of stealing his student's ideas and publishing them.
+
+**acid**
+I was expecting another of his acide remarks, but he remained silent.
+
+**acknowledge**
+many of the poor acknowledge him as their spriritual leader.
+
+**across**
+- come across  
+They ran straight across the road.
+
+## 2021.10.3
+
+**activist**
+He was an activist by total commitment, and  a professioanal.
+
+**activity**
+Everyone is free to engage in peaceful political activity.
+
+**actor**
+She has starred with many leading actors.
+
+**actual**
+In actual fact, there is little evidence to support the allegations.
+
+**actually**
+Actually,on second thoughts, i don't want to go out tonight.
+
+**adapt**
+The ability to adapt is a definite asset in this job.
+
+**adequate**
+Farmers have been slow to make adequate provision for their retirement.
+
+**administration**
+the health service spends too much on administration.
+
+**administrative**
+staff who provide technical and administrative support to the college
+
+**admire**
+I really admire the way she brings up those kids all on her own.
+
+**admission**
+Silence is ofen interpreted as an admission of guilt.
+
+**adult**
+the film is reted R for language and adult themes.
+
+**advanced**
+advanced weapon systems
+
+**advert**
+advertisement
+
+**adviser**
+a financial adviser
+
+**affair**
+the whole affaire was a disaster.
+
+**afraid**
+the government was afraid of a public outcry.
+
+**agency**
+a local housing agency
+
+**aggressive**
+Teachers apparently expect a certain amout of aggessive behavior from boys.
+
+**agree**
+if she felt he was right.she would agree with him.
+
+**agriculture**
+More than 75% of the land is used for argiculture.
