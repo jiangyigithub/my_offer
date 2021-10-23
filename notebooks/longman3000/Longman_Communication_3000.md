@@ -18,15 +18,15 @@ access
 **accommodation**
 **accompany** 
 according to 
-account 
+**account** 
 **accurate** 
-accuse 
+**accuse** 
 achieve 
 achievement 
 **acid** 
 **acknowledge** 
 acquire 
-across 
+**across** 
 act 
 action 
 active 
@@ -51,7 +51,7 @@ admit
 adopt 
 **adult** 
 advance 
-advanced 
+**advanced** 
 advantage 
 **advert** 
 advertise 
@@ -78,7 +78,7 @@ ago
 **agree** 
 agreement 
 **agriculture** 
-ahead 
+**ahead** 
 aid 
 aim 
 air 

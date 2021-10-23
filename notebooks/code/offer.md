@@ -271,11 +271,19 @@ path.pop_back();
 
 ### 7 动态规划
 
-**offer 10 fib**
+**offer 10a fib**
 
 - fib的四种方法
   1. brute force recur
   2. recur with pruning --> time comlexity optimize
   3. convert top-down to down-top(recur-->loop)
   4. space complexity optimization for DP table
+- return `pre` but not `sum`, loop boundry`(i<n)`
+
+
+
+**offer 10b **
+- different initial value
+
+
 
