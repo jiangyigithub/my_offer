@@ -1,6 +1,7 @@
 # difference
 
 A B
+ad add
 appear appeal
 anger angle
 allow alound 
@@ -11,5 +12,9 @@ been being
 belief belive
 behave behalf
 battle batter
-
+core call
 alarm
+
+# similar
+use-abuse-accuse
+conduct-deduct
