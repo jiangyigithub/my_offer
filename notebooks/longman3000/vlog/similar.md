@@ -1,6 +1,6 @@
 # difference
 
-A B
+`A` `B`
 ad add
 appear appeal
 anger angle
@@ -13,8 +13,10 @@ belief belive
 behave behalf
 battle batter
 core call
+collar color
 alarm
 
 # similar
 use-abuse-accuse
 conduct-deduct
+abroad-broad-road
