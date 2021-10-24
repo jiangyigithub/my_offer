@@ -14,6 +14,7 @@ behave behalf
 battle batter
 core call
 collar color
+consumer customer
 alarm
 
 # similar
