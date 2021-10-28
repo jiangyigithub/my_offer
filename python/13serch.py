@@ -1,3 +1,6 @@
+# 2
+# 3
+# 1
 class Solution:
     def movingCount(self, m: int, n: int, k: int) -> int:
         queue, visited = [(0, 0, 0, 0)], set()
@@ -11,12 +14,28 @@ class Solution:
         return len(visited)
 
 def main():
-    m = int(2)
-    n = int(3)
-    k = int(1)
-    ret = Solution().movingCount(m, n, k)
-    out = str(ret)
-    print(out)
+    import sys
+    import io
+    def readlines():
+        for line in io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8'):
+            yield line.strip('\n')
+
+    lines = readlines()
+    while True:
+        try:
+            line = next(lines)
+            m = int(line);
+            line = next(lines)
+            n = int(line);
+            line = next(lines)
+            k = int(line);
+            
+            ret = Solution().movingCount(m, n, k)
+
+            out = str(ret);
+            print(out)
+        except StopIteration:
+            break
 
 if __name__ == '__main__':
     main()
