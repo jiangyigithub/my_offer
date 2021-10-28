@@ -1,4 +1,4 @@
-## 2021.10.2
+## 1
 **abroad**
 We never travelled abroad when we were kids.
 
@@ -29,6 +29,7 @@ He was too shocked to give an account of what had happened.
 **accurate** 
 The brochure tries to give a fair and accurate description of each hotel.
 
+## 2
 **accuse**
 The professor stands accused of stealing his student's ideas and publishing them.
 
@@ -41,8 +42,6 @@ many of the poor acknowledge him as their spriritual leader.
 **across**
 - come across  
 They ran straight across the road.
-
-## 2021.10.3
 
 **activist**
 He was an activist by total commitment, and  a professioanal.
@@ -62,6 +61,7 @@ Actually,on second thoughts, i don't want to go out tonight.
 **adapt**
 The ability to adapt is a definite asset in this job.
 
+## 3
 **adequate**
 Farmers have been slow to make adequate provision for their retirement.
 
@@ -92,6 +92,7 @@ a financial adviser
 **affair**
 the whole affaire was a disaster.
 
+## 4
 **afraid**
 the government was afraid of a public outcry.
 

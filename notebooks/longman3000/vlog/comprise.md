@@ -124,7 +124,7 @@ She feared she wouldn't be able to cope with two new babies.
 
 ## 5 
 **core**
-The core of the book forces on the period between 1667 and 1857.
+The core of the book forces on the period between 1660 and 1857.
 
 **corn**
 All our chickens are fed on corn.
