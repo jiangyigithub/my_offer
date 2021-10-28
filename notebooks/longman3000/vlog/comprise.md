@@ -62,3 +62,68 @@ Consumer demand led to higher imports of manufactured goods.
 
 **consumption**
 The consumption of alcohol on the premises is forbiden.
+
+## 3
+**contact**
+There is very litte contact between the two tribes.
+
+**contain**
+The museum contains a lot of original artworks.
+
+**contemporary**
+The wall are thought to be roughly contemporary with the floors.
+
+**content**
+The content of media course includes scripting, editing and camera work.
+
+**contest**
+It is clear that the election will be a close contest.
+
+**context**
+To appreciate what these changes will mean, it is necessary to look at them in context.
+
+**continuous**
+continuous economic growth
+
+**contract**
+Employees who refuse relocate are in breach of contract.
+
+**contrast**
+While there are similarities in the two cultures,there are also great contrasts.
+
+**convenient**
+My secretary will call you to arrange a convenient time to meet.
+
+## 4
+**convention**
+
+**conventional**
+
+**conversation**
+
+**convert**
+
+**conviction**
+The dozens have a deep conviction that marriage is for life.
+
+**convince**
+Her argument didn't convince everyone ,but the changes were made.
+
+**cookie**
+
+**cooperation**
+
+**cope**
+She feared she wouldn't be able to cope with two new babies.
+
+**core**
+
+## 5 
+**corn**
+All our chickens are fed on corn.
+
+**corner**
+The TV station's name appears in the corner of screen.
+
+**corridor**
+we had to wait outside in the corridor until our names were called.
