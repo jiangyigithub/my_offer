@@ -29,10 +29,10 @@ If you're confused about anything ,phone me.
 **congratulation**
 I 've just passed my driving test！ Congratulations!
 
+## 2
 **conscious**
 The driver was still conscious when the ambulance arrived.
 
-## 2
 **consciousness**
 This will increase public consciousness of the pollution issue.
 
@@ -60,10 +60,10 @@ An increasing number of people are consulting their accountants about their tax 
 **consumer**
 Consumer demand led to higher imports of manufactured goods.
 
+## 3
 **consumption**
 The consumption of alcohol on the premises is forbiden.
 
-## 3
 **contact**
 There is very litte contact between the two tribes.
 
@@ -91,17 +91,21 @@ Employees who refuse relocate are in breach of contract.
 **contrast**
 While there are similarities in the two cultures,there are also great contrasts.
 
+## 4
 **convenient**
 My secretary will call you to arrange a convenient time to meet.
 
-## 4
 **convention**
+Playing together teaches children social conventions such as sharing.
 
 **conventional**
+As traffic grew, the conventional wisdom was to widen the roads.
 
 **conversation**
+Children quickly get bored by adult conversation.
 
 **convert**
+The stocks can be easily converted to cash.
 
 **conviction**
 The dozens have a deep conviction that marriage is for life.
@@ -110,15 +114,18 @@ The dozens have a deep conviction that marriage is for life.
 Her argument didn't convince everyone ,but the changes were made.
 
 **cookie**
+a glass of milk and a cookie
 
 **cooperation**
+Have your passports ready, and thank for your cooperation.
 
 **cope**
 She feared she wouldn't be able to cope with two new babies.
 
-**core**
-
 ## 5 
+**core**
+The core of the book forces on the period between 1667 and 1857.
+
 **corn**
 All our chickens are fed on corn.
 
