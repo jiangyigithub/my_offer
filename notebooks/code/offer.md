@@ -282,8 +282,11 @@ path.pop_back();
 
 
 
-**offer 10b **
+**offer 10b**
 - different initial value
+  
+**offer 63**
+- 求数组中前m个元素的最小值 min(array[0:i])
 
 
 

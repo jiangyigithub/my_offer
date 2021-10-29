@@ -28,3 +28,6 @@ temporary - contemporary
 reach - breach
 corn - corner
 concert - convert
+proxy - approximate
+assumption - consumption
+tony - attorney `o`->`or`  `ny`->`ney`
