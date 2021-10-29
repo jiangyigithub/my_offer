@@ -35,3 +35,4 @@ list - analyst
 allowance -announce
 among - month
 mount - amount
+commit - committee

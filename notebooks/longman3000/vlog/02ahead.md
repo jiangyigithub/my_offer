@@ -54,6 +54,7 @@ Cleary has been working as a computer analyst in XXX.
 That phote makes me look ancient.
 
 **annoy**
+`/əˈn/`
 It really annoys me when I see people dropping litter.
 
 **annual**
@@ -61,28 +62,40 @@ It really annoys me when I see people dropping litter.
 The school trip has become an annual event.
 
 **anxiety**
+There is considerable anxiety among the stall about job losses.
 
 **anxious**
 `/æŋkʃ/`
+He was a bit anxious about the safety of the machinary.
 
 **apology**
+The minister had to issue a formal public apology for his remarks.
 
 ## 3
 **apparently**
+She turned to face him, her anger apparently gone.
 
 **appoint**
+The committee was appointted to consider the plans.
 
 **appointment**
+I 'd like to make a appointment to see the doctor.
 
 **appropriate**
+It would not appropriate for me to discuss that now.
 
 **approximate**
+What 's the approximate number of students in each class.
 
 **architect**
+`/ˈɑːk/`
+Tinoco is one of the architects of the government 's economic reforms.
 
 **architecture**
+He studied architecture at university.
 
 **area**
 `/ˈe/`
+Crime rates are much higher in urban areas.
 
 
