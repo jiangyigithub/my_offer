@@ -17,7 +17,7 @@ cold code
 collar color
 consumer customer
 accountant content
-alarm
+alarm allow
 
 # similar
 use-abuse-accuse
@@ -31,3 +31,4 @@ concert - convert
 proxy - approximate
 assumption - consumption
 tony - attorney `o`->`or`  `ny`->`ney`
+list - analyst
