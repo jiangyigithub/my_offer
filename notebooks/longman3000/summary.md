@@ -32,3 +32,6 @@ proxy - approximate
 assumption - consumption
 tony - attorney `o`->`or`  `ny`->`ney`
 list - analyst
+allowance -announce
+among - month
+mount - amount
