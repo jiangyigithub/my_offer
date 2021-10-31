@@ -15,9 +15,8 @@ battle batter
 core call
 cold code
 collar color
-consumer customer
-accountant content
 alarm allow
+allowance announce
 
 # similar
 use-abuse-accuse
@@ -36,3 +35,5 @@ allowance -announce
 among - month
 mount - amount
 commit - committee
+accountant - content
+consumer - customer
