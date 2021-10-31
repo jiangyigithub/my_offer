@@ -22,6 +22,10 @@ If you are entitled to sickness allowance,you must claim it from your employer.
 **almost**
 The story is almost certainly true.
 
+**although**
+`/ˈɔːl/`
+No, this is my responsibility,although I appreciate your offer.
+
 **ambition**
 `/æm/`
 She had always had an ambition to be a pilot.

@@ -102,7 +102,7 @@ already
 also 
 alter 
 alternative 
-although 
+**although** 
 altogether 
 always 
 amazing 
