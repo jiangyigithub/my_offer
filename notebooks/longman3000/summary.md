@@ -42,3 +42,4 @@ accountant - content
 consumer - customer
 main - remain
 might - right
+word - award

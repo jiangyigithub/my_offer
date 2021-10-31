@@ -68,24 +68,36 @@ The audience began clapping and cheering.
 
 ## 3
 **aunt**
+aunt - uncle
 
 **author**
+`/ˈɔː/`
+He was the author of two books on China.
 
 **authority**
+Only the president has the authority to declare war.
 
 **automatic**
+My camera is fully automatic.
 
 **automatically**
+the door open automatically as we approached.
 
 **autumn**
+autumn mists
 
 **average**
+`/ˈæ/`
+The age of the candidates ranged from 29 to 49 with an average age of 37.
 
 **avoid**
+Road safety taught to young children to avoid road accidents.
 
 **awake**
+I hope he's awake now.
 
 **award**
+The movie has won a number of awards.
 
 ## 4
 **aware**
