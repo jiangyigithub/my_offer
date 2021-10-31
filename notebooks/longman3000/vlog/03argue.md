@@ -2,6 +2,7 @@
 **argument**
 
 **army**
+`/ˈɑːm/`
 
 **arrange**
 
