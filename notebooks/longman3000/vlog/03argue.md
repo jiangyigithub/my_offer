@@ -37,10 +37,13 @@ Many of adults were assessed as having learning difficulties.
 
 ## 2
 **assessment**
+a reading assessment test
 
 **assistant**
+a clerical assistant.
 
 **assumption**
+My calculations were based on the assumption that house price remain steady.
 
 **assure**
 

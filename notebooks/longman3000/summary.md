@@ -17,6 +17,7 @@ cold code
 collar color
 alarm allow
 allowance announce
+steady study
 
 # similar
 use-abuse-accuse
@@ -37,3 +38,4 @@ mount - amount
 commit - committee
 accountant - content
 consumer - customer
+main - remain
