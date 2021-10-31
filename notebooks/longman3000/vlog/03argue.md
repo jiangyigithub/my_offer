@@ -91,6 +91,7 @@ autumn mists
 The age of the candidates ranged from 29 to 49 with an average age of 37.
 
 **avoid**
+`/ə/`
 Road safety taught to young children to avoid road accidents.
 
 **awake**
@@ -101,18 +102,27 @@ The movie has won a number of awards.
 
 ## 4
 **aware**
+As you are aware, a fee will be charged annually.
 
 **awareness**
+an artist's awareness of light and color
 
 **awful**
+`/ˈɔː/`
+The last six mouths have been awful for her.
 
 **awkward**
+A laugh can help people over an awkward situation.
 
 **badly**
+The company has been very badly managed.
 
 **bake**
+I'm baking some bread.
 
 **ball**
+Do you want to go out and play ball?
 
 **barrier**
+Problems with childcare remain the biggest barrier to women succeeding at work.
 

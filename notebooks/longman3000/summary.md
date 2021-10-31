@@ -5,7 +5,7 @@ ad add
 appear appeal
 anger angle
 allow alound 
-awful affair
+awful offer 
 bean bin
 bit beat
 been being
@@ -43,3 +43,5 @@ consumer - customer
 main - remain
 might - right
 word - award
+awkward - award
+fair - affair
