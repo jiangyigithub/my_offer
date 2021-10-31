@@ -46,18 +46,25 @@ a clerical assistant.
 My calculations were based on the assumption that house price remain steady.
 
 **assure**
+The dealer had assured me of its quality.
 
 **attach**
+Attach your recent photograph to your application form.
 
 **attack**
+There have been several attacks on foreigners recently.
 
 **attempt**
+She passed her driving test at the first attempt.
 
 **attention**
+If you paid more attention in class, you might actually learn something.
 
 **attorney**
+a lawyer
 
 **audience**
+The audience began clapping and cheering.
 
 ## 3
 **aunt**

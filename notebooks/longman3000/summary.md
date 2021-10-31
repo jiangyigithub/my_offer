@@ -18,6 +18,8 @@ collar color
 alarm allow
 allowance announce
 steady study
+cell sale
+dealer dinner
 
 # similar
 use-abuse-accuse
@@ -39,3 +41,4 @@ commit - committee
 accountant - content
 consumer - customer
 main - remain
+might - right
