@@ -31,6 +31,10 @@ artificial flowers
 `/əˈs/`
 Could you put the cake aside for me?
 
+**aspect**
+`/ˈæ/`
+Dealing with people is the most important aspect of my work.
+
 **assess**
 `/əˈ/` `/e/`
 Many of adults were assessed as having learning difficulties.

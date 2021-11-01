@@ -181,7 +181,7 @@ ashamed
 **aside** 
 ask 
 asleep 
-aspect 
+**aspect** 
 **assess** 
 **assessment** 
 assignment 
