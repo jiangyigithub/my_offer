@@ -6,6 +6,9 @@ baseball cap
 **basis**
 Their claim had no basis in fact.
 
+**bath**
+After a week of camping, i really needed a bath.
+
 **battery**
 when the red light comes on, we should recharge the battery.
 
