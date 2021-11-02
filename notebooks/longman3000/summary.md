@@ -45,3 +45,4 @@ might - right
 word - award
 awkward - award
 fair - affair
+behave - behavior
