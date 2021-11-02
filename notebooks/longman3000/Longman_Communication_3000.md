@@ -264,7 +264,7 @@ become
 bed 
 bedroom 
 beef 
-beer 
+**beer** 
 before 
 **beforehand** 
 begin 
@@ -308,7 +308,7 @@ black
 **blame**
 **blank** 
 **bless** 
-**blind **
+**blind**
 **block** 
 **bloke** 
 **blonde** 

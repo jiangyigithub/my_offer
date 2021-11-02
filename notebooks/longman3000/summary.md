@@ -48,5 +48,6 @@ fair - affair
 behave - behavior
 bone - backbone
 blow - below
-bare - bear
+bare - bear - bell
+bear - beer - beard
 weight - wait

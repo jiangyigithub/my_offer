@@ -19,9 +19,11 @@ a long-running legel battle
 a sandy beach
 
 **bear**
+`/eə/`
 The humiliation was more than he could bear.
 
 **beard**
+`/ɪə/`
 beard means hair that grow around a man's chin and cheeks.
 
 **beat**
@@ -34,6 +36,9 @@ she was even more beautifule than I had remembered.
 an area of outstanding natual beauty
 
 ## 2
+**beer**
+a pint of beer
+
 **beforehand**
 When we give a speech, it's natural to feel nervous beforehand.
 
