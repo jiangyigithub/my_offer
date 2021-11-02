@@ -33,25 +33,29 @@ she was even more beautifule than I had remembered.
 an area of outstanding natual beauty
 
 ## 2
-beforehand
+**beforehand**
+When we give a speech, it's natural to feel nervous beforehand.
 
-beginning
+**beginning**
 
-behaviour
+**behaviour**
 
-being
+**being**
 
-belief
+**belief**
 
-believe
+**believe**
 
-bell
+**bell**
+`/e/`
+The bell went and everyone rushed out of the classroom.
 
-below
+**below**
 
-belt
+**belt**
 
-beneath
+**beneath**
+`/bɪ/`
 
 ## 3
 bicycle
