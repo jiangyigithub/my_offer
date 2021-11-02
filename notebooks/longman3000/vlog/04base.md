@@ -37,67 +37,90 @@ an area of outstanding natual beauty
 When we give a speech, it's natural to feel nervous beforehand.
 
 **beginning**
+She's been here since the beginning of the year.
+
+**behalf**
+On behalf of everyone here, may I wish you a very happy retirement.
 
 **behaviour**
+It's important to reward good behaviour.
 
 **being**
+You can't expect them sit still for that long, children being what they are.
 
 **belief**
+When you get something wrong, it can shake your belief in yourself.
 
 **believe**
+I believed him ,even though his story sounded unlikely.
 
 **bell**
 `/e/`
 The bell went and everyone rushed out of the classroom.
 
 **below**
+The kitchen is directly below her bedroom.
 
 **belt**
+The comments hit below the belt.
 
 **beneath**
-`/bɪ/`
+`/bɪˈniː/`
+some roofs collapsed beneath the weight of so much snow.
 
 ## 3
-bicycle
+**bicycle**
 
-bid
+**bid**
 
-bike
+**bike**
 
-bill
+**bill**
 
-biscuit
+**biscuit**
 
-bitter
+**bitter**
 
-blade
+**blade**
 
-blame
+**blame**
 
-blank
+**blank**
 
-bless
+**bless**
 
 ## 4
-block
+**block**
+`/ɒ/`
 
-bloke
+**bloke**
+`/əʊ/`
 
-blonde
+**blonde**
+`/ɒn/`
 
-blood
+**blood**
+`/ʌ/`
 
-blow
+**blow**
+`/əʊ/`
 
-board
+**board**
+`/ɔː/`
 
-boat
+**boat**
+`/əʊ/`
 
-boiler
+**boiler**
+`/ɔɪ/`
 
-boiling
+**boiling**
 
-bomb
+**bomb**
+`/ɒ/`
+Voices of dissent began to rise against the bomb.
 
 ## 5
-bone
+**bone**
+`/əʊn/`
+I can't tell you more than the bare bones of what happened.

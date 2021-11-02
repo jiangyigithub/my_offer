@@ -46,3 +46,7 @@ word - award
 awkward - award
 fair - affair
 behave - behavior
+bone - backbone
+blow - below
+bare - bear
+weight - wait

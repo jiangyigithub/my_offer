@@ -269,7 +269,7 @@ before
 **beforehand** 
 begin 
 **beginning** 
-behalf 
+**behalf** 
 behave 
 **behaviour** 
 behind 
