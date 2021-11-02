@@ -53,6 +53,7 @@ My calculations were based on the assumption that house price remain steady.
 The dealer had assured me of its quality.
 
 **attach**
+`/əˈtæ/`
 Attach your recent photograph to your application form.
 
 **attack**

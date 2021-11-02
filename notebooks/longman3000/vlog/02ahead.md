@@ -66,10 +66,11 @@ It really annoys me when I see people dropping litter.
 The school trip has become an annual event.
 
 **anxiety**
+`/æŋˈz/`
 There is considerable anxiety among the stall about job losses.
 
 **anxious**
-`/æŋkʃ/`
+`/ˈæŋkʃ/`
 He was a bit anxious about the safety of the machinary.
 
 **apology**
