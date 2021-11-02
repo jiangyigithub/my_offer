@@ -31,3 +31,22 @@ she was even more beautifule than I had remembered.
 an area of outstanding natual beauty
 
 ## 2
+beforehand
+
+beginning
+
+behaviour
+
+being
+
+belief
+
+believe
+
+bell
+
+below
+
+belt
+
+beneath

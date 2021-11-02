@@ -247,7 +247,7 @@ basically
 **basis** 
 basket 
 bat 
-bath 
+**bath** 
 bathroom 
 **battery** 
 **battle** 
