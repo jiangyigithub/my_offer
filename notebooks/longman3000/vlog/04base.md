@@ -6,6 +6,7 @@ baseball cap
 Their claim had no basis in fact.
 
 **bath**
+bat-bath-battery-battle
 After a week of camping, i really needed a bath.
 
 **battery**
