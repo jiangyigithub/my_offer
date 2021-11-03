@@ -88,6 +88,7 @@ They'll be coming by bike.
 The bill for the repairs came to $650.
 
 **biscuit**
+cu --> `/k/`
 I've heard some excuses, but this really takes the biscuit!
 
 **bitter**
@@ -149,4 +150,5 @@ Voices of dissent began to rise against the bomb.
 ## 5
 **bone**
 `/əʊn/`
+bone --> backbone
 I can't tell you more than the bare bones of what happened.
