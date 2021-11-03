@@ -76,51 +76,71 @@ some roofs collapsed beneath the weight of so much snow.
 
 ## 3
 **bicycle**
+Can James ride a bicycle yet?
 
 **bid**
+A takeover bid for the airline was launched today.
 
 **bike**
+They'll be coming by bike.
 
 **bill**
+The bill for the repairs came to $650.
 
 **biscuit**
+I've heard some excuses, but this really takes the biscuit!
 
 **bitter**
+The couple are locked in a bitter battle for custody of the children.
 
 **blade**
+The blade of the knife flashed in the moonlight.
 
 **blame**
+The decision to increase interest rates was widely blamed for the crisis.
 
 **blank**
+Zoe looked at me with a blank expression.
 
 **bless**
+May God bless you.
 
 ## 4
 **block**
 `/ɒ/`
+a block of ice
 
 **bloke**
 `/əʊ/`
+guy-bloke
+He's a nice bloke.
 
 **blonde**
 `/ɒn/`
+a beautiful blonde
 
 **blood**
 `/ʌ/`
+The way they treat people makes my blood boil.
 
 **blow**
 `/əʊ/`
+A cold breeze was blowing hard.
 
 **board**
 `/ɔː/`
+I 'll check the departure board for train times.
 
 **boat**
 `/əʊ/`
+some of the beaches can only be reached by boat.
 
 **boiler**
 `/ɔɪ/`
+boiler room
 
 **boiling**
+It was a boiling hot morning.
 
 **bomb**
 `/ɒ/`
