@@ -1,6 +1,6 @@
-## 2021.10.5
-
+## 1
 **border**
+`/ɔː/`
 regular patrols along the border with France.
 
 **bored**
@@ -30,8 +30,7 @@ When you are dealing with so many patients, mistakes are bound to happen.
 **bowl**
 Beat the butter in a mixing bowl until creamy and soft.
 
-## 2021.10.6
-
+## 2
 **brick**
 Protesters attacked police with stones and bricks.
 
@@ -53,13 +52,60 @@ broadcast
 the room is three metres long and two metres broad.
 
 **brown**
+`/aʊ/`
 He'd been on vacation and looked very brown.
 
 **brush**
 His first brush with law came when he was 16.
 
 **bump**
+`/ʌm/`
 The roof was so low he bumped his head.
 
 **burst**
-The pipes had burst and the horse was under.
+`/ɜː/`
+The pipes had burst and the horse was under two feet of water.
+
+## 3
+**bury**
+`/e/`
+Electric cables are buried beneath the streets.
+
+**bus**
+The best way to get there is by bus.
+
+**butcher**
+`/ʊ/`
+
+**by**
+
+**bye**
+
+**cabinet**
+`/æ/`
+a cabinet meeting
+
+**calculator**
+
+**calm**
+`/ɑː/`
+The financial markets are calm at the moment.
+
+**camp**
+`/æm/`
+It is dark by the time we pitched camp.
+
+**campaign**
+Police have launched a campaign to crack down on drug dealers.
+
+## 4
+**candle**
+`/æn/`
+No other singer can hold a candle to her.
+
+**candy**
+brain - bring
+Most video games are just brain candy.
+
+**cap**
+a baseball cap
