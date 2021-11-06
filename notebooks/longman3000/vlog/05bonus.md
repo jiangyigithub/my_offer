@@ -1,4 +1,7 @@
 ## 1
+**boom**
+The economy went from boom to bust very quickly.
+
 **border**
 `/ɔː/`
 regular patrols along the border with France.
@@ -6,8 +9,14 @@ regular patrols along the border with France.
 **bored**
 After a while, I got bored and left.
 
+**born**
+Swift was born in 1667.
+
 **borrow**
 you are allowed to borrow six books from the library at a time.
+
+**boss**
+Since I'm my own boss,my hours are flexible.
 
 **both**
 Boths Helen's parents are doctors.
@@ -29,6 +38,21 @@ When you are dealing with so many patients, mistakes are bound to happen.
 
 **bowl**
 Beat the butter in a mixing bowl until creamy and soft.
+
+**brain**
+Messages from the brain are carried by the central nervous system.
+
+**brave**
+Despite their captain's brave performance,Arsenal lost 2-1.
+
+**bread**
+Writing is my bread and butter.
+
+**breast**
+These bras are specially designed for women with  large breasts.
+
+**breathe**
+Relax and breathe deeply.
 
 ## 2
 **brick**
