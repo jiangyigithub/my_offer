@@ -364,9 +364,9 @@ briefly
 brother 
 **brown** 
 **brush** 
-buck 
+**buck** 
 bucket 
-buddy 
+**buddy** 
 budget 
 bug 
 build 
@@ -374,7 +374,7 @@ builder
 building 
 **bump** 
 **bunch** 
-burn 
+**burn** 
 **burst** 
 **bury** 
 **bus** 

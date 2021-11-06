@@ -1,3 +1,5 @@
+dark l -->`/l/`
+
 ## 1
 **boom**
 The economy went from boom to bust very quickly.
@@ -30,6 +32,7 @@ Between us, we drink three bottles of wine.
 **bottom**
 Go downstairs and wait for me at the bottom.
 
+## 2
 **bounce**
 The ball bounced off the post and into the goal.
 
@@ -54,13 +57,13 @@ These bras are specially designed for women with  large breasts.
 **breathe**
 Relax and breathe deeply.
 
-## 2
 **brick**
 Protesters attacked police with stones and bricks.
 
 **bridge**
 a scheme to build bridges between the police and community
 
+## 3
 **bright**
 He was an exceptionally bright child.
 
@@ -82,15 +85,28 @@ He'd been on vacation and looked very brown.
 **brush**
 His first brush with law came when he was 16.
 
+**buck**
+He owns me ten bucks.
+
+**buddy**
+Hey,buddy! this your car.
+
 **bump**
 `/ʌm/`
 The roof was so low he bumped his head.
+
+**bunch**
+`/ʌn/`
+He had a bunch of keys on his belt.
+
+## 4
+**burn**
+An average household candle will burn for six hours.
 
 **burst**
 `/ɜː/`
 The pipes had burst and the horse was under two feet of water.
 
-## 3
 **bury**
 `/e/`
 Electric cables are buried beneath the streets.
@@ -111,6 +127,10 @@ a cabinet meeting
 
 **calculator**
 
+**calendar**
+The derby is a major event in the racing calendar.
+
+## 5
 **calm**
 `/ɑː/`
 The financial markets are calm at the moment.
@@ -122,7 +142,9 @@ It is dark by the time we pitched camp.
 **campaign**
 Police have launched a campaign to crack down on drug dealers.
 
-## 4
+**candidate**
+Candidates are not allowed to use calculator in this exam.
+
 **candle**
 `/æn/`
 No other singer can hold a candle to her.
