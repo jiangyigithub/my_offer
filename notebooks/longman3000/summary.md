@@ -5,26 +5,30 @@ ad add
 appear appeal
 anger angle
 allow alound 
-awful offer 
+awful offer
+alarm allow
+allowance announcealarm allow
+allowance announce 
 bean bin
 bit beat
 been being
 belief belive
 behave behalf
 battle batter
+break brick
+bring brain
 core call
 cold code
 collar color
-alarm allow
-allowance announce
-steady study
 cell sale
 dealer dinner
+steady study
+
 
 # similar
-use-abuse-accuse
-conduct-deduct
-abroad-broad-road
+use - abuse - accuse
+conduct - deduct
+road - broad - abroad
 chop-shop
 temporary - contemporary
 reach - breach
@@ -38,12 +42,12 @@ allowance -announce
 among - month
 mount - amount
 commit - committee
-accountant - content
+content - accountant
 consumer - customer
 main - remain
 might - right
 word - award
-awkward - award
+award - awkward
 fair - affair
 behave - behavior
 bone - backbone
