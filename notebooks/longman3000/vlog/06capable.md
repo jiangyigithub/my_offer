@@ -8,17 +8,27 @@ care
 career
 
 careful
-carefully
-carpet
 
-carrot
+carefully
+
+**carpet**
+`/ɑː/`
+He was called on the carpet by his boss to explain his excessive spending.
+
+**carrot**
+`/æ/`
+They have refused to sign the agreement despite a carrot of $140 million.
 
 carry
 
-cast
+**cast**
+`/æ/`
+The allegations cast a cloud over the Mayor's visit.
 
 ## 2
-castle
+**castle**
+`/ɑː/`
+a ruined castle
 
 catalogue
 

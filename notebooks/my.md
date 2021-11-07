@@ -1,5 +1,6 @@
 # state of art
 
+生存
 ## what need to do?
 1. foundation
    program language
@@ -37,4 +38,12 @@ if you want to pursue peace, you should have the ability of threaten and violenc
 知识分类，同类知识越多越好吗，知识学习的边际效益？
 学两份同类知识能否变现两份财富呢？
 马云的财富为什么是我的N倍呢？
+
+公司 和 个人品牌
+
+脑力智慧，和肌肉智慧，与直觉
+
+伟大的理论的诞生，并非一开始就有其完备的数学证明
+
+主要矛盾和次要矛盾，二八定律
 
