@@ -19,10 +19,10 @@ He was called on the carpet by his boss to explain his excessive spending.
 `/æ/`
 They have refused to sign the agreement despite a carrot of $140 million.
 
-carry
+**carry**
 
 **cast**
-`/æ/`
+`/ɑː/`
 The allegations cast a cloud over the Mayor's visit.
 
 ## 2
@@ -30,11 +30,15 @@ The allegations cast a cloud over the Mayor's visit.
 `/ɑː/`
 a ruined castle
 
-catalogue
+**catalogue**
+`/æ/`
+a catalogue of terrorist crimes
 
-category
+**category**
+Voters fall into  three main categories.
 
-cease
+**cease**
+The thing people will do for charity never cease to amaze me.
 
 cell
 
@@ -72,7 +76,8 @@ championship
 ## 4
 channel
 
-chap
+**chap**
+`/æ/`
 
 chapter
 
@@ -82,30 +87,34 @@ characteristic
 
 characterize
 
-charity
+**charity**
+`/æ/`
+All the money raised by the convert go to charity.
 
-chase
+**chase**
+Top graduates from the university are chased by major companies.
 
-cheek
+**cheek**
 
 chemist
 
 ## 5
 chemistry
 
-cheque
+**cheque**
 
 cherry
 
-chest
+**chest**
 
 chief
 
 chocolate
 
-chop
+**chop**
+`/ɒ/`
 
-chuck
+**chuck**
 
 church
 

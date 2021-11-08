@@ -58,3 +58,5 @@ weight - wait
 rain - brain
 borrow - brown
 brilliant - intelligent
+cereal - serious
+chap - chip - chop
