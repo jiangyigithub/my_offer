@@ -57,3 +57,4 @@ bear - beer - beard
 weight - wait
 rain - brain
 borrow - brown
+brilliant - intelligent
