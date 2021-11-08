@@ -286,8 +286,12 @@ path.pop_back();
 - different initial value
 
 **offer 42**
+- 求和问题
+- 动态规划的几大要素
+  1. 
 
 **offer 63**
+- 求两个极值的差的问题
 - 求数组中前m个元素的最小值 min(array[0:i])
 - 暴力算法：
   1. 求数组中的最小值 min
