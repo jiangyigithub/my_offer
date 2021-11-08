@@ -6,7 +6,7 @@
 4. wave1 --> wave3 --> icv  (wave1 profit 50%)业务产品曲线
 5. project (PACE Germany) (WAVE3 China)
 6. AIOT software company ,location `ShangHai`
-7. customers `7 OEMS` and competitors `HUAWEI`
+7. strategy, customers `7 OEMS` and competitors `HUAWEI`
 8. product --> sale --> HR
 
 # NVIDIA Introduces DRIVE AGX Orin — Advanced, Software-Defined Platform for Autonomous Machines 
