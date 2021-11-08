@@ -75,6 +75,7 @@ championship
 
 ## 4
 channel
+`/æ/`
 
 **chap**
 `/æ/`
