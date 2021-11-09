@@ -484,7 +484,7 @@ chicken
 **chief** 
 child 
 childhood 
-chip 
+**chip** 
 **chocolate** 
 choice 
 choose 

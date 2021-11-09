@@ -110,6 +110,9 @@ cherry
 
 chief
 
+**chip**
+`/ɪ/`
+
 chocolate
 
 **chop**
