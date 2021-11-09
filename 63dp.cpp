@@ -14,6 +14,23 @@ public:
         }
         return profit;
     }
+    
+    /// Brute Force, time complexity is N^2
+    int maxProfit2(vector<int> &prices)
+    {
+        int profit = 0;
+        for (int i = prices.size() - 1; i >= 0; i--)
+        {
+            for (int j = 0; j < i; j++)
+            {
+                if (prices[i] > prices[j])
+                {
+                    profit = max(profit, prices[i] - prices[j]);
+                }
+            }
+        }
+        return profit;
+    }
 };
 
 void trimLeftTrailingSpaces(string &input)
