@@ -97,6 +97,7 @@ All the money raised by the convert go to charity.
 Top graduates from the university are chased by major companies.
 
 **cheek**
+`/tʃiː/`
 
 **chemist**
 `/ˈke/`
