@@ -110,6 +110,9 @@ the Olympic champion
 **championship**
 Greece won the European Championship.
 
+**chance**
+There is little chance of her being found alive.
+
 ## 4
 **channel**
 `/æ/`

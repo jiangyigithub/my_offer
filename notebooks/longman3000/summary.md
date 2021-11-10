@@ -62,3 +62,5 @@ borrow - brown
 brilliant - intelligent
 cereal - serious
 chap - chip - chop
+chip - cheap - cheek
+chart - chat

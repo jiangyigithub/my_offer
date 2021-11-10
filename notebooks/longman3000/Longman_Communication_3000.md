@@ -456,7 +456,7 @@ certain
 **challenge** 
 **champion** 
 **championship** 
-chance 
+**chance**
 change 
 **channel** 
 **chap** 

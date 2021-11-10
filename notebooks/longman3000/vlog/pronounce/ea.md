@@ -3,4 +3,4 @@ ea
 bread - breast - breath
 
 `/iː/`
-beat - cease
+beat - cease -cheap - cheat 
