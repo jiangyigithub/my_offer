@@ -1,11 +1,19 @@
 ## 1
+**capable**
+`/ˈkeɪ/`
+Blackburn now look to be the only team capable of catching scum.
+
 **capital**
+`/ˈkæ/`
 
 **captain**
+`/ˈkæ/`
 
 **care**
+`/eə/`
 
 **career**
+`/kə/`
 
 **careful**
 
@@ -16,18 +24,18 @@
 He was called on the carpet by his boss to explain his excessive spending.
 
 **carrot**
-`/æ/`
+`/ˈkæ/`
 They have refused to sign the agreement despite a carrot of $140 million.
 
 **carry**
 
 **cast**
-`/ɑː/`
+`/kɑː/`
 The allegations cast a cloud over the Mayor's visit.
 
 ## 2
 **castle**
-`/ɑː/`
+`/kɑː/`
 a ruined castle
 
 **catalogue**
