@@ -100,26 +100,38 @@ He was nominated as chair of the board of governors.
 Potts was appointed chairman of the education committee.
 
 **challenge**
+`/ˈtʃæ/`
+I relish the challenge of rebuilding the club.
 
 **champion**
+`/æm/`
+the Olympic champion
 
 **championship**
+Greece won the European Championship.
 
 ## 4
 **channel**
 `/æ/`
+The kids are watching cartoons on the Disney channel.
 
 **chap**
 guy
 `/æ/`
+a decent sort chap
 
 **chapter**
+a new chapter peace and cooperation
 
 **character**
+Everyone recognizes Disney's cartoon characters.
 
 **characteristic**
+Violent images are a defining characteristic of his work.
 
 **characterize**
+`characterize somebody as (being) something`
+The group was characterized as being well-educated and liberal.
 
 **charity**
 `/æ/`
@@ -130,36 +142,49 @@ Top graduates from the university are chased by major companies.
 
 **cheek**
 `/tʃiː/`
+Billy had rosy cheeks and blue eyes.
 
 **chemist**
 `/ˈke/`
 
 ## 5
 **chemistry**
+It’s obvious that there’s a very real chemistry between them.
 
 **cheque**
+They sent me a cheque for $100
 
 **cherry**
+a bunch of cherries
 
 **chest**
 breast
+He collapsed with servere chest pains.
 
 **chief**
 `/iː/`
+She had many reasons for taking the money, but chief among them was revenge.
 
 **chip**
 `/ɪ/`
+a bag of potato chips
 
 **chocolate**
+`/ˈtʃɒ/`
+a packet of chocolate biscuits
 
 **chop**
 `/ɒ/`
+Can you chop up some carrots for me?
 
 **chuck**
 `/tʃʌ/`
 throw
+I think I might have chucked it by mistake.
 
 **church**
+My parents go to church every Sunday.
 
 **cigarette**
+a packet of cigarettes
 
