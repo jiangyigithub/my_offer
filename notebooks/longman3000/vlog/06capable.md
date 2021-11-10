@@ -1,15 +1,15 @@
 ## 1
-capital
+**capital**
 
-captain
+**captain**
 
-care
+**care**
 
-career
+**career**
 
-careful
+**careful**
 
-carefully
+**carefully**
 
 **carpet**
 `/ɑː/`
@@ -40,53 +40,54 @@ Voters fall into  three main categories.
 **cease**
 The thing people will do for charity never cease to amaze me.
 
-cell
+**cell**
 
-cellphone
+**cellphone**
 
-cent
+**cent**
 
-centimetre
+**centimetre**
 
-central
+**central**
 
-centre
+**centre**
 
 ## 3
-century
+**century**
 
-cereal
+**cereal**
 
-certainly
+**certainly**
 
-certificate
+**certificate**
 
-chain
+**chain**
+`/eɪn/`
 
-chair
+**chair**
 
-chairman
+**chairman**
 
-challenge
+**challenge**
 
-champion
+**champion**
 
-championship
+**championship**
 
 ## 4
-channel
+**channel**
 `/æ/`
 
 **chap**
 `/æ/`
 
-chapter
+**chapter**
 
-character
+**character**
 
-characteristic
+**characteristic**
 
-characterize
+**characterize**
 
 **charity**
 `/æ/`
@@ -97,30 +98,32 @@ Top graduates from the university are chased by major companies.
 
 **cheek**
 
-chemist
+**chemist**
+`/ˈke/`
 
 ## 5
-chemistry
+**chemistry**
 
 **cheque**
 
-cherry
+**cherry**
 
 **chest**
 
-chief
+**chief**
 
 **chip**
 `/ɪ/`
 
-chocolate
+**chocolate**
 
 **chop**
 `/ɒ/`
 
 **chuck**
+throw
 
-church
+**church**
 
-cigarette
+**cigarette**
 
