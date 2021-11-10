@@ -38,9 +38,11 @@ a catalogue of terrorist crimes
 Voters fall into  three main categories.
 
 **cease**
+`/iː/`
 The thing people will do for charity never cease to amaze me.
 
 **cell**
+`/e/`
 
 **cellphone**
 
@@ -79,6 +81,7 @@ The thing people will do for charity never cease to amaze me.
 `/æ/`
 
 **chap**
+guy
 `/æ/`
 
 **chapter**
@@ -110,8 +113,10 @@ Top graduates from the university are chased by major companies.
 **cherry**
 
 **chest**
+breast
 
 **chief**
+`/iː/`
 
 **chip**
 `/ɪ/`
@@ -122,6 +127,7 @@ Top graduates from the university are chased by major companies.
 `/ɒ/`
 
 **chuck**
+`/tʃʌ/`
 throw
 
 **church**
