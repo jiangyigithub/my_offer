@@ -2,6 +2,7 @@ dark l -->`/l/`
 
 ## 1
 **boom**
+`/uː/`
 The economy went from boom to bust very quickly.
 
 **border**
