@@ -34,12 +34,12 @@ She had always had an ambition to be a pilot.
 Do you think we need to call an ambulance.
 
 **among**
-`/mʌŋ/`
+`/əˈmʌŋ/`
 The girl quickly disappeared among the crowd.
 
 ## 2
 **amount**
-`/maʊn/`
+`/əˈmaʊn/`
 Her case has attracted an enormous amount of public sympathy.
 
 **analyse**
@@ -51,6 +51,7 @@ She still needs to analyse the data.
 They were doing some type of statistical analysis.
 
 **analyst**
+`/ˈæn/`
 Cleary has been working as a computer analyst in XXX.
 
 **ancient** 
