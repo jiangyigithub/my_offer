@@ -78,19 +78,26 @@ It’s not exactly a cultural center like Paris.
 
 ## 3
 **century**
+The church was built in the 13th century.
 
 **cereal**
+a bowl of breakfast cereal
 
 **certainly**
+It is certainly true that there are more courses on offer.
 
 **certificate**
+a degree certificate
 
 **chain**
 `/eɪn/`
+The salesmen are just one link in the chain (=part of a process) of distribution.
 
 **chair**
+He was nominated as chair of the board of governors.
 
 **chairman**
+Potts was appointed chairman of the education committee.
 
 **challenge**
 
