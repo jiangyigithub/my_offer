@@ -44,6 +44,7 @@ a closet full of beautiful clothes
 a dress of the finest silk cloth
 
 **clothes**
+What sort of clothes was he wearing?
 
 **cloud**
 Dark clouds floated across the moom.
