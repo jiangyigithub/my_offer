@@ -60,6 +60,7 @@ This information is a valuable clue in out hunt for the bombers.
 a tennis coach
 
 **coal**
+`/əʊ/`
 Put some coal on the fire.
 
 **coast**
@@ -72,38 +73,47 @@ I need a new winter coat.
 Each state in US. has different criminal and civil code.
 
 **coffee**
+`/ˈkɒ/`
 Do you like your coffee white and black.
 
 **collapse**
+`/kə/`
 The roof had collapsed long ago.
 
 **collar**
+`/ˈkɒ/`
 He loosened his collar and tie.
 
 ## 3
 **colleague**
+`/ˈkɒ/`
 catalogue
 
 **collect**
+`/kə/`
 
 **collection**
 
 **college**
+`/ˈkɒ/`
 
 **colour**
 
 **column**
 
 **combination**
+`/kəm/`
 
 **combine**
 
 **comfort**
+`/ˈkʌm/`
 
 **comfortable**
 
 ## 4
 **command**
+`/kə/`
 
 **commercial**
 
