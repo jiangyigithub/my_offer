@@ -1,26 +1,34 @@
 ## 1
 **cinema**
+Do you know what’s on at the cinema?
 
 **circuit**
+`/kɪt/`
 a well-known entertainner on the club circuit
 
 **circumstance**
+Prisoners can only leave their cells under certain circumstances.
 
 **civil**
+`/vl/`
 they are married in a civil ceremony in May.
 
 **claim**
+`/eɪm/`
 The product claims that it can make you thin with dieting.
 
 **clerk**
+`/ɑː/`
 a clerk in a commercial firm
 
 **clever**
+He was clever at finding bargains.
 
 **click**
 Choose the image you want by clicking twice.
 
 **client**
+`/aɪ/`
 a meeting with an important client
 
 **climate**
@@ -33,6 +41,7 @@ The divorce rate had climbed to almost 30% of all marriages.
 a closet full of beautiful clothes
 
 **cloth**
+a dress of the finest silk cloth
 
 **clothes**
 
@@ -76,46 +85,46 @@ catalogue
 
 **collect**
 
-collection
+**collection**
 
-college
+**college**
 
-colour
+**colour**
 
-column
+**column**
 
-combination
+**combination**
 
-combine
+**combine**
 
-comfort
+**comfort**
 
-comfortable
+**comfortable**
 
 ## 4
-command
+**command**
 
-commercial
+**commercial**
 
-commission
+**commission**
 
-committee
+**committee**
 
-community
+**community**
 
-comparision
+**comparision**
 
-competitive
+**competitive**
 
-complain
+**complain**
 
-complaint
+**complaint**
 
-completely
+**completely**
 
 ## 5
-complicated
+**complicated**
 
-component
+**component**
 
-comprehensive
+**comprehensive**
