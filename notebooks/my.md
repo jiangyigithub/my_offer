@@ -3,15 +3,21 @@
 生存
 ## what need to do?
 1. foundation
-   program language
-   development tool 
-   data structure
+   program language --> C++ basic,STL C++,modern C++,Python
+   development tool --> git,vscode,cmake,markdown
+   data structure --> search,sort,dp,recur
    operation system
+   design pattern
 
 2. domain
+   `Algorithm`
+   detection: AI
    fusion: object level --> feature level
-   path plan
-   control
+   prediction: TIPL
+   behavior plan:
+   decision:
+   path plan:
+   control:
    
 3. influence
 
