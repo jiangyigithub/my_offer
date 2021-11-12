@@ -124,25 +124,35 @@ The bed wasn't particularly comfortable.
 
 ## 4
 **command**
-`/kə/`
+`/kə/` `/ˈmɑːn/`
+The fire officer took command, ordering everyone to leave the building.
 
 **commercial**
+Our top priorities must be profit and commercial growth.
 
 **commission**
+The Government set up a commission to investigate allegations of police violence.
 
 **committee**
+He’s on the finance committee.
 
 **community**
+The new arts centre will serve the whole community.
 
 **comparision**
+In comparision to other recent video games, this one isn't very exciting.
 
 **competitive**
+Competitive sports encourage children to work together as a team.
 
 **complain**
+She often complains about not feeling appreciated at work.
 
 **complaint**
+The sales assistants are trained to dealing with customer complaint in a friendly manner.
 
 **completely**
+I'm not completely sure.
 
 ## 5
 **complicated**
