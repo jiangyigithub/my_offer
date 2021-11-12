@@ -25,6 +25,7 @@ dealer dinner
 steady study
 central century
 aboard abroad
+cotton cartoon
 
 
 # similar
@@ -65,3 +66,6 @@ chap - chip - chop
 chip - cheap - cheek
 chart - chat
 biscuit - circuit
+brown - crown
+aboard - cupboard - keyboard
+buddy - daddy
