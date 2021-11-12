@@ -88,28 +88,39 @@ He loosened his collar and tie.
 **colleague**
 `/ˈkɒ/`
 catalogue
+She discussed the idea with some of her colleagues.
 
 **collect**
 `/kə/`
+The company collects information about consumer trends.
 
 **collection**
+we'll be taking up collection at the end of tonight service.
 
 **college**
 `/ˈkɒ/`
+we were great friends when we were college.
 
 **colour**
+The pens come in a wide range of colours.
 
 **column**
+`/ˈkɑː/`
+He writes a weekly column for "The Times"
 
 **combination**
 `/kəm/`
+A combination of tact and authority was needed to deal with this situation.
 
 **combine**
+Diets are most effective when combined with exercise.
 
 **comfort**
 `/ˈkʌm/`
+All our sports shoes are designed for comfort and performance.
 
 **comfortable**
+The bed wasn't particularly comfortable.
 
 ## 4
 **command**
