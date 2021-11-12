@@ -28,6 +28,8 @@ aboard abroad
 cotton cartoon
 college colleague
 profit perfect
+climb claim
+collar  collour
 
 
 # similar

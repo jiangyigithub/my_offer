@@ -7,10 +7,11 @@ Do you know what’s on at the cinema?
 a well-known entertainner on the club circuit
 
 **circumstance**
+`/'sɜː/` 1'
 Prisoners can only leave their cells under certain circumstances.
 
 **civil**
-`/vl/`
+`/ˈsɪ/` 1'
 they are married in a civil ceremony in May.
 
 **claim**
@@ -102,6 +103,7 @@ we'll be taking up collection at the end of tonight service.
 we were great friends when we were college.
 
 **colour**
+`/ˈkʌ/`
 The pens come in a wide range of colours.
 
 **column**
@@ -140,9 +142,11 @@ He’s on the finance committee.
 The new arts centre will serve the whole community.
 
 **comparision**
+`/kəm/` `/ˈpæ/` `/sn/` 2'
 In comparision to other recent video games, this one isn't very exciting.
 
 **competitive**
+`/ˈpe/`
 Competitive sports encourage children to work together as a team.
 
 **complain**
@@ -152,11 +156,16 @@ She often complains about not feeling appreciated at work.
 The sales assistants are trained to dealing with customer complaint in a friendly manner.
 
 **completely**
+`/pliː/`
 I'm not completely sure.
 
 ## 5
 **complicated**
+Mental illness is a very complicated subject.
 
 **component**
+Exercise is one of the key components of a heathy lifestyle.
 
 **comprehensive**
+`/ˈhen/` 3'
+The following guildlines do not aim to be totally comprehensive.
