@@ -55,6 +55,7 @@ Dark clouds floated across the moom.
 Our chess club really need more members.
 
 **clue**
+`/uː/`
 This information is a valuable clue in out hunt for the bombers.
 
 **coach**
@@ -111,17 +112,17 @@ The pens come in a wide range of colours.
 He writes a weekly column for "The Times"
 
 **combination**
-`/kəm/`
+`/kəm/` `/bɪ/`
 A combination of tact and authority was needed to deal with this situation.
 
 **combine**
 Diets are most effective when combined with exercise.
 
 **comfort**
-`/ˈkʌm/`
+`/ˈkʌm/` 1'
 All our sports shoes are designed for comfort and performance.
 
-**comfortable**
+**comfortable** 1'
 The bed wasn't particularly comfortable.
 
 ## 4
@@ -156,7 +157,7 @@ She often complains about not feeling appreciated at work.
 The sales assistants are trained to dealing with customer complaint in a friendly manner.
 
 **completely**
-`/pliː/`
+`/ˈpliː/`
 I'm not completely sure.
 
 ## 5
