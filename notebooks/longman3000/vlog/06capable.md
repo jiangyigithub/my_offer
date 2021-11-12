@@ -3,6 +3,10 @@
 `/ˈkeɪ/`
 Blackburn now look to be the only team capable of catching scum.
 
+**capacity**
+`/kə/`
+The factory has been working at full capacity.
+
 **capital**
 `/ˈkæ/`
 The government is eager to attract foreign capital.

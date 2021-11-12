@@ -410,8 +410,8 @@ cancer
 **candy** 
 **cap** 
 ***
-capable 
-capacity 
+**capable** 
+**capacity** 
 **capital** 
 **captain** 
 capture 
