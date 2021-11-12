@@ -19,7 +19,7 @@ they are married in a civil ceremony in May.
 The product claims that it can make you thin with dieting.
 
 **clerk**
-`/ɑː/`
+`/klɜːr/`
 a clerk in a commercial firm
 
 **clever**
@@ -39,6 +39,7 @@ Small businesses are finding it hard to survive in the present economic climate.
 The divorce rate had climbed to almost 30% of all marriages.
 
 **closet**
+`/zɪt/`
 a closet full of beautiful clothes
 
 **cloth**
