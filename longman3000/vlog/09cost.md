@@ -10,7 +10,7 @@ We're staying in a holiday cottage.
 
 **cotton**
 `/ˈkɒ/`
-Made from 100& cotton.
+Made from 100% cotton.
 
 **council**
 `/səl/`
