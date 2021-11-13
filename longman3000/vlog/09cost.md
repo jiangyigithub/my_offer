@@ -39,6 +39,9 @@ beef cows
 Concrete is liable to crack in very cold weather.
 
 **craft**
+`/ɑː/`
+arts and crafts
+
 ## 2
 crash
 cream
