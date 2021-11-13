@@ -9,6 +9,7 @@ I offered to pay the cost of the taxi.
 We're staying in a holiday cottage.
 
 **cotton**
+`/ˈkɒ/`
 Made from 100& cotton.
 
 **council**
