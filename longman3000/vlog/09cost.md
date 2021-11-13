@@ -13,7 +13,7 @@ We're staying in a holiday cottage.
 Made from 100% cotton.
 
 **council**
-`/səl/`
+`/ˈkaʊn/` `/səl/`
 *count*
 He sent a letter to the council to complain about the noise.
 
