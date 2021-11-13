@@ -4,7 +4,7 @@ project(code VERSION 0.1.0)
 include(CTest)
 enable_testing()
 
-add_executable(code32a 32tree_a.cpp)
+add_executable(code32a cpp/32tree_a.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
