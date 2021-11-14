@@ -21,11 +21,13 @@ He sent a letter to the council to complain about the noise.
 county council
 
 **course**
+`/ɔː/`
 *cause*
 of course, there are exceptions to every rule.
 
 **court**
 `/ɔː/`
+*coat*
 The court case lasted six weeks.
 
 **cousin**
