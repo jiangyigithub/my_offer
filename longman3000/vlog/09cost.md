@@ -13,14 +13,15 @@ We're staying in a holiday cottage.
 Made from 100% cotton.
 
 **council**
-`/ˈkaʊn/` `/səl/`
 *count*
+`/ˈkaʊn/` `/səl/`
 He sent a letter to the council to complain about the noise.
 
 **county**
 county council
 
 **course**
+*cause*
 of course, there are exceptions to every rule.
 
 **court**
@@ -45,6 +46,7 @@ arts and crafts
 
 ## 2
 **crash**
+`/æ/`
 He was drunk when he crashed the car.
 
 **cream**
@@ -54,12 +56,15 @@ The students of this college are the cream of the crop.
 a poll tax was a creature of the government.
 
 **credit**
+`/ˈkre/`
 Most new cars are bought on credit.
 
 **crew**
+`/uː/`
 The plane crashed, killing two crew and four passengers.
 
 **criminal**
+`/ˈkrɪ/`
 Experts cannot agree on the causes of cirminal behaviour.
 
 **crisis**
@@ -76,17 +81,40 @@ Critics of the scheme have said that it will not solve the problem of teenage cr
 
 **critical**
 It is absolutely critical for us to know the truth.
+
 ## 3
-criticism
-criticize
-crowd
-crown
-crucial
-cruel
-cultural
-cupboard
-curious
-currency
+**criticism**
+My main criticism of the scheme is that it does nothing to help the families on low incomes.
+
+**criticize**
+He has criticized for incompetence.
+
+**crowd**
+`/aʊ/`
+A vast crowd gathered in the main square.
+
+**crown**
+He has retired from the service of the Crown.
+
+**crucial**
+*vital*
+The conservation of tropical forests is of crucial importance.
+
+**cruel**
+she was often cruel to her sister.
+
+**cultural**
+Students need to have time for relaxation and cultural activities, as well as academic work.
+
+**cupboard**
+It's in the kitchen cupboard.
+
+**curious**
+He was curious about how she would react.
+
+**currency**
+The bank can supply you with foreign currency.
+
 ## 4
 curtain
 curve
