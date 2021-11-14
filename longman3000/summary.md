@@ -80,3 +80,4 @@ fashion - cushion
 circle - cycle
 curtain - certain
 admit - admin
+crew - cruel
