@@ -4,8 +4,10 @@
 Nearly half the students said they were in debt.
 
 **decade**
+a period of 10 years
 
 **decent**
+The majority of residents here are decent citizens.
 
 declare
 defeat
