@@ -1,7 +1,12 @@
 ## 1
-debt
-decade
-decent
+**debt**
+`/e/`
+Nearly half the students said they were in debt.
+
+**decade**
+
+**decent**
+
 declare
 defeat
 definite
