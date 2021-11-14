@@ -116,22 +116,43 @@ He was curious about how she would react.
 The bank can supply you with foreign currency.
 
 ## 4
-curtain
-curve
-cushion
-dad
-daft
-dangerous
-dare
-darling
-daughter
-dead
+**curtain**
+Ella drew the curtains and swithed the light on.
+
+**curve**
+The market demand curce has increased.
+
+**cushion**
+Savings can act as a cushion against unemployment.
+
+**dad**
+She lives with her mon and dad.
+
+**daft**
+She's as daft as brush.
+
+**dangerous**
+It was a highly dangerous situation.
+
+**dare**
+He wanted to ask her, but he  didn't dare.
+
+**darling**
+She's the darling of fashion world.
+
+**daughter**
+She's got two daughters and one son.
+
+**dead**
+Police are trying to contact the family of the dead man.
 
 ## 5
 **deaf**
+`/e/`
 She was deaf to his pleas.
 
 **deal**
+`/iː/`
 They made a deal to sell the land to a property developer.
 
 **dealer**
@@ -141,4 +162,5 @@ a dealer in modern art
 How did the interview go, dear?
 
 **death**
+`/e/`
 Cancer is the leading cause of death in women.
