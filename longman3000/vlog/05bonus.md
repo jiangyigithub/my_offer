@@ -151,7 +151,6 @@ Candidates are not allowed to use calculator in this exam.
 No other singer can hold a candle to her.
 
 **candy**
-brain - bring
 Most video games are just brain candy.
 
 **cap**
