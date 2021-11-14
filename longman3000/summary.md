@@ -77,3 +77,5 @@ aboard - cupboard - keyboard
 buddy - daddy
 button -cotton
 fashion - cushion
+circle - cycle
+curtain - certain

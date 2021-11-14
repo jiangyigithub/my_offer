@@ -91,6 +91,9 @@ My main criticism of the scheme is that it does nothing to help the families on 
 **criticize**
 He has criticized for incompetence.
 
+**crop**
+Fruit growers are gathering in a bumper crop.
+
 **crowd**
 `/aʊ/`
 A vast crowd gathered in the main square.
@@ -132,6 +135,12 @@ She lives with her mon and dad.
 
 **daft**
 She's as daft as brush.
+
+**damage**
+These chemicals have been found to cause serious environmental damage.
+
+**dance**
+Are you going to the dance this weekend.
 
 **dangerous**
 It was a highly dangerous situation.
