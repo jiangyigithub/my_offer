@@ -123,7 +123,7 @@ There is little chance of her being found alive.
 The kids are watching cartoons on the Disney channel.
 
 **chap**
-guy
+*guy*
 `/æ/`
 a decent sort chap
 

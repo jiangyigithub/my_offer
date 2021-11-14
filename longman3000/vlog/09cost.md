@@ -126,9 +126,19 @@ dare
 darling
 daughter
 dead
+
 ## 5
-deaf
-deal
-dealer
-dear
-death
+**deaf**
+She was deaf to his pleas.
+
+**deal**
+They made a deal to sell the land to a property developer.
+
+**dealer**
+a dealer in modern art
+
+**dear**
+How did the interview go, dear?
+
+**death**
+Cancer is the leading cause of death in women.
