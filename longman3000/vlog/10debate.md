@@ -74,16 +74,39 @@ the great depression
 a sea with an average depth of 35 metres
 
 ## 3
-describe
-description
-desert
-deserve
-design
-designer
-desperate
-despite
-destroy
-destruction
+**describe**
+It's difficult to describe how I feel.
+
+**description**
+The booklet give a brief description of each place.
+
+**desert**
+`/ˈde/`
+This area of country is mostly desert.
+
+**deserve**
+I think we deserve a rest after all that hard work.
+
+**design**
+The new plane is in its final design stage.
+
+**designer**
+an interior designer
+
+**desperate**
+`/ˈdes/`
+Time is running out and we were getting desperate.
+
+**despite**
+Despite all our efforts to save the school, the authorities decided to close it.
+
+**destroy**
+`/dɪ/`
+The school is completely destroyed by fire.
+
+**destruction**
+The floods brought death and destruction to the area.
+
 ## 4
 determination
 determined

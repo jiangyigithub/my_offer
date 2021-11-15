@@ -82,3 +82,4 @@ curtain - certain
 admit - admin
 crew - cruel
 disagree - degree
+serve - deserve
