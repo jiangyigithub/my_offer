@@ -743,8 +743,8 @@ decline
 deep 
 deeply 
 **defeat** 
-defence 
-defend 
+**defence** 
+**defend** 
 define 
 **definite** 
 **definitely** 

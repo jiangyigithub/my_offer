@@ -18,6 +18,12 @@ A state of emergency has been declared.
 **defeat**
 She was a women who hated to admit defeat.
 
+**defence**
+The first line of defence is a smoke detector.
+
+**defend**
+Students should be ready to explain and defend their views.
+
 **definite**
 `/e/`
 We need to record sufficient data to enable definite conclusions to be reached.

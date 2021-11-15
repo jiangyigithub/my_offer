@@ -81,3 +81,4 @@ circle - cycle
 curtain - certain
 admit - admin
 crew - cruel
+disagree - degree
