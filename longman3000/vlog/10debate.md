@@ -44,6 +44,9 @@ I'm having some flowers deliverd for her birthday.
 **delivery**
 You can expect delivery in a week to ten days.
 
+**demand**
+Production is increasing faster than demand.
+
 **democracy**
 `/di/` `/ˈmɒ/` `/krə/`
 a return to democracy after 16 years of military rule

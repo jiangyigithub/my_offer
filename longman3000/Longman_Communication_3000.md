@@ -754,7 +754,7 @@ delay
 **deliberately** 
 **deliver** 
 **delivery** 
-demand 
+**demand** 
 **democracy** 
 **democratic** 
 **demonstrate** 
