@@ -8,7 +8,11 @@ Construction of the aircraft is concentrated at Prestwick.
 **concentration**
 She needed all her powers of concentration to stop her from slipping on icy road.
 
+**concern** 
+`/kən/`
+
 **concert**
+`/ˈkɑːn/`
 We were going to a concert in Bath Abbey.
 
 **conclude**
