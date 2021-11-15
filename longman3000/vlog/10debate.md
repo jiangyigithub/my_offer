@@ -71,7 +71,11 @@ A deposit of 10% is required.
 the great depression
 
 **depth**
+`/de/`
 a sea with an average depth of 35 metres
+
+**derive**
+Medically, we will derive great benefit from the technique.
 
 ## 3
 **describe**
@@ -92,6 +96,9 @@ The new plane is in its final design stage.
 
 **designer**
 an interior designer
+
+**desire**
+She expressed desire to visit us.
 
 **desperate**
 `/ˈdes/`

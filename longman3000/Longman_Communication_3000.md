@@ -768,14 +768,14 @@ depend
 **deposit** 
 **depression** 
 **depth** 
-derive 
+**derive** 
 **describe** 
 **description** 
 **desert** 
 **deserve** 
 **design** 
 **designer** 
-desire 
+**desire** 
 desk 
 **desperate** 
 **despite** 
