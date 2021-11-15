@@ -8,10 +8,11 @@ Nearly half the students said they were in debt.
 a period of 10 years
 
 **decent**
-`/iː/`
+`/diː/`
 The majority of residents here are decent citizens.
 
 **declare**
+`/di/`
 A state of emergency has been declared.
 
 **defeat**
@@ -34,16 +35,38 @@ He deliberately upset her.
 I'm having some flowers deliverd for her birthday.
 
 ## 2
-delivery
-democracy
-democratic
-demonstrate
-demonstration
-dentist
-dependent
-deposit
-depression
-depth
+**delivery**
+You can expect delivery in a week to ten days.
+
+**democracy**
+`/di/` `/ˈmɒ/` `/krə/`
+a return to democracy after 16 years of military rule
+
+**democratic**
+`/ˌdemə/` `/ˈkræ/`
+a democratic government
+
+**demonstrate**
+The government now has an opportunity to demonstrate its commitment to reform.
+
+**demonstration**
+The high level of calls is clear demonstration of the need for the service.
+
+**dentist**
+I'm going to dentist this afternoon.
+
+**dependent**
+Your pay is dependent on how much you produce.
+
+**deposit**
+A deposit of 10% is required.
+
+**depression**
+the great depression
+
+**depth**
+a sea with an average depth of 35 metres
+
 ## 3
 describe
 description
