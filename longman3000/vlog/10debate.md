@@ -135,6 +135,7 @@ Did you put the meeting date in your diary.
 He died in 1985 at the age of 76.
 
 **diet**
+`/daɪ/`
 She doesn't eat very healthy diet.
 
 **difficulty**
