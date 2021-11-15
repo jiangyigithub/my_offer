@@ -71,6 +71,7 @@ Your pay is dependent on how much you produce.
 A deposit of 10% is required.
 
 **depression**
+`/dɪ/` `/ˈpre/`
 the great depression
 
 **depth**
@@ -92,6 +93,7 @@ The booklet give a brief description of each place.
 This area of country is mostly desert.
 
 **deserve**
+`/di/`
 I think we deserve a rest after all that hard work.
 
 **design**
