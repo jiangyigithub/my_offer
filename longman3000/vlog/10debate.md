@@ -108,17 +108,46 @@ The school is completely destroyed by fire.
 The floods brought death and destruction to the area.
 
 ## 4
-determination
-determined
-device
-devil
-diagram
-diamond
-diary
-die
-diet
-difficulty
+**determination**
+Yuru shows great determination to learn English.
+
+**determined**
+She was determined to win.
+
+**device**
+Their proposal was only a device to confuse the opposition.
+
+**devil**
+*evil*
+`/ˈde/`
+What on earth is wrong with poor devil.
+
+**diagram**
+a diagram of heating system
+
+**diamond**
+Cut the cookie dough to diamonds.
+
+**diary**
+Did you put the meeting date in your diary.
+
+**die**
+He died in 1985 at the age of 76.
+
+**diet**
+She doesn't eat very healthy diet.
+
+**difficulty**
+If you have any difficulties, give me a call.
+
 ## 5
-dimension
-directory
-disabled
+**dimension**
+`/daɪ/`
+We'll need to know the exact dimensions of the room.
+
+**directory**
+`/daɪ/`
+I couldn't find your number in the telephone directory.
+
+**disabled**
+The theatre has good access for the disabled.
