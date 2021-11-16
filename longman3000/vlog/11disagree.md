@@ -101,9 +101,21 @@ The weather was hot and dry.
 
 ## 4
 **duck**
+`/ʌ/`
+She took to dancing like a duck to water.
+
 **dude** 
+`/djuː/`
+*man*
+a real coll dude
+
 **due** 
+His new book is due to be published next year.
+
 **dull** 
+`/ʌl/`
+It shoulded pretty dull to me.
+
 **dumb** 
 **dump** 
 **during** 
