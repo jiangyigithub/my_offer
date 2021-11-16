@@ -83,3 +83,6 @@ admit - admin
 crew - cruel
 disagree - degree
 serve - deserve
+advert - avert
+disc - disk
+future - feature
