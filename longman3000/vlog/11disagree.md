@@ -67,15 +67,38 @@ The industry is dominated by five multinational companies.
 
 ## 3
 **dot** 
-**doubt** 
-**dozen** 
+`/dɒ/`
+I'll be there on the dot.
+
+**doubt**
+`/daʊ/`
+The incident raises doubts about the safty of nuclear power.
+
+**dozen**
+A dozen or so cars were parked near the entrance.
+
 **drama** 
+`/mə/`
+a drama critic
+
 **dramatic** 
+Universitis have suffered a dramatic drop in student numbers.
+
 **dress** 
+a summer dress
+
 **drop** 
+Your button has droped off.
+
 **drug** 
+She always look though she's on drugs.
+
 **drunk** 
+He was drunk on beer and whisky.
+
 **dry** 
+The weather was hot and dry.
+
 ## 4
 **duck**
 **dude** 
