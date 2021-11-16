@@ -1,5 +1,6 @@
 ## 1
 **disaster** 
+`/ˈzɑː/`
 Luckily the pilot saw the other plane just in time, and a disaster was narrowly averted.
 
 **disc** 
@@ -9,9 +10,11 @@ three keys attached to a metal disc
 Working from home requires a good deal of discipline.
 
 **discount**
+`/ˈdɪs/`
 Employees can buy books at a discount.
 
 **disease** 
+`/ˈziː/`
 She contracted the disease while she was abroad on holiday.
 
 **disgusting** 
@@ -31,15 +34,37 @@ The president hopes to visit Ireland in the not too distant future.
 
 ## 2
 **distinct** 
+two entirely distinct languages
+
 **distinction** 
+The Ack makes no distinction between children and adults.
+
 **distinguish** 
+His attorney argued that Cope could not distinguish between right and wrong.
+
 **district** 
+a post district
+
 **divide** 
+The book is divided into 6 sections.
+
 **division** 
+the traditional division of labour between husband and wife.
+
 **divorce** 
+Why doesn't she get a divorce?
+
 **domestic** 
+`/də/`
+the booming domestic economy
+
 **dominant** 
+`/ˈdɒ/`
+Japan became dominant in the mass market during the 1980s.
+
 **dominate** 
+The industry is dominated by five multinational companies.
+
 ## 3
 **dot** 
 **doubt** 
