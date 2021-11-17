@@ -1,3 +1,4 @@
+## 1
 **economics** 
 **either** 
 **elderly**  
@@ -8,6 +9,7 @@
 **emphasis** 
 **emphasize** 
 **empire** 
+## 2
 **empty** 
 **enable** 
 **encounter** 
@@ -18,6 +20,7 @@
 **enormous** 
 **enough** 
 **enquiry** 
+## 3
 **entertainment** 
 **enthusiasm** 
 **enthusiastic** 
@@ -27,7 +30,8 @@
 **entry** 
 **envelope** 
 **equal** 
-**equally** 
+**equally**
+## 4 
 **equipment** 
 **equivalent** 
 **era** 
