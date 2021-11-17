@@ -117,10 +117,24 @@ His new book is due to be published next year.
 It shoulded pretty dull to me.
 
 **dumb** 
+a bunch of dumb kids.
+
 **dump** 
+Ellie dumped all the photos of her ex-husband.
+
 **during** 
+Foxes remain hidden during the day.
+
 **early** 
+The money could be paid as early as next week.
+
 **earn** 
+`/ɜː/`
+He earns nearly 20,000$ a year.
+
 **ease** 
+She had an ability to put people at their ease 
+
 ## 5
 **eastern**
+Eastern religions
