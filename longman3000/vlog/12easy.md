@@ -56,8 +56,12 @@ I enjoyed every minute of it.
 **enormous** 
 an enormous amount of money
 
-**enough** 
+**enough**
+Are tht carrots coked enough?
+
 **enquiry** 
+*inquiry*
+I don't know who sent the gift,but I'll make some inquiries.
 
 ## 3
 **entertainment** 
