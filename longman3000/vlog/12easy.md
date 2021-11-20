@@ -65,17 +65,44 @@ I don't know who sent the gift,but I'll make some inquiries.
 
 ## 3
 **entertainment** 
-**enthusiasm** 
+The town provides a wide choice of entertainment.
+
+**enthusiasm**
+`/ɪn/` 
+We went along to the local diving club, full of enthusiasm.
+
 **enthusiastic** 
+The singer got an enthusiastic reception.
+
 **entire** 
+`/ˈen/`
+The entire staff agreed.
+
 **entirely** 
-**entrance** 
+Our situation is entirely different.
+
+**entrance**
+*enter* 
+the station entrance
+
 **entry** 
+Entry to the gardens is included in the price of admission.
+
 **envelope** 
-**equal** 
+envelopes and stamps
+
+**equal**
+Both candidates received  an equal number of votes.
+
 **equally**
+We agreed to divide the money equally between everyone.
 
 ## 4 
 **equipment** 
+a shop selling camping equipment
+
 **equivalent** 
+a qualification which is equivalent to a degree
+
 **era** 
+We live in an era of instant communication.

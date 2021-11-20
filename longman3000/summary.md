@@ -87,3 +87,4 @@ advert - avert
 disc - disk
 future - feature
 run - drunk
+era - error
