@@ -35,56 +35,79 @@ court coat
 button bottom (bought on)
 
 # similar
-use - abuse - accuse
-conduct - deduct
-road - broad - abroad
-chop-shop
-temporary - contemporary
-reach - breach
-corn - corner
-concert - convert
-proxy - approximate
-assumption - consumption
-tony - attorney `o`->`or`  `ny`->`ney`
-list - analyst
+abuse - accuse - use 
+abroad - broad - road
+approximate - proxy
+attorney - tony `o`->`or`  `ny`->`ney`
+analyst - list
 allowance -announce
 among - month
-mount - amount
-commit - committee
-content - accountant
-consumer - customer
-main - remain
-might - right
-word - award
+amount - mount
+award - word
 award - awkward
-fair - affair
+affair - fair
+advert - avert
+admit - admin
+
+breach - reach
 behave - behavior
 bone - backbone
 blow - below
 bare - bear - bell
 bear - beer - beard
-weight - wait
-rain - brain
+brain - rain
 borrow - brown
 brilliant - intelligent
-cereal - serious
+biscuit - circuit
+buddy - daddy
+
+conduct - deduct
+chop-shop
+contemporary - temporary
+corn - corner
+concert - convert
+consumption - assumption 
+committee - commit
+content - accountant
+consumer - customer
 chap - chip - chop
 chip - cheap - cheek
 chart - chat
-biscuit - circuit
-brown - crown
-aboard - cupboard - keyboard
-buddy - daddy
-button -cotton
-fashion - cushion
+cereal - serious
+crown - brown
+cupboard - aboard - keyboard
+cotton - button
+cushion -fashion 
+crew - cruel
 circle - cycle
 curtain - certain
-admit - admin
-crew - cruel
-disagree - degree
-serve - deserve
-advert - avert
+drunk - run
+degree - disagree
 disc - disk
-future - feature
-run - drunk
+deserve - serve
+
 era - error
+eye - i
+exist - exit
+expert - export
+
+future - feature
+remain - main
+might - right
+weight - wait
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
