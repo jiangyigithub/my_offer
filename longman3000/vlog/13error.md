@@ -79,7 +79,13 @@ The computer industry has expanded greatly over the last decade.
 The rapid expansion of cities can cause social and economic problems.
 
 **expect** 
+`/ɪkˈs/` `/pek/`
+Emergency repairs were expected to take three weeks.
+
 **expectation** 
+`/ˌeks/` `/pek/`
+Profits are below expectation.
+
 **expenditure** 
 **expense** 
 **expensive** 
