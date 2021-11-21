@@ -1,5 +1,6 @@
 ## 1
 **economics** 
+`/iːkə/`
 the economics of the scheme
 
 **either** 

@@ -76,6 +76,8 @@ The computer industry has expanded greatly over the last decade.
 
 ## 3
 **expansion** 
+The rapid expansion of cities can cause social and economic problems.
+
 **expect** 
 **expectation** 
 **expenditure** 
@@ -86,6 +88,7 @@ The computer industry has expanded greatly over the last decade.
 **experiment** 
 **experimental** 
 **expert**
+
 ## 4
 **explain** 
 **explanation** 
@@ -98,6 +101,7 @@ The computer industry has expanded greatly over the last decade.
 **extensive** 
 **extent** 
 **external** 
+
 ## 5
 **extra** 
 **extraordinary** 
