@@ -1391,7 +1391,8 @@ if
 ignore 
 ill 
 illegal 
-illness 
+illness
+*** 
 illustrate 
 image 
 imagination 
@@ -1468,6 +1469,7 @@ insurance
 intellectual 
 intelligence 
 intelligent 
+***
 intend 
 intense 
 intention 
@@ -1547,6 +1549,7 @@ labour
 lack 
 lad 
 ladder 
+***
 lady 
 lake 
 lamb 
@@ -1630,6 +1633,7 @@ lock
 log 
 logical 
 lonely 
+***
 long 
 long-term 
 look 
@@ -1711,6 +1715,7 @@ meat
 mechanism 
 media 
 medical 
+***
 medicine 
 medieval 
 medium 
@@ -1795,6 +1800,7 @@ mushroom
 music 
 musical 
 must 
+***
 my 
 myself 
 mystery 
@@ -1877,6 +1883,7 @@ objection
 objective 
 obligation 
 observation 
+***
 observe 
 obtain 
 obvious 
@@ -1961,6 +1968,7 @@ pack
 package 
 packet 
 pad 
+***
 page 
 pain 
 paint 
@@ -2041,7 +2049,8 @@ phrase
 physical 
 physically 
 physics 
-piano 
+piano
+*** 
 pick 
 picture 
 pie 
@@ -2128,6 +2137,7 @@ prayer
 precise 
 precisely 
 predict 
+***
 prefer 
 preference 
 pregnant 
@@ -2208,6 +2218,7 @@ prove
 provide 
 provided 
 providing 
+***
 provision 
 psychological 
 psychology 
@@ -2288,7 +2299,8 @@ recent
 recently 
 reception 
 recipe 
-reckon 
+reckon
+*** 
 recognition 
 recognize 
 recommend 
@@ -2367,6 +2379,7 @@ resign
 resignation 
 resist 
 resistance 
+***
 resolution 
 resolve 
 resort 
@@ -2449,6 +2462,7 @@ sandwich
 satellite 
 satisfaction 
 satisfied 
+***
 satisfy 
 sauce 
 sausage 
@@ -2529,6 +2543,7 @@ sharply
 shave 
 she 
 shed 
+***
 sheep 
 sheet 
 shelf 
@@ -2608,7 +2623,8 @@ smoking
 smooth 
 snap 
 snow 
-so 
+so
+*** 
 soap 
 so-called 
 social 
@@ -2687,7 +2703,8 @@ standard
 star 
 stare 
 start 
-starve 
+starve
+*** 
 state 
 statement 
 station 
@@ -2767,6 +2784,7 @@ suitable
 sum 
 summer 
 sun 
+***
 super 
 supermarket 
 supper 
@@ -2851,6 +2869,7 @@ thank
 thanks 
 thanks 
 that 
+***
 the 
 theatre 
 their 
@@ -2934,6 +2953,7 @@ transform
 transition 
 translate 
 transport 
+***
 transportation 
 trash 
 travel 
@@ -3016,6 +3036,7 @@ usual
 usually 
 vacation
 vague 
+***
 valley 
 valuable 
 value 
@@ -3098,6 +3119,7 @@ wet
 what 
 whatever 
 whatsoever 
+***
 wheel 
 when 
 whenever 
