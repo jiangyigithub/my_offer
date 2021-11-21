@@ -76,6 +76,7 @@ The computer industry has expanded greatly over the last decade.
 
 ## 3
 **expansion** 
+`/ɪkˈs/` `/pæn/`
 The rapid expansion of cities can cause social and economic problems.
 
 **expect** 
