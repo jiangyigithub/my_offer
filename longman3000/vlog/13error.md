@@ -32,26 +32,43 @@ The students are from a variety of ethnic backgrounds.
 He eventually escaped and made his way back to England.
 
 **examination**
-`/ɪɡ/`
+`/ɪɡˌz/`
 He 's already taken the entrance examination.
 
 ## 2 
 **examine**
-`/ɪɡ/`
+`/ɪɡˌz/`
 In the course , we will examine how and why spain bacame a democracy in 1931.
 
 **exception** 
-`/ɪk/`
+`/ɪkˈs/`
 It's been cold, but today's an exception.
 
 **excitement** 
+`/ɪkˈs/`
+In all the excitement, I left my wallet behind.
+
 **exclude** 
+`/ɪkˈs/`
+Some of the data was specifically excluded from the report.
+
 **executive**
-**exhibition** 
+`/ɪɡˌz/`
+top executives on high salaries
+
+**exhibition**
+`/ˌeksɪ/` 
+
 **exist** 
+`/ɪɡˌz/`
+
 **existence** 
+
 **existing** 
-**expand** 
+
+**expand**
+`/ɪkˈs/` 
+
 ## 3
 **expansion** 
 **expect** 
