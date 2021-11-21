@@ -37,7 +37,13 @@ He 's already taken the entrance examination.
 
 ## 2 
 **examine**
+`/ɪɡ/`
+In the course , we will examine how and why spain bacame a democracy in 1931.
+
 **exception** 
+`/ɪk/`
+It's been cold, but today's an exception.
+
 **excitement** 
 **exclude** 
 **executive**
