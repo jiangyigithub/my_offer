@@ -58,16 +58,21 @@ top executives on high salaries
 
 **exhibition**
 `/ˌeksɪ/` 
+an exhibition of black and white photographs
 
 **exist** 
 `/ɪɡˌz/`
+The club will cease to exist if financial help is not found.
 
 **existence** 
+The organization has been in existence for 25 years.
 
 **existing** 
+The service is available to all existing customers.
 
 **expand**
 `/ɪkˈs/` 
+The computer industry has expanded greatly over the last decade.
 
 ## 3
 **expansion** 
