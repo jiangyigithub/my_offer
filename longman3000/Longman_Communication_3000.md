@@ -388,7 +388,7 @@ buy
 buyer 
 **by** 
 **bye** 
-bye  
+bye 
 **cabinet**
 cable 
 cake 
@@ -729,7 +729,7 @@ day
 **deaf** 
 **deal** 
 **dealer** 
-**dear**   
+**dear**  
 **death**
 *** 
 debate 
@@ -1136,6 +1136,7 @@ folk
 follow 
 following 
 food 
+***
 foot 
 football 
 for 
@@ -1216,7 +1217,8 @@ gentleman
 gently 
 genuine 
 get 
-giant 
+giant
+*** 
 gift 
 girl 
 girlfriend 
@@ -1233,13 +1235,13 @@ gold
 golden 
 golf 
 good 
-good morning  
-good night  
-goodbye  
+good morning 
+good night 
+goodbye 
 goodness 
 goods 
 gorgeous 
-gosh  
+gosh 
 govern 
 government 
 governor 
@@ -1302,7 +1304,8 @@ he
 head 
 headquarters 
 health 
-healthy 
+healthy
+*** 
 hear 
 hearing 
 heart 
@@ -1314,7 +1317,7 @@ heavily
 heavy 
 height 
 hell 
-hello  
+hello 
 help 
 helpful 
 hence 
@@ -1324,7 +1327,7 @@ hero
 hers 
 herself 
 hesitate 
-hi  
+hi 
 hide 
 high 
 highlight 
@@ -1898,7 +1901,7 @@ official
 often 
 oil 
 OK 
-OK  
+OK 
 old 
 on 
 once 
@@ -1971,7 +1974,7 @@ panic
 pants 
 paper 
 parcel 
-pardon  
+pardon 
 parent 
 park 
 parking 
@@ -2067,7 +2070,7 @@ play
 player 
 pleasant 
 please 
-please  
+please 
 pleased 
 pleasure 
 plenty 
@@ -2397,7 +2400,7 @@ rid
 ride 
 ridiculous 
 right 
-right  
+right 
 ring 
 rip 
 rise 
@@ -2846,7 +2849,7 @@ text
 than 
 thank 
 thanks 
-thanks  
+thanks 
 that 
 the 
 theatre 
@@ -2958,7 +2961,7 @@ tube
 tune 
 tunnel 
 turn 
-twice  
+twice 
 twist 
 type 
 typical 
@@ -3088,7 +3091,7 @@ weird
 welcome 
 welfare 
 well 
-well  
+well 
 west 
 western 
 wet 
@@ -3167,7 +3170,7 @@ yard
 yeah 
 year 
 yellow 
-yep  
+yep 
 yes 
 yesterday 
 yet 
