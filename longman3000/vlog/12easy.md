@@ -42,9 +42,11 @@ The loan enabled Jan to buy a house.
 The doctor had encountered several similar cases in the past.
 
 **enemy** 
+`/ˈenə/`
 Cats and dogs have always been natural enemy.
 
 **energy**
+`/ˈenə/`
 He wants to conserve his engergy for next week's game.
 
 **engage** 
@@ -61,10 +63,12 @@ Are tht carrots coked enough?
 
 **enquiry** 
 *inquiry*
+`/ɪn/`
 I don't know who sent the gift,but I'll make some inquiries.
 
 ## 3
 **entertainment** 
+`/teɪn/`
 The town provides a wide choice of entertainment.
 
 **enthusiasm**

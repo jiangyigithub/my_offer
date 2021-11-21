@@ -1,0 +1,5 @@
+ance
+entrance
+
+ency 
+emergency
