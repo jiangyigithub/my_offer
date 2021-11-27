@@ -87,8 +87,13 @@ Emergency repairs were expected to take three weeks.
 `/ˌeks/` `/pek/`
 Profits are below expectation.
 
-**expenditure** 
+**expenditure**
+`/ɪkˈs/` 
+government expenditure on education
+
 **expense** 
+He borrowed $150,000 and used the money for legal expenses.
+
 **expensive** 
 **experience**
 **experienced** 
