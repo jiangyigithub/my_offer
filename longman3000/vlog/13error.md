@@ -4,6 +4,7 @@
 He broke down the locked door and escaped.
 
 **essay** 
+`/ˈe/`
 an essay on Bernard Shaw
 
 **essential**
@@ -13,7 +14,7 @@ A good diet is essential for everyone.
 Suicide rates have remained essentially unchanged.
 
 **establish** 
-`/tæb/`
+`/ɪ/` `/tæb/`
 *t* -->*d*
 Our goal is to establish a new research center in North.
 
