@@ -95,10 +95,19 @@ government expenditure on education
 He borrowed $150,000 and used the money for legal expenses.
 
 **expensive** 
+Photography is an expensive hobby.
+
 **experience**
+The advice in the booklet reflects the practical experience we have gained.
+
 **experienced** 
+an experienced pilot
+
 **experiment** 
+Many small birds guide themselves by stars, as has been verified by experiment.
+
 **experimental** 
+
 **expert**
 
 ## 4
