@@ -107,6 +107,7 @@ an experienced pilot
 Many small birds guide themselves by stars, as has been verified by experiment.
 
 **experimental** 
+`/ɪkˈs/`
 A hypothesis is tested by finding experimental evidence for it.
 
 **expert**
