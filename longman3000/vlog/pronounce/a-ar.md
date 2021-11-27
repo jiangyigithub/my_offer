@@ -5,6 +5,7 @@ average - acid - actually
 crack - exactly
 
 `/eə/`
+area
 share - dare - prepare 
 
 `/ˈɑː/`

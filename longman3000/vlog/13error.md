@@ -157,8 +157,21 @@ information from extennal sources
 
 ## 5
 **extra** 
+`/ˈeks/`
+Allow extra time for your journey.
+
 **extraordinary** 
+`/ɪkˈs/` `/trɔː/`
+It's extraordinary that he should make exactly the same mistake again.
+
 **extreme** 
+Extreme poverty still exists in many rural areas.
+
 **extremely** 
+Earthquakes are extremely difficult to predict.
+
 **eye** 
+a brown-eyed girl
+
 **facility** 
+All rooms have private facilities.
