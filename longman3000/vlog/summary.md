@@ -89,7 +89,8 @@ deserve - serve
 era - error
 eye - i
 exist - exit
-expert - export
+expert - export - expose
+expression - exhibition
 
 future - feature
 remain - main

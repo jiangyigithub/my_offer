@@ -116,16 +116,44 @@ Tests should be administered by a medical expert.
 
 ## 4
 **explain** 
+`/ɪkˈs/`
+He carefully explain the procedure.
+
 **explanation** 
+`/eks/`
+The concert was cancelled without explanation.
+
 **explosion**
+`/ɪkˈs/` `/ʒn/`
+Several people were injured in a bomb explosion.
+
 **export** 
+`/ˈeks/`
+Wheat is one of the country's main exports.
+
 **express** 
+`/ɪkˈs/`
+Bill's not afraid to express his opinions.
+
 **expression** 
+`/ɪkˈs/` `/ʃn/`
+I decided to go to the meeting as an expression of the support.
+
 **extend** 
+`/ɪkˈs/`
+Management have agreed to extend the deadline.
+
 **extension**
+Donald's been given an extension to finish his thesis.
+
 **extensive** 
+The exhibition has received extensive coverage in the national press.
+
 **extent** 
+Its success will depend to a large extent on local attitudes.
+
 **external** 
+information from extennal sources
 
 ## 5
 **extra** 
