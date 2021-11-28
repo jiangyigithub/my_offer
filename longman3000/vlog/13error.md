@@ -62,13 +62,15 @@ top executives on high salaries
 an exhibition of black and white photographs
 
 **exist** 
-`/ɪɡˌz/`
+`/ɪɡˈz/`
 The club will cease to exist if financial help is not found.
 
-**existence** 
+**existence**
+`/ɪɡˈz/` 
 The organization has been in existence for 25 years.
 
-**existing** 
+**existing**
+`/ɪɡˈz/` 
 The service is available to all existing customers.
 
 **expand**
