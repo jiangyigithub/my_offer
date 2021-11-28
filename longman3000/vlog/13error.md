@@ -89,7 +89,7 @@ Emergency repairs were expected to take three weeks.
 Profits are below expectation.
 
 **expenditure**
-`/ɪkˈs/` 
+`/ɪkˈs/` `/pen/`
 government expenditure on education
 
 **expense** 
