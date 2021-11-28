@@ -95,7 +95,13 @@ escape - skip
 essential - central
 extreme - dream
 
+fail - fair - fear
+figure - figer
+flash - flesh
+flow - follow - fellow
+fall - for
 future - feature
+
 remain - main
 might - right
 weight - wait
