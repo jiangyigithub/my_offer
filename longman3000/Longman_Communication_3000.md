@@ -979,7 +979,7 @@ environmental
 ***
 error 
 **escape** 
-especially 
+**especially** 
 **essay** 
 **essential**
 **essentially** 
@@ -1015,12 +1015,12 @@ exciting
 **exclude** 
 excuse 
 **executive**
-exercise 
+**exercise** 
 **exhibition** 
 **exist** 
 **existence** 
 **existing** 
-exit 
+**exit** 
 **expand** 
 **expansion** 
 **expect** 

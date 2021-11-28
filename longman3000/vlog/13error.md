@@ -3,6 +3,9 @@
 `/ɪ/`
 He broke down the locked door and escaped.
 
+**especially**
+Art books are expensive to produce, especially
+
 **essay** 
 `/ˈe/`
 an essay on Bernard Shaw
@@ -57,6 +60,9 @@ Some of the data was specifically excluded from the report.
 `/ɪɡˌz/`
 top executives on high salaries
 
+**exercise**
+Try to fit some regular exercise into your daily routine.
+
 **exhibition**
 `/ˌeksɪ/` 
 an exhibition of black and white photographs
@@ -72,6 +78,9 @@ The organization has been in existence for 25 years.
 **existing**
 `/ɪɡˈz/` 
 The service is available to all existing customers.
+
+**exit**
+Two men were blocking her exit.
 
 **expand**
 `/ɪkˈs/` 
@@ -104,6 +113,7 @@ Photography is an expensive hobby.
 The advice in the booklet reflects the practical experience we have gained.
 
 **experienced** 
+`/pɪə/` `/st/`
 an experienced pilot
 
 **experiment** 
