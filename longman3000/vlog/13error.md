@@ -4,7 +4,7 @@
 He broke down the locked door and escaped.
 
 **especially**
-Art books are expensive to produce, especially
+Art books are expensive to produce, especially if they contain colour illustrations.
 
 **essay** 
 `/ˈe/`
