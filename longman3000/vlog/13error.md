@@ -11,6 +11,7 @@ Art books are expensive to produce, especially if they contain colour illustrati
 an essay on Bernard Shaw
 
 **essential**
+`/ʃl/`
 A good diet is essential for everyone.
 
 **essentially** 
