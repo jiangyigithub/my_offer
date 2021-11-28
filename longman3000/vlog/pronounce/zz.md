@@ -4,8 +4,9 @@
 `/ɒ/` `/əʊ/` `/ɔ/`
 
 
-tab
+`tab`
 establish
 
-sci
+`sci`
+conscious
 fascinating
