@@ -91,6 +91,9 @@ eye - i
 exist - exit
 expert - export - expose
 expression - exhibition
+escape - skip
+essential - central
+extreme - dream
 
 future - feature
 remain - main

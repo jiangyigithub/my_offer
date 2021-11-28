@@ -26,6 +26,7 @@ Our goal is to establish a new research center in North.
 The public is treated with contempt by the art esitablishment.
 
 **estate** 
+`/ɪ/`
 The property is part of D's estate.
 
 **ethnic** 
@@ -38,6 +39,7 @@ He eventually escaped and made his way back to England.
 
 **examination**
 `/ɪɡˌz/`
+*ation*
 He 's already taken the entrance examination.
 
 ## 2 
@@ -98,6 +100,7 @@ Emergency repairs were expected to take three weeks.
 
 **expectation** 
 `/ˌeks/` `/pek/`
+*ation*
 Profits are below expectation.
 
 **expenditure**
@@ -135,6 +138,7 @@ He carefully explain the procedure.
 
 **explanation** 
 `/eks/`
+*ation*
 The concert was cancelled without explanation.
 
 **explosion**
