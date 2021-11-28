@@ -5,32 +5,32 @@
 **fall** 
 **false** 
 **familiar** 
-**fancy** 
+**fancy** 1
 **fantastic**  
-**fascinating** 
+**fascinating** 1
 **fault**
-**favour** 
+**favour** 1
 **favourite** 
-**federal** 
-**fellow** 
+**federal** 1
+**fellow** 1
 **female** 
-**fence** 
+**fence** 1
 **festival** 
 **field** 
 **figure** 
 **fill** 
 **film** 
-**filthy** 
+**filthy** 1
 **finance** 
 **financial** 
-**firm** 
-**flat** 
-**flavour** 
-**flesh** 
+**firm** 1
+**flat** 1
+**flavour** 1
+**flesh** 1
 **flight** 
 **flood** 
 **floor** 
-**flow** 
+**flow** 1
 **focus** 
 **fold** 
-**folk** 
+**folk** 1
