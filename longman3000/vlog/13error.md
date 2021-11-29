@@ -171,6 +171,7 @@ The exhibition has received extensive coverage in the national press.
 Its success will depend to a large extent on local attitudes.
 
 **external** 1
+*internal*
 information from extennal sources
 
 ## 5

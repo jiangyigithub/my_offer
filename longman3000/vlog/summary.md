@@ -101,6 +101,7 @@ flash - flesh
 flow - follow - fellow
 fall - for
 future - feature
+favour - fever
 
 remain - main
 might - right
