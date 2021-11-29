@@ -1109,7 +1109,7 @@ finally
 find 
 finding 
 fine 
-finger 
+**finger** 
 finish 
 fire 
 **firm** 

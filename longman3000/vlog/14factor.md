@@ -23,6 +23,8 @@
 **filthy** 1
 **finance** 
 **financial** 
+**finger** 1
+`/fɪŋ/`
 **firm** 1
 **flat** 1
 **flavour** 1
