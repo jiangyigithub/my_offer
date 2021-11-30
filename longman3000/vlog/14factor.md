@@ -60,6 +60,9 @@ Over half of the staff are female.
 **festival** 
 Christmas is one of the main festivals in the Christian Calendar.
 
+**fetch**
+This announcement fetched a huge cheer from the audience.
+
 **field** 
 Peter's an expert in his field.
 
