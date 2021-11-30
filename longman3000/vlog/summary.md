@@ -95,17 +95,25 @@ escape - skip
 essential - central
 extreme - dream
 
-fail - fair - fear
+fail - fair - fear - fill
 figure - figer
 flash - flesh
 flow - follow - fellow
 fall - for
 future - feature
-favour - fever
+favour - fever - flavour
+fence - fans
+firm - form
+flat - flight
+floor - flow
+fold - old
 
 remain - main
 might - right
 weight - wait
+temper - temple
+wage - age
+world - word
 
 
 
