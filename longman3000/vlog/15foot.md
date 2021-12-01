@@ -1,9 +1,12 @@
 ## 1
 **force** 
+Peace cannot be imposed by force.
 
 **foreign** 
+transactions in foreign currencies
 
 **forest** 
+a tropical forest
 
 **formal** 
 There is no formal structure for negotiating pay increases.
