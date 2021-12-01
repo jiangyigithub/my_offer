@@ -1,14 +1,28 @@
 ## 1
 **force** 
+
 **foreign** 
+
 **forest** 
+
 **formal** 
+There is no formal structure for negotiating pay increases.
+
 **formally** 
 **formation** 
+We now know a lot more about the early stages of planetary formation.
+
 **former** 
+Their farm has been reduced to half its former size.
+
 **formula** 
+a formula for the withdrawal of US forces from the area
+
 **forth** 
+The house was still burning, pouring forth thick black smoke.
+
 **fortnight** 
+in a fornight's time
 
 ## 2
 **fortunate** 
