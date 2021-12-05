@@ -112,16 +112,40 @@ I'll just go and put the car in the garage
 Can you take out the garbage when you go?
 
 **garlic** 
+`/ˈɡɑː/`
+Add a crushed clove of garlic
+
 **gas** 
+The explosion was caused by a gas leak from the water heater.
+
 **gasoline** 
+gasoline station
+
 **gate** 
+I left the engine running and ran back to close the gate.
+
 **gear** 
+During the period, Japan's export industries were in top gear.
+
 **gene** 
+human genes
+
 **generous** 
+She's always very generous to the kids.
 
 ## 5
 **gentle** 
+Be gentle with the bady.
+
 **gentleman** 
+Good morning , ladied and gentlemen.
+
 **gently** 
-**genuine**  
+She kissed me gently on the cheek.
+
+**genuine**
+The reforms are motivated by a genuine concern for the disabled.
+
 **giant**
+`/ˈdʒaɪ/`
+a giant electronics company

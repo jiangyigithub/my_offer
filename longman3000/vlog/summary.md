@@ -111,6 +111,7 @@ filed - filled
 folk - fork
 formally - family
 
+gear - ear
 remain - main
 might - right
 weight - wait
