@@ -6,7 +6,8 @@ Luckily the pilot saw the other plane just in time, and a disaster was narrowly 
 **disc** 
 three keys attached to a metal disc
 
-**discipline** 
+**discipline**
+`/sə/` 
 Working from home requires a good deal of discipline.
 
 **discount**

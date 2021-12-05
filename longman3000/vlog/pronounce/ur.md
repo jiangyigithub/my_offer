@@ -1,3 +1,3 @@
 ur
 `/ɜː/`
-burn burst church curtain curve
+burn burst church curtain curve furniture further

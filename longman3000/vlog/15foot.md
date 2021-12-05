@@ -31,34 +31,86 @@ in a fornight's time
 
 ## 2
 **fortunate** 
+I 've been fortunate to find a career that I love.
+
 **fortune** 
+The carpet must have cost a fortune.
+
 **frame** 
+Thet removed the picture from the wooden frame.
+
 **frankly** 
-**freeze** 
+His behaviour was frankly disgraceful.
+
+**freeze**
+I think I'll freeze that extra meat.
+
 **freezer** 
+*fridge*
+
 **frequent** 
+She was a frequent visitor to the house.
+
 **frequently** 
+He was frequently drunk.
+
 **fresh** 
+`/e/`
+The accident was still fresh in her mind.
+
 **fridge** 
+`/rɪdʒ/`
+
 **frightened** 
+I was frightened of being left by myself in the house.
 
 ## 3
 **front** 
-**fry** 
+When disciplining children, it is important that parents present a united front.
+
+**fry**
+Fry the potatoes, covered, for about 20 minutes.
+
 **fuel** 
+Coal is one of the cheapest fules.
+
 **fundamental** 
+*root cause*
+We have to tackle the fundamental cause of the problem.
+
 **funeral** 
+Hundreds of mourners attended the funeral of the two boys.
+
 **funny** 
+Do you remember any funny stories about work?
+
 **furniture** 
+I helped him choose the furniture for his house.
+
 **further** 
+A spokesman declined to comment until the evidence could be studied further.
+
 **fuss** 
+The Steamatic enables you to clean any carpet with minimum of fuss.
+
 **gain** 
+Radical left-wing parties gained control of local authorities.
+
 **gallery** 
+an exhibition of African art at the Hayward Gallery.
 
 ## 4
 **gang** 
+The parents have denied that their son is a gang member.
+
 **garage** 
+`/ɡæ/`
+I'll just go and put the car in the garage
+
 **garbage** 
+`/ˈɡɑː/`
+Can you take out the garbage when you go?
+
 **garlic** 
 **gas** 
 **gasoline** 
