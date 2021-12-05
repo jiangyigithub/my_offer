@@ -1061,7 +1061,7 @@ factory
 **failure** 
 **fair** 
 **fairly** 
-faith 
+**faith** 
 **fall** 
 **false** 
 **familiar** 
@@ -1083,7 +1083,7 @@ father
 **favourite** 
 fear 
 feature 
-federal 
+**federal** 
 fee 
 feed 
 feedback 

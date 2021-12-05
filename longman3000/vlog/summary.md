@@ -96,22 +96,24 @@ essential - central
 extreme - dream
 
 fail - fair - fear - fill
+false - force
+folk - fork
+firm - film - form
+fall - for
 figure - figer
 flash - flesh
 flow - follow - fellow
-fall - for
 future - feature
 favour - fever - flavour
 fence - fans
-firm - form
 flat - flight
 floor - flow
 fold - old
 filed - filled
-folk - fork
 formally - family
 
 gear - ear
+
 remain - main
 might - right
 weight - wait

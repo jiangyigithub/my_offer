@@ -11,6 +11,9 @@ All we are asking for is a fair wage.
 **fairly** 
 I felt I hadn't been treated fairly.
 
+**faith**
+I still have faith in him.
+
 **fall** 
 Enough rain had fallen to flood the grounds.
 
