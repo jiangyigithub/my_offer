@@ -12,6 +12,8 @@ a tropical forest
 There is no formal structure for negotiating pay increases.
 
 **formally** 
+We announced a decision formally recognizing the new government.
+
 **formation** 
 We now know a lot more about the early stages of planetary formation.
 
