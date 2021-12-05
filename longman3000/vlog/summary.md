@@ -7,8 +7,9 @@ anger angle
 allow alound 
 awful offer
 alarm allow
-allowance announcealarm allow
 allowance announce 
+aboard abroad
+
 bean bin
 bit beat
 been being
@@ -17,22 +18,27 @@ behave behalf
 battle batter
 break brick
 bring brain
+button bottom (bought on)
+
 core call
 cold code
 coast cost
 collar color
 cell sale
-dealer dinner
-steady study
 central century
-aboard abroad
 cotton cartoon
 college colleague
-profit perfect
 climb claim
 collar  collour
 court coat
-button bottom (bought on)
+
+dealer dinner
+
+steady study
+profit perfect
+
+
+
 
 # similar
 abuse - accuse - use 
