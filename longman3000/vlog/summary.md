@@ -117,6 +117,8 @@ floor - flow
 fold - old
 filed - filled
 formally - family
+faith - face
+flight - fly
 
 gear - ear
 
