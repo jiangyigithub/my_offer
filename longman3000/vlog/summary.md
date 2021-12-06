@@ -124,6 +124,7 @@ force - forth - focus
 gear - ear
 go - goal
 grey - green
+glove - love
 
 hair - hear
 head - had

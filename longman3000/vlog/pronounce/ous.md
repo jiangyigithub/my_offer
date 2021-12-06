@@ -1,0 +1,4 @@
+`/ous/`
+
+generous
+gorgeous

@@ -1,14 +1,22 @@
 ## 1
 **gift** 
+a generous gift of 50 prounds
+
 **give** 
 **glance** 
+Can you glance through these figures for me?
+
 **glass** 
 **glove** 
+a pair of gloves
+
 **goal** 
 **goodness** 
 **goods** 
 **gorgeous** 
+
 **gosh** 
+Gosh, It's cold.
 
 ## 2
 **govern** 
@@ -39,8 +47,10 @@
 **guess** 
 **guest** 
 **guidance** 
+
 **guide**
-Today I wanna talk about, or explore a complete beginner's guide to learning English by yourself
+Today I wanna talk about, or explore a complete beginner's guide to learning English by yourself.
+
 **guilty** 
 **guitar** 
 **guy** 
