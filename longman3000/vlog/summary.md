@@ -112,14 +112,12 @@ flow - follow - fellow
 future - feature
 favour - fever - flavour
 fence - fans
-flat - flight
 floor - flow
 fold - old
 filed - filled
 formally - family
 faith - face
-flight - fly
-flash - flesh
+flight - fly - flat
 
 gear - ear
 
