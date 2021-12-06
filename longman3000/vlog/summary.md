@@ -119,8 +119,14 @@ fold - old
 formally - family
 faith - face
 flight - fly - flat
+force - forth - focus
 
 gear - ear
+go - goal
+grey - green
+
+hair - hear
+head - had
 
 remain - main
 might - right
