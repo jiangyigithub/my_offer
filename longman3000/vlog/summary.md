@@ -102,19 +102,20 @@ essential - central
 extreme - dream
 
 fail - fair - fear - fill
+file - fire
+field - filled
+floor - flow
 false - force
 folk - fork
 firm - film - form
 fall - for
 figure - figer
 flash - flesh
-flow - follow - fellow
+fellow - follow
 future - feature
 favour - fever - flavour
 fence - fans
-floor - flow
 fold - old
-filed - filled
 formally - family
 faith - face
 flight - fly - flat
