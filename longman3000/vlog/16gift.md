@@ -3,17 +3,23 @@
 a generous gift of 50 prounds
 
 **give** 
+
 **glance** 
 Can you glance through these figures for me?
 
 **glass** 
+
 **glove** 
 a pair of gloves
 
 **goal** 
+
 **goodness** 
+
 **goods** 
+
 **gorgeous** 
+The hotel room had a gorgeous view.
 
 **gosh** 
 Gosh, It's cold.
