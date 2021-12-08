@@ -16,7 +16,8 @@ a pair of gloves
 **goal** 
 Your goal as a parent is to help your child become an independent adult.
 
-**goodness** 
+**goodness**
+That bar's been closed for goodness knows how long. 
 
 **goods** 
 
