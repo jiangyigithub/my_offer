@@ -3,6 +3,7 @@
 a generous gift of 50 prounds
 
 **give** 
+Researcher were given a 10,000 prounds grant to continue their work.
 
 **glance** 
 Can you glance through these figures for me?
@@ -20,6 +21,7 @@ Your goal as a parent is to help your child become an independent adult.
 That bar's been closed for goodness knows how long. 
 
 **goods** 
+There will be tax increases on a range of goods and services.
 
 **gorgeous** 
 The hotel room had a gorgeous view.
