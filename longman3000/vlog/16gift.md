@@ -6,12 +6,15 @@ a generous gift of 50 prounds
 Researcher were given a 10,000 prounds grant to continue their work.
 
 **glance** 
+`/ɡlɑːn/`
 Can you glance through these figures for me?
 
 **glass** 
+`/ɡlɑː/`
 a glass bowl
 
-**glove** 
+**glove**
+`/ʌ/` 
 a pair of gloves
 
 **goal** 
@@ -24,6 +27,7 @@ That bar's been closed for goodness knows how long.
 There will be tax increases on a range of goods and services.
 
 **gorgeous** 
+`/ˈɡɔː/` `/dʒəs/`
 The hotel room had a gorgeous view.
 
 **gosh** 
@@ -31,6 +35,7 @@ Gosh, It's cold.
 
 ## 2
 **govern** 
+`/ˈɡʌ/`
 The universe is governed by the laws of physics.
 
 **government** 
@@ -40,12 +45,14 @@ Most people in the country support the return to democratic government.
 The hospital's board of governors.
 
 **grab** 
+`/ɡræ/`
 This is our chance to grab a slice of this new market.
 
 **grade** 
 The best grades of tea are expensive.
 
 **gradually** 
+`/ˈɡræ/` `/dʒuə/`
 Jill gradually became aware of an awful smell.
 
 **gram** 
@@ -55,9 +62,11 @@ a basic unit for measuring weight in the metric system.
 Check your spelling and grammar.
 
 **granny** 
+`/ˈɡræn/`
 grandmother
 
 **grant** 
+`/ɡrɑːn/`
 A license to sell alcohol was granted to the club.
 
 ## 3
