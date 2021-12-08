@@ -129,6 +129,7 @@ glove - love
 hair - hear
 head - had
 
+smell - smile
 remain - main
 might - right
 weight - wait

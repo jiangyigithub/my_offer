@@ -8,11 +8,13 @@ a generous gift of 50 prounds
 Can you glance through these figures for me?
 
 **glass** 
+a glass bowl
 
 **glove** 
 a pair of gloves
 
 **goal** 
+Your goal as a parent is to help your child become an independent adult.
 
 **goodness** 
 
@@ -26,15 +28,33 @@ Gosh, It's cold.
 
 ## 2
 **govern** 
+The universe is governed by the laws of physics.
+
 **government** 
+Most people in the country support the return to democratic government.
+
 **governor** 
+The hospital's board of governors.
+
 **grab** 
+This is our chance to grab a slice of this new market.
+
 **grade** 
+
 **gradually** 
+Jill gradually became aware of an awful smell.
+
 **gram** 
+a basic unit for measuring weight in the metric system.
+
 **grammar** 
+Check your spelling and grammar.
+
 **granny** 
+grandmother
+
 **grant** 
+A license to sell alcohol was granted to the club.
 
 ## 3
 **graph** 
