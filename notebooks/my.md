@@ -8,6 +8,8 @@
    data structure --> search,sort,dp,recur
    operation system
    design pattern
+   network
+   database
 
 2. domain
    `Algorithm`
