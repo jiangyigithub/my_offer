@@ -40,6 +40,7 @@ The hospital's board of governors.
 This is our chance to grab a slice of this new market.
 
 **grade** 
+The best grades of tea are expensive.
 
 **gradually** 
 Jill gradually became aware of an awful smell.
