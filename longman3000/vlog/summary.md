@@ -125,6 +125,8 @@ gear - ear
 go - goal
 grey - green
 glove - love
+grass - gross
+guard - guide - god
 
 hair - hear
 head - had

@@ -28,6 +28,7 @@ There will be tax increases on a range of goods and services.
 
 **gorgeous** 
 `/ˈɡɔː/` `/dʒəs/`
+*extremely beautiful*
 The hotel room had a gorgeous view.
 
 **gosh** 
@@ -71,33 +72,61 @@ A license to sell alcohol was granted to the club.
 
 ## 3
 **graph** 
+
 **grass** 
+`/ɡrɑː/`
+She enjoyed the feel of grass beneath her feet.
+
 **grateful** 
+
 **great** 
+
 **greatly** 
+
 **green** 
+
 **grey** 
-**grocery** 
+
+**grocery**
+*supermarket*
+`/ˈɡrəʊ/` `/səri/`
+
 **gross** 
+`/ɡrəʊ/`
+The company described reports of environmental disaster as gross exaggeration.
+
 **guarantee** 
+`in straight away`
+If you send the application form in straight away, i can guarantee you an interview.
+
 **guard** 
 
 ## 4
 **guess** 
+
 **guest** 
+
 **guidance** 
 
 **guide**
 Today I wanna talk about, or explore a complete beginner's guide to learning English by yourself.
 
 **guilty** 
+
 **guitar** 
+
 **guy** 
+
 **habit** 
+
 **hair** 
 
 ## 5
 **hall** 
+
 **handy** 
+
 **hang** 
+`/æŋ/`
+
 **headquarters** 
