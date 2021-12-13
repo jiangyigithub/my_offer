@@ -82,12 +82,16 @@ She enjoyed the feel of grass beneath her feet.
 I am extremely grateful for the assistance your staff have provided.
 
 **great** 
+The movie was a great success.
 
 **greatly** 
+All offers of help will be greatly appreciated.
 
 **green** 
+The bananas are still green.
 
 **grey** 
+As he listened, his face went grey with shock.
 
 **grocery**
 *supermarket*
