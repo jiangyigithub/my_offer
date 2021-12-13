@@ -128,9 +128,11 @@ glove - love
 grass - gross
 guard - guide - god
 
-hair - hear - fair
-hall - fall
+hair - hear - fair - here
+hall - fall - all
 head - hand - had
+handy - candy
+headquarters - quarter
 
 smell - smile
 remain - main

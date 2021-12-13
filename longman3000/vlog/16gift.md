@@ -106,30 +106,43 @@ There are two secuity guards on duty outside the building.
 
 ## 4
 **guess** 
+I'd say he's around 50, but I'm only guessing.
 
 **guest** 
+Most of the wedding guests had left.
 
 **guidance** 
+I went to a counselor for guidance on my career.
 
 **guide**
 Today I wanna talk about, or explore a complete beginner's guide to learning English by yourself.
 
 **guilty** 
+It was his guilty conscience that made him offer to help.
 
 **guitar** 
+an electric guitar
 
 **guy** 
+Jake's a real tough guy.
 
 **habit** 
+`/ˈhæ/`
+Regular exercise is a good habit.
 
 **hair** 
+Her hair was short and dark.
 
 ## 5
 **hall** 
+We hung our coats in a cupboard in the hall.
 
 **handy** 
+Take your swimming trunks with yor - they might come in handy.
 
 **hang** 
 `/æŋ/`
+I wanted to hang the picture in the hall.
 
 **headquarters** 
+the headquarters of the United Nations
