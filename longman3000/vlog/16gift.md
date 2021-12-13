@@ -72,12 +72,14 @@ A license to sell alcohol was granted to the club.
 
 ## 3
 **graph** 
+Martin showed me a graph of their recent sales.
 
 **grass** 
 `/ɡrɑː/`
 She enjoyed the feel of grass beneath her feet.
 
 **grateful** 
+I am extremely grateful for the assistance your staff have provided.
 
 **great** 
 
@@ -100,6 +102,7 @@ The company described reports of environmental disaster as gross exaggeration.
 If you send the application form in straight away, i can guarantee you an interview.
 
 **guard** 
+There are two secuity guards on duty outside the building.
 
 ## 4
 **guess** 

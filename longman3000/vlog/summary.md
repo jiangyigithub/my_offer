@@ -128,8 +128,9 @@ glove - love
 grass - gross
 guard - guide - god
 
-hair - hear
-head - had
+hair - hear - fair
+hall - fall
+head - hand - had
 
 smell - smile
 remain - main
