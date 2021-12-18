@@ -1,3 +1,7 @@
+`gua`
+guarante
+guard
+
 `gue`
 guess
 guest

@@ -127,12 +127,15 @@ grey - green
 glove - love
 grass - gross
 guard - guide - god
+grade - great
+guard - god
 
 hair - hear - fair - here
 hall - fall - all
 head - hand - had
 handy - candy
 headquarters - quarter
+hat - hate - heat
 
 smell - smile
 remain - main
