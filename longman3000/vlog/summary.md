@@ -130,7 +130,7 @@ guard - guide - god
 grade - great
 guard - god
 
-hair - hear - fair - here - hill
+hair - hear - fair - here - hill - hell
 hall - fall - all
 head - hand - had
 handy - candy
