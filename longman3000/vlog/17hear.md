@@ -109,4 +109,5 @@ Have you met my husband Roy?
 Would you like some ice in your drink?
 
 **idiot** 
+`/ˈɪdiə/`
 It was all your fault, you idiot.
