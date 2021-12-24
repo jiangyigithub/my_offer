@@ -64,12 +64,31 @@ I can honestly say that I never worry about him now.
 
 ## 3
 **honour** 
+It is an honor to have you here, sir.
+
 **hook** 
+Tom hung his coat on the hook behind the door.
+
 **horrible** 
+The weather has been really horrible all week.
+
 **horror** 
+Dense smoke surrounded them, adding to the horror of the situation.
+
 **horse** 
+Jim likes a bet on the horses.
+
 **hospital** 
+She visited him in hospital.
+
 **hungry** 
+If you get hungry, there's some cold chicken in the fridge.
+
 **husband** 
+Have you met my husband Roy?
+
 **ice** 
+Would you like some ice in your drink?
+
 **idiot** 
+It was all your fault, you idiot.

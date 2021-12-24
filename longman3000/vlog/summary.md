@@ -137,6 +137,7 @@ handy - candy
 headquarters - quarter
 hat - hate - heat
 heat - hit - heart
+hung - hungry
 
 smell - smile
 remain - main
