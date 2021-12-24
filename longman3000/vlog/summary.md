@@ -130,13 +130,12 @@ guard - guide - god
 grade - great
 guard - god
 
-hair - hear - fair - here
+hair - hear - fair - here - hill
 hall - fall - all
 head - hand - had
 handy - candy
 headquarters - quarter
 hat - hate - heat
-
 heat - hit - heart
 
 smell - smile

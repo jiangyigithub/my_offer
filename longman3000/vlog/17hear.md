@@ -33,15 +33,34 @@ The cost of transport is a major expense for an industry. Hence factory location
 
 ## 2
 **hers** 
+These are my gloves. Hers are in drawer.
+
 **hesitate** 
+Don't hesitate to contact me if you need any more information.
+
 **hide**
+He was accused of trying to hide evidence from the police.
+
 **highlight** 
+Your resume should highlight your skills and achievements.
+
 **hill** 
+Their house is on a hill overlooking the sea.
+
 **hire** 
+The best way to explore the island is to hire a car.
+
 **historian** 
+someone who studies history, or the history of a particular thing
+
 **hole** 
+They climbed through a hole in the fence.
+
 **honest** 
+To be honest, i don't like him very much.
+
 **honestly** 
+I can honestly say that I never worry about him now.
 
 ## 3
 **honour** 
