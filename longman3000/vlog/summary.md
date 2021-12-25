@@ -138,6 +138,9 @@ headquarters - quarter
 hat - hate - heat
 heat - hit - heart
 hung - hungry
+hunt - hurt
+height - eight
+idiot - idol
 
 smell - smile
 remain - main
