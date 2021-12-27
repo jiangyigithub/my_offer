@@ -140,7 +140,9 @@ heat - hit - heart
 hung - hungry
 hunt - hurt
 height - eight
+
 idiot - idol
+implication - application
 
 smell - smile
 remain - main
