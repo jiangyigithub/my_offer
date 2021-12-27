@@ -151,6 +151,7 @@ weight - wait
 temper - temple
 wage - age
 world - word
+rizen - reason
 
 
 

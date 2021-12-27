@@ -41,19 +41,25 @@ The knife had pierced his heart, but incredibly he was still alive.
 I didn't mind at all. Indeed, I was pleased.
 
 **indicate** 
+Research indicates that over 81% of teachers are dissatisfied with their salary.
 
 **indication** 
+Dark green leaves are good indication of healthy roots.
 
 **individual** 
+Most churches were built with donations from private individuals.
 
 **industrial** 
+Industrial production has risen by 0.5% since November.
 
 **industry** 
+This type of software is widely used in industry.
 
 **inevitable** 
 A further escalation of crisis now seems inevitable.
 
 **inevitably** 
+The decision will inevitably lead to political tensions.
 
 ## 3
 **infant** 
