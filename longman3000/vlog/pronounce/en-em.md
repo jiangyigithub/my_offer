@@ -4,3 +4,7 @@ enjoy
 
 `/ˈen/`
 entire
+
+em
+`/ˈem/`
+emphasize

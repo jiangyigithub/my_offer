@@ -31,14 +31,28 @@ Roads were sealed off because of a major incident.
 
 ## 2
 **incorporate**  
+*incorporate sth. into/in sth.*
+we've incorporated many environmentally friendly features into the design of the building.
+
 **incredibly** 
-**indeed**  
+The knife had pierced his heart, but incredibly he was still alive.
+
+**indeed** 
+I didn't mind at all. Indeed, I was pleased.
+
 **indicate** 
+
 **indication** 
+
 **individual** 
+
 **industrial** 
+
 **industry** 
+
 **inevitable** 
+A further escalation of crisis now seems inevitable.
+
 **inevitably** 
 
 ## 3
