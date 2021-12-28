@@ -63,16 +63,30 @@ The decision will inevitably lead to political tensions.
 
 ## 3
 **infant** 
+An infant's skin is very senstive.
+
 **infection** 
+The baby had an ear infection.
+
 **inflation** 
+Inflation is now at over 16%.
+
 **influence** 
+
 **informal** 
+
 **initial** 
+
 **initially** 
+
 **initiative** 
+
 **innocent** 
+
 **innovation** 
+
 **inquiry** 
+
 
 ## 4
 **insect** 
