@@ -1,14 +1,17 @@
 ## 1
-**illustrate**  
+**illustrate** 
+`/ˈɪlə/`
 Let me give an example to illustrate the point.
 
 **imagination** 
 a storyteller with an incredible imagination
 
 **imagine** 
+`/ɪˈmæ/`
 Somehow, I can't imagine him without a beard.
 
 **impact** 
+`/ˈɪm/`
 we need to assess the impact on climate change.
 
 **implement** 
@@ -56,6 +59,7 @@ Industrial production has risen by 0.5% since November.
 This type of software is widely used in industry.
 
 **inevitable** 
+`/ɪnˈe/`
 A further escalation of crisis now seems inevitable.
 
 **inevitably** 
@@ -69,6 +73,7 @@ An infant's skin is very senstive.
 The baby had an ear infection.
 
 **inflation** 
+`/ˈfleɪ/`
 Inflation is now at over 16%.
 
 **influence** 
@@ -87,6 +92,7 @@ Initially, I thought I would only stay there a year.
 I wish my son would show more initiative.
 
 **innocent** 
+`/ˈɪnə/`
 Nobody would believe that I was innocent.
 
 **innovation** 
@@ -112,9 +118,11 @@ Standards of discipline at the school were strongly criticized in the inspector'
 Security cameras have been installed in the city centre.
 
 **instruction** 
+`/ˈstrʌ/`
 He had specific instructions to check everyone's identity cards. 
 
 **instrument** 
+`/ˈɪnstrə/`
 Interest rates are an important instrument of economic policy.
 
 **intellectual** 

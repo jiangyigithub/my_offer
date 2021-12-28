@@ -142,6 +142,7 @@ hunt - hurt
 height - eight
 
 idiot - idol
+imagine - image
 implication - application
 intellectual - lecture
 
