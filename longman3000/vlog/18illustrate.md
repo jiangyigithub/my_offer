@@ -67,6 +67,7 @@ The decision will inevitably lead to political tensions.
 
 ## 3
 **infant** 
+`/ˈɪnfən/`
 An infant's skin is very senstive.
 
 **infection** 
@@ -103,6 +104,7 @@ I don't know who sent the gift, but I 'll make some inquiries.
 
 ## 4
 **insect** 
+`/ˈɪnse/`
 flying insects
 
 **insist** 
