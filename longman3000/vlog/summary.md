@@ -143,6 +143,7 @@ height - eight
 
 idiot - idol
 implication - application
+intellectual - lecture
 
 smell - smile
 remain - main
@@ -152,6 +153,7 @@ temper - temple
 wage - age
 world - word
 rizen - reason
+police- policy
 
 
 

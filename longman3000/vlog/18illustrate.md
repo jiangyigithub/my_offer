@@ -72,30 +72,56 @@ The baby had an ear infection.
 Inflation is now at over 16%.
 
 **influence** 
+As a scientist, his influence was immense.
 
 **informal** 
+The atmosphere at work is fairly informal.
 
 **initial** 
+The initial response has been encouraging.
 
 **initially** 
+Initially, I thought I would only stay there a year.
 
 **initiative** 
+I wish my son would show more initiative.
 
 **innocent** 
+Nobody would believe that I was innocent.
 
 **innovation** 
+We must encourage innovation if the company is to remain competitive.
 
 **inquiry** 
-
+I don't know who sent the gift, but I 'll make some inquiries.
 
 ## 4
 **insect** 
+flying insects
+
 **insist** 
+She kept insisting on her innocence.
+
 **inspection** 
+Copies of the documents are available for inspection at local libraries.
+
 **inspector** 
+Standards of discipline at the school were strongly criticized in the inspector's report.
+
 **install** 
+Security cameras have been installed in the city centre.
+
 **instruction** 
+He had specific instructions to check everyone's identity cards. 
+
 **instrument** 
+Interest rates are an important instrument of economic policy.
+
 **intellectual** 
+a job that requires considerable intellectual effort
+
 **intelligence** 
+To be good at the game, you need a reasonable level of intelligence.
+
 **intelligent** 
+You can't have an intelligent conversation with him.
