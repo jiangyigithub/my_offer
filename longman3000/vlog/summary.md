@@ -129,6 +129,7 @@ grass - gross
 guard - guide - god
 grade - great
 guard - god
+guess - gates
 
 hair - hear - fair - here - hill - hell
 hall - fall - all
@@ -145,8 +146,16 @@ idiot - idol
 imagine - image
 implication - application
 intellectual - lecture
+into - inter
+its - is
+
+keen - king
+
+lab - label
+ladder - lad
 
 smell - smile
+service - survey
 remain - main
 might - right
 weight - wait
@@ -155,6 +164,7 @@ wage - age
 world - word
 rizen - reason
 police- policy
+try - trial
 
 
 
