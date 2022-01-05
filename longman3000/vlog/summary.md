@@ -148,6 +148,7 @@ implication - application
 intellectual - lecture
 into - inter
 its - is
+install - store
 
 keen - king
 
