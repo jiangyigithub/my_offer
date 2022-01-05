@@ -1,4 +1,4 @@
-# difference
+# similar
 
 `A` `B`
 ad add
@@ -9,38 +9,6 @@ awful offer
 alarm allow
 allowance announce 
 aboard abroad
-
-bean bin
-bit beat
-been being
-belief belive
-behave behalf
-battle batter
-break brick
-bring brain
-button bottom (bought on)
-
-core call
-cold code
-coast cost
-collar color
-cell sale
-central century
-cotton cartoon
-college colleague
-climb claim
-collar  collour
-court coat
-
-dealer dinner
-
-steady study
-profit perfect
-
-
-
-
-# similar
 abuse - accuse - use 
 abroad - broad - road
 approximate - proxy
@@ -55,6 +23,15 @@ affair - fair
 advert - avert
 admit - admin
 
+bean bin
+bit beat
+been being
+belief belive
+behave behalf
+battle batter
+break brick
+bring brain
+button bottom (bought on)
 breach - reach
 behave - behavior
 bone - backbone
@@ -87,10 +64,23 @@ cushion -fashion
 crew - cruel
 circle - cycle
 curtain - certain
+core call
+cold code
+coast cost
+collar color
+cell sale
+central century
+cotton cartoon
+college colleague
+climb claim
+collar  collour
+court coat
+
 drunk - run
 degree - disagree
 disc - disk
 deserve - serve
+dealer dinner
 
 era - error
 eye - i
@@ -154,6 +144,16 @@ keen - king
 
 lab - label
 ladder - lad
+lake - leak
+lane - land
+latter - later
+leaf - life
+leave - live
+little - litter
+loan - long
+law - low
+lie - life - light
+
 
 smell - smile
 service - survey
@@ -166,6 +166,8 @@ world - word
 rizen - reason
 police- policy
 try - trial
+steady study
+profit perfect
 
 
 
