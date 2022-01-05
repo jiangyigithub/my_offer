@@ -3,6 +3,7 @@
 `/əl/`
 interval
 trial
+signal
 
 **el**
 

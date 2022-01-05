@@ -1,5 +1,5 @@
 `gua`
-guarante
+guarantee
 guard
 
 `gue`

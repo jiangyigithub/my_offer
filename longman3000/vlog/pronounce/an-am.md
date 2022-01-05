@@ -1,5 +1,12 @@
+**an**
 `/æn/`
-glance
+glance (glass - `/æ/`)
+land
 
-`/æ/`
-glass
+**am**
+`/æm/`
+lamb
+lamp
+
+
+

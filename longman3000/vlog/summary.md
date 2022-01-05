@@ -153,6 +153,9 @@ little - litter
 loan - long
 law - low
 lie - life - light
+lamb - land
+lane - lay
+latter - litter
 
 
 smell - smile
@@ -168,6 +171,7 @@ police- policy
 try - trial
 steady study
 profit perfect
+signal - sign
 
 
 

@@ -1,10 +1,22 @@
 ## 1
 **lake** 
+a large area of water surrounded by land
+
 **lamb** 
+Ben's asleep now, the little lamb.
+
 **land** 
+They own a lot of land.
+
 **landlord** 
+a man who rents a room, building, or piece of land to someone
+
 **landscape** 
+English landscape artists
+
 **lane** 
+That idiot changed lanes without signalling.
+
 **latter** 
 **laugh** 
 **launch** 
