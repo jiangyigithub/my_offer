@@ -18,9 +18,16 @@ English landscape artists
 That idiot changed lanes without signalling.
 
 **latter** 
+where unemployment and crime are high ,it can be assumed that the latter is due to the former.
+
 **laugh** 
+Tony was laughing so hard he had to steady himself on the table.
+
 **launch** 
+The company hopes to launch the new drug by next October.
+
 **law** 
+This is illegal under English law.
 
 ## 2
 **lawyer** 
