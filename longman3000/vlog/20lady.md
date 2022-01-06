@@ -15,9 +15,11 @@ a man who rents a room, building, or piece of land to someone
 English landscape artists
 
 **lane** 
+`/leɪ/`
 That idiot changed lanes without signalling.
 
 **latter** 
+`/ˈlæ/`
 where unemployment and crime are high ,it can be assumed that the latter is due to the former.
 
 **laugh** 
