@@ -23,6 +23,7 @@ That idiot changed lanes without signalling.
 where unemployment and crime are high ,it can be assumed that the latter is due to the former.
 
 **laugh** 
+`/lɑː/`
 Tony was laughing so hard he had to steady himself on the table.
 
 **launch** 
@@ -55,6 +56,7 @@ The inside of the bag was lined with soft leather.
 Before leaving the train, make sure you have all your belongings with you.
 
 **legislation** 
+`/ˌle/`
 Both individuals and companies can be prosecuted under new legislation.
 
 **leisure** 
