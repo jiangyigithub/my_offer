@@ -110,6 +110,7 @@ formally - family
 faith - face
 flight - fly - flat
 force - forth - focus
+formal - former
 
 gear - ear
 go - goal
