@@ -157,6 +157,9 @@ lamb - land
 lane - lay
 latter - litter - letter - ladder
 leather - leisure
+liberal - library
+lid - need
+lip - lid
 
 
 smell - smile
@@ -173,6 +176,7 @@ try - trial
 steady study
 profit perfect
 signal - sign
+width - with
 
 
 

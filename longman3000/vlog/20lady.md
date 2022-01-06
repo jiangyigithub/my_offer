@@ -64,19 +64,49 @@ I lent my CD player to Dave and I haven't got it back yet.
 
 ## 3
 **length** 
+we measured the lenth and width of the living room.
+
 **less** 
+Maybe he would worry less if he understood the situation.
+
 **liberal** 
+I had quite liberal parents.
+
 **licence** 
+He was arrested for driving without license.
+
 **lick** 
+A cat licked up the drops spilt on the floor.
+
 **lid** 
+`/lɪ/`
+He carefully lifted the lid of the box.
+
 **lie** 
+Don't lie in the sun for too long.
+
 **light** 
+We saw a flash of light.
+
 **lighting** 
+Better street lighting might help to reduce crime.
+
 **lip** 
+Matt opened the door with a smile on his lips.
 
 ## 4
 **listen** 
+`/ˈlɪ/`
+Listen! There's a strange noise in the engine.
+
 **little** 
+She was cutting the meat up into little bits.
+
 **load** 
+The lorry had shed its load.
+
 **loan** 
+It'll be years before we've paid off the loan.
+
 **logical** 
+It's a logical site for a new supermarket, with the housing development nearby.
