@@ -33,6 +33,7 @@ His new book examines the United States' involvement in World War II.
 
 ## 2
 **iron** 
+`/ˈaɪ/`
 a driveway with large iron gates
 
 **journalist** 
@@ -52,6 +53,7 @@ Acts of terrorism must not escape justice.
 The chairman is keen that the company should expand its product range.
 
 **kettle** 
+`/ˈke/`
 Put the kettle on, will you?
 
 **kilometre** 
@@ -60,14 +62,18 @@ Put the kettle on, will you?
 I knocked and knocked but nobody answered.
 
 **laboratory** 
+`/tɔːri/`
 a research labortory
 
 ## 3
 **labour** 
+`/ˈleɪ/`
 Workers withdrew their labour for twenty-four hours.
 
 **lack** 
+`/læ/`
 Too many teachers are treated with a lack of respect.
 
 **ladder** 
+`/ˈlæ/`
 She climbed up the ladder.

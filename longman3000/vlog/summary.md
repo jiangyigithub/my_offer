@@ -141,13 +141,18 @@ into - inter
 its - is
 install - store
 
+justice - just
+
 keen - king
+kettle - letter
 
 lab - label
 ladder - lad
 lake - leak
 lane - land
 latter - later
+laboratory - library
+lack - luck
 leaf - life
 leave - live
 little - litter
