@@ -67,12 +67,15 @@ I lent my CD player to Dave and I haven't got it back yet.
 we measured the lenth and width of the living room.
 
 **less** 
+`/le/`
 Maybe he would worry less if he understood the situation.
 
 **liberal** 
+`/ˈlɪ/`
 I had quite liberal parents.
 
 **licence** 
+`/ˈlaɪ/`
 He was arrested for driving without license.
 
 **lick** 
@@ -83,6 +86,7 @@ A cat licked up the drops spilt on the floor.
 He carefully lifted the lid of the box.
 
 **lie** 
+`/laɪ/`
 Don't lie in the sun for too long.
 
 **light** 
