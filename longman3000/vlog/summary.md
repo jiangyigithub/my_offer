@@ -156,6 +156,7 @@ lie - life - light
 lamb - land
 lane - lay
 latter - litter - letter - ladder
+leather - leisure
 
 
 smell - smile

@@ -31,15 +31,36 @@ This is illegal under English law.
 
 ## 2
 **lawyer** 
+someone whose job is to advise people about laws, write formal agreements, or represent people in court
+
 **leading** 
+The army played a leading role in organizing the attempted coup.
+
 **leaf** 
+Add a few leaves of fresh basil to the salad.
+
 **league** 
+He make his football league debut tomorrow.
+
 **lean** 
+He leant his bicycle agaginst the fence.
+
 **leather** 
+`/ˈle/`
+The inside of the bag was lined with soft leather.
+
 **leave** 
+Before leaving the train, make sure you have all your belongings with you.
+
 **legislation** 
+Both individuals and companies can be prosecuted under new legislation.
+
 **leisure** 
+`/ˈle/`
+Most people now enjoy shorter working hours and more leisure time.
+
 **lend** 
+I lent my CD player to Dave and I haven't got it back yet.
 
 ## 3
 **length** 
