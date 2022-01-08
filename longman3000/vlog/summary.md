@@ -166,6 +166,13 @@ leather - leisure
 liberal - library
 lid - need
 lip - lid
+lord - load
+mail - male
+mall - more
+march - much
+may - main
+meal - mile
+mad - made
 
 
 smell - smile
