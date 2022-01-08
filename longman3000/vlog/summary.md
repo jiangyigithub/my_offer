@@ -167,6 +167,8 @@ liberal - library
 lid - need
 lip - lid
 lord - load
+lump - lamp
+
 mail - male
 mall - more
 march - much
