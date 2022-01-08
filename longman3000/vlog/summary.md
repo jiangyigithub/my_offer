@@ -168,6 +168,7 @@ lid - need
 lip - lid
 lord - load
 lump - lamp
+lord - landlord
 
 mail - male
 mall - more

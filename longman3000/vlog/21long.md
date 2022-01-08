@@ -1,6 +1,11 @@
 ## 1
 **lord** 
+*lord it over people*
+He didn't use his position on the council to lord it over people.
+
 **lounge** 
+the departure lounge
+
 **lower** 
 **luckily** 
 **lump** 
