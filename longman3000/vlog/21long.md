@@ -33,6 +33,7 @@ She promised to forward my mail to my new address.
 
 ## 2
 **mainly** 
+Increased sales during the summer were mainly due to tourism.
 
 **maintain** 
 This is the most efficient way to build up and maintain a reasonable level of physical fitness.
@@ -41,14 +42,20 @@ This is the most efficient way to build up and maintain a reasonable level of ph
 The maintennance of a firm currency plays an important part in the battle against inflation.
 
 **mall** 
+`/mɔː/`
+Let's meet the mall and go see the movie.
 
 **management** 
+The shareholders demanded a change in management.
 
 **manager** 
+She's now assistant marketing manager for south east area.
 
 **manufacturer** 
+Read the manufacturer's instructions before using your new dishwasher.
 
 **manufacturing** 
+the manufacturing industry
 
 **march** 
 *march on*

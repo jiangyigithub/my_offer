@@ -1,0 +1,5 @@
+**sm**
+
+`/zəm/`
+tourism
+mechanism
