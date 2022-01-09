@@ -23,6 +23,7 @@ affair - fair
 advert - avert
 admit - admin
 award - world
+appreciate - precious
 
 bean bin
 bit beat
@@ -186,6 +187,7 @@ model - modern
 mouse - month
 mum - mom
 metal - mental
+mere - milk
 
 
 smell - smile
