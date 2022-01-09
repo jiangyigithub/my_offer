@@ -81,7 +81,8 @@ drunk - run
 degree - disagree
 disc - disk
 deserve - serve
-dealer dinner
+dealer - dinner
+daughter - laughter
 
 era - error
 eye - i

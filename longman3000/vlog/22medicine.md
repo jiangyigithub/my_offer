@@ -1,6 +1,8 @@
 ## 1
 **medicine** 
 `/sn/`
+Laughter is the best medicine.
+
 **medieval** 
 **medium** 
 **mental** 
