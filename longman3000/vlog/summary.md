@@ -195,6 +195,7 @@ steady study
 profit perfect
 signal - sign
 width - with
+gather - together
 
 
 

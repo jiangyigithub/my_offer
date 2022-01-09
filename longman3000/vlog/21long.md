@@ -7,8 +7,10 @@ He didn't use his position on the council to lord it over people.
 the departure lounge
 
 **lower** 
+Temperatures will be lower over the weekeed.
 
 **luckily** 
+Lickily the museum was not damaged by the earthquake.
 
 **lump** 
 You cann't lump the symptoms together and blame them all on stress.
@@ -21,10 +23,13 @@ The company has no effective machinery for resolving disputes.
 we get mad at each other sometimes, like any family.
 
 **madam** 
+Are you being served, Madam?
 
 **magazine** 
+She's the editor of a popular women's magazine.
 
 **mail** 
+She promised to forward my mail to my new address.
 
 ## 2
 **mainly** 
@@ -78,6 +83,7 @@ The award will consist of a lump sum to a maximum value of $5000.
 
 ## 4
 **meal** 
+We must have a meal together some time.
 
 **mechanism** 
 `/ˈmekə/` `/zəm/`
