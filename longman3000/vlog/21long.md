@@ -7,18 +7,32 @@ He didn't use his position on the council to lord it over people.
 the departure lounge
 
 **lower** 
+
 **luckily** 
+
 **lump** 
+You cann't lump the symptoms together and blame them all on stress.
+
 **machinery** 
+The company has no effective machinery for resolving disputes.
+
 **mad**
+*mad at*
+we get mad at each other sometimes, like any family.
+
 **madam** 
+
 **magazine** 
+
 **mail** 
 
 ## 2
 **mainly** 
+
 **maintain** 
+
 **maintenance** 
+
 **mall** 
 **management** 
 **manager** 

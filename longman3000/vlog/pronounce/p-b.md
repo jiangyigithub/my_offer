@@ -6,3 +6,4 @@ expansion
 expect
 experimental
 explain
+dispute
