@@ -30,6 +30,7 @@ we get mad at each other sometimes, like any family.
 **mainly** 
 
 **maintain** 
+This is the most efficient way to build up and maintain a reasonable level of physical fitness.
 
 **maintenance**
 The maintennance of a firm currency plays an important part in the battle against inflation.
@@ -45,15 +46,22 @@ The maintennance of a firm currency plays an important part in the battle agains
 **manufacturing** 
 
 **march** 
+*march on*
+He gathered his troop and prepareed to march on the capital.
 
 **margin** 
+`/ˈmɑː/`
+They're a world-class team and it was no surprise that they won by such a wide margin.
 
 ## 3
 **marriage** 
 
 **marvellous** 
+`/ləs/`
+we had a marvellous time.
 
 **massive** 
+My phone bill was massive last month.
 
 **mate** 
 
@@ -72,5 +80,8 @@ The award will consist of a lump sum to a maximum value of $5000.
 **meal** 
 
 **mechanism** 
+`/ˈmekə/` `/zəm/`
+When a person is ill, the body' s natural  defence mechanisms come into operation.
 
 **media** 
+The scandal was widely reported in the national media.
