@@ -179,6 +179,12 @@ may - main
 meal - mile
 mad - made
 mechanism - mechanical
+medium -media
+mental - mentor
+model - modern
+mouse - month
+mum - mom
+metal - mental
 
 
 smell - smile
