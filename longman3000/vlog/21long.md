@@ -31,28 +31,46 @@ we get mad at each other sometimes, like any family.
 
 **maintain** 
 
-**maintenance** 
+**maintenance**
+The maintennance of a firm currency plays an important part in the battle against inflation.
 
 **mall** 
+
 **management** 
+
 **manager** 
+
 **manufacturer** 
+
 **manufacturing** 
+
 **march** 
+
 **margin** 
 
 ## 3
 **marriage** 
+
 **marvellous** 
+
 **massive** 
+
 **mate** 
+
 **material** 
+
 **math** 
+
 **maths** 
+
 **maximum** 
+The award will consist of a lump sum to a maximum value of $5000.
+
 **may** 
 
 ## 4
 **meal** 
+
 **mechanism** 
+
 **media** 

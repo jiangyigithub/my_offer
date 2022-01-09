@@ -22,6 +22,7 @@ award - awkward
 affair - fair
 advert - avert
 admit - admin
+award - world
 
 bean bin
 bit beat
