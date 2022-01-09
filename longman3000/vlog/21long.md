@@ -67,6 +67,7 @@ They're a world-class team and it was no surprise that they won by such a wide m
 
 ## 3
 **marriage** 
+She has three daughters from a previous marriage.
 
 **marvellous** 
 `/ləs/`
@@ -76,17 +77,22 @@ we had a marvellous time.
 My phone bill was massive last month.
 
 **mate** 
+I'm going out with my mates tonight.
 
 **material** 
+a paper company which imports raw meterials from North America.
 
 **math** 
+Tim's good at math and science.
 
 **maths** 
+She got top marks in maths and chemistry.
 
 **maximum** 
 The award will consist of a lump sum to a maximum value of $5000.
 
 **may** 
+some chemicals may cause environmental damage.
 
 ## 4
 **meal** 
