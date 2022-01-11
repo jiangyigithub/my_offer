@@ -81,12 +81,23 @@ Check your rear-view mirror before you drive away.
 
 ## 3
 **misery** 
+`/zə/`
+What we are witnessing here is human misery on a vast scale.
+
 **mistake** 
+
 **mobile** 
+
 **mode** 
+
 **modern** 
+
 **mommy** 
+
 **monitor** 
+`/nɪ/`
+He suspected that his phone calls were being minitored.
+
 **mood** 
 I was in no mood for a joke.
 
@@ -110,9 +121,11 @@ He was driving along the motorway at a steady sixty miles an hour.
 **mummy** 
 
 **muscle** 
+Relax your stomach muscles, then stretch again.
 
 **museum** 
 `/mju/` `/ˈziːəm/`
+The museum has an extensive collection of early photographs.
 
 **mushroom** 
 `/ˈmʌ/`

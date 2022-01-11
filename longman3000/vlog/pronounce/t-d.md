@@ -2,3 +2,5 @@
 establish
 extreme
 stress
+stomach
+stretch
