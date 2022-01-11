@@ -53,12 +53,15 @@ I think we should try again using a different method.
 **might** 
 
 **military** 
+`/ˈmɪlə/`
+The trips are planed with military precision.
 
 **millimetre** 
 
 **mind** 
 
 **mineral** 
+The area is very rich in minerals.
 
 **minimum** 
 The minimum age for retirement is 55.
@@ -74,6 +77,7 @@ Why do major league baseball players get paid more than minor league players?
 Only a minority of people support this new laws.
 
 **mirror** 
+Check your rear-view mirror before you drive away.
 
 ## 3
 **misery** 
@@ -84,15 +88,32 @@ Only a minority of people support this new laws.
 **mommy** 
 **monitor** 
 **mood** 
+I was in no mood for a joke.
+
 **moral** 
+Man is gifted with moral sense by which he distinguishs good from evil.
 
 ## 4
 **mortgage** 
+`/ˈmɔː/` `/ɡɪdʒ/`
+Your family takes out a mortgage and buys a new house.
+
 **motor** 
+
 **motorway** 
+He was driving along the motorway at a steady sixty miles an hour.
+
 **mountain** 
+
 **mum** 
+
 **mummy** 
+
 **muscle** 
+
 **museum** 
+`/mju/` `/ˈziːəm/`
+
 **mushroom** 
+`/ˈmʌ/`
+mushroom soup

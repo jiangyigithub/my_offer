@@ -12,6 +12,7 @@ guide
 `gui`
 guilty
 guitar
+distinguish
 
 `guy`
 guy
