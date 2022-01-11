@@ -192,7 +192,10 @@ mere - milk
 mountain - maintain
 mineral - miner
 mirror - river
-
+mood - wood
+moral - more
+mouth - month
+monitor - minister
 
 
 smell - smile

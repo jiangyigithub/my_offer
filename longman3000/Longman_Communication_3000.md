@@ -1750,8 +1750,8 @@ ministry
 **minor** 
 **minority** 
 minute 
-mirror 
-misery 
+**mirror** 
+**misery** 
 miss 
 mission 
 **mistake** 
@@ -1789,7 +1789,7 @@ move
 movement 
 movie 
 much 
-mud 
+**mud** 
 **mum** 
 **mummy** 
 murder 
