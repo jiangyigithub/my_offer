@@ -197,6 +197,8 @@ moral - more
 mouth - month
 monitor - minister
 
+nod - not
+nose - north
 
 smell - smile
 service - survey

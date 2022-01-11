@@ -4,6 +4,8 @@ high
 light
 daughter
 through
+naughty
+neighbour
 
 `/f/`
 laugh
