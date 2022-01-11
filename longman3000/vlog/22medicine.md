@@ -47,10 +47,13 @@ I think we should try again using a different method.
 
 ## 2
 **middle** 
+The new road will go right through the middle of wood.
 
 **midnight** 
+The train is due in at midnight.
 
 **might** 
+I might be a few minutes late.
 
 **military** 
 `/ˈmɪlə/`
@@ -61,6 +64,7 @@ The trips are planed with military precision.
 a unit for measurment length
 
 **mind** 
+There was no doubt in my mind that it was the right decision to make.
 
 **mineral** 
 `/ˈmɪnə/`
@@ -91,12 +95,16 @@ What we are witnessing here is human misery on a vast scale.
 Someone must have left the door open by mistake.
 
 **mobile** 
+mobile phone
 
 **mode** 
+the most efficient mode of transport
 
 **modern** 
+Computers are an essential part of modern life.
 
 **mommy** 
+mummy
 
 **monitor** 
 `/nɪ/`
@@ -123,8 +131,10 @@ He was driving along the motorway at a steady sixty miles an hour.
 I've got mountains of paperwork to deal with.
 
 **mum** 
+ = mom
 
 **mummy** 
+ = mommy
 
 **muscle** 
 Relax your stomach muscles, then stretch again.
