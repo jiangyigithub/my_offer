@@ -57,10 +57,13 @@ I think we should try again using a different method.
 The trips are planed with military precision.
 
 **millimetre** 
+`/ˈmɪlimiː/`
+a unit for measurment length
 
 **mind** 
 
 **mineral** 
+`/ˈmɪnə/`
 The area is very rich in minerals.
 
 **minimum** 
@@ -85,6 +88,7 @@ Check your rear-view mirror before you drive away.
 What we are witnessing here is human misery on a vast scale.
 
 **mistake** 
+Someone must have left the door open by mistake.
 
 **mobile** 
 
@@ -110,11 +114,13 @@ Man is gifted with moral sense by which he distinguishs good from evil.
 Your family takes out a mortgage and buys a new house.
 
 **motor** 
+an electric motor
 
 **motorway** 
 He was driving along the motorway at a steady sixty miles an hour.
 
 **mountain** 
+I've got mountains of paperwork to deal with.
 
 **mum** 
 
