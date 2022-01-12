@@ -198,6 +198,7 @@ moral - more
 mouth - month
 monitor - minister
 might - right
+mud - mad
 
 nod - not
 nose - north
