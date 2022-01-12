@@ -115,6 +115,7 @@ flight - fly - flat
 force - forth - focus
 formal - former
 
+gather - together
 gear - ear
 go - goal
 grey - green
@@ -196,6 +197,7 @@ mood - wood
 moral - more
 mouth - month
 monitor - minister
+might - right
 
 nod - not
 nose - north
@@ -203,7 +205,7 @@ nose - north
 smell - smile
 service - survey
 remain - main
-might - right
+
 weight - wait
 temper - temple
 wage - age
@@ -215,7 +217,7 @@ steady study
 profit perfect
 signal - sign
 width - with
-gather - together
+
 
 
 
