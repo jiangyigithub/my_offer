@@ -77,6 +77,7 @@ college colleague
 climb claim
 collar  collour
 court coat
+cottage college
 
 drunk - run
 degree - disagree
@@ -202,6 +203,8 @@ mud - mad
 
 nod - not
 nose - north
+nasty - last
+neat - need
 
 smell - smile
 service - survey
