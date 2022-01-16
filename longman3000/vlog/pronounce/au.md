@@ -3,3 +3,5 @@
 `/ɔː/`
 daughter
 cause
+audience
+naughty
