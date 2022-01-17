@@ -209,6 +209,7 @@ nose - north
 nasty - last
 neat - need
 nut - not
+northern - neither
 
 smell - smile
 service - survey
