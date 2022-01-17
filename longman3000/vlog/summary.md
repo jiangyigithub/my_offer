@@ -24,6 +24,7 @@ advert - avert
 admit - admin
 award - world
 appreciate - precious
+aware - where
 
 bean bin
 bit beat
@@ -85,6 +86,7 @@ disc - disk
 deserve - serve
 dealer - dinner
 daughter - laughter
+diet - doubt
 
 era - error
 eye - i
@@ -202,9 +204,11 @@ might - right
 mud - mad
 
 nod - not
+nod - load
 nose - north
 nasty - last
 neat - need
+nut - not
 
 smell - smile
 service - survey
