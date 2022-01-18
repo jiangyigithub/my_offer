@@ -214,8 +214,9 @@ northern - neither
 odd - old
 once - ones
 own - owe
-pace - path
 oven - often
+
+pace - path
 
 smell - smile
 service - survey
