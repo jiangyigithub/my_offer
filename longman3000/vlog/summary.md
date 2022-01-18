@@ -211,6 +211,12 @@ neat - need
 nut - not
 northern - neither
 
+odd - old
+once - ones
+own - owe
+pace - path
+oven - often
+
 smell - smile
 service - survey
 remain - main
