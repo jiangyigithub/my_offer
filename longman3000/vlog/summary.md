@@ -215,6 +215,7 @@ odd - old
 once - ones
 own - owe
 oven - often
+ounce - announce
 
 pace - path
 
