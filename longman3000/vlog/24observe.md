@@ -1,5 +1,6 @@
 ## 1
 **obvious** 
+`/ˈɒ/`
 The obvious way of reducing pollution is to use cars less.
 
 **obviously** 
@@ -16,6 +17,7 @@ We should have enough money left for the occasional trip.
 We only see each other very occasionally.
 
 **occupation** 
+`/ˈɒ/`
 Please state your name, address and occupation.
 
 **occupy** 
@@ -30,6 +32,7 @@ The explosion occured at 5.30 a.m.
 the Pacific Ocean
 
 **odds** 
+`/ɒ/`
 The hospital's director has been battling against the odds to improve patient care.
 
 ## 2
