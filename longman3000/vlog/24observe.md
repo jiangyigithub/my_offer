@@ -1,13 +1,38 @@
+## 1
 **obvious** 
+The obvious way of reducing pollution is to use cars less.
+
 **obviously** 
+She frowned and obviously puzzled.
+
 **occasion** 
+`/əˈkeɪ/`
+This was the occasion for expression of friendship by the two presidents.
+
 **occasional** 
+We should have enough money left for the occasional trip.
+
 **occasionally** 
+We only see each other very occasionally.
+
 **occupation** 
+Please state your name, address and occupation.
+
 **occupy** 
+He occupies the house without paying any rent.
+
 **occur** 
+`/əˈkɜː/`
+The explosion occured at 5.30 a.m.
+
 **ocean** 
+`/ˈəʊʃ/`
+the Pacific Ocean
+
 **odds** 
+The hospital's director has been battling against the odds to improve patient care.
+
+## 2
 **offence** 
 **office** 
 **officer** 
@@ -18,6 +43,8 @@
 **operation** 
 **operator** 
 **opinion** 
+
+## 3
 **opponent** 
 **opportunity** 
 **oppose** 
@@ -28,6 +55,8 @@
 **organic** 
 **organization** 
 **organize** 
+
+## 4
 **organized** 
 **origin** 
 **ounce** 
@@ -38,6 +67,8 @@
 **own** 
 **pace** 
 **pack** 
+
+## 5
 **package** 
 **packet** 
 **pad** 
