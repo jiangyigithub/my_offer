@@ -41,16 +41,33 @@ The hospital's director has been battling against the odds to improve patient ca
 His solicitor said he committed the offence because he was heavily in debt.
 
 **office** 
+`/ˈɒ/`
+The department occupies an office just a mile from the White House.
+
 **officer** 
+`/ˈɒfə/`
+The document must be certified by the proper officer of the state.
+
 **often** 
+How often do you see your parents?
+
 **once** 
+She and her husband had once owned a house like this.
+
 **onion** 
 Chop the onions finely.
 
 **operate** 
+The bus is designed to operate in all weather conditions.
+
 **operation** 
+The firm set up its own property development operation.
+
 **operator** 
+a private operator running regular passenger services
+
 **opinion** 
+The two women had very different opinions about drugs.
 
 ## 3
 **opponent** 
@@ -58,22 +75,38 @@ He is admired even by his political opponent.
 
 **opportunity** 
 `/ˌɒ/`
+Games and songs provide an opportunity for classroom interaction.
 
 **oppose** 
 `/ə/`
 
 **opposite** 
+`/zə/`
+
 **opposition** 
+`/ˈzɪ/`
+
 **ordinary** 
+`/ˈɔː/`
+
 **organ** 
+`/ˈɔː/` `/ɡə/`
+The courts are organs of government.
+
 **organic** 
+`/ɡæ/`
+
 **organization** 
+
 **organize** 
 
 ## 4
 **organized** 
+
 **origin** 
 **ounce** 
+a unit for measuring weight,
+
 **ourselves** 
 **oven** 
 **overseas** 

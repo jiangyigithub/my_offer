@@ -219,8 +219,11 @@ ounce - announce
 occasion - location
 offence - fence
 opponent - component
+officer - offer
+onion - union - opinion
 
 pace - path
+pace - peace
 
 smell - smile
 service - survey
