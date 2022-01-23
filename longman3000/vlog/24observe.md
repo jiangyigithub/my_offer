@@ -37,11 +37,16 @@ The hospital's director has been battling against the odds to improve patient ca
 
 ## 2
 **offence** 
+`/ə/`
+His solicitor said he committed the offence because he was heavily in debt.
+
 **office** 
 **officer** 
 **often** 
 **once** 
 **onion** 
+Chop the onions finely.
+
 **operate** 
 **operation** 
 **operator** 
@@ -49,8 +54,14 @@ The hospital's director has been battling against the odds to improve patient ca
 
 ## 3
 **opponent** 
+He is admired even by his political opponent.
+
 **opportunity** 
+`/ˌɒ/`
+
 **oppose** 
+`/ə/`
+
 **opposite** 
 **opposition** 
 **ordinary** 

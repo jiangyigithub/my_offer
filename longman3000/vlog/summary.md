@@ -217,6 +217,8 @@ own - owe
 oven - often
 ounce - announce
 occasion - location
+offence - fence
+opponent - component
 
 pace - path
 
