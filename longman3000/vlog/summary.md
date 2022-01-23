@@ -221,6 +221,8 @@ offence - fence
 opponent - component
 officer - offer
 onion - union - opinion
+oppose - pose
+opposition - position
 
 pace - path
 pace - peace

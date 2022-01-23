@@ -55,6 +55,7 @@ How often do you see your parents?
 She and her husband had once owned a house like this.
 
 **onion** 
+`/ˈʌn/` `/jən/`
 Chop the onions finely.
 
 **operate** 
@@ -79,15 +80,19 @@ Games and songs provide an opportunity for classroom interaction.
 
 **oppose** 
 `/ə/`
+Congress is continuing to oppose the president's health care budget.
 
 **opposite** 
-`/zə/`
+`/ˈɒ/` `/zə/`
+The people sitting opposite us looked very familiar.
 
 **opposition** 
-`/ˈzɪ/`
+`/ˌɒ/` `/ˈzɪ/`
+He is confident in his ability to overcome all opposition with his personal charm.
 
 **ordinary** 
 `/ˈɔː/`
+The book is about ordinary people.
 
 **organ** 
 `/ˈɔː/` `/ɡə/`
@@ -95,10 +100,13 @@ The courts are organs of government.
 
 **organic** 
 `/ɡæ/`
+Organic farming is better for environment.
 
 **organization** 
+Putting on a show of this kind involves considerable organization.
 
 **organize** 
+The Lawyers helped to organize a group of parents who took action for their children.
 
 ## 4
 **organized** 
