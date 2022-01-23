@@ -110,20 +110,43 @@ The Lawyers helped to organize a group of parents who took action for their chil
 
 ## 4
 **organized** 
+Organized groups of citizens are more successful at changing the government's mind.
 
 **origin** 
+`/ˈɒ/`
+a new theory to explain the origins of the universe
+
 **ounce** 
-a unit for measuring weight,
+a unit for measuring weight
 
 **ourselves** 
+we prepared ourselves for the long journey ahead.
+
 **oven** 
+Press the mixture onto the bread and bale in a hot oven for ten minutes.
+
 **overseas** 
+Most applications came from overseas.
+
 **owe** 
+He asked for help from a colleague who owned him a favour.
+
 **own** 
+Every dance has its own rhythm.
+
 **pace** 
+You need to step up the pace of your exercises.
+
 **pack** 
+`/pæ/`
+Kelly packed her things before breakfast.
 
 ## 5
 **package** 
+The government has announced a package of measures to assist affected areas.
+
 **packet** 
+a packet of cigarettes
+
 **pad** 
+Keep a telephone pad and a pen to hand.

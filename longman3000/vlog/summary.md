@@ -223,6 +223,8 @@ officer - offer
 onion - union - opinion
 oppose - pose
 opposition - position
+oven - over
+origin - orange
 
 pace - path
 pace - peace
