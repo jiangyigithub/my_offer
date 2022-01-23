@@ -116,6 +116,9 @@ Organized groups of citizens are more successful at changing the government's mi
 `/ˈɒ/`
 a new theory to explain the origins of the universe
 
+**original** 
+The land was returned to its original owner.
+
 **ounce** 
 a unit for measuring weight
 
