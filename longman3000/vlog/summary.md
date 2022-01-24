@@ -176,6 +176,7 @@ lip - lid
 lord - load
 lump - lamp
 lord - landlord
+league - leg
 
 main - lane
 mail - male
@@ -228,6 +229,7 @@ origin - orange
 
 pace - path
 pace - peace
+pale - pair
 
 smell - smile
 service - survey
