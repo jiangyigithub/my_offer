@@ -230,6 +230,7 @@ origin - orange
 pace - path
 pace - peace
 pale - pair
+pants - pans
 
 smell - smile
 service - survey
