@@ -231,6 +231,8 @@ pace - path
 pace - peace
 pale - pair
 pants - pans
+palace - policy
+paint - pain
 
 smell - smile
 service - survey
