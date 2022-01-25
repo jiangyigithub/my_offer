@@ -36,7 +36,10 @@ The parcel was delivered last week.
 
 ## 2
 **pardon** 
+
 **parliament** 
+They demanded a free parliment and press.
+
 **participate** 
 **particular** 
 **partner** 
