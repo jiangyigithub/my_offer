@@ -233,6 +233,8 @@ pale - pair
 pants - pans
 palace - policy
 paint - pain
+passion - patience
+pattern - patent
 
 smell - smile
 service - survey

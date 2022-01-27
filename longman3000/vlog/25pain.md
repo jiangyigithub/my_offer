@@ -41,16 +41,28 @@ The parcel was delivered last week.
 They demanded a free parliment and press.
 
 **participate** 
+
 **particular** 
+
 **partner** 
+
 **partnership** 
+
 **party** 
+
 **passenger** 
+
 **passion** 
+`/ˈpæ/`
+His eyes were burning with passion.
+
 **past** 
 
 ## 3
 **patience** 
+`/ˈpeɪ/`
+She has no patience with time-wasters.
+
 **patient** 
 **pattern** 
 **pause**  
