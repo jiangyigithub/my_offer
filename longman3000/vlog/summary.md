@@ -235,6 +235,7 @@ palace - policy
 paint - pain
 passion - patience
 pattern - patent
+passion - pension
 
 smell - smile
 service - survey

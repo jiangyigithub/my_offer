@@ -64,12 +64,19 @@ His eyes were burning with passion.
 She has no patience with time-wasters.
 
 **patient** 
+You'll just have to be patient and wait till I'm off the phone.
+
 **pattern** 
+`/pæ/`
+
 **pause**  
 **penalty** 
 **pencil** 
 **penny** 
 **pension** 
+`/ˈpen/`
+At what age can you start drawing you pension?
+
 **pepper** 
 
 ## 4
