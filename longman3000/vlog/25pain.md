@@ -12,7 +12,7 @@ Can you help me hang this painting?
 
 **palace** 
 `/ˈpæ/`
-After last night's defeat, Palace look likely to take bottom place in the league.
+After last night's defeat, Palace look likely to take bottom palace in the league.
 
 **pale** 
 He looked very pale and drawn.
@@ -86,6 +86,7 @@ Weather patterns have changed in recent years.
 He paused for breath, then continued up the hill.
 
 **penalty** 
+`/ˈpenəl/`
 One of the penalties of being famous is the loss of privacy.
 
 **pencil** 
@@ -99,6 +100,7 @@ I've only got a few pennies left.
 At what age can you start drawing you pension?
 
 **pepper** 
+`/ˈpe/`
 salt and pepper
 
 ## 4
@@ -130,10 +132,11 @@ Your'll to get permission from your parents if you want to come.
 Smoking is only permitted in the public lounge.
 
 **personality** 
+`/ˌpɜː/`
 Despite their different personalities, they became the best of friends.
 
 **personnel** 
-`/ˈnel/`
+`/ˌpɜː/` `/ˈnel/`
 All personnel are to receive security badges.
 
 ## 5
@@ -148,6 +151,7 @@ I finally managed to persuade her to go out for a drink with me.
 petrol prices
 
 **phase** 
+`/z/`
 a new drug that in the experimental phase
 
 **philosophy** 
@@ -156,7 +160,8 @@ The company explained their management philosophy.
 **phrase**
 Polly tried to think how to phrase the question.
 
-**physical** 
+**physical**
+`/ˈfɪ/` 
 She was in constant physical pain.
 
 **physically** 
@@ -167,4 +172,5 @@ She is young and physically fit.
 `/zɪks/`
 
 **piano**
+`/ænəʊ/`
 a wonderful piano player

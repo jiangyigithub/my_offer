@@ -245,6 +245,8 @@ perceive - receive
 petrol - control
 phase - face
 phrase - freeze
+parcel - pencil
+perspective - respective
 
 smell - smile
 service - survey
