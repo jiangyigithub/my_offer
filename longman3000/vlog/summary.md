@@ -25,6 +25,7 @@ admit - admin
 award - world
 appreciate - precious
 aware - where
+anxious - anxiety
 
 bean bin
 bit beat
@@ -46,6 +47,7 @@ borrow - brown
 brilliant - intelligent
 biscuit - circuit
 buddy - daddy
+bag - badge
 
 conduct - deduct
 chop-shop
@@ -177,6 +179,7 @@ lord - load
 lump - lamp
 lord - landlord
 league - leg
+league - lounge
 
 main - lane
 mail - male
@@ -237,6 +240,8 @@ passion - patience
 pattern - patent
 passion - pension
 pause - pose
+pepper - paper
+perceive - receive
 
 smell - smile
 service - survey
