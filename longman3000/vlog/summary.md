@@ -236,6 +236,7 @@ paint - pain
 passion - patience
 pattern - patent
 passion - pension
+pause - pose
 
 smell - smile
 service - survey

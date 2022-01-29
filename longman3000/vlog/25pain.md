@@ -70,9 +70,16 @@ You'll just have to be patient and wait till I'm off the phone.
 `/pæ/`
 
 **pause**  
+`/pɔː/` `/z/`
+He paused for breath, then continued up the hill.
+
 **penalty** 
+One of the penalties of being famous is the loss of privacy.
+
 **pencil** 
+
 **penny** 
+
 **pension** 
 `/ˈpen/`
 At what age can you start drawing you pension?
@@ -81,24 +88,42 @@ At what age can you start drawing you pension?
 
 ## 4
 **perceive** 
+
 **percent** 
+
 **percentage** 
+
 **perhaps** 
+
 **period** 
+
 **permanent** 
+
 **permission** 
+
 **permit** 
+
 **personality** 
+
 **personnel** 
 
 ## 5
 **perspective** 
+
 **persuade** 
+
 **petrol** 
+
 **phase** 
+
 **philosophy** 
+
 **phrase** 
+
 **physical** 
+
 **physically** 
+
 **physics** 
+
 **piano**
