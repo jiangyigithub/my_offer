@@ -242,6 +242,9 @@ passion - pension
 pause - pose
 pepper - paper
 perceive - receive
+petrol - control
+phase - face
+phrase - freeze
 
 smell - smile
 service - survey
@@ -258,6 +261,7 @@ steady study
 profit perfect
 signal - sign
 width - with
+written - return
 
 
 

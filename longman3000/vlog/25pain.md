@@ -127,21 +127,33 @@ All personnel are to receive security badges.
 
 ## 5
 **perspective** 
+The novel is written from a child's perspective.
 
 **persuade** 
+I finally managed to persuade her to go out for a drink with me.
 
 **petrol** 
+`/ˈpe/`
+petrol prices
 
 **phase** 
+a new drug that in the experimental phase
 
 **philosophy** 
+The company explained their management philosophy.
 
-**phrase** 
+**phrase**
+Polly tried to think how to phrase the question.
 
 **physical** 
+She was in constant physical pain.
 
 **physically** 
+`/kli/`
+She is young and physically fit.
 
 **physics** 
+`/zɪks/`
 
 **piano**
+a wonderful piano player
