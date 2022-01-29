@@ -36,27 +36,38 @@ The parcel was delivered last week.
 
 ## 2
 **pardon** 
+Anyone reading the advertisement might be pardoned for thinking that the offer is genuine.
 
 **parliament** 
+`/ˈpɑː/`
 They demanded a free parliment and press.
 
 **participate** 
+Some members refuesed to participate.
 
 **particular** 
+Most students choose a particular area to research.
 
 **partner** 
+Discuss your worries with your partner.
 
 **partnership** 
+I've been in partnership with her for five years.
 
 **party** 
+The university threw a party to welcome them.
 
 **passenger** 
+`/ˈpæ/`
+Neither the driver nor the passengers were hurt.
 
 **passion** 
 `/ˈpæ/`
 His eyes were burning with passion.
 
 **past** 
+`/pɑː/`
+Judging by her past performance, Jane should do very well.
 
 ## 3
 **patience** 
