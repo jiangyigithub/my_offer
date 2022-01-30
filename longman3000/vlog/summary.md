@@ -265,6 +265,7 @@ pint - paint
 plain - play
 pleasure - palyer
 plates - place
+penalty - plenty
 
 remain - main
 rizen - reason
