@@ -4,3 +4,6 @@ flood
 
 `/ɔː/`
 floor
+
+`/uː/`
+spoon

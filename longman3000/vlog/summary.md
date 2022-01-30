@@ -262,6 +262,9 @@ piece - peace
 pale - pile
 pill - bill
 pint - paint
+plain - play
+pleasure - palyer
+plates - place
 
 remain - main
 rizen - reason

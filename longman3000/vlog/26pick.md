@@ -32,16 +32,45 @@ pitch of the ball
 
 ## 2
 **pizza** 
+a slice of pizza
+
 **place** 
+Make sure you keep the key in a safe place.
+
 **plain** 
+`/pleɪ/`
+The advantages were plain to see.
+
 **plan** 
+`/plæ/`
+Do you have any plans for the weekend?
+
 **plane** 
+`/pleɪ/`
+It’s much quicker to go by plane.
+
 **planet** 
+`/ˈplænɪt/`
+Is there life on other planets?
+
 **plant** 
+`/plɑːn/`
+Don’t forget to water the plants.
+
 **plastic** 
+`/ˈplæ/`
+plastic bags
+
 **plate** 
+The plates were piled high with rice.
+
 **pleasant** 
+`/ple/` `/zənt/`
+It was pleasant to sit in a sidewalk cafe and watch people pass.
+
 **pleasure** 
+`/ʒə/`
+She sipped her drink with obvious pleasure.
 
 ## 3
 **plenty** 
