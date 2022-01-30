@@ -26,6 +26,7 @@ award - world
 appreciate - precious
 aware - where
 anxious - anxiety
+allow - loud
 
 bean bin
 bit beat
@@ -247,6 +248,10 @@ phase - face
 phrase - freeze
 parcel - pencil
 perspective - respective
+pale - pear
+period - peer
+path - pass
+peace - pis
 
 smell - smile
 service - survey

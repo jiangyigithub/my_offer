@@ -57,6 +57,10 @@ I've been in partnership with her for five years.
 **party** 
 The university threw a party to welcome them.
 
+**passage**
+`/ˈpæ/` `/sɪdʒ/`
+The bridge isn’t strong enough to allow the passage of heavy vehicles.
+
 **passenger** 
 `/ˈpæ/`
 Neither the driver nor the passengers were hurt.
@@ -84,6 +88,9 @@ Weather patterns have changed in recent years.
 **pause**  
 `/pɔː/` `/z/`
 He paused for breath, then continued up the hill.
+
+**peace**
+An uneasy peace continued until 1939.
 
 **penalty** 
 `/ˈpenəl/`
@@ -122,7 +129,7 @@ Perhaps it will snow tomorrow.
 His playing improved in a very short period of time.
 
 **permanent** 
-`/ˈpɜː/`
+`/ˈpɜː/` `/mə/`
 He gave up a permanent job in order to freelance.
 
 **permission** 
