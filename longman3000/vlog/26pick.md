@@ -7,6 +7,7 @@ He asked her permission to paint her picture.
 **piece** 
 
 **pile** 
+He balanced the plate on the top of pile of books.
 
 **pill** 
 
