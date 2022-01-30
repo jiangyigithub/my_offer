@@ -11,7 +11,7 @@ The whole house could do with a fresh coat of paint.
 Can you help me hang this painting?
 
 **palace** 
-`/ˈpæ/`
+`/ˈpæ/` `/lə/`
 After last night's defeat, Palace look likely to take bottom palace in the league.
 
 **pale** 
@@ -39,7 +39,7 @@ The parcel was delivered last week.
 Anyone reading the advertisement might be pardoned for thinking that the offer is genuine.
 
 **parliament** 
-`/ˈpɑː/`
+`/ˈpɑː/` `/lə/`
 They demanded a free parliment and press.
 
 **participate** 
