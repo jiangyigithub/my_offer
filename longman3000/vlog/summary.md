@@ -49,6 +49,7 @@ brilliant - intelligent
 biscuit - circuit
 buddy - daddy
 bag - badge
+burst - birth
 
 conduct - deduct
 chop-shop
