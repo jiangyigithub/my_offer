@@ -74,48 +74,84 @@ She sipped her drink with obvious pleasure.
 
 ## 3
 **plenty** 
+
 **plug** 
-**pocket** 
+
+**pocket**
+
 **poem** 
+
 **poet** 
+
 **poetry** 
+
 **pole** 
+
 **polite** 
+
 **political** 
+
 **politician** 
 
 ## 4
 **politics** 
+
 **poll** 
+
 **pollution** 
+
 **pond** 
+
 **pool** 
+
 **poor** 
+
 **pop** 
+
 **popular** 
+
 **population** 
+
 **pose** 
 
 ## 5
 **possess** 
+
 **possession** 
+
 **possibility** 
+
 **possible** 
+
 **possibly** 
+
 **pot** 
+
 **potato** 
+
 **potential** 
+
 **pound** 
+
 **pour** 
 
 ## 6
 **poverty** 
+
 **practical** 
+
 **practically** 
-**practice** 
+
+**practice**
+
 **practise** 
+
 **praise** 
+
 **pray** 
+
 **prayer** 
+
 **precise** 
+
 **precisely** 
