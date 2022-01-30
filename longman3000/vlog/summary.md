@@ -256,12 +256,12 @@ perfect - profit
 police- policy
 
 remain - main
-smell - smile
 rizen - reason
 
 service - survey
 steady study
 signal - sign
+smell - smile
 
 try - trial
 temper - temple
