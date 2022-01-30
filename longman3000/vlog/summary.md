@@ -257,6 +257,10 @@ police- policy
 peek - pick
 physics - fix
 praise - phrase
+piece - peace
+pale - pile
+pill - bill
+pint - paint
 
 remain - main
 rizen - reason

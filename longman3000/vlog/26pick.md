@@ -1,13 +1,24 @@
 ## 1
 **picture** 
+He asked her permission to paint her picture.
+
 **pie** 
+
 **piece** 
+
 **pile** 
+
 **pill** 
+
 **pilot** 
+
 **pin** 
+
 **pint** 
-**pipe** 
+
+**pipe**
+`/paɪ/` 
+
 **pitch** 
 
 ## 2
