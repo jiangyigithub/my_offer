@@ -254,6 +254,8 @@ path - pass
 peace - pis
 perfect - profit 
 police- policy
+peek - pick
+physics - fix
 
 remain - main
 rizen - reason
