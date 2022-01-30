@@ -252,21 +252,23 @@ pale - pear
 period - peer
 path - pass
 peace - pis
+perfect - profit 
+police- policy
 
-smell - smile
-service - survey
 remain - main
+smell - smile
+rizen - reason
+
+service - survey
+steady study
+signal - sign
+
+try - trial
+temper - temple
 
 weight - wait
-temper - temple
 wage - age
 world - word
-rizen - reason
-police- policy
-try - trial
-steady study
-profit perfect
-signal - sign
 width - with
 written - return
 
