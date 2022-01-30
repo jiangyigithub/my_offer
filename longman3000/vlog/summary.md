@@ -256,6 +256,7 @@ perfect - profit
 police- policy
 peek - pick
 physics - fix
+praise - phrase
 
 remain - main
 rizen - reason
