@@ -266,6 +266,7 @@ plain - play
 pleasure - palyer
 plates - place
 penalty - plenty
+pocket - packet
 
 remain - main
 rizen - reason

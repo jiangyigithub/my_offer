@@ -1,6 +1,6 @@
 ea 
 `/e/`
-bread - breast - breath - deaf - instead - steady - pleasure
+bread - breast - breath - deaf - instead - steady - pleasure - wealth
 Use your head,don't tread on the bread.
 
 `/iː/`

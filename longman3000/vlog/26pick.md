@@ -74,24 +74,38 @@ She sipped her drink with obvious pleasure.
 
 ## 3
 **plenty** 
+No need to hurry - you've got plenty of time.
 
 **plug** 
+During the show she managed to put in a plug for her new book.
 
 **pocket**
+Dan had to pay for the repairs out of his own pocket.
 
 **poem** 
+I decided to write a poem about how I felt.
 
 **poet** 
+someone who writes poems
 
 **poetry** 
+`/ˈpəʊə/`
+He reads a lot of poetry.
 
 **pole** 
+We have enormous wealth at one pole, and poverty and misery at the other.
 
 **polite** 
+`/pəˈlaɪ/`
+She’s always very polite.
 
 **political** 
+`/pəˈlɪ/`
+Education is now a major political issue.
 
 **politician** 
+`/ˌpɒlə/`
+politician who are tring to get minority vote
 
 ## 4
 **politics** 
