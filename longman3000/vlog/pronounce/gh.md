@@ -6,6 +6,7 @@ daughter
 through
 naughty
 neighbour
+frighten
 
 `/f/`
 laugh

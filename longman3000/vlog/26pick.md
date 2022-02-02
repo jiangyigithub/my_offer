@@ -145,24 +145,36 @@ The events pose a challenge to the church's leadership.
 
 ## 5
 **possess** 
+`/zes/`
+He no longer possessed the power to frighten her.
 
 **possession** 
+The finance company now has possession of the house.
 
 **possibility** 
+There was no possibility of changing the voting procedure.
 
 **possible** 
+Is it possible to get tickets for the game?
 
 **possibly** 
+This last task is possibly the most difficult.
 
 **pot** 
+pots and pans
 
 **potato** 
+Marie stood at the sink, peeling potatoe.
 
 **potential** 
+new ways of attracting potential customers
 
 **pound** 
+`/paʊn/`
+The grapes cost $2 a pound
 
 **pour** 
+She poured coffee for everyone.
 
 ## 6
 **poverty** 

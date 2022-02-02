@@ -268,6 +268,11 @@ plates - place
 penalty - plenty
 pocket - packet
 plain - explain
+probably - possibly
+possess - proccess
+pssession - position
+pot - port
+pour - port
 
 remain - main
 rizen - reason
