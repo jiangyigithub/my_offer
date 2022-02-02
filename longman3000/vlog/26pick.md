@@ -174,6 +174,7 @@ new ways of attracting potential customers
 The grapes cost $2 a pound
 
 **pour** 
+`/ɔː/`
 She poured coffee for everyone.
 
 ## 6
