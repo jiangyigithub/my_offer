@@ -109,6 +109,7 @@ politician who are tring to get minority vote
 
 ## 4
 **politics** 
+Tom is studying for a degree in politics.
 
 **poll** 
 
