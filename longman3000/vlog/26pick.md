@@ -109,25 +109,39 @@ politician who are tring to get minority vote
 
 ## 4
 **politics** 
+`/ˈpɒlə/`
 Tom is studying for a degree in politics.
 
 **poll** 
+The latest public opinion poll showed that 25% of us consider ourselves superstitious.
 
 **pollution** 
+The costs of pollution control must be considered.
 
 **pond** 
+`/pɒn/`
+pond < lake
 
 **pool** 
+Both partners put money into a common pool.
 
 **poor** 
+It's the government's responsibility to help the poor.
 
 **pop** 
+The lid popped open and juice spilled all over the floor.
 
 **popular** 
+`/pɒpjə/`
+Coffee is probably the most popular drink in the world.
 
 **population** 
+`/ˈleɪ/`
+Nearly 70 percent of the population still live in the countryside.
 
 **pose** 
+`/z/`
+The events pose a challenge to the church's leadership.
 
 ## 5
 **possess** 

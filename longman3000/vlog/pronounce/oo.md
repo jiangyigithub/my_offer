@@ -6,4 +6,5 @@ flood
 floor
 
 `/uː/`
+pool
 spoon
