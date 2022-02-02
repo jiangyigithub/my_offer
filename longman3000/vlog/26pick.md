@@ -178,21 +178,34 @@ She poured coffee for everyone.
 
 ## 6
 **poverty** 
+We need an effective strategy to fight poverty.
 
 **practical** 
+`/ˈpræktɪ/`
+Candidates should have training and practical experience in basic electronics.
 
 **practically** 
+`/tɪkli/`
+It is practically impossible to predict what will happen.
 
 **practice**
+It takes hours of practice to learn to play the guitar.
 
 **practise** 
+=  practice
 
 **praise** 
+The mayor praised the rescue teams for their courage.
 
 **pray** 
+Let us pray for peace.
 
 **prayer** 
+The children said their prayers and got into bed.
 
 **precise** 
+`/prɪ/`
+It was difficult to get precise information.
 
 **precisely** 
+Temperature can be measured precisely.

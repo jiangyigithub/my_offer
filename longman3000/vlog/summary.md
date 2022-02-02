@@ -83,6 +83,7 @@ climb claim
 collar  collour
 court coat
 cottage college
+courage - carriage
 
 drunk - run
 degree - disagree
@@ -273,6 +274,9 @@ possess - proccess
 pssession - position
 pot - port
 pour - port
+poverty - power
+pray - praise
+praise - phrase
 
 remain - main
 rizen - reason
