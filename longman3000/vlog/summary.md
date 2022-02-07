@@ -280,6 +280,9 @@ praise - phrase
 pond - pound
 pale - pile - pole
 pill - poll
+prison - present
+proecution - execution
+prospect - respect
 
 remain - main
 rizen - reason

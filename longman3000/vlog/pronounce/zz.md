@@ -3,6 +3,9 @@
 
 `/ɒ/` `/əʊ/` `/ɔ/`
 
+`ecu`
+execution
+prosecution
 
 `tab`
 establish
