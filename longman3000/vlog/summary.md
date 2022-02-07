@@ -278,6 +278,8 @@ poverty - power
 pray - praise
 praise - phrase
 pond - pound
+pale - pile - pole
+pill - poll
 
 remain - main
 rizen - reason
