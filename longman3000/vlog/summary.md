@@ -277,6 +277,7 @@ pour - port
 poverty - power
 pray - praise
 praise - phrase
+pond - pound
 
 remain - main
 rizen - reason
