@@ -18,9 +18,11 @@ He has to take pills to control his blood pressure.
 The new exams are currently being piloted in a number of areas.
 
 **pin** 
+`/pɪn/`
 a three-pin plug
 
 **pint** 
+`/paɪn/`
 half a pint of milk
 
 **pipe**
