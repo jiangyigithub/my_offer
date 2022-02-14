@@ -35,7 +35,7 @@ To judge from the press, the concert was a great success.
 I feel I'm not able to cope well with the pressures of life.
 
 **presumably** 
-`/prɪ/` `/ˈzjuːmə/` `/bli//`
+`/prɪ/` `/ˈzjuːmə/` `/bli/`
 It's raining, which presumably means that your football match will be cancelled.
 
 ## 2
