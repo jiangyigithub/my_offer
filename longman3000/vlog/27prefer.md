@@ -1,8 +1,20 @@
 ## 1
 **prefer** 
+`/prɪ/`
+Employees said they would prefer more flexible working hours.
+
 **preference** 
+`/ˈpre/`
+The amount of sugar you add will depend on personel preference.
+
 **pregnant** 
+`/ˈpre/` `/nənt/`
+His wife was heavily pregnant.
+
 **premise** 
+`/ˈpre/`
+The idea that there is life on other planets is the central premise of novel.
+
 **preparation** 
 **preserve** 
 **president** 
