@@ -16,11 +16,27 @@ His wife was heavily pregnant.
 The idea that there is life on other planets is the central premise of novel.
 
 **preparation** 
+`/ˌprepə/`
+Plans for the new school are now in preparation.
+
 **preserve** 
+`/prɪ/`
+we must encourage the planting of new trees and preserve our existing woodlands.
+
 **president** 
+`/ˈpre/`
+the president of France
+
 **press** 
+`/pre/`
+To judge from the press, the concert was a great success.
+
 **pressure** 
+I feel I'm not able to cope well with the pressures of life.
+
 **presumably** 
+`/prɪ/` `/bli//`
+It's raining, which presumably means that your football match will be cancelled.
 
 ## 2
 **presume** 
