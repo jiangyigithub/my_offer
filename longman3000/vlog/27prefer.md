@@ -40,7 +40,13 @@ It's raining, which presumably means that your football match will be cancelled.
 
 ## 2
 **presume** 
+`/prɪ/`
+We must presume innocence util we have evidence of guilt.
+
 **pretend** 
+`/prɪ/`
+To pretend ignorance of the situation would be irresponsible.
+
 **pretty** 
 **previous** 
 **previously** 
