@@ -48,8 +48,14 @@ We must presume innocence util we have evidence of guilt.
 To pretend ignorance of the situation would be irresponsible.
 
 **pretty** 
+She still looks pretty miserable.
+
 **previous** 
+Do you have any experience of this type of work?
+
 **previously** 
+Almost half the group had previously been heavy smokers.
+
 **pride** 
 **priest** 
 **primarily** 
