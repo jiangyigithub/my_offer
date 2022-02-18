@@ -286,6 +286,7 @@ proecution - execution
 prospect - respect
 proof - prove
 press - price
+prize - price
 
 remain - main
 rizen - reason

@@ -61,9 +61,11 @@ Almost half the group had previously been heavy smokers.
 His heart swelled with pride as he watched his daughter collect her prize.
 
 **priest** 
+`/priː/`
 someone who is specially trained to perform religious duties and ceremonies in the Christian church
 
 **primarily** 
+`/praɪ/`
 The advertisement is aimed primarily at children.
 
 **princess** 
@@ -74,14 +76,31 @@ His principal reason for making the journey was to visit his family.
 
 ## 3
 **principle** 
+`/ˈprɪn/`
+
 **prior** 
+`/ˈpraɪ/`
+The society must give customers prior notice before changing the cost.
+
 **prison** 
+`/ˈprɪ/`
+
 **prisoner** 
+
 **private** 
+`/ˈpraɪ/`
+private education
+
 **privilege** 
+`/ˈprɪ/`
+
 **prize** 
+In this mouth's competition you could win a prize worth $3,000.
+
 **probably** 
+
 **procedure** 
+
 **proceed** 
 
 ## 4
