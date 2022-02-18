@@ -292,6 +292,7 @@ pretend - intend
 
 remain - main
 rizen - reason
+retail - detail
 
 service - survey
 steady study

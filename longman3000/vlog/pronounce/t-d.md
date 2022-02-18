@@ -7,3 +7,4 @@ stretch
 extensive
 mistake
 state
+strike

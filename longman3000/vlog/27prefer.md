@@ -157,26 +157,36 @@ Parents should teach their children to behave properly in public.
 ## 5
 **property** 
 `/ˈprɒ/`
+The hotel is not responsible for any loss or damage to guest's personal property.
 
 **proportion** 
 `/prə/`
+The proportion of women graduates has increased in recent years.
 
 **proposal** 
-`/prə/`
+`/prə/` `/zl/`
+They rejected proposals that the president should be directly elected.
 
 **propose** 
 `/prə/`
+The report also proposes extending the motorway.
 
 **proposed** 
+The document supplies details of the proposed changes.
 
 **prosecution** 
 `/ˌprɒ/`
+The evidence is not sufficient to bring a prosecution against him.
 
 **prospect** 
 `/ˈprɒ/`
+There are good prospects for growth in the retail sector.
 
 **protest** 
 `/ˈprəʊ/`
+Five thousand employees came out on strike in protest at the poor working conditions.
 
 **proud** 
 `/praʊ/`
+*proud of*
+Her parents are very proud of her.
