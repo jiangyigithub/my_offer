@@ -51,6 +51,7 @@ To pretend ignorance of the situation would be irresponsible.
 She still looks pretty miserable.
 
 **previous** 
+`/ˈpriː/`
 Do you have any experience of this type of work?
 
 **previously** 
@@ -106,30 +107,65 @@ In this mouth's competition you could win a prize worth $3,000.
 It will probably take about a week.
 
 **procedure** 
+`/prə/`
 This is standard procedure for getting rid of toxic waste.
 
 **proceed** 
+`/prə/`
 Before preceeding further, we must define our terms.
 
 ## 4
 **proceeding** 
+`/prə/`
+
 **process** 
+`/ˈprəʊ/`
+
 **profile** 
+`/ˈprəʊ/`
 **programme** 
+`/ˈprəʊ/`
+
 **progress** 
+`/ˈprəʊ/`
+
 **promise** 
+`/ˈprɒ/`
+
 **prompt** 
+`/ˈprɒ/`
+
 **proof** 
+`/pruː/`
+
 **proper** 
+`/ˈprɒ/`
+
 **properly** 
 
 ## 5
 **property** 
+`/ˈprɒ/`
+
 **proportion** 
+`/prə/`
+
 **proposal** 
+`/prə/`
+
 **propose** 
+`/prə/`
+
 **proposed** 
+
 **prosecution** 
+`/ˌprɒ/`
+
 **prospect** 
+`/ˈprɒ/`
+
 **protest** 
+`/ˈprəʊ/`
+
 **proud** 
+`/praʊ/`
