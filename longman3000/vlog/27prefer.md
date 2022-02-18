@@ -117,31 +117,42 @@ Before preceeding further, we must define our terms.
 ## 4
 **proceeding** 
 `/prə/`
+John is taking legal proceeding against his ex-partner.
 
 **process** 
 `/ˈprəʊ/`
+The company is in the process of moving to new offices.
 
 **profile** 
 `/ˈprəʊ/`
+a short profile of the actor
+
 **programme** 
 `/ˈprəʊ/`
+a programme of economic reforms
 
 **progress** 
 `/ˈprəʊ/`
+The police are disappointed by the slow progress of the investigation.
 
 **promise** 
 `/ˈprɒ/`
+I'll try my best to get tickets,but I can't promise anything.
 
 **prompt** 
 `/ˈprɒ/`
+What prompted you to buy that suit?
 
 **proof** 
 `/pruː/`
+proof of the existence of life on other planets
 
 **proper** 
 `/ˈprɒ/`
+The friendly chat which comes before the interview proper is intended to relax the candidate.
 
 **properly** 
+Parents should teach their children to behave properly in public.
 
 ## 5
 **property** 

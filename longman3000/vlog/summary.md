@@ -288,6 +288,7 @@ proof - prove
 press - price
 prize - price
 presumably - probably
+pretend - intend
 
 remain - main
 rizen - reason
