@@ -77,6 +77,7 @@ His principal reason for making the journey was to visit his family.
 ## 3
 **principle** 
 `/ˈprɪn/`
+It is against my principles to accept gifts from the clients.
 
 **prior** 
 `/ˈpraɪ/`
@@ -84,8 +85,10 @@ The society must give customers prior notice before changing the cost.
 
 **prison** 
 `/ˈprɪ/`
+The two men were arrested only a week after they released from prison.
 
 **prisoner** 
+The organization is arguing for the release of political prisoners.
 
 **private** 
 `/ˈpraɪ/`
@@ -93,15 +96,20 @@ private education
 
 **privilege** 
 `/ˈprɪ/`
+He had no special privileges and was treated just like every other prisoner.
 
 **prize** 
 In this mouth's competition you could win a prize worth $3,000.
 
 **probably** 
+`/ˈprɒ/`
+It will probably take about a week.
 
 **procedure** 
+This is standard procedure for getting rid of toxic waste.
 
 **proceed** 
+Before preceeding further, we must define our terms.
 
 ## 4
 **proceeding** 

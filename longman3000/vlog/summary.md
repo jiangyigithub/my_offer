@@ -287,6 +287,7 @@ prospect - respect
 proof - prove
 press - price
 prize - price
+presumably - probably
 
 remain - main
 rizen - reason
@@ -298,6 +299,7 @@ smell - smile
 
 try - trial
 temper - temple
+taxi - toxic
 
 weight - wait
 wage - age
