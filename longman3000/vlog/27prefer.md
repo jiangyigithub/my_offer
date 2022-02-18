@@ -57,10 +57,20 @@ Do you have any experience of this type of work?
 Almost half the group had previously been heavy smokers.
 
 **pride** 
+*swell with pride*
+His heart swelled with pride as he watched his daughter collect her prize.
+
 **priest** 
+someone who is specially trained to perform religious duties and ceremonies in the Christian church
+
 **primarily** 
+The advertisement is aimed primarily at children.
+
 **princess** 
+*prince*
+
 **principal** 
+His principal reason for making the journey was to visit his family.
 
 ## 3
 **principle** 
