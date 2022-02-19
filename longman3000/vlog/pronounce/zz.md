@@ -33,8 +33,12 @@ discipline
 fascinating
 
 `ably`
+considerably
+inevitably
+notably
 persumably
 probably
+reasonably
 
 `tial` 
 essential
