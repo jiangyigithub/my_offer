@@ -316,6 +316,7 @@ receipt - seat
 receive - save
 recent - sent
 receipt - receive
+ratio - radio
 
 service - survey
 steady study
