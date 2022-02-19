@@ -289,7 +289,20 @@ press - price
 prize - price
 presumably - probably
 pretend - intend
+pudding - putting
+pull - poor
+purple - proper
+purpose - propose
 
+quality - quantity
+quiet - quit - quote
+
+rail - real - rare
+rate - rat
+raw - role - row
+reach - rich
+readily - really
+receipt - reset
 remain - main
 rizen - reason
 retail - detail
