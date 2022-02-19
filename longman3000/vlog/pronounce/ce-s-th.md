@@ -3,6 +3,7 @@
 
 c + `a o u`
 academic
+radical
 
 `c + consonant`
 fact
