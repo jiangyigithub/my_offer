@@ -6,6 +6,8 @@
    - short vowel（7）https://www.youtube.com/watch?v=DIWkl9HcGy4
    - diphthong vowel（8） https://www.youtube.com/watch?v=lI3xTvwYsa8
 
+2. CONSONANT
+
 3. contrast  
     `/ɑː/`   `/ʌ/`
 
