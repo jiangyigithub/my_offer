@@ -17,6 +17,7 @@ all
 call -saw - law
 
 `/eɪ/`
+**ay**
 able
 may - pay - table - data
 
@@ -35,13 +36,3 @@ basically - typically - separately - automatically
 What
 
 any - many
-
-***
-**ar**
-
-`/ˈɑː/`
- army - argument - article - artifical - architect
- alarm
-
-`/ə/`
-arrive - arrest - arrange

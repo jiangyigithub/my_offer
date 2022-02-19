@@ -1,8 +1,9 @@
 **au**
 
 `/ɔː/`
-daughter
-cause
 audience
+cause
+daughter
+fault
 naughty
 pause

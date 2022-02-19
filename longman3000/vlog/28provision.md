@@ -61,10 +61,11 @@ what's the patient's psychological state?
 
 **recall** 
 `/rɪ/`
+The cars had to be recalled due to an engine fault.
 
 **receipt** 
 `/rɪ/`
-Keep your receipt
+Keep your receipt in case you want to bring it back.
 
 **receive** 
 `/rɪ/`
