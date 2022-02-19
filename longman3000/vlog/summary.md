@@ -293,9 +293,12 @@ pudding - putting
 pull - poor
 purple - proper
 purpose - propose
+punish - publish
 
 quality - quantity
-quiet - quit - quote
+quiet - quite
+quid - quit
+quit - quite - quote
 
 rail - real - rare
 rate - rat

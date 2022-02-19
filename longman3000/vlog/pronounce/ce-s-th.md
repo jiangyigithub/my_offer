@@ -2,14 +2,21 @@
 `/k/`
 
 c + `a o u`
-end c
+academic
+
+`c + consonant`
+fact
+class
+
+`end c`
 basic
 fact
-The cop carried the cupcake to the castle in tge clouds.
+
+The cop carried the cupcake to the castle in the clouds.
 
 `/s/`
 
-c + `i e y`
+c + `e i y`
 city
 cent
 cycle

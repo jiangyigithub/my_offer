@@ -1,6 +1,9 @@
 ur
 `/ɜː/`
-burn burst church curtain curve furniture further
+burn burst church curtain curve furniture further purchase
+
+`/ə/`
+pursue
 
 ir 
 `/ɜː/`
