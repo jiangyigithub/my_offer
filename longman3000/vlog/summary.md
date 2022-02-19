@@ -295,6 +295,7 @@ purple - proper
 purpose - propose
 punish - publish
 provision - vision
+presume - assume
 
 quality - quantity
 quiet - quite

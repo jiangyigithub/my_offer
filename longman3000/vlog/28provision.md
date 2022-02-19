@@ -56,8 +56,10 @@ what's the patient's psychological state?
 
 ## 5
 **reasonable** 
+It seems reasonable to assume they've been tested.
 
 **reasonably** 
+The car is in reasonably good condition.
 
 **recall** 
 `/rɪ/`
