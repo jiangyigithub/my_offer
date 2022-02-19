@@ -6,13 +6,33 @@ we had enough provisions for two weeks.
 what's the patient's psychological state?
 
 **psychology** 
+experts in the field of developmental psychology
+
 **pub** 
+Do you fancy going to the pub?
+
 **publicity** 
+The adverse publicity had damaged sales.
+
 **pudding** 
+There's ice cream for pudding
+
 **punch** 
+`/pʌn/`
+The guard punched my ticket and I got on.
+
 **punishment** 
+*punishment for*
+The punishment for treason is death.
+
 **pupil** 
+`/ˈpjuː/` `/pəl/`
+*student*
+About 20 pupils study music here.
+
 **purchase** 
+`/ˈpɜː/`
+You can purchase insurance online.
 
 ## 2
 **pure** 

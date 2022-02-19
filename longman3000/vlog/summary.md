@@ -27,6 +27,7 @@ appreciate - precious
 aware - where
 anxious - anxiety
 allow - loud
+advertise - adverse
 
 bean bin
 bit beat

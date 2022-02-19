@@ -6,3 +6,5 @@ psychological
 
 `/ʃ/` `/tʃ/`
 stretch
+punch
+purchase
