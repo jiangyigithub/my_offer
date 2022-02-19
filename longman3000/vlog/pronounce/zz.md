@@ -69,7 +69,11 @@ pronounce
 ## 单词变音
 (在s/x后)
 1. p --> b
+   explain
 2. t --> d
+   establish
+3. k --> g
+   sky
 
 ## 连读规则
 1. 单词末尾辅音 + 单词开头元音
