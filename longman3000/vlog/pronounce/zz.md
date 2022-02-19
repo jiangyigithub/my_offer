@@ -40,6 +40,10 @@ persumably
 probably
 reasonably
 
+`lity`
+reality
+quality
+
 `tial` 
 essential
 initial
