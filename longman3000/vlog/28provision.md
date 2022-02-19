@@ -1,6 +1,10 @@
 ## 1
 **provision** 
+we had enough provisions for two weeks.
+
 **psychological** 
+what's the patient's psychological state?
+
 **psychology** 
 **pub** 
 **publicity** 
@@ -52,12 +56,35 @@
 
 ## 5
 **reasonable** 
+
 **reasonably** 
+
 **recall** 
+`/rɪ/`
+
 **receipt** 
+`/rɪ/`
+Keep your receipt
+
 **receive** 
+`/rɪ/`
+They will be entitled to receive unemployment benefit.
+
 **recent** 
+`/ˈriː/`
+The situation has improved in recent years.
+
 **recently** 
+He has recently been promoted to Assistant Manager.
+
 **reception** 
+`/rɪ/`
+The delegates gave him a warm reception
+
 **recipe** 
+`/ˈre/`
+a recipe book
+
 **reckon**
+`/ˈre/`
+Do you reckon he'll agree to see us?

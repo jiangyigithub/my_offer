@@ -310,6 +310,11 @@ receipt - reset
 remain - main
 rizen - reason
 retail - detail
+receipt - recipe
+receipt - seat
+receive - save
+recent - sent
+receipt - receive
 
 service - survey
 steady study
