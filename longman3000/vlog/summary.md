@@ -294,6 +294,7 @@ pull - poor
 purple - proper
 purpose - propose
 punish - publish
+provision - vision
 
 quality - quantity
 quiet - quite
