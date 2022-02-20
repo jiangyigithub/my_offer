@@ -66,19 +66,22 @@ You can purchase insurance online.
 It's a new technique and the failure rate is quite high.
 
 **ratio** 
-`/ʃiəʊ/`
+`/ˈreɪ/` `/ʃiəʊ/`
 The ratio of nursing staff to doctors is 2:1.
 
 **raw** 
 The cost of our raw materials has risen significantly.
 
 **reach** 
+The kids have reached the age when they can care for themselves.
 
 **react** 
 *react by doing something*
 The government reacted by declaring all strikes illegal.
 
 **reaction** 
+*in reaction to something*
+An emergency fund was set up in reaction to famine.
 
 **readily** 
 `/ˈre/` `/dəli/`
@@ -94,8 +97,10 @@ You need to be realistic about the amount you can do in a day.
 TV is used as an escape from reality.
 
 **realize** 
+It was only later that I realized my mistake.
 
 **really** 
+It was really cold last night.
 
 ## 5
 **reasonable** 
