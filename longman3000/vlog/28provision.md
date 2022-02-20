@@ -63,15 +63,38 @@ You can purchase insurance online.
 
 ## 4
 **rate** 
+It's a new technique and the failure rate is quite high.
+
 **ratio** 
+`/ʃiəʊ/`
+The ratio of nursing staff to doctors is 2:1.
+
 **raw** 
+The cost of our raw materials has risen significantly.
+
 **reach** 
+
 **react** 
+*react by doing something*
+The government reacted by declaring all strikes illegal.
+
 **reaction** 
+
 **readily** 
+`/ˈre/` `/dəli/`
+The information is readily accessible on the Internet.
+
 **realistic** 
+`/rɪə/`
+*realistic about*
+You need to be realistic about the amount you can do in a day.
+
 **reality** 
+`/ri/` `/ˈæ/`
+TV is used as an escape from reality.
+
 **realize** 
+
 **really** 
 
 ## 5

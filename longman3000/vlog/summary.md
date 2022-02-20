@@ -318,6 +318,7 @@ receive - save
 recent - sent
 receipt - receive
 ratio - radio
+raise - rise
 
 service - survey
 steady study
