@@ -49,17 +49,41 @@ You can purchase insurance online.
 
 ## 3
 **quit** 
+He quit his job after an argument with a colleague.
+
 **quite** 
+He’s quite a good soccer player.
+
 **quote** 
+A military spokesman was quoted as saying that the border area is now safe.
+
 **race**
+He will be the youngest runner in the race.
+
 **racing** 
+racing car
+
 **radical** 
+They are proposing radical changes to the way the company is run.
+
 **radio**
+We’ve lost radio contact with the plane.
+
 **rail** 
+I need to buy a rail ticket.
+
 **raise** 
+Can you raise the lamp so I can see?
+
 **rapid** 
+`/ˈræ/`
+rapid population growth
+
 **rapidly** 
+The disease was spreading more rapidly than expected.
+
 **rare**  
+This species of plant is becoming increasingly rare.
 
 ## 4
 **rate** 
