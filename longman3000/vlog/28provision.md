@@ -158,9 +158,11 @@ It was really cold last night.
 
 ## 5
 **reasonable** 
+`/ˈriː/`
 It seems reasonable to assume they've been tested.
 
 **reasonably** 
+`/ˈriː/`
 The car is in reasonably good condition.
 
 **recall** 
