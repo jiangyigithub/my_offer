@@ -297,6 +297,7 @@ purpose - propose
 punish - publish
 provision - vision
 presume - assume
+purse - pause
 
 quality - quantity
 quiet - quite
