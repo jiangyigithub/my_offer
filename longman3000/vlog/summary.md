@@ -321,6 +321,7 @@ receipt - receive
 ratio - radio
 raise - rise
 region - religion
+repid - rabbit
 
 service - survey
 steady study
