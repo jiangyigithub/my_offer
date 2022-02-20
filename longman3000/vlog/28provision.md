@@ -83,6 +83,7 @@ rapid population growth
 The disease was spreading more rapidly than expected.
 
 **rare**  
+`/eə/`
 This species of plant is becoming increasingly rare.
 
 ## 4
