@@ -36,16 +36,45 @@ You can purchase insurance online.
 
 ## 2
 **pure** 
+`/jʊə/`
+The chairman dismissed the report as pure speculation.
+
 **purple** 
+`/pɜː/` `/pəl/`
+a dark colour that is a mixture of red and blue
+
 **purpose** 
+`/pɜː/` `/pəs/`
+The purpose of conducting a business is to make money.
+
 **purse** 
+`/pɜː/`
+Julie opened her handbag and took out her purse.
+
 **pursue** 
+`/pə/`
+She plans to pursue a career in politics.
+
 **quality** 
+The quality of the water is reasonably good.
+
 **quantity** 
+`/ɒn/`
+He had consumed a large quantity of alcohol.
+
 **quarter** 
+`/ɔː/`
+Cut the cake into quarters.
+
 **queue** 
+There was a long queue to get into the cinema.
+
 **quid** 
+She earns at least 600 quid a week.
+
 **quiet** 
+`/aɪə/`
+It’s a nice car. The engine’s really quiet.
 
 ## 3
 **quit** 
