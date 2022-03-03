@@ -52,14 +52,20 @@ I regret leaving school so young.
 All companies must comply with the regulations.
 
 **reinforce** 
+`/ˌriː/`
+The film reinforces the idea that women should be pretty and dumb.
 
 **relative** 
+`/ˈre/`
+Her boyfriend is a distant relative of mine.
 
 **relatively** 
 
 **release** 
 
 **relevant** 
+`/ˈre/`
+What experience do you have that is relevant to this position?
 
 **relief** 
 
