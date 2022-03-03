@@ -14,10 +14,13 @@ Doctors strongly recommend that fathers should be present at their baby’s birt
 We will review the case and make a recommendation to the client.
 
 **refer** 
+*refer to*
 
 **reference** 
+The article made no reference to previous research on the subject.
 
 **refrigerator** 
+*fridge/freezer*
 
 **refuse** 
 The chairman refused to answer any more questions.
