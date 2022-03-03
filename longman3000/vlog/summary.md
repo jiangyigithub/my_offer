@@ -85,6 +85,7 @@ collar  collour
 court coat
 cottage college
 courage - carriage
+complain - comply
 
 drunk - run
 degree - disagree
@@ -323,6 +324,7 @@ ratio - radio
 raise - rise
 region - religion
 repid - rabbit
+regret - great
 
 service - survey
 steady study

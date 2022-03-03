@@ -11,12 +11,15 @@ British medical qualifications are recognized in Canada.
 Doctors strongly recommend that fathers should be present at their baby’s birth.
 
 **recommendation** 
+`/ˌre/`
 We will review the case and make a recommendation to the client.
 
 **refer** 
+`/rɪ/`
 *refer to*
 
 **reference** 
+`/ˈre/`
 The article made no reference to previous research on the subject.
 
 **refrigerator** 
@@ -34,15 +37,32 @@ All students must have access to quality education without regard to wealth or c
 The regime got rid of most of its opponents.
 
 ## 2
-**register**  
+**register** 
+`/ˈre/`
+Have you signed hotel register?
+
 **regret** 
+`/rɪ/`
+*regret doing sth*
+I regret leaving school so young.
+
 **regulation** 
+`/ˌre/`
+*rules and regulations* 
+All companies must comply with the regulations.
+
 **reinforce** 
+
 **relative** 
+
 **relatively** 
+
 **release** 
+
 **relevant** 
+
 **relief** 
+
 **relieve** 
 
 ## 3
