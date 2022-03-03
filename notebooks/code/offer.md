@@ -288,7 +288,13 @@ path.pop_back();
 **offer 42**
 - 求和问题
 - 动态规划的几大要素
-  1. 
+- 代码简化
+  if dp[i−1]>0
+    dp[i]= dp[i−1]+nums[i]
+  if dp[i−1]≤0  
+    dp[i]= nums[i]​
+  等价于：
+  nums[i] += max(nums[i - 1], 0)
 
 **offer 63**
 - 求两个极值的差的问题
