@@ -326,6 +326,7 @@ region - religion
 repid - rabbit
 regret - great
 reply - comply
+reply - replay
 
 service - survey
 steady study

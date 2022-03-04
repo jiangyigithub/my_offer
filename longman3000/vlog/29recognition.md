@@ -110,12 +110,24 @@ I’d rather have my own house than rent.
 Dad was up the ladder, repairing the roof.
 
 ## 4
-**reply** 
+**reply**
+Sorry it took me so long to reply.
+
 **reporter** 
+a news reporter
+
 **represent** 
+European orders represented 30 percent of our sales last year.
+
 **representation** 
+ Minority groups need more effective parliamentary representation.
+
 **representative**  
+a union representative
+
 **rescue** 
+Survivors of the crash were rescued by helicopter.
+
 **reserve** 
 **resident** 
 **residential** 
