@@ -129,9 +129,23 @@ a union representative
 Survivors of the crash were rescued by helicopter.
 
 **reserve** 
+*reserve sth. for sb./sth.*
+I’d like to reserve a table for two.
+
 **resident** 
+Parking spaces are for residents only.
+
 **residential** 
+telephone services for residential customers
+
 **resign**
+She resigned from the government last week.
+
 **resignation** 
+Illness forced his resignation.
+
 **resist** 
+She can never resist buying new shoes.
+
 **resistance** 
+The no-smoking policy was introduced with little resistance from staff.
