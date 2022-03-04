@@ -92,11 +92,22 @@ Many scientists remain unconvinced by the current evidence.
 The only remaining question is whether we can raise the money.
 
 **remains** 
+On the table were the remains of the evening meal.
+
 **remark** 
+Unfortunately, a local journalist overheard the remark.
+
 **remember** 
+I can’t remember her exact words.
+
 **remote** 
+The prospect of peace seems remote.
+
 **rent** 
+I’d rather have my own house than rent.
+
 **repair** 
+Dad was up the ladder, repairing the roof.
 
 ## 4
 **reply** 
