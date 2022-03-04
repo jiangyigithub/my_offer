@@ -119,6 +119,7 @@ Dad was up the ladder, repairing the roof.
 **reserve** 
 **resident** 
 **residential** 
+**resign**
 **resignation** 
 **resist** 
 **resistance** 

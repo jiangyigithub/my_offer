@@ -325,6 +325,7 @@ raise - rise
 region - religion
 repid - rabbit
 regret - great
+reply - comply
 
 service - survey
 steady study

@@ -2374,7 +2374,7 @@ research
 **reserve** 
 **resident** 
 **residential** 
-resign 
+**resign** 
 **resignation** 
 **resist** 
 **resistance** 
