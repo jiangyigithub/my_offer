@@ -60,16 +60,20 @@ The film reinforces the idea that women should be pretty and dumb.
 Her boyfriend is a distant relative of mine.
 
 **relatively** 
+E-commerce is a relatively recent phenomenon.
 
 **release** 
+Physical exercise is a good way of releasing stress.
 
 **relevant** 
 `/ˈre/`
 What experience do you have that is relevant to this position?
 
 **relief** 
+No one was hurt, and we all breathed a sigh of relief.
 
 **relieve** 
+Some people eat for comfort, to relieve their anxieties.
 
 ## 3
 **religion** 
