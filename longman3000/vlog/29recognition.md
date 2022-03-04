@@ -77,10 +77,20 @@ Some people eat for comfort, to relieve their anxieties.
 
 ## 3
 **religion** 
+The U.S. Constitution promises freedom of religion.
+
 **religious** 
+I don’t share her religious beliefs.
+
 **rely** 
+She needn't rely any more on Rico - or her brothers, she could be entirely independent.
+
 **remain** 
+Many scientists remain unconvinced by the current evidence.
+
 **remaining** 
+The only remaining question is whether we can raise the money.
+
 **remains** 
 **remark** 
 **remember** 
