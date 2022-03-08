@@ -1,3 +1,4 @@
+## 1
 **resolution** 
 `/ˌre/` `/zə/`
 The resolution was passed by a two-thirds majority.
@@ -14,9 +15,13 @@ Barnet was desperate for money to resolve his financial problems.
 `/ˈsɔː/`
 This area is rich in mineral resources.
 
-respect 
+**respect**
+*respect for* 
+An important prerequisite for the price system to work is an economy-wide
+respect for property rights.
 
-respectively 
+**respectively** 
+In terms of population, California and New York rank first and second respectively.
 
 **respond** 
 **response** 
