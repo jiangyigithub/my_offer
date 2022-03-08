@@ -1,5 +1,3 @@
-
-红绿灯启停
 # Ten Principles of Economics
 
 ## How People Make Decisions
