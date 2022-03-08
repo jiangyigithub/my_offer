@@ -13,21 +13,35 @@ public:
         {
             for (int i = l; i <= r; i++)
                 res.push_back(matrix[t][i]); // left to right
-            if (++t > b)
+            t++;
+            if (t > b)
                 break;
             for (int i = t; i <= b; i++)
                 res.push_back(matrix[i][r]); // top to bottom
-            if (l > --r)
+            r--;
+            if (l > r)
                 break;
             for (int i = r; i >= l; i--)
                 res.push_back(matrix[b][i]); // right to left
-            if (t > --b)
+            b--;
+            if (t > b)
                 break;
             for (int i = b; i >= t; i--)
                 res.push_back(matrix[i][l]); // bottom to top
-            if (++l > r)
+            l++;
+            if (l > r)
                 break;
         }
         return res;
     }
 };
+
+int main()
+{
+    vector<vector<int>> matrix{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+    vector<int> result = Solution().spiralOrder(matrix);
+    for (auto each : result)
+    {
+        cout << each << endl;
+    }
+}

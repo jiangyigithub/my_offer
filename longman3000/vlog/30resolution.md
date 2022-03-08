@@ -17,13 +17,17 @@ This area is rich in mineral resources.
 
 **respect**
 *respect for* 
-An important prerequisite for the price system to work is an economy-wide
-respect for property rights.
+An important prerequisite for the price system to work is an economy-wide respect for property rights.
 
 **respectively** 
 In terms of population, California and New York rank first and second respectively.
 
 **respond** 
+*respond to*
+Responding to the news, Mr Watt appealed for calm.
+
+People respond to incentives.
+
 **response** 
 **responsibility** 
 **responsible** 
