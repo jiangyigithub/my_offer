@@ -94,6 +94,7 @@ deserve - serve
 dealer - dinner
 daughter - laughter
 diet - doubt
+debt - date
 
 era - error
 eye - i
