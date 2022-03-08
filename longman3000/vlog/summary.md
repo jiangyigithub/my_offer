@@ -327,6 +327,10 @@ repid - rabbit
 regret - great
 reply - comply
 reply - replay
+return - retain
+reveal - review
+reverse - reserve
+result - resort
 
 service - survey
 steady study
