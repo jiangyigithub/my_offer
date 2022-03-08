@@ -1,6 +1,7 @@
 ## 1
 **debt**
 `/e/`
+*technical debt*
 Nearly half the students said they were in debt.
 
 **decade**
