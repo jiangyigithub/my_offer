@@ -29,8 +29,16 @@ Responding to the news, Mr Watt appealed for calm.
 People respond to incentives.
 
 **response** 
+The exhibition has received a positive response from visitors.
+
 **responsibility** 
+Kelly’s promotion means more money and more responsibility.
+
 **responsible** 
+*responsible for*
+He is responsible for recruiting and training new staff.
+
+## 2
 rest 
 
 restaurant 

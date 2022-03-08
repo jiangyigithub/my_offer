@@ -81,6 +81,10 @@ The minister had to issue a formal public apology for his remarks.
 **apparently**
 She turned to face him, her anger apparently gone.
 
+**appeal**
+*appeal for*
+The police have issued a new appeal for information.
+
 **appoint**
 The committee was appointted to consider the plans.
 

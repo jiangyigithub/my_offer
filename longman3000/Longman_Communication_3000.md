@@ -142,7 +142,7 @@ apologize
 **apology** 
 apparent 
 **apparently** 
-appeal 
+**appeal** 
 appear 
 appearance 
 apple 
