@@ -7,59 +7,7 @@ https://inside-docupedia.bosch.com/confluence/display/DP/SELENA+Build+System
 - scom PAD生成代码
 - 根据runnable的头文件生成selena的仿真代码
 2. 根据cmake file构建代码
-
-## selena log文件 `logfile_r2d2.txt` 的结构
-1. 
-apl_bjev\main\selena\config\cmake\ROSDADDY_PER_SIT_RPM_FCT.config
-`message(" ### Paths set in SELENA buildtime config file ####")`
-
-[R2D2 (cmake)] Run `fbg2dcbuild` to generate component cmake files from flux model 
-  - COMMAND bash "-c" "python3 -u ${DC_ROOT_DIR}/../cmp_common/tools/fbg2dcbuild/fbg2dcbuild.py ${FBG2DCBUILD_INI_FILE}"
-[R2D2 (cmake)] Starting generation of the SCOM 
-  - COMMAND bash -c "${APL_DIR}/tools/builder/generate_scom.sh"
-[R2D2 (cmake)] Starting generation of PAD parameters 
-  - COMMAND bash -c "${APL_DIR}/tools/builder/cmake/GEN_PAD_PARAMS.sh"
-
-1. 
-ip_dc\dc_tools\cmake\utils\dc_configure_vbindings.cmake
-line 113 -->`message(STATUS "Currently selected vbindings:")`
-3. 
-components.cmake
-    ip_dc\dc_fw\components.cmake
-    apl_bjev\component\fal\components.cmake
-    apl_bjev\components.cmake
-line 118 -->`[R2D2 (cmake)] Adding component`
-[R2D2 (cmake)] `Adding component`(./cmake/utils/dc_dependencies.cmake:    message("Adding component ")
-4. 
-ip_dc\dc_tools\CMakeLists.txt
-  - ip_dc\dc_tools\cmake\utils\dc_selena_utils.cmake
-  line 216 -->`message("Running Dinx header creator (dinx_header_creator.py) ...")`
-
-[R2D2 (cmake)] Running Dinx parser (dinxxmlparser.py) `selena/config/buildtime/ROSDADDY_PER_SIT_RPM_FCT.xml`
-[R2D2 (cmake)] Running NoGen (generateRosDaddyNode.py)
-5. 
-ip_dc\CMakeLists.txt
-`message("CMake build configuration process finished (${END_TIME})")`
-
-## cmake variable 重要的环境变量
-`dc_fw_DIR`
-set(dc_fw_DIR ${DC_ROOT_DIR}/dc_fw)
-
-`dc_tools_DIR`
-set(dc_tools_DIR ${DC_ROOT_DIR}/dc_tools)
-
-`FBG2DCBUILD_SELENA_DIR`
-set(FBG2DCBUILD_SELENA_DIR "${CMAKE_BINARY_DIR}/../fbg2dcbuild/selena")
-
-`CMAKE_BINARY_DIR`
-
-`CMAKE_CGEN_DIR`
-set(CMAKE_CGEN_DIR ${CMAKE_BINARY_DIR}/generated_src)
-
-`CORE_CGEN_DIR`
-```(./ip_dc/dc_tools/CMakeLists.txt)
-set(CORE_CGEN_DIR ${CMAKE_CGEN_DIR}/nogen/ros_nodes/selena/src) 
-```
+---
 
 ## root CMakeList.txt的文件结构
 line 124 include(${dc_cmake_DIR}/utils/dc_utils.cmake)
@@ -73,6 +21,7 @@ line 171 target_component_hook()
 line 194 target_final_hook()
 line 195 compiler_final_hook()
 
+---
 ## How-to LIB库，如boost,daddy怎么在编译系统里被cmake调用
 1. boost qt5在哪被include
 `BOOST` `QT5` `MATLAB`
@@ -86,7 +35,7 @@ line 195 compiler_final_hook()
 ```(ip_dc\CMakeLists.txt)
 line 130 include(${DADDY_DIR}/src/libs.cmake)
 ```
-
+---
 ## 系统里怎么include dc_fw的component.cmake
 1. root CMakeLists.txt
 `line 169` fw_component_hook()
@@ -99,7 +48,7 @@ macro(fw_component_hook)
     endif(NOT SELENA_TEST)
 endmacro()
 ```
-
+---
 ## 系统里怎么include APL 部分的component.cmake
 1. root CMakeLists.txt
 `line 171` target_component_hook()
@@ -122,14 +71,14 @@ include(${APL_DIR}/component/fal/components.cmake)
 4. APL 部分CMakeList.txt 
 set(FLUX_IMPLEMENTATION_COMPONENT_NAME "ad_fw") ad_fw.cmake (生成的)
 
-
+---
 ## root CMakeList.txt 调用了哪些CMAKE
 1. dacore 项目自定义的 cmake函数库，主要在ip_dc\dc_tools\cmake\utils 中的.cmake文件
 2. apl 和dc_fw 的component.cmake ,通过`dc_add_component` 调用各子系统的CMakeList.txt，如ip_dc\dc_fw\src\per\CMakeLists.txt
 3. ip_dc\dc_tools 有两部分，selena需要的lib，selena自己的CMakeList.txt
 总结来说，通过cmake的command的，以及bosch 自定义了一些cmake command(如`dc_add_component`)，将target需要 的dacore代码，selena代码，还有外部依赖库(daddy,boost,qt5等)组织起来，最终生成root CMakeList.txt 的 目标文件`selena.exe`
 
-
+---
 ## cmake 常见command
 `set`
 cmake中的参数声明
@@ -159,7 +108,7 @@ macro(target_final_hook)
  add_dependencies(DC_DEFAULT_TARGET ALL)
 endmacro()
 ```
-
+---
 ## compiler_final_hook
 1. default
 ```(ip_dc\dc_tools\cmake\compiler\dc_configure_compiler.cmake)
@@ -205,9 +154,7 @@ macro(compiler_final_hook)
 endmacro()
 ```
 
-
-
-
+---
 ## How-to 跳过代码生成和cmake生成，通过bash脚本完成项目selena_build
 ```bash
 echo $PATH
@@ -216,7 +163,7 @@ python R2D2.py -m $script_dir/apl_bjev/main/selena/config/cmake/ROSDADDY_PER_SIT
 cd build/ROSDADDY_PER_SIT_RPM_FCT/dc_tools/selena/src/main
 cmake --build . --config RelWithDebInfo --target selena
 ```
-
+---
 ## 配置文件ROSDADDY_PER_SIT_RPM_FCT.config里还包含哪些配置文件
 （apl_bjev\main\selena\config\cmake\ROSDADDY_PER_SIT_RPM_FCT.config）
 1.`fbg2dcbuild .ini`
@@ -231,7 +178,7 @@ set(DC_TARGET_CONFIG "${dc_cmake_DIR}/target/dc_target_selena.cmake")
 ```(apl_bjev\main\selena\config\buildtime\ROSDADDY_PER_SIT_RPM_FCT.xml)
 set(SELENA_BUILD_CONFIG_FILE "${APL_DIR}/main/selena/config/buildtime/ROSDADDY_PER_SIT_RPM_FCT.xml")
 ```
-
+---
 ## selena可执行文件在哪定义生成,即怎么集成dc_fw和dc_tools 2大部分
 1. root CMakeList 在ip_dc下 通过调用dc_target_selena.cmake中的target_final_hook来生成可执行文件
 ```(ip_dc\dc_tools\cmake\target\dc_target_selena.cmake)
@@ -253,7 +200,7 @@ macro(target_final_hook)
     # It should execute code that needs to be run after adding components.
     add_dependencies(DC_DEFAULT_TARGET selena)
 ```
-
+---
 ## How to怎么跳过 代码生成，FLUX.cmake 生成，UT,make 
 1. 跳过生成dinx,生成selena runnable wrapper code等步骤
 `R2D2.py`
@@ -283,6 +230,7 @@ if (WIN32)
         RESULT_VARIABLE retcode
     )
 
+---
 ## How-to Python 怎么调用cmake命令行，各cmake的config参数在哪
 1. 通过Python 的subprocess.Popen命令调用cmake
 proc = subprocess.Popen(cmake_args, cwd=build_dir_path,stdout=subprocess.PIPE, stderr=subprocess.STDOUT, bufsize=0)
@@ -296,6 +244,7 @@ cmake_args = [ 'cmake', self.cmake_path,
 2. 在log文件中可以查看 实际cmake各个调用参数， 如：`DC_ENABLE_TESTING`
 // `cmake_args ` Calling CMake with arguments '['cmake', 'C:/ICV/ICV/icv_innofund_dasy/ip_dc', '-DRB_PROJECT_TARGET=selena', '-DCMAKE_EXPORT_COMPILE_COMMANDS=ON', '-DDC_CMAKE_CONFIG=C:/ICV/ICV/icv_innofund_dasy/apl_bjev/main/selena/config/cmake/ROSDADDY_PER_SIT_RPM_FCT.config', '-DSELENA_SKIP_DINXPARSER=true', '-DSELENA_SKIP_NOGEN=true', '-DSELENA_USE_MATLAB_TRANSFER=FALSE', '-DSELENA_BUILD_EMULATION_CONTAINER=FALSE', '-DSELENA_GHS_MATH=FALSE', '-DDC_ENABLE_TESTING=OFF', '-DDC_ENABLE_COVERAGE=OFF', '-DSELENA_WITH_DEBUG_STATES=TRUE', '-DSELENA_WITH_INTERNAL_STATES=TRUE', '-GVisual Studio 14 2015 Win64', '-Tv140', '-DBOOST_ROOT_DIR=C:\\TCC\\Tools\\boost\\1.63.0_WIN64']'
 
+---
 ## How-to R2D2.py 是怎么工作的
 1. 通过Python 的subprocess.Popen命令调用cmake和make命令行来编译
 2. 脚本的函数结构为：
@@ -304,12 +253,12 @@ cmake_args = [ 'cmake', self.cmake_path,
     - `determine_cmake_version`
     - `call_cmake`
     - `call_make`
-
+---
 ## How-to selena 生成的代码怎么被编译到系统里
 ```(/ip_dc/dc_tools/CMakeLists.txt)
 set(CORE_CGEN_DIR ${CMAKE_CGEN_DIR}/nogen/ros_nodes/selena/src) 
 ```
-
+---
 ## HOW-TO fbg2dcbuild 生成的.cmake文件怎么被调用
 1. apl_bjev\components.cmake中dc_add_component 根据DIR ${} 去找所在目录的CMakeList.txt文件
 ``` (apl_bjev\components.cmake)
@@ -320,3 +269,60 @@ dc_add_component(NAME bjev_per_run_spp_rss           DIR ${FAL_DIR}/per/runnable
 ``` (apl_bjev\component\fal\per\runnables\spp_rss\CMakeLists.txt)
 dc_include(${FBG2DCBUILD_SELENA_DIR}/cmake/${FLUX_IMPLEMENTATION_COMPONENT_NAME}.cmake)
 ```
+---
+
+## selena log文件 `logfile_r2d2.txt` 的结构
+1. 
+apl_bjev\main\selena\config\cmake\ROSDADDY_PER_SIT_RPM_FCT.config
+`message(" ### Paths set in SELENA buildtime config file ####")`
+
+[R2D2 (cmake)] Run `fbg2dcbuild` to generate component cmake files from flux model 
+  - COMMAND bash "-c" "python3 -u ${DC_ROOT_DIR}/../cmp_common/tools/fbg2dcbuild/fbg2dcbuild.py ${FBG2DCBUILD_INI_FILE}"
+[R2D2 (cmake)] Starting generation of the SCOM 
+  - COMMAND bash -c "${APL_DIR}/tools/builder/generate_scom.sh"
+[R2D2 (cmake)] Starting generation of PAD parameters 
+  - COMMAND bash -c "${APL_DIR}/tools/builder/cmake/GEN_PAD_PARAMS.sh"
+
+2. 
+ip_dc\dc_tools\cmake\utils\dc_configure_vbindings.cmake
+line 113 -->`message(STATUS "Currently selected vbindings:")`
+3. 
+components.cmake
+    ip_dc\dc_fw\components.cmake
+    apl_bjev\component\fal\components.cmake
+    apl_bjev\components.cmake
+line 118 -->`[R2D2 (cmake)] Adding component`
+[R2D2 (cmake)] `Adding component`(./cmake/utils/dc_dependencies.cmake:    message("Adding component ")
+4. 
+ip_dc\dc_tools\CMakeLists.txt
+  - ip_dc\dc_tools\cmake\utils\dc_selena_utils.cmake
+  line 216 -->`message("Running Dinx header creator (dinx_header_creator.py) ...")`
+
+[R2D2 (cmake)] Running Dinx parser (dinxxmlparser.py) `selena/config/buildtime/ROSDADDY_PER_SIT_RPM_FCT.xml`
+[R2D2 (cmake)] Running NoGen (generateRosDaddyNode.py)
+5. 
+ip_dc\CMakeLists.txt
+`message("CMake build configuration process finished (${END_TIME})")`
+
+---
+
+## cmake variable 重要的环境变量
+`dc_fw_DIR`
+set(dc_fw_DIR ${DC_ROOT_DIR}/dc_fw)
+
+`dc_tools_DIR`
+set(dc_tools_DIR ${DC_ROOT_DIR}/dc_tools)
+
+`FBG2DCBUILD_SELENA_DIR`
+set(FBG2DCBUILD_SELENA_DIR "${CMAKE_BINARY_DIR}/../fbg2dcbuild/selena")
+
+`CMAKE_BINARY_DIR`
+
+`CMAKE_CGEN_DIR`
+set(CMAKE_CGEN_DIR ${CMAKE_BINARY_DIR}/generated_src)
+
+`CORE_CGEN_DIR`
+```(./ip_dc/dc_tools/CMakeLists.txt)
+set(CORE_CGEN_DIR ${CMAKE_CGEN_DIR}/nogen/ros_nodes/selena/src) 
+```
+---
