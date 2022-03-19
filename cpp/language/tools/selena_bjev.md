@@ -178,6 +178,10 @@ set(DC_TARGET_CONFIG "${dc_cmake_DIR}/target/dc_target_selena.cmake")
 ```(apl_bjev\main\selena\config\buildtime\ROSDADDY_PER_SIT_RPM_FCT.xml)
 set(SELENA_BUILD_CONFIG_FILE "${APL_DIR}/main/selena/config/buildtime/ROSDADDY_PER_SIT_RPM_FCT.xml")
 ```
+4.`a2lTable.txt`
+```(apl_bjev\main\selena\config\buildtime\ROSDADDY_PER_SIT_RPM_FCT.xml)
+<a2ltable path="../../../apl_bjev/main/selena/config/mapping/bjev_a2lTable_updated.txt"/>
+```
 ---
 ## selena可执行文件在哪定义生成,即怎么集成dc_fw和dc_tools 2大部分
 1. root CMakeList 在ip_dc下 通过调用dc_target_selena.cmake中的target_final_hook来生成可执行文件

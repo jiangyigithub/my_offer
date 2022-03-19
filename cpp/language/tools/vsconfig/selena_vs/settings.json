@@ -1,3 +1,7 @@
+// https://download.qt.io/new_archive/qt/5.8/5.8.0/
+// https://sourceforge.net/projects/boost/files/boost-binaries/1.63.0/
+// export BOOST_ROOT="$BOOST_ROOT C:/TCC/Tools/boost/1.63.0_WIN64"
+// echo $BOOST_ROOT
 {
     "cmake.generator": "Visual Studio 14 2015 Win64",
     "cmake.useCMakeServer": false,
@@ -21,7 +25,8 @@
         "DC_ENABLE_TESTING": "OFF",
         "SELENA_USE_MATLAB_TRANSFER": "false",
         "SELENA_MIST_MODE": "false",
-        "VFC_USE_GHS_MATH": "false",
+        "SELENA_A2L_TABLE_FILE_PATH": "${workspaceFolder}/apl_bjev/main/selena/config/mapping/bjev_a2lTable_updated.txt",
+        "VFC_USE_GHS_MATH": "false"
     },
     "cmake.buildToolArgs": [
         "/m:6",
