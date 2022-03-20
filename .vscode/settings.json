@@ -5,5 +5,24 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
-    "C_Cpp.errorSquiggles": "Enabled"
+    // C++ for visual studio
+    "C_Cpp.errorSquiggles": "Enabled",
+    "cmake.generator": "Visual Studio 14 2015 Win64",
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.buildDirectory": "${workspaceFolder}/build/offer",
+    "cmake.buildBeforeRun": false,
+    "cmake.environment": {
+        "Path": "C:\\TCC\\Tools\\selena_environment\\0.1.7_WIN64\\MSYS\\mingw64\\bin;C:\\TCC\\Tools\\selena_environment\\0.1.7_WIN64\\MSYS\\usr\\bin;C:\\TCC\\Tools\\boost\\1.63.0_WIN64\\lib64-msvc-14.0;C:\\TCC\\Tools\\qt\\5.8.0_WIN64\\5.8\\msvc2015_64\\bin;C:\\Program Files\\MATLAB\\R2017b\\bin\\win64;${env:Path}",
+        "BOOST_ROOT": "C:\\TCC\\Tools\\boost\\1.63.0_WIN64;",
+    },
+    // root CMakeList.txt自定义了这些cmake config参数
+    "cmake.configureSettings": {
+        "CMAKE_GENERATOR_TOOLSET" : "v140,host=x64",
+        "CMAKE_PREFIX_PATH": "C:\\TCC\\Tools\\qt\\5.8.0_WIN64\\5.8\\msvc2015_64",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
+    },
+    "cmake.buildToolArgs": [
+        "/m:6",
+    ],
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"  
 }
