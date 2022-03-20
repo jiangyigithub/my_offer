@@ -1,8 +1,10 @@
 # TOWN HALL
+## 行业趋势
 1. AI capacity,data-driven
 2. SOA
 3. NVIDIA orin SOC
----
+
+## 博世内部策略
 4. wave1 --> wave3 --> icv  (wave1 profit 50%)业务产品曲线
 5. project (PACE Germany) (WAVE3 China)
 6. AIOT software company ,location `ShangHai`

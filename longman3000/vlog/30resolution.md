@@ -71,6 +71,8 @@ The government promises to restore the economy to full strength.
 
 **ridiculous**
 
+**rip**
+
 **rise**
 
 **rival**
