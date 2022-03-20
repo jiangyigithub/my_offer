@@ -44,6 +44,7 @@ He is responsible for recruiting and training new staff.
 You look exhausted! Why don’t you take a rest?
 
 **restaurant** 
+The company runs a chain of restaurants.
 
 **restore**
 *restore something to something*
