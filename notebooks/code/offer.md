@@ -309,4 +309,15 @@ path.pop_back();
 - 边界初值,边界更新
 - 循环结束条件,边界干涉是循环结束
 
+**offer27**
+1. dp转移方程
+if i=0,j=0
+  dp(i,j)=grid(i,j)
+if i=0,j/=0
+  dp(i,j)=grid(i,j) + dp(i,j-1)
+if i/=0,j=0
+  dp(i,j)=grid(i,j)+dp(i-1,j)
+if i/=0,j/=0
+  dp(i,j)=grid(i,j)+max(dp(i-1,j),dp(i,j-1))
+2. 一维到二维的拓展，剑指 Offer 42. 连续子数组的最大和
 
