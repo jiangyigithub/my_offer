@@ -1,1 +1,5 @@
 tail
+grep
+find
+|
+mkdir

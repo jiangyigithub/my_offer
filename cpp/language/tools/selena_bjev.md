@@ -330,3 +330,6 @@ set(CMAKE_CGEN_DIR ${CMAKE_BINARY_DIR}/generated_src)
 set(CORE_CGEN_DIR ${CMAKE_CGEN_DIR}/nogen/ros_nodes/selena/src) 
 ```
 ---
+
+## bosch 自定了哪些cmake command
+1. dc_create_component(ip_dc\dc_tools\cmake\utils\dc_dependencies.cmake)
