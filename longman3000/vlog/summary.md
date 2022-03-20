@@ -86,6 +86,7 @@ court coat
 cottage college
 courage - carriage
 complain - comply
+chain - channel
 
 drunk - run
 degree - disagree
