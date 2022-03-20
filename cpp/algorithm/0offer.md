@@ -1,5 +1,8 @@
 # 剑指offer
-
+```md
+## 面试TIPS 1
+剑指offer的NB之处在于提供了一个渐进的优化解法，面试的时候可以参考，不要急于给出最优解，一步一步先给出差的解，然后次优解，最优解，并且伴随分析的过程，这样既表现了自己的算法功底，又展示了自己的现场解决问题的能力，还拖延了时间，省的答完了人家又出一个，问到不熟练的问题。
+```
 ## [illustration-of-algorithm](https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55bvvv/)
 
 ## 认识
