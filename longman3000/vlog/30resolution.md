@@ -40,6 +40,8 @@ He is responsible for recruiting and training new staff.
 
 ## 2
 **rest** 
+`re`
+You look exhausted! Why don’t you take a rest?
 
 **restaurant** 
 
