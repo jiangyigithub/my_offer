@@ -39,33 +39,84 @@ Kelly’s promotion means more money and more responsibility.
 He is responsible for recruiting and training new staff.
 
 ## 2
-rest 
+**rest** 
 
-restaurant 
+**restaurant** 
 
 **restore**
 *restore something to something*
 The government promises to restore the economy to full strength. 
 
 **restrict** 
+
 **restriction** 
-result 
+
 **retain** 
-retire 
-
-retirement 
-
-return 
 
 **reveal** 
+
 **revenue** 
+
 **reverse** 
-review 
+
+## 3
 **revolution** 
+
 **reward** 
+
 **rhythm** 
-rice 
-rich 
 
 **rid**
 *get rid of somebody/something* 
+
+**ridiculous**
+
+**rise**
+
+**rival**
+
+**rail**
+
+**rough**
+
+**roughly**
+
+## 4
+**round**
+
+**route**
+
+**routine**
+
+**row**
+
+**royal**
+
+**rub**
+
+**rubber**
+
+**rubbish**
+
+**rude**
+
+**ruin**
+
+## 5
+**rural**
+
+**sack**
+
+**safety**
+
+**sail**
+
+**sake**
+
+**sandwich**
+
+**satellite**
+
+**satisfaction**
+
+**satisfied**
