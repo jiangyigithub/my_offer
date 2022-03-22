@@ -40,7 +40,7 @@
             "name": "vs_offer_executable",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/offer/RelWithDebInfo/code47dp.exe",
+            "program": "${workspaceFolder}/build/offer/RelWithDebInfo/code48dp.exe",
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [
