@@ -57,13 +57,19 @@ In future we will restrict class sizes to 20 students.
 Restrictions on trade were lifted.
 
 **retain** 
+`/rɪ/`
 You have the right to retain possession of the goods.
 
 **reveal** 
+`/rɪ/`
+He may be prosecuted for revealing secrets about the security agency.
 
 **revenue** 
+`/ˈre/`
+an increase in tax revenues of 8.4%
 
 **reverse** 
+The decision was reversed on appeal.
 
 ## 3
 **revolution** 
