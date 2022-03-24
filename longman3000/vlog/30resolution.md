@@ -51,10 +51,13 @@ The company runs a chain of restaurants.
 The government promises to restore the economy to full strength. 
 
 **restrict** 
+In future we will restrict class sizes to 20 students.
 
 **restriction** 
+Restrictions on trade were lifted.
 
 **retain** 
+You have the right to retain possession of the goods.
 
 **reveal** 
 

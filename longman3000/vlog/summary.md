@@ -333,6 +333,7 @@ return - retain
 reveal - review
 reverse - reserve
 result - resort
+retain - attain
 
 service - survey
 steady study
