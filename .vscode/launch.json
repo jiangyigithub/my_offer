@@ -38,6 +38,8 @@
         // C++ visual studio debug setting
         {
             "name": "vs_offer_executable",
+            // Indicates the underlying debugger being used. Must be cppvsdbg when using the Visual Studio Windows debugger, 
+            // and cppdbg when using GDB or LLDB. This is automatically set to the correct value when the launch.json file is created.
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}/build/offer/RelWithDebInfo/code48dp.exe",
