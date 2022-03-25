@@ -18,7 +18,7 @@ public:
             return temp;
         }
         if(stack_in.empty()) return -1;
-        // step 2 把stack_in中的copy 到已有部分
+        // step 2 把stack_in中的copy 到stack_out
         while(!stack_in.empty()){
             int temp = stack_in.top();
             stack_in.pop();
