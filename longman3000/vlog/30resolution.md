@@ -73,21 +73,34 @@ The decision was reversed on appeal.
 
 ## 3
 **revolution** 
+In the last ten years there has been a revolution in education.
 
 **reward** 
+`/ˈwɔːd/`
+The school has a system of rewards and punishments to encourage good behaviour.
 
 **rhythm** 
+`/ˈrɪ/`
+She started moving to the rhythm of the music.
 
 **rid**
 *get rid of somebody/something* 
+With a microwave, he calculates, we could get rid of our cook.
+
+Price stability may be desirable, but the benefits of zero inflation compared to moderate inflation are small, whereas the costs of reaching zero inflation are large. Estimates of the sacrifice ratio suggest that reducing inflation by 1 percentage point requires giving up about 5 percent of one year’s output. Reducing inflation from, say, 4 percent to zero requires a loss of 20 percent of a year’s output. People might dislike inflation of 4 percent, but it is not at all clear that they would (or should) be willing to pay 20 percent of a year’s income to get rid of it.
 
 **ridiculous**
+It’s an absolutely ridiculous decision.
 
 **rip**
+Impatiently, Sue ripped the letter open.
 
 **rise**
+Sales rose by 20% over the Christmas period.
 
 **rival**
+*rival, opponent, competitor*
+This good is not excludable because it is impossible to prevent someone from seeing fireworks, and it is not rival in consumption because one person’s enjoyment of fireworks does not reduce anyone else’s enjoyment of them.
 
 **rail**
 

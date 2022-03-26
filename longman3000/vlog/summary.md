@@ -334,6 +334,9 @@ reveal - review
 reverse - reserve
 result - resort
 retain - attain
+rip - trip
+rival - arrival
+rough - through
 
 service - survey
 steady study
