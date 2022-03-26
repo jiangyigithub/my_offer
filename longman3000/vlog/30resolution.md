@@ -103,10 +103,20 @@ Sales rose by 20% over the Christmas period.
 This good is not excludable because it is impossible to prevent someone from seeing fireworks, and it is not rival in consumption because one person’s enjoyment of fireworks does not reduce anyone else’s enjoyment of them.
 
 **rail**
+*by train*
+We continued our journey by rail.
 
 **rough**
+First do a rough draft of your essay.
 
 **roughly**
+*about* *approximately*
+There were roughly 200 people there.
+
+A commonly used gauge of the distribution of income is the poverty rate. 
+The poverty rate is the percentage of the population whose family income falls below an absolute level called the poverty line.
+The poverty line is set by the federal government at roughly three times the cost of providing an adequate diet. 
+This line is adjusted every year to account for changes in the level of prices, and it depends on family size.
 
 ## 4
 **round**

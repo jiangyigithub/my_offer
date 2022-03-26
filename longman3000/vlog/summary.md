@@ -337,6 +337,7 @@ retain - attain
 rip - trip
 rival - arrival
 rough - through
+rough - laugh
 
 service - survey
 steady study

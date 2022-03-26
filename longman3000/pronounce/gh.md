@@ -10,4 +10,5 @@ frighten
 
 `/f/`
 laugh
+rough
 
