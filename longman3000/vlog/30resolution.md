@@ -120,10 +120,14 @@ This line is adjusted every year to account for changes in the level of prices, 
 
 ## 4
 **round**
+`/aʊn/`
+We sat round the table playing cards.
 
 **route**
+We weren’t sure about which route we should take.
 
 **routine**
+Dressing is a task which we do every day as a matter of routine. 
 
 **row**
 

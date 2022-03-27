@@ -338,6 +338,8 @@ rip - trip
 rival - arrival
 rough - through
 rough - laugh
+rount - root
+rount - routine
 
 service - survey
 steady study
