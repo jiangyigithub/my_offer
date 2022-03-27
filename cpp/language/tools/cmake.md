@@ -1,3 +1,4 @@
+https://inside-docupedia.bosch.com/confluence/display/CCD/CMake+--+Best+Practices
 构建一个target需要哪些事情
 1. 内部依赖
    - 静态链接库

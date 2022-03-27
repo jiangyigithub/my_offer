@@ -1,0 +1,1 @@
+https://inside-docupedia.bosch.com/confluence/display/CCD/How-To+use+Git+in+a+command+line+tool+-+from+daprocess+space
