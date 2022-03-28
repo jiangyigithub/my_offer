@@ -349,6 +349,7 @@ service - survey
 steady study
 signal - sign
 smell - smile
+sack - lack
 
 try - trial
 temper - temple

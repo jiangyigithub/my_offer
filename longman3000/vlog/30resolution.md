@@ -159,21 +159,36 @@ Drug use has several adverse effects. One is that drug dependence can ruin the l
 
 ## 5
 **rural**
+*rural bus routes*
 Personal income taxes for people earning less than $119,000 per year are now the lowest in Canada, 
 and there are targeted rebates for low-income and rural households
 
 **sack**
+`/æ/`
+a sack of potatoes
 
 **safety**
 
 **sail**
+He even spent one summer long ago as a sailing instructor on Long Beach Island.
 
 **sake**
+For the sake of the world as a whole, I hope that we respond to the trouble with trade not by shutting trade down, but by doing things like strengthening the social safety net. 
 
 **sandwich**
+two pieces of bread with cheese, meat, cooked egg etc between them
 
 **satellite**
+This broadcast comes live via satellite from New York.
+
+the amount of advertising varies substantially across products. Firms that sell highly differentiated consumer goods, such as over-the-counter drugs, perfumes, soft drinks, razor blades, breakfast cereals, and dog food, typically spend between 10 and 20 percent of revenue on advertising. Firms that sell industrial products, such as drill presses and communications satellites, typically spend very little on advertising. And firms that sell homogeneous products, such as wheat, peanuts, and crude oil, spend nothing at all.
 
 **satisfaction**
+She got great satisfaction from helping people to learn.
+
+Professors are paid less than lawyers and doctors, who have similar amounts of education. The higher wages of lawyers and doctors compensate them for missing out on the great intellectual and personal satisfaction that professors’ jobs offer. 
 
 **satisfied**
+They have plenty of satisfied customers.
+
+Once the market reaches its equilibrium, all buyers and sellers are satisfied, and there is no upward or downward pressure on the price. 
