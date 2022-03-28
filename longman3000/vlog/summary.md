@@ -106,6 +106,7 @@ escape - skip
 essential - central
 extreme - dream
 elastic - static
+earning - learning
 
 fail - fair - fear - fill
 file - fire

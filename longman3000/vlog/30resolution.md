@@ -152,13 +152,15 @@ a rubbish bin
 household rubbish
 
 **rude**
-It’s rude to stare
+It’s rude to stare.
 
 **ruin**
 Drug use has several adverse effects. One is that drug dependence can ruin the lives of drug users and their families.
 
 ## 5
 **rural**
+Personal income taxes for people earning less than $119,000 per year are now the lowest in Canada, 
+and there are targeted rebates for low-income and rural households
 
 **sack**
 
