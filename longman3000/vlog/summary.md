@@ -105,6 +105,7 @@ expression - exhibition
 escape - skip
 essential - central
 extreme - dream
+elastic - static
 
 fail - fair - fear - fill
 file - fire

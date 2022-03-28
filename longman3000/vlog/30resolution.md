@@ -134,16 +134,28 @@ Dressing is a task which we do every day as a matter of routine.
 We sat in the front row.
 
 **royal**
+*Real Madrid*
+the royal palace
 
 **rub**
+He rubbed his hands together with embarrassment.
 
 **rubber**
+*eraser*
+if this market has very elastic supply and very 
+inelastic demand, how would the burden of a tax 
+on rubber bands be shared between consumers and 
+producers?
 
 **rubbish**
+a rubbish bin
+household rubbish
 
 **rude**
+It’s rude to stare
 
 **ruin**
+Drug use has several adverse effects. One is that drug dependence can ruin the lives of drug users and their families.
 
 ## 5
 **rural**
