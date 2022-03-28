@@ -130,6 +130,8 @@ We weren’t sure about which route we should take.
 Dressing is a task which we do every day as a matter of routine. 
 
 **row**
+`/rəʊ/`
+We sat in the front row.
 
 **royal**
 

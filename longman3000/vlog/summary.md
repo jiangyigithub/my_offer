@@ -341,6 +341,7 @@ rough - laugh
 rount - root
 rount - routine
 row - role
+royal - loyal
 
 service - survey
 steady study
