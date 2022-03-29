@@ -21,3 +21,10 @@
   - multi class
   - initilization list
 
+`Effective STL 阅读笔记`
+https://zhuanlan.zhihu.com/p/458156007
+
+好的语言是否是使用者知道怎么用，但不需要为什么这么用呢？就跟英语一样，curious 发音为`/ˈkjʊəriəs/`,大家都知道用它来表达好奇，但是否需要为什么设计curious表示好奇，发音是什么。语言使用者非语言专家。时间成本和收益，不求甚解。
+
+一个例子最好能包含80%的知识点。
+
