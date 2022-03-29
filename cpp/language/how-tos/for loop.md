@@ -1,5 +1,6 @@
 
 `for method 1`
+**regular**
 ```c++
 	for (vfc::uint8_t i = 0U; i < polyline.m_numPoints; ++i)
 	{
@@ -15,6 +16,7 @@
 ```
 
 `for method 2`
+**iterator**
 ```c++
    for (InputDefines::ObstacleSensors::PtrSpan::const_iterator iter = span.begin(); iter != span.end();
         ++iter)
@@ -26,6 +28,7 @@
 ```
 
 `for method 3`
+**for-each**
 ```c++
     for (const auto& point : container)
 ```
