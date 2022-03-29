@@ -17,7 +17,7 @@ int main()
     {
         cout << *itr << " ";
     }
-
+    cout <<endl;
     sort(itr1, itr2);
     
     for (vector<int>::iterator itr = itr1; itr != itr2; ++itr)

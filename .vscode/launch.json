@@ -43,7 +43,8 @@
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}/build/offer/RelWithDebInfo/code01stl.exe",
-            "stopAtEntry": true,
+            // debug at program entry
+            "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [
                 {
