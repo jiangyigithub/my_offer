@@ -1,0 +1,6 @@
+competitor
+- OEM `NIO`
+- TIER 1 `HUAWEI`
+- TIER 2 `MOMENTA`
+- SOC `NVIDIA`
+- INTERNET `BAIDU`
