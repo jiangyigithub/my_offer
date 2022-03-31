@@ -7,3 +7,6 @@ daughter
 fault
 naughty
 pause
+
+`/ə/`
+restaurant

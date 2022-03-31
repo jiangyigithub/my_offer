@@ -344,12 +344,18 @@ rount - root
 rount - routine
 row - role
 royal - loyal
+row - raw
+role - roll
+rural - rival
+rival - river
 
 service - survey
 steady study
 signal - sign
 smell - smile
 sack - lack
+staring - star
+satisfied - satisfy
 
 try - trial
 temper - temple
