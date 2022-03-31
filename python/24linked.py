@@ -11,10 +11,9 @@ class Solution:
         pre = None
         while(cur):
             temp = cur.next # unlink cur,backup element to temp, index rest element by temp 
-            cur.next = pre
-            pre = cur 
-            cur = temp
-        # self.printLinked(pre)
+            cur.next = pre # chang linked node pointer
+            pre = cur # previous point and current pointer walk along
+            cur = temp 
         return pre
 
 def listNodeToString(node):
@@ -23,7 +22,7 @@ def listNodeToString(node):
     result = ""
     while node:
         result += str(node.val) + ", "
-        node = node.next
+        node = node.next # print linked list
     return "[" + result[:-2] + "]"
 
 def main():
