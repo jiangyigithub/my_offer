@@ -2,12 +2,7 @@ from typing import List
 import collections
 import json
 
-# Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
+from ds import TreeNode
 
 # [3,9,20,null,null,15,7]
 class Solution:
