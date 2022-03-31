@@ -8,15 +8,23 @@ class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         # switch the position of node
         cur = head
-        pre = cur.next
+        pre = None
         while(cur):
-            # backup
-            temp = cur.next
+            temp = cur.next # unlink cur,backup element to temp, index rest element by temp 
             cur.next = pre
-            pre = cur
+            pre = cur 
             cur = temp
-            print(cur)
-        return cur
+        # self.printLinked(pre)
+        return pre
+
+def listNodeToString(node):
+    if not node:
+        return "[]"
+    result = ""
+    while node:
+        result += str(node.val) + ", "
+        node = node.next
+    return "[" + result[:-2] + "]"
 
 def main():
     node1 = ListNode(1)
@@ -25,7 +33,9 @@ def main():
     node1.next = node2
     node2.next = node3
     head = node1
-    Solution().reverseList(head)
+    ret = Solution().reverseList(head)
+    out = listNodeToString(ret)
+    print(out)
 
 if __name__ =='__main__':
     main()
