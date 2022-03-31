@@ -356,6 +356,7 @@ smell - smile
 sack - lack
 staring - star
 satisfied - satisfy
+salt - sort
 
 try - trial
 temper - temple
