@@ -2427,7 +2427,7 @@ roll
 roof 
 room 
 root 
-rope 
+**rope** 
 rough 
 roughly 
 round 

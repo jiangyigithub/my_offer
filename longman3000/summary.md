@@ -348,6 +348,8 @@ row - raw
 role - roll
 rural - rival
 rival - river
+ring - rain
+rob - rub
 
 service - survey
 steady study

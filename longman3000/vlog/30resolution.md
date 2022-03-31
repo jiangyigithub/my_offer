@@ -119,6 +119,9 @@ The poverty line is set by the federal government at roughly three times the cos
 This line is adjusted every year to account for changes in the level of prices, and it depends on family size.
 
 ## 4
+**rope**
+They tied a rope around my waist and pulled me up.
+
 **round**
 `/aʊn/`
 We sat round the table playing cards.
