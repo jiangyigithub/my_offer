@@ -99,7 +99,10 @@ They are proposing radical changes to the way the company is run.
 We’ve lost radio contact with the plane.
 
 **rail** 
+*by train*
 I need to buy a rail ticket.
+
+We continued our journey by rail.
 
 **raise** 
 Can you raise the lamp so I can see?

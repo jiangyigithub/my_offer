@@ -304,6 +304,7 @@ provision - vision
 presume - assume
 purse - pause
 physics - fix
+plenty - penalty
 
 quality - quantity
 quiet - quite

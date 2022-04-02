@@ -96,15 +96,16 @@ It’s an absolutely ridiculous decision.
 Impatiently, Sue ripped the letter open.
 
 **rise**
+*raise sth.*
 Sales rose by 20% over the Christmas period.
 
 **rival**
+`/ˈraɪ/`
 *rival, opponent, competitor*
 This good is not excludable because it is impossible to prevent someone from seeing fireworks, and it is not rival in consumption because one person’s enjoyment of fireworks does not reduce anyone else’s enjoyment of them.
 
-**rail**
-*by train*
-We continued our journey by rail.
+**rope**
+They tied a rope around my waist and pulled me up.
 
 **rough**
 First do a rough draft of your essay.
@@ -119,9 +120,6 @@ The poverty line is set by the federal government at roughly three times the cos
 This line is adjusted every year to account for changes in the level of prices, and it depends on family size.
 
 ## 4
-**rope**
-They tied a rope around my waist and pulled me up.
-
 **round**
 `/aʊn/`
 We sat round the table playing cards.
@@ -158,6 +156,7 @@ household rubbish
 It’s rude to stare.
 
 **ruin**
+`/ˈruː/`
 Drug use has several adverse effects. One is that drug dependence can ruin the lives of drug users and their families.
 
 ## 5
@@ -171,6 +170,7 @@ and there are targeted rebates for low-income and rural households
 a sack of potatoes
 
 **safety**
+measures to improve the health and safety of employees
 
 **sail**
 He even spent one summer long ago as a sailing instructor on Long Beach Island.
@@ -182,6 +182,7 @@ For the sake of the world as a whole, I hope that we respond to the trouble with
 two pieces of bread with cheese, meat, cooked egg etc between them
 
 **satellite**
+`/ˈsætə/`
 This broadcast comes live via satellite from New York.
 
 the amount of advertising varies substantially across products. Firms that sell highly differentiated consumer goods, such as over-the-counter drugs, perfumes, soft drinks, razor blades, breakfast cereals, and dog food, typically spend between 10 and 20 percent of revenue on advertising. Firms that sell industrial products, such as drill presses and communications satellites, typically spend very little on advertising. And firms that sell homogeneous products, such as wheat, peanuts, and crude oil, spend nothing at all.
