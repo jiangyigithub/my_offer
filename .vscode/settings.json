@@ -28,5 +28,6 @@
     "files.associations": {
         "xstring": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "jupyter.jupyterServerType": "local"
 }
