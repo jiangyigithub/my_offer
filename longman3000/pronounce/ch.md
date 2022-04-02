@@ -3,6 +3,7 @@
 `/k/`
 stomach
 psychological
+scheme
 
 `/ʃ/` `/tʃ/`
 stretch
