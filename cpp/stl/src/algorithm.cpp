@@ -33,7 +33,7 @@ int main()
     copy(itr, vec.end(), back_inserter(vec3)); // Inserting instead of overwriting
                                                // back_insert_iterator      Not efficient --> copy one by one
 
-    vec3.insert(vec3.end(), itr, vec.end()); // Efficient and safe
+    vec3.insert(vec3.end(), itr, vec.end()); // Efficient and safe --> insert once
     
     
     // Note 4: Algorithm with function
