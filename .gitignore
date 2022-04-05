@@ -41,6 +41,7 @@ build.previous/
 *.tmp
 *.bak
 *.zip
+*.exe
 
 # created by AEEE
 .plbluearx
