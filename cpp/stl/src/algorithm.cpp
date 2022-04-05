@@ -1,10 +1,15 @@
-#include <vector>
 #include <iostream>
+#include <vector>
 #include <iterator>
 #include <algorithm>
 #include <numeric> // some numeric algorithm
 #include <functional>
 using namespace std;
+
+bool isOdd(int i)
+{
+    return i % 2;
+}
 
 int main()
 {
@@ -26,9 +31,19 @@ int main()
     // Note 3:
     vector<int> vec3;
     copy(itr, vec.end(), back_inserter(vec3)); // Inserting instead of overwriting
-                                               // back_insert_iterator      Not efficient
+                                               // back_insert_iterator      Not efficient --> copy one by one
 
     vec3.insert(vec3.end(), itr, vec.end()); // Efficient and safe
+    
+    
+    // Note 4: Algorithm with function
+    vector<int> vec4 = {2, 4, 5, 9, 2};
+    vector<int>::iterator itr4 = find_if(vec4.begin(), vec4.end(), isOdd);
+    // itr4 -> 5
 
+
+    // Note 5: Algorithm with native C++ array --> array is a pointer, so it is a iterator,algorithm operate on iterator level
+    int arr[4] = {6, 3, 7, 4};
+    sort(arr, arr + 4);
     return 0;
 }
