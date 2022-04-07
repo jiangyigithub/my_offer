@@ -49,10 +49,12 @@ Projects
 - Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
     
     
-
+   `concept and arch design`
 	1. 系统和软件架构，OBU通信filter，路侧传感器拓扑，monitor concept,车内软件架构(ADAS域控的责任人)
-    1. 软件算法原型开发(整体架构主要包括感知,behavior plan,规划控制,HMI显示)部分:
-       - 路侧信号前处理,时间同步
-       - 融合策略，路侧感知融合，建立统一的环境模型，拓展系统和软件架构，OBU通信filter，路侧传感器拓扑，monitor车内软件架构FOV
-       - 行为behaviror pediction(概率图模型), behavior evaluation metric
-    2. 算法软件部署和迭代，schedule, run time analysis,bus load,RAM resource
+   `software development`
+   1. 软件算法原型开发(整体架构主要包括感知,behavior plan,规划控制,HMI显示)部分:
+    - 路侧信号前处理,时间同步
+    - 融合策略，路侧感知融合，建立统一的环境模型，拓展系统和软件架构，OBU通信filter，路侧传感器拓扑，monitor车内软件架构FOV
+    - 行为behaviror pediction(概率图模型), behavior evaluation metric
+    `deployment for  target hardware`
+    1. 算法软件部署和迭代，schedule, run time analysis,bus load,RAM resource
