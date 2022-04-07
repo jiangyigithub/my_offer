@@ -363,6 +363,8 @@ satisfied - satisfy
 salt - sort
 scene - sing
 scream - screen
+stuff - staff
+series - serious
 
 try - trial
 temper - temple

@@ -76,15 +76,39 @@ My secretary will fax you all the details.
 
 ## 3
 **see** 
+The moment we saw the house, we knew we wanted to buy it.
+
 **seed** 
-**seek** 
+The seeds of this crisis were planted long ago, by previous generations.
+
+**seek**
+Do you think the president will seek re-election?
+
+But if you pay people to stay at home, many will do so rather than seek employment or accept jobs where the pay doesn’t meet their expectations.
+
 **seize** 
+`/siː/` `/z/`
+
 **sense** 
+`/sen/` `/s/`
+A sense of panic has spread over the country.
+
 **sensible** 
+`/sen/` `/sə/`
+It’s sensible to keep a note of your passport number.
+
 **sensitive** 
+You may have noticed that prices often end in .99. In some ways,this phenomenon is odd. Why charge $4.99, instead of an even $5.00? If people were truly rational, sellers wouldn’t have a good reason to focus on
+prices ending in .99. But in fact, it turns out that sellers are smart for using this approach to pricing. Various studies suggest that buyers are excessively sensitive to a price’s left-most digit. Even though $4.99 is only one penny less than $5.00, buyers may not perceive it that way. Because adding the extra penny changes the left-most digit from a 4 to a 5, the change may exert a surprisingly large impact on consumer behavior. An irrational focus on the left-most digit is called left-digit bias.
+
 **sentence** 
+It’s difficult to sum it up in one sentence.
+
 **separate** 
+Use separate knives for raw and cooked meat.
+
 **series** 
+Staff will hold a series of meetings over the next few weeks.
 
 ## 4
 **serious** 
