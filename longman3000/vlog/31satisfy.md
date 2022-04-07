@@ -44,15 +44,35 @@ As you know, many economists believe that a consumption tax would be best from t
 
 ## 2
 **scream** 
+a screaming baby
+
 **screen** 
+He went on staring at the TV screen.
+
 **screw** 
+`kruː`
+The chairs were screwed to the floor.
+
 **script** 
+a film script
+
 **sea** 
+Most exports went by sea.
+
 **seal** 
+The document carried the seal of the governor’s office.
+
 **search** 
+Bad weather is hampering the search for survivors.
+
 **seat** 
+Promotion would mean a seat on the board of directors.
+
 **secret** 
+They kept their relationship secret from their parents.
+
 **secretary** 
+My secretary will fax you all the details.
 
 ## 3
 **see** 

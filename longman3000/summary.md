@@ -87,6 +87,7 @@ cottage college
 courage - carriage
 complain - comply
 chain - channel
+chair - cheer - child
 
 drunk - run
 degree - disagree
@@ -360,6 +361,8 @@ sack - lack
 staring - star
 satisfied - satisfy
 salt - sort
+scene - sing
+scream - screen
 
 try - trial
 temper - temple
