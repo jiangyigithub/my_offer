@@ -112,15 +112,48 @@ Staff will hold a series of meetings over the next few weeks.
 
 ## 4
 **serious** 
+Is she serious about giving up her job?
+
 **seriously** 
+It’s time we talked seriously about our relationship.
+
 **servant** 
+`/ˈsɜː/`
+Many young girls became domestic servants.
+
 **session** 
+`/ˈse/`
+question-and-answer sessions
+
 **settle** 
+`/ˈse/`
+We hope the factions will be able to settle their differences (=agree to stop arguing) by peaceful means.
+
+In September 2001, the Justice Department announced that it no longer sought a breakup of the company and wanted to settle the case quickly.
+
 **settlement** 
+A settlement was finally reached in November 2002. Microsoft accepted some restrictions on its business practices, and the government accepted that a browser would remain part of the Windows operating system.
+
 **several** 
+`/ˈse/`
+Several of her colleagues agreed with her decision.
+
 **severe** 
+`/sə/` `/vɪə/`
+At low levels of production, the firm benefits from increased size because it can
+take advantage of greater specialization. Coordination problems, meanwhile, are
+not yet acute. By contrast, at high levels of production, the benefits of specialization
+have already been realized, and coordination problems become more severe
+as the firm grows larger. Thus, long-run average total cost is falling at low levels
+of production because of increasing specialization and rising at high levels of production
+because of the increasing prevalence of coordination problems.
+
 **sew** 
+*so*
+Trade allows each person to specialize in the activities she does best, whether it is farming, sewing, or home building. By trading with others, people can buy a greater variety of goods and services at lower cost.
+
 **sex** 
+Put your name and sex at the top of the form.
 
 ## 5
 **sexual** 
