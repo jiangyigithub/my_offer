@@ -157,8 +157,23 @@ Put your name and sex at the top of the form.
 
 ## 5
 **sexual** 
+a disease passed on by sexual contact
+
 **shadow** 
+The room was half in shadow.
+
+In markets where competitors need to publish their prices to win business—for
+example,many retail markets—it is perfectly lawful to shadow a rival’s increases, so long
+as each seller acts entirely independently in setting its charges.
+
 **shake** 
+Shake the bottle before you open it.
+
 **shall** 
+All payments shall be made in cash.
+
 **shave** 
+He hadn’t shaved for days.
+
 **shed** 
+Moreover,we can use our analysis of welfare economics and market efficiency to shed light on the effects of various government policies.
