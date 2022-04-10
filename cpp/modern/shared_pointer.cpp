@@ -1,5 +1,6 @@
 #include <memory>
 #include <iostream>
+#include <string>
 using namespace std;
 
 class Dog {
@@ -34,6 +35,10 @@ void foo3(){
     {
         shared_ptr<Dog> p2=p;//count = 2
         p2->bark();
+        // stack object
+        Dog p3("Stack Gunner");
+        // temp object
+        Dog("Temp Gunner");
     }
     p->bark();
 }
