@@ -373,6 +373,7 @@ single - signal
 smell - smile
 shelf - self
 shoe - shoot
+shirt - skirt
 
 
 try - trial
