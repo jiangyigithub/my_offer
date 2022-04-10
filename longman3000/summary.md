@@ -365,6 +365,15 @@ scene - sing
 scream - screen
 stuff - staff
 series - serious
+shoot - shot
+sick - sink
+slight - signt
+simple - sample
+single - signal
+smell - smile
+shelf - self
+shoe - shoot
+
 
 try - trial
 temper - temple
