@@ -7,7 +7,10 @@ int main()
 {
   String s1("hello"); 
   String s2("world");
-    
+  
+  String* p = new String("hello");
+  delete p;
+
   String s3(s2);
   cout << s3 << endl;
   
