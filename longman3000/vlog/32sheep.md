@@ -72,15 +72,36 @@ a no smoking sign
 
 ## 3
 **signature** 
+You might hand her a single piece of paper with the name of a bank and your
+signature.
+
 **silly** 
+`/ˈsɪ/`
+You made a lot of silly mistakes.
+
 **silver** 
+a silver necklace
+
 **simple** 
+I’m sure there’s a perfectly simple explanation.
+
 **simply** 
+Instead of trying to alter the tax code to encourage greater private saving, policymakers can simply raise public saving by reducing the budget deficit, perhaps by raising taxes on the wealthy.
+
 **sin** 
+She needed to confess her sins and ask for forgiveness.
+
 **since** 
+Since you are unable to answer, perhaps we should ask someone else.
+
 **sing** 
+She patiently sang the baby to sleep.
+
 **singer** 
+her favourite pop singer
+
 **single** 
+Is he single?
 
 ## 4
 **sister** 
