@@ -375,7 +375,7 @@ shelf - self
 shoe - shoot
 shirt - skirt
 sock - shock
-
+sight - site
 
 try - trial
 temper - temple
