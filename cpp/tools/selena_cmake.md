@@ -1,5 +1,11 @@
 https://inside-docupedia.bosch.com/confluence/display/DP/SELENA+Build+System
 
+(关于vfc和DADDY)
+https://inside-docupedia.bosch.com/confluence/display/CMCI2NextGen2018/VFC+library+and+Functional+Safety
+
+(关于openCV 和Eigen)
+https://inside-docupedia.bosch.com/confluence/display/ROSE/CVA+and+CVA-Bridge
+
 ## R2D2做了哪些事
 1. 生成代码，生成cmake file
 - 解析配置文件 `.config` `.xml` `.ini`
