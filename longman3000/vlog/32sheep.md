@@ -105,15 +105,36 @@ Is he single?
 
 ## 4
 **sister** 
+He has two sisters and a brother.
+
 **site** 
+*website*
+the site of the air crash
+
 **size** 
+The firm underestimated the size of the market for their new product.
+
 **skill** 
+Reading and writing are two different skills.
+
 **skin** 
+The skin on his hands was dry and rough.
+
 **skirt** 
+a short skirt and high heels
+
 **slight** 
+a slight increase
+
 **slightly** 
+*a little*
+January’s sales were slightly better than average.
+
 **slim** 
+political leaders have realized that even our relatively meager package of social goods cannot be sustained with our slim tax take.
+
 **slip** 
+When George W. Bush became president in 2001, the economy was slipping into a recession. He responded by cutting tax rates. When Barack Obama became president in 2009, the economy was again in recession, the worst in many decades. He responded with a stimulus package that offered some tax reductions but also included substantial increases in government spending. The contrast between these two policies illustrates a second classic question of macroeconomics: Which instrument of fiscal policy—government spending or taxes—is better for reducing the severity of economic downturns? 
 
 ## 5
 **slope** 
