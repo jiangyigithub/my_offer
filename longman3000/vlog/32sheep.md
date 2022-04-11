@@ -37,15 +37,38 @@ a short meeting
 
 ## 2
 **shortly** 
+*soon*
+In fact, shortly after this article was written, the Bolivian inflation rate was reduced substantially with a more restrictive monetary policy.
+
 **shot** 
+Where were you when you heard the shot?
+
 **shoulder** 
+`/əʊ/`
+His shoulders were broad and powerful.
+
 **shout** 
+`/aʊ/`
+there’s no need to shout! I can hear you!
+
 **shove** 
+Everyone was pushing and shoving to see the prince.
+
 **shrug** 
+I just shrugged my shoulders and ignored him.
+
 **sick** 
+Maria can’t come in today because she’s sick.
+
 **side** 
+The south side of town is pretty run down.
+
 **sight** 
+*familiar/common/rare etc sight*
+Street dentists are a common sight in Pakistan.
+
 **sign** 
+a no smoking sign
 
 ## 3
 **signature** 
