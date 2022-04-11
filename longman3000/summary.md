@@ -374,6 +374,7 @@ smell - smile
 shelf - self
 shoe - shoot
 shirt - skirt
+sock - shock
 
 
 try - trial
