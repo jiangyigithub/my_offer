@@ -376,6 +376,14 @@ shoe - shoot
 shirt - skirt
 sock - shock
 sight - site
+sole - soul
+sore - so
+staff - starve
+steal - stair
+staff - stuff
+soup - soap
+spring -spirit
+spot - sport
 
 try - trial
 temper - temple
