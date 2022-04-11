@@ -117,6 +117,13 @@ Is he single?
 
 ## 5
 **slope** 
+The demand curve shows how the quantity of a good demanded depends on the price. According to the law of demand, as the price of a good falls, the quantity demanded rises. Therefore, the demand curve slopes downward.
+
 **smell** 
-**snap** 
+The air was filled with the smell of flowers.
+
+**snap**
+when a cold snap hits Florida, the price of orange juice rises in supermarkets throughout the country. 
+
 **soap** 
+Wash thoroughly with soap and water.
