@@ -73,4 +73,43 @@ ostream& operator<<(ostream& os, const String& str)
    return os;
 }
 
+class DefaultString
+{
+public:                                 
+   DefaultString(const char* cstr=0);                          
+   ~DefaultString();                                    
+   char* get_c_str() const { return m_data; }
+private:
+   char* m_data;// 4 bite
+};
+
+
+inline
+DefaultString::DefaultString(const char* cstr)
+{
+   if (cstr) {
+      m_data = new char[strlen(cstr)+1];
+      strcpy(m_data, cstr);
+   }
+   else {   
+      m_data = new char[1];
+      *m_data = '\0';
+   }
+}
+
+//析构函数调用delete[], 删除m_data指向的内容，而m_data属于对象的成员，对象的内存释放由该对象是在堆中生成还是在栈中生成有关
+// 无论对象是在栈中还是在堆中，都会调用构造和析构函数
+inline
+DefaultString::~DefaultString()
+{
+   delete[] m_data;
+}
+
+// 不可以是成员函数，需是全局函数
+ostream& operator<<(ostream& os, const DefaultString& str)
+{
+   os << str.get_c_str();
+   return os;
+}
+
 #endif
