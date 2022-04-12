@@ -3,12 +3,6 @@
 
 using namespace std;
 
-ostream &
-operator<<(ostream &os, const complex &x)
-{
-    return os << '(' << real(x) << ',' << imag(x) << ')';
-}
-
 int main()
 {
     complex c1(2, 1);
@@ -17,20 +11,13 @@ int main()
     cout << c1 << endl;
     cout << c2 << endl;
 
+    cout << imag(c1)<< endl;
+    cout << real(c1)<< endl;
+    
     cout << c1 + c2 << endl;
-    cout << c1 - c2 << endl;
-    cout << c1 * c2 << endl;
-    cout << c1 / 2 << endl;
-
-    cout << conj(c1) << endl;
-    cout << norm(c1) << endl;
-    cout << polar(10, 4) << endl;
-
-    cout << (c1 += c2) << endl;
-
-    cout << (c1 == c2) << endl;
-    cout << (c1 != c2) << endl;
-    cout << +c2 << endl;
+    cout << (c1 += c2) << endl; // c1 is modified
+    
+    cout << +c1 << endl;
     cout << -c2 << endl;
 
     cout << (c2 - 2) << endl;

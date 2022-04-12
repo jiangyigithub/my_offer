@@ -1,36 +1,48 @@
-// 构造函数
-// 操作符重载
-// 成员函数还是全局函数
-
 #ifndef __MYCOMPLEX__
 #define __MYCOMPLEX__
+#include <iostream>
+#include <cmath>
+using namespace std;
 
+/*
+* 1. 前置声明 declaration
+*/
 class complex;
 complex &
 __doapl(complex *ths, const complex &r);
-complex &
-__doami(complex *ths, const complex &r);
-complex &
-__doaml(complex *ths, const complex &r);
 
+
+/*
+* 2. 类的声明 declaration
+*/
 class complex
 {
 public:
+    // 构造函数，初始化列表
     complex(double r = 0, double i = 0) : re(r), im(i) {}
+    // 成员函数，操作符重载
     complex &operator+=(const complex &);
-    complex &operator-=(const complex &);
-    complex &operator*=(const complex &);
-    complex &operator/=(const complex &);
+
+    // const 成员函数
     double real() const { return re; }
     double imag() const { return im; }
 
 private:
     double re, im;
-
     friend complex &__doapl(complex *, const complex &);
-    friend complex &__doami(complex *, const complex &);
-    friend complex &__doaml(complex *, const complex &);
 };
+
+/*
+* 3. 函数定义 
+* 3.1 成员函数
+* 3.2 全局函数
+*/
+
+inline complex &
+complex::operator+=(const complex &r)
+{
+    return __doapl(this, r);
+}
 
 inline complex &
 __doapl(complex *ths, const complex &r)
@@ -40,56 +52,24 @@ __doapl(complex *ths, const complex &r)
     return *ths;
 }
 
-inline complex &
-complex::operator+=(const complex &r)
+// 取实部，虚部
+inline double
+imag (const complex& x)
 {
-    return __doapl(this, r);
-}
-
-inline complex &
-__doami(complex *ths, const complex &r)
-{
-    ths->re -= r.re;
-    ths->im -= r.im;
-    return *ths;
-}
-
-inline complex &
-complex::operator-=(const complex &r)
-{
-    return __doami(this, r);
-}
-
-inline complex &
-__doaml(complex *ths, const complex &r)
-{
-    double f = ths->re * r.re - ths->im * r.im;
-    ths->im = ths->re * r.im + ths->im * r.re;
-    ths->re = f;
-    return *ths;
-}
-
-inline complex &
-complex::operator*=(const complex &r)
-{
-    return __doaml(this, r);
+  return x.imag ();
 }
 
 inline double
-imag(const complex &x)
+real (const complex& x)
 {
-    return x.imag();
+  return x.real ();
 }
 
-inline double
-real(const complex &x)
-{
-    return x.real();
-}
-
+// 复数加法 - 函数重载
 inline complex
 operator+(const complex &x, const complex &y)
-{
+{   
+    // 临时对象
     return complex(real(x) + real(y), imag(x) + imag(y));
 }
 
@@ -105,115 +85,43 @@ operator+(double x, const complex &y)
     return complex(x + real(y), imag(y));
 }
 
+// 复数减法
 inline complex
-operator-(const complex &x, const complex &y)
+operator - (const complex& x, const complex& y)
 {
-    return complex(real(x) - real(y), imag(x) - imag(y));
-}
-
-inline complex
-operator-(const complex &x, double y)
-{
-    return complex(real(x) - y, imag(x));
+  return complex (real (x) - real (y), imag (x) - imag (y));
 }
 
 inline complex
-operator-(double x, const complex &y)
+operator - (const complex& x, double y)
 {
-    return complex(x - real(y), -imag(y));
+  return complex (real (x) - y, imag (x));
 }
 
 inline complex
-operator*(const complex &x, const complex &y)
+operator - (double x, const complex& y)
 {
-    return complex(real(x) * real(y) - imag(x) * imag(y),
-                   real(x) * imag(y) + imag(x) * real(y));
+  return complex (x - real (y), - imag (y));
+}
+
+// 复数取反
+inline complex
+operator + (const complex& x)
+{
+  return x;
 }
 
 inline complex
-operator*(const complex &x, double y)
+operator - (const complex& x)
 {
-    return complex(real(x) * y, imag(x) * y);
+  return complex (-real (x), -imag (x));
 }
 
-inline complex
-operator*(double x, const complex &y)
+// 复数打印
+ostream &
+operator<<(ostream &os, const complex &x)
 {
-    return complex(x * real(y), x * imag(y));
-}
-
-complex
-operator/(const complex &x, double y)
-{
-    return complex(real(x) / y, imag(x) / y);
-}
-
-inline complex
-operator+(const complex &x)
-{
-    return x;
-}
-
-inline complex
-operator-(const complex &x)
-{
-    return complex(-real(x), -imag(x));
-}
-
-inline bool
-operator==(const complex &x, const complex &y)
-{
-    return real(x) == real(y) && imag(x) == imag(y);
-}
-
-inline bool
-operator==(const complex &x, double y)
-{
-    return real(x) == y && imag(x) == 0;
-}
-
-inline bool
-operator==(double x, const complex &y)
-{
-    return x == real(y) && imag(y) == 0;
-}
-
-inline bool
-operator!=(const complex &x, const complex &y)
-{
-    return real(x) != real(y) || imag(x) != imag(y);
-}
-
-inline bool
-operator!=(const complex &x, double y)
-{
-    return real(x) != y || imag(x) != 0;
-}
-
-inline bool
-operator!=(double x, const complex &y)
-{
-    return x != real(y) || imag(y) != 0;
-}
-
-#include <cmath>
-
-inline complex
-polar(double r, double t)
-{
-    return complex(r * cos(t), r * sin(t));
-}
-
-inline complex
-conj(const complex &x)
-{
-    return complex(real(x), -imag(x));
-}
-
-inline double
-norm(const complex &x)
-{
-    return real(x) * real(x) + imag(x) * imag(x);
+    return os << '(' << real(x) << ',' << imag(x) << ')';
 }
 
 #endif //__MYCOMPLEX__
