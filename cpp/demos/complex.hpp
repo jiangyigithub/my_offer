@@ -20,6 +20,7 @@ class complex
 public:
     // 构造函数，初始化列表
     complex(double r = 0, double i = 0) : re(r), im(i) {}
+   
     // 成员函数，操作符重载
     complex &operator+=(const complex &);
 
@@ -29,6 +30,7 @@ public:
 
 private:
     double re, im;
+    // 友元非成员函数
     friend complex &__doapl(complex *, const complex &);
 };
 
@@ -37,19 +39,18 @@ private:
 * 3.1 成员函数
 * 3.2 全局函数
 */
-
-inline complex &
-complex::operator+=(const complex &r)
-{
-    return __doapl(this, r);
-}
-
 inline complex &
 __doapl(complex *ths, const complex &r)
 {
     ths->re += r.re;
     ths->im += r.im;
     return *ths;
+}
+
+inline complex &
+complex::operator+=(const complex &r)
+{
+    return __doapl(this, r);
 }
 
 // 取实部，虚部
