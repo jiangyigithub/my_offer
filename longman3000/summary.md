@@ -384,6 +384,8 @@ staff - stuff
 soup - soap
 spring -spirit
 spot - sport
+sore - score
+install - stall
 
 try - trial
 temper - temple

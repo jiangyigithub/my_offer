@@ -14,7 +14,7 @@ father - car - rather
 
 `/ɔː/`
 all
-call -saw - law
+call -saw - law - alter
 
 `/eɪ/`
 **ay**
