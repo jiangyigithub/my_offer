@@ -35,14 +35,27 @@ I’ll go and see if there are any spare seats.
 
 ## 2
 **species** 
+`/ʃiːz/`
+Seven species of birds of prey have been observed.
+
+Throughout history, many species of animals have been threatened with extinction.
+
 **specifically** 
+
 **spelling** 
+
 **spill** 
+
 **spin** 
+
 **spiritual** 
+
 **spite** 
+
 **split** 
+
 **spoil** 
+
 **spokesman** 
 
 ## 3
