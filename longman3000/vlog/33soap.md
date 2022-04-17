@@ -18,6 +18,7 @@ You need to see a solicitor.
 Charlie thinks money will solve all his problems.
 
 **sore** 
+`/sɔː/`
 My arms are sore from all the lifting.
 
 **south** 
