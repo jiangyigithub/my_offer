@@ -385,7 +385,10 @@ soup - soap
 spring -spirit
 spot - sport
 sore - score
-install - stall
+soar - soul
+stall - install
+spill - bill
+spoil - despoil
 
 try - trial
 temper - temple
