@@ -389,6 +389,7 @@ soar - soul
 stall - install
 spill - bill
 spoil - despoil
+stamp - stand
 
 try - trial
 temper - temple

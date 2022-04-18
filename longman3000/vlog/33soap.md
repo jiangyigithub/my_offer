@@ -74,17 +74,43 @@ a spokesman for the victims’ families
 
 ## 3
 **spoon** 
+two spoons of sugar
+
 **spray** 
+She sprayed herself with perfume.
+
 **spring** 
+It was a cold, sunny day in early spring.
+
 **squad** 
+the Italian World Cup squad
+
 **square** 
+a large square room
+
 **squeeze** 
+Five of us squeezed into the back seat.
+
 **staff** 
+They employ a total of 150 staff.
+
 **stair** 
+Lucy sat down on the bottom stair.
+
 **stake** 
+He holds a 51% stake in the firm.
+
 **stall** 
+a market stall
 
 ## 4
 **stamp** 
+food stamp
+
 **standard** 
+The existence of money makes trade easier. The restaurateur does not care whether you can produce a valuable good or service for her. She is happy to
+accept your money, knowing that other people will do the same for her. Such a convention allows trade to be roundabout. The restaurateur accepts your money and uses it to pay her chef; the chef uses her paycheck to send her child to day care; the day care center uses this tuition to pay a teacher; and the teacher hires you to mow her lawn. As money flows from person to person in the economy, it facilitates production and trade, thereby allowing each person to specialize in what she does best and raising everyone’s standard of living.
+
 **starve**
+*staff*
+Thousands of people will starve if food doesn’t reach the city.
