@@ -26,6 +26,7 @@ inline
 String::String(const char* cstr)
 {
    if (cstr) {
+      // 初始化时，字符串大小是不确定的
       m_data = new char[strlen(cstr)+1];
       strcpy(m_data, cstr);
    }
