@@ -393,6 +393,7 @@ stamp - stand
 steady - study
 steep - deep
 strain - drain
+straw - draw
 
 try - trial
 temper - temple
