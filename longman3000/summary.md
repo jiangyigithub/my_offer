@@ -390,6 +390,9 @@ stall - install
 spill - bill
 spoil - despoil
 stamp - stand
+steady - study
+steep - deep
+strain - drain
 
 try - trial
 temper - temple

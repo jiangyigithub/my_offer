@@ -10,3 +10,8 @@ pause
 
 `/ə/`
 restaurant
+
+**aw**
+`/ɔː/`
+draw
+straw
