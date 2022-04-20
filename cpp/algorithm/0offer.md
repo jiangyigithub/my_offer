@@ -401,5 +401,18 @@ if i/=0,j/=0
 - 数据结论，每段按长度2或3来分割，在考虑余数的情况
 
 **剑指 Offer 39. 数组中出现次数超过一半的数字**
-- hash法统计每个元素出现的次数
-- 摩尔投票
+- hash法统计每个元素出现的次数，空间复杂度O(n)
+  ```c++
+      int majorityElement(vector<int>& nums) {
+        unordered_map <int,int> mp;
+        for(int n:nums)   
+            if(++ mp[n] > nums.size()/2)   return n;         
+        return -1;}
+  ```
+- 排序法
+  ```c++
+      int majorityElement(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        return nums[nums.size() / 2]; }         //因为出现频率大于n/2，所以排序后的中间位置必然是众数
+  ```
+- 摩尔投票,空间复杂度O(1)
