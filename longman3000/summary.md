@@ -367,7 +367,7 @@ stuff - staff
 series - serious
 shoot - shot
 sick - sink
-slight - signt
+slight - sight
 simple - sample
 single - signal
 smell - smile
