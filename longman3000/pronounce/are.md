@@ -1,4 +1,4 @@
 **are**
 
 `/eə/`
-stare(staring)
+stare(staring) - spare

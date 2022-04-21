@@ -8,6 +8,7 @@ pursue
 ir 
 `/ɜː/`
 firm
+stir
 
 er
 `/ɜː/`

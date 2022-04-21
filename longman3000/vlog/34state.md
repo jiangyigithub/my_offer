@@ -43,23 +43,33 @@ Someone had stuck posters all over the walls.
 Her legs were stiff from kneeling.
 
 **still** 
+I still haven’t finished painting the spare room.
 
 **stir** 
+`/ɜː/`
+She stirred her coffee with a plastic spoon.
 
 **stock** 
+`/stɑː/`
+The two most important financial markets in our economy are the bond market and the stock market.
 
 **stomach** 
 `/ˈstʌ/`
 
 **stone** 
 `/stəʊ/`
+A handful of protesters began throwing stones at the police.
 
 **storage** 
 `/ˈstɔː/`
+The amount of ice cream a firm supplies today may depend on its expectations about the future. For example, if a firm expects the price of ice cream
+to rise in the future, it will put some of its current production into storage and supply less to the market today.
 
 **straight** 
+We know that a straight line has a constant slope.
 
 **strain** 
+The long working hours put a severe strain on employees.
 
 ## 3
 **strange** 
