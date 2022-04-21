@@ -1,0 +1,4 @@
+**are**
+
+`/eə/`
+stare(staring)
