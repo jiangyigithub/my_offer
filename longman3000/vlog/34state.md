@@ -69,6 +69,7 @@ to rise in the future, it will put some of its current production into storage a
 We know that a straight line has a constant slope.
 
 **strain** 
+`/eɪn/`
 The long working hours put a severe strain on employees.
 
 ## 3
