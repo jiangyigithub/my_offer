@@ -73,6 +73,7 @@ We know that a straight line has a constant slope.
 
 **strain** 
 `/eɪn/`
+*stress*
 The long working hours put a severe strain on employees.
 
 ## 3
