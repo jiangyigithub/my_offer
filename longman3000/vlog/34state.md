@@ -40,6 +40,7 @@ This is the first step in reforming the welfare system.
 Someone had stuck posters all over the walls.
 
 **stiff** 
+Her legs were stiff from kneeling.
 
 **still** 
 
