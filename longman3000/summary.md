@@ -401,6 +401,7 @@ strain - straight
 stack - steak
 stack - stock
 start - stock
+street - straight
 
 try - trial
 temper - temple
