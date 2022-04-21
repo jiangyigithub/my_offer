@@ -395,6 +395,11 @@ steep - deep
 strain - drain
 straw - draw
 statistic - strategic
+sum - some
+street - strict
+strain - straight
+stack - steak
+stack - stock
 
 try - trial
 temper - temple
