@@ -54,7 +54,10 @@ She stirred her coffee with a plastic spoon.
 The two most important financial markets in our economy are the bond market and the stock market.
 
 **stomach** 
-`/ˈstʌ/`
+`/ˈstʌ/` `/mək/`
+I was so hungry my stomach hurt.
+
+When you walk into a restaurant to buy a meal, you get something of value—a full stomach.
 
 **stone** 
 `/stəʊ/`
