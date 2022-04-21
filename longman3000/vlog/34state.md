@@ -37,6 +37,7 @@ This is the first step in reforming the welfare system.
 
 ## 2
 **stick** 
+Someone had stuck posters all over the walls.
 
 **stiff** 
 
