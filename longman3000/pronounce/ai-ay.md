@@ -4,6 +4,6 @@
 straight - strain
 
 **ay**
-`/ei/`
 
+`/ei/`
 essay - spray
