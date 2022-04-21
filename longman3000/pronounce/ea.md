@@ -1,4 +1,4 @@
-ea 
+**ea** 
 `/e/`
 bread - breast - breath - deaf - instead - spread - pleasure - wealth
 steady
@@ -13,6 +13,7 @@ Each of you teach me how to reach the beach.
 great
 steak
 
+**ear**
 `/ɪə/`
 Dear doctor,I fear my ear is too near the gear.
 
