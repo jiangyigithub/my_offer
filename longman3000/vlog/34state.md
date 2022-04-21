@@ -1,12 +1,18 @@
 ## 1
 **statistic** 
 `/stə/`
+The statistic comes from a study recently conducted by the British government.
 
 **status** 
+`/ˈsteɪ/`
+Doctors have traditionally enjoyed high social status.
 
 **stay** 
+I decided to stay home.
 
-**steady** 
+**steady**
+`/ˈste/` 
+Employment is holding steady at 96%.
 
 **steak** 
 `/steɪ/`
@@ -14,14 +20,19 @@
 good quality beef
 
 **steal** 
+He’d stolen the flowers from our garden.
 
 **steam** 
+The engines are driven by steam.
 
 **steel** 
+a steel bridge
 
 **steep** 
+a steep increase in house prices
 
 **step** 
+This is the first step in reforming the welfare system.
 
 ## 2
 **stick** 
