@@ -20,6 +20,7 @@ Employment is holding steady at 96%.
 good quality beef
 
 **steal** 
+`/stiː/`
 He’d stolen the flowers from our garden.
 
 **steam** 

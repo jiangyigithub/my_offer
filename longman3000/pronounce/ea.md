@@ -1,11 +1,12 @@
 ea 
 `/e/`
-bread - breast - breath - deaf - instead - steady - pleasure - wealth
-spread
+bread - breast - breath - deaf - instead - spread - pleasure - wealth
+steady
 Use your head,don't tread on the bread.
 
 `/iː/`
-beat - cease -cheap - cheat - cream - deal - please
+beat - cease -cheap - cheat - cream - deal - please 
+steal
 Each of you teach me how to reach the beach.
 
 `/eɪ/`
