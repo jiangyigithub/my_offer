@@ -394,6 +394,7 @@ steady - study
 steep - deep
 strain - drain
 straw - draw
+statistic - strategic
 
 try - trial
 temper - temple

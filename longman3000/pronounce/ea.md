@@ -10,6 +10,7 @@ Each of you teach me how to reach the beach.
 
 `/eɪ/`
 great
+steak
 
 `/ɪə/`
 Dear doctor,I fear my ear is too near the gear.
