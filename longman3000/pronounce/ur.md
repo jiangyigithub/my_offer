@@ -13,3 +13,7 @@ stir
 er
 `/ɜː/`
 serve service nerve
+
+or
+`/ɜː/`
+worth
