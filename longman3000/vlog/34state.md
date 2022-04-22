@@ -84,7 +84,7 @@ Thus, the theory of consumer choice allows demand curves to slope upward, and so
 Children must not talk to strangers.
 
 **strategic** 
-`/strə/`
+`/strə/` `/tiːdʒɪk/`
 The small number of sellers makes rigorous competition less likely and strategic interactions among them vitally important. By contrast, a monopolistically competitive market has many sellers, each of which is small compared to the market. It departs from the perfectly competitive ideal because each of the sellers offers a somewhat different product.
 
 **strategy** 
