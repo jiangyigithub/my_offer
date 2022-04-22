@@ -1,10 +1,10 @@
 # Ten Principles of Economics
 
 ## How People Make Decisions
-Principle 1: People Face Trade-offs
-Principle 2: The Cost of Something Is What You Give Up to Get It
-Principle 3: Rational People Think at the Margin
-Principle 4: People Respond to Incentives
+Principle 1: People Face Trade-offs (`efficiency/equality`)
+Principle 2: The Cost of Something Is What You Give Up to Get It (`athlete`)
+Principle 3: Rational People Think at the Margin (`diamonds`)
+Principle 4: People Respond to Incentives (`gasoline tax`)
 
 ## How People Interact
 Principle 5: Trade Can Make Everyone Better Off
