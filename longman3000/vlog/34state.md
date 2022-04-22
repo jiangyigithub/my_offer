@@ -93,6 +93,7 @@ The long working hours put a severe strain on employees.
 **street** 
 
 **strength** 
+`/ˈstreŋ/`
 
 **strengthen** 
 

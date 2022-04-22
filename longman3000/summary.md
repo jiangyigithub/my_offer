@@ -401,10 +401,13 @@ strain - straight
 stack - steak
 stack - stock
 start - stock
+substantial  - subsequent
 
 try - trial
 temper - temple
 taxi - toxic
+
+vital - rival
 
 weight - wait
 wage - age
