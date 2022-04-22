@@ -157,23 +157,38 @@ It was stupid of me to lose my temper.
 
 ## 5
 **style** 
+Children have different styles of learning: some learn by seeing, some by hearing, some by doing.
 
 **substance** 
+Before delving into the substance and details of economics, it is helpful to have an overview of how economists approach the world.
 
 **substantial** 
+Producing an additional car means moving some of the best computer technicians out of the computer industry and turning them into autoworkers. As a result, producing an additional car will mean a substantial loss of computer output. The opportunity cost of a car is high, and the frontier is steep.
 
 **succeed** 
+Economists are often skeptical about such claims, largely because the infant-industry argument is difficult to implement in practice. To apply protection successfully,the government would need to decide which industries will eventually be profitable and decide whether the benefits of establishing these industries exceed the costs of this protection to consumers. Yet “picking winners” is extraordinarily
+difficult. It is made even more difficult by the political process, which often awards protection to those industries that are politically powerful. And once a powerful industry is protected from foreign competition, the “temporary” policy is sometimes hard to remove.
+
+In addition, many economists are skeptical about the infant-industry argument in principle. Suppose, for instance, that an industry is young and unable to compete profitably against foreign rivals, but there is reason to believe that the industry can be profitable in the long run. In this case, firm owners should be willing to incur temporary losses to obtain the eventual profits. Protection is not necessary for an infant industry to grow. History shows that start-up firms often incur temporary losses and succeed in the long run, even without protection from competition.
 
 **suck** 
+The Fed has the power to increase or decrease the number of dollars in the economy. In simple metaphorical terms, you can imagine the Fed printing dollar bills and dropping them around the country by helicopter. Similarly, you can imagine the Fed using a giant vacuum cleaner to suck dollar bills out of people’s wallets. Although in practice the Fed’s methods for changing the money supply are more complex and subtle than this, the
+helicopter-vacuum metaphor is a good first step to understanding the meaning of monetary policy.
 
 **sudden** 
+a sudden change in the weather
 
 **sufficient** 
+Critics of the antitrust laws are skeptical that the government can perform the necessary cost–benefit analysis with sufficient accuracy.
 
 **sugar** 
+Do you take sugar in your coffee?
 
 **suggest** 
+It has been suggested that the manager will resign if any more players are sold.
 
 **suggestion** 
+Do you have a suggestion for me?
 
 **sum** 
+He owes me a large sum of money.

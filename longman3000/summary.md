@@ -239,6 +239,7 @@ oppose - pose
 opposition - position
 oven - over
 origin - orange
+owe - awesome
 
 pace - path
 pace - peace
