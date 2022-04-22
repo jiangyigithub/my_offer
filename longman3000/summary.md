@@ -4,7 +4,7 @@
 ad add
 appear appeal
 anger angle
-allow alound 
+allow aloud 
 awful offer
 alarm allow
 allowance announce 
@@ -32,7 +32,7 @@ advertise - adverse
 bean bin
 bit beat
 been being
-belief belive
+belief believe
 behave behalf
 battle batter
 break brick
@@ -81,7 +81,7 @@ central century
 cotton cartoon
 college colleague
 climb claim
-collar  collour
+collar  colour
 court coat
 cottage college
 courage - carriage
@@ -117,7 +117,7 @@ false - force
 folk - fork
 firm - film - form
 fall - for
-figure - figer
+figure - finger
 flash - flesh
 fellow - follow
 future - feature
@@ -271,14 +271,14 @@ pale - pile
 pill - bill
 pint - paint
 plain - play
-pleasure - palyer
+pleasure - player
 plates - place
 penalty - plenty
 pocket - packet
 plain - explain
 probably - possibly
-possess - proccess
-pssession - position
+possess - process
+possession - position
 pot - port
 pour - port
 poverty - power
@@ -289,7 +289,7 @@ pale - pile - pole
 pill - poll
 prefer - perfect - perform
 prison - present
-proecution - execution
+prosecution - execution
 prospect - respect
 proof - prove
 press - price
@@ -319,7 +319,7 @@ reach - rich
 readily - really
 receipt - reset
 remain - main
-rizen - reason
+risen - reason
 retail - detail
 receipt - recipe
 receipt - seat
@@ -329,7 +329,7 @@ receipt - receive
 ratio - radio
 raise - rise
 region - religion
-repid - rabbit
+rapid - rabbit
 regret - great
 reply - comply
 reply - replay
@@ -342,8 +342,8 @@ rip - trip
 rival - arrival
 rough - through
 rough - laugh
-rount - root
-rount - routine
+route - root
+route - routine
 row - role
 royal - loyal
 row - raw
