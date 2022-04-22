@@ -78,6 +78,7 @@ The long working hours put a severe strain on employees.
 
 ## 3
 **strange** 
+Thus, the theory of consumer choice allows demand curves to slope upward, and sometimes that strange phenomenon actually occurs.
 
 **stranger** 
 
@@ -102,10 +103,12 @@ The long working hours put a severe strain on employees.
 
 ## 4
 **stretch** 
+`/stre/`
 
 **strict** 
 
 **strike** 
+`/straɪ/`
 
 **string** 
 
