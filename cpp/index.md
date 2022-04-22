@@ -4,6 +4,13 @@
 `concepts`
 `tools`
 
+优先级：
+算法
+八股
+项目
+英语
+
+定范围：STL 面向对象 modern C++
 # methodology 
 `量变引起自变`
 `最小必要知识`

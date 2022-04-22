@@ -401,7 +401,11 @@ strain - straight
 stack - steak
 stack - stock
 start - stock
+<<<<<<< HEAD
 substantial  - subsequent
+=======
+street - straight
+>>>>>>> f995242749d71469c2c197dbd7a4cf29f1fe5749
 
 try - trial
 temper - temple
