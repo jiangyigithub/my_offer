@@ -125,10 +125,7 @@ This company is very strict about punctuality.
 
 **strike** 
 `/straɪ/`
-Microeconomists study how best to design a tax system, including how to strike
-the right balance between equality and efficiency. Macroeconomists study how
-taxes influence the overall economy and how policymakers can use the tax system
-to stabilize economic activity and to achieve more rapid economic growth.
+Microeconomists study how best to design a tax system, including how to strike the right balance between equality and efficiency. Macroeconomists study how taxes influence the overall economy and how policymakers can use the tax system to stabilize economic activity and to achieve more rapid economic growth.
 
 **string** 
 a string of hit albums
@@ -143,11 +140,7 @@ the breast stroke
 challenges to the existing power structure
 
 **struggle** 
-The seeds of this crisis were planted long ago, by previous generations. Our parents
-and grandparents had noble aims. They saw poverty among the elderly and created Social
-Security. They saw sickness and created Medicare and Medicaid. They saw Americans
-struggle to afford health insurance and embraced health care reform with subsidies
-for middle-class families.
+The seeds of this crisis were planted long ago, by previous generations. Our parents and grandparents had noble aims. They saw poverty among the elderly and created Social Security. They saw sickness and created Medicare and Medicaid. They saw Americans struggle to afford health insurance and embraced health care reform with subsidies for middle-class families.
 
 **student** 
 There are plenty of job opportunities for engineering students. 
@@ -166,8 +159,7 @@ Before delving into the substance and details of economics, it is helpful to hav
 Producing an additional car means moving some of the best computer technicians out of the computer industry and turning them into autoworkers. As a result, producing an additional car will mean a substantial loss of computer output. The opportunity cost of a car is high, and the frontier is steep.
 
 **succeed** 
-Economists are often skeptical about such claims, largely because the infant-industry argument is difficult to implement in practice. To apply protection successfully,the government would need to decide which industries will eventually be profitable and decide whether the benefits of establishing these industries exceed the costs of this protection to consumers. Yet “picking winners” is extraordinarily
-difficult. It is made even more difficult by the political process, which often awards protection to those industries that are politically powerful. And once a powerful industry is protected from foreign competition, the “temporary” policy is sometimes hard to remove.
+Economists are often skeptical about such claims, largely because the infant-industry argument is difficult to implement in practice. To apply protection successfully,the government would need to decide which industries will eventually be profitable and decide whether the benefits of establishing these industries exceed the costs of this protection to consumers. Yet “picking winners” is extraordinarily difficult. It is made even more difficult by the political process, which often awards protection to those industries that are politically powerful. And once a powerful industry is protected from foreign competition, the “temporary” policy is sometimes hard to remove.
 
 In addition, many economists are skeptical about the infant-industry argument in principle. Suppose, for instance, that an industry is young and unable to compete profitably against foreign rivals, but there is reason to believe that the industry can be profitable in the long run. In this case, firm owners should be willing to incur temporary losses to obtain the eventual profits. Protection is not necessary for an infant industry to grow. History shows that start-up firms often incur temporary losses and succeed in the long run, even without protection from competition.
 
