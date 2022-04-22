@@ -118,25 +118,42 @@ The world is replete with instances of signaling. Magazine ads sometimes include
 ## 4
 **stretch** 
 `/stre/`
+a stretch of three weeks without sunshine
 
 **strict** 
+This company is very strict about punctuality.
 
 **strike** 
 `/straɪ/`
+Microeconomists study how best to design a tax system, including how to strike
+the right balance between equality and efficiency. Macroeconomists study how
+taxes influence the overall economy and how policymakers can use the tax system
+to stabilize economic activity and to achieve more rapid economic growth.
 
 **string** 
+a string of hit albums
 
 **strip** 
+a strip of paper
 
 **stroke** 
+the breast stroke
 
 **structure** 
+challenges to the existing power structure
 
 **struggle** 
+The seeds of this crisis were planted long ago, by previous generations. Our parents
+and grandparents had noble aims. They saw poverty among the elderly and created Social
+Security. They saw sickness and created Medicare and Medicaid. They saw Americans
+struggle to afford health insurance and embraced health care reform with subsidies
+for middle-class families.
 
 **student** 
+There are plenty of job opportunities for engineering students. 
 
 **stupid** 
+It was stupid of me to lose my temper.
 
 ## 5
 **style** 

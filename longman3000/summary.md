@@ -404,6 +404,7 @@ stack - stock
 start - stock
 substantial  - subsequent
 street - straight
+stroke - stoke
 
 try - trial
 temper - temple
