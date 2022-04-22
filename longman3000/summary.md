@@ -406,6 +406,13 @@ start - stock
 substantial  - subsequent
 street - straight
 stroke - stoke
+stiff - stuff
+still - stir
+stock - stroke
+sum - sun
+stone - storm
+stress - dress
+stream - dream
 
 try - trial
 temper - temple
