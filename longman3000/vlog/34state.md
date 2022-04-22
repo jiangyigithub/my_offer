@@ -81,25 +81,39 @@ The long working hours put a severe strain on employees.
 Thus, the theory of consumer choice allows demand curves to slope upward, and sometimes that strange phenomenon actually occurs.
 
 **stranger** 
+Children must not talk to strangers.
 
 **strategic** 
 `/strə/`
+The small number of sellers makes rigorous competition less likely and strategic interactions among them vitally important. By contrast, a monopolistically competitive market has many sellers, each of which is small compared to the market. It departs from the perfectly competitive ideal because each of the sellers offers a somewhat different product.
 
 **strategy** 
+`/ˈstræ/`
+What strategy would you play? Would you begin by confessing or remaining silent? How would the other player’s actions affect your subsequent
+decisions about confessing?
 
 **straw** 
 `/strɔ:/`
+*draw*
+straw man
 
 **strawberry** 
+ It was a strawberry cake.
 
 **street** 
+a car parked on the other side of the street
 
 **strength** 
 `/ˈstreŋ/`
+He never ceased to be amazed by her physical strength.
 
 **strengthen** 
+`/θn/`
+When a currency appreciates, it is said to strengthen because it can then buy more foreign currency. Similarly, when a currency depreciates, it is said to weaken.
 
 **stress** 
+*dress*
+The world is replete with instances of signaling. Magazine ads sometimes include the phrase “as seen on TV.” Why does a firm selling a product in a magazine choose to stress this fact? One possibility is that the firm is trying to convey its willingness to pay for an expensive signal (a spot on television) in the hope that you will infer that its product is of high quality. For the same reason, graduates of elite schools are always sure to put that fact on their resumes.
 
 ## 4
 **stretch** 

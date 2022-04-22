@@ -352,6 +352,7 @@ rural - rival
 rival - river
 ring - rain
 rob - rub
+repeat - replete
 
 service - survey
 steady study
