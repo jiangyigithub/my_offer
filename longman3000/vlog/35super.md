@@ -1,8 +1,19 @@
 ## 1
 **supper** 
+Why don’t you come over for supper on Friday?
+
 **surgery**  
+`/ˈsɜː/`
+Surgery is from 9 am to 1 pm on weekdays.
+
 **survey** 
+`/ˈsɜː/`
+We conducted a survey of parents in the village.
+
 **survival** 
+`/sə/`
+Illegal hunting is threatening the survival of the species.
+
 **suspect** 
 **suspicion** 
 **suspicious** 

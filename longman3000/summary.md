@@ -415,6 +415,7 @@ sum - sun
 stone - storm
 stress - dress
 stream - dream
+surgery - soldier
 
 try - trial
 temper - temple
