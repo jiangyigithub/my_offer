@@ -416,6 +416,7 @@ stone - storm
 stress - dress
 stream - dream
 surgery - soldier
+species - suspicious
 
 try - trial
 temper - temple
