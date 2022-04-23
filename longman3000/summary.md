@@ -427,6 +427,7 @@ tax - taxi
 tear - tie
 tent - tend
 tail - detail
+tent - content
 
 vital - rival
 various - curious

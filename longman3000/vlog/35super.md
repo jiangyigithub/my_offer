@@ -109,15 +109,24 @@ I'm living with my parents,bu it's only temporary.
 **tend** 
 
 **tendency** 
+There are an increasing tendency for women to have a children later in life.
 
 **tennis** 
+*table tennis*
 
 **tension** 
+Spending on national defense fluctuates over time as international tensions and the political climate change
 
 **tent** 
+We looked for a flat spot where we could pitch our tent.
 
 **terribly** 
+`/ˈterə/`
+I’m terribly sorry to have kept you waiting.
 
 **territory** 
+`/ˈterə/`
+Hong Kong became Chinese territory in 1997.
 
 **terrorist** 
+We refuse to talk to terrorists.
