@@ -88,6 +88,7 @@ courage - carriage
 complain - comply
 chain - channel
 chair - cheer - child
+course(courses) - cause
 
 drunk - run
 degree - disagree
