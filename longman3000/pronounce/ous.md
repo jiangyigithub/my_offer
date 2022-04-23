@@ -2,3 +2,5 @@
 
 generous
 gorgeous
+curious
+suspicious
