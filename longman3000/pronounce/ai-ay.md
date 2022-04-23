@@ -1,7 +1,7 @@
 **ai**
 
 `/ei/`
-straight - strain
+straight - strain - tail
 
 **ay**
 

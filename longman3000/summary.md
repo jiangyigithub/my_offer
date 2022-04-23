@@ -426,6 +426,7 @@ taste - test
 tax - taxi
 tear - tie
 tent - tend
+tail - detail
 
 vital - rival
 

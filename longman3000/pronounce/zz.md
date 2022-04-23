@@ -83,6 +83,10 @@ switch
 `que`
 technique
 
+`let`
+tablet
+toilet
+
 ## 单词变音
 (在s/x后)
 1. p --> b
