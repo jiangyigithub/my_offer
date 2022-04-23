@@ -71,23 +71,53 @@ Sara had the task of preparing the agenda for meetings.
 
 ## 3
 **taste** 
+The medicine had a slightly bitter taste.
+
 **tax** 
+He already pays 40% tax on his income.
+
 **tea** 
+Do you take milk and sugar in your tea?
+
 **tear** 
+She came home in floods of tears.
+
+The cost of reducing your money holdings is called the shoeleather cost of inflation because making more frequent trips to the bank causes your shoes to wear out more quickly. Of course, this term is not to be taken literally: The actual cost of reducing your money holdings is not the wear and tear on your shoes but the time and convenience you must sacrifice to keep less money on hand than you would if there were no inflation.
+
 **technical** 
+Our staff will be available to give you technical support.
+
 **technique** 
+There are various techniques for dealing with industrial pollution.
+
 **technology** 
+There have been major new developments in satellite technology.
+
 **telephone** 
+The telephone rang just as I was leaving.
+
 **telly** 
+*television*
+
 **temperature** 
+The temperature of water was just right for swimming.
+
 **temporary** 
+I'm living with my parents,bu it's only temporary.
 
 ## 4
 **tend** 
+
 **tendency** 
+
 **tennis** 
+
 **tension** 
+
 **tent** 
+
 **terribly** 
+
 **territory** 
+
 **terrorist** 

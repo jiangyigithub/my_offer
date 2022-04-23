@@ -72,7 +72,7 @@ There is considerable anxiety among the stall about job losses.
 
 **anxious**
 `/ˈæŋkʃ/`
-He was a bit anxious about the safety of the machinary.
+He was a bit anxious about the safety of the machinery.
 
 **apology**
 The minister had to issue a formal public apology for his remarks.
@@ -86,7 +86,7 @@ She turned to face him, her anger apparently gone.
 The police have issued a new appeal for information.
 
 **appoint**
-The committee was appointted to consider the plans.
+The committee was appointed to consider the plans.
 
 **appointment**
 I 'd like to make a appointment to see the doctor.

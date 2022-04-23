@@ -429,6 +429,7 @@ tent - tend
 tail - detail
 
 vital - rival
+various - curious
 
 weight - wait
 wage - age
