@@ -417,6 +417,11 @@ stream - dream
 try - trial
 temper - temple
 taxi - toxic
+tail - tale - tell
+taste - test
+tax - taxi
+tear - tie
+tent - tend
 
 vital - rival
 

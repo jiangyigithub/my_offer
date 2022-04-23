@@ -73,6 +73,13 @@ accessible
 rapid
 stupid
 
+`tch`
+scratch
+switch 
+
+`que`
+technique
+
 ## 单词变音
 (在s/x后)
 1. p --> b
