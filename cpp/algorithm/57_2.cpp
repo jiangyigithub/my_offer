@@ -9,10 +9,10 @@ public:
         while (high<target){
             long curSum=(low+high)*(high-low+1)/2;
             if(curSum<target){
-                low++;
+                high++;
             }
             else if(curSum>target){
-                high++;
+                low++;
             }
             else{
                 vector<int> ans;
