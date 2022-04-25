@@ -428,6 +428,14 @@ tear - tie
 tent - tend
 tail - detail
 tent - content
+till - tier
+town - tongue
+tour - tool
+towel - tower
+throat - toast
+though - through
+theme - them
+trade - tradition
 
 vital - rival
 various - curious
