@@ -11,7 +11,7 @@ vector<int> vec = {1, 2, 3};
 cout << vec[2]<<endl;     // 3  (no range check)
 cout << vec.at(2)<<endl;  // 3  (throw range_error exception of out of range)
 
-vec[5] = 5;   // Compile Error
+vec[5] = 5;   // Compile Error, size() <5
 
 day.insert(make_pair('F', "Friday"));  // Inserting {'F', "Friday"}
 day['W'] = "Wednesday";  // Inserting {'W', "Wednesday}
