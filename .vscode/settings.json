@@ -30,5 +30,6 @@
         "iostream": "cpp",
         "vector": "cpp"
     },
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "jupyter.useDefaultConfigForJupyter": false,
 }
