@@ -1,7 +1,12 @@
 ## 1
 **theatre** 
+‘Bambi’ was the first movie I ever saw in the theater.
+
 **theirs** 
+
 **theme** 
+The book’s theme is the conflict between love and duty.
+
 **theoretical** 
 **theory** 
 **therefore** 

@@ -381,6 +381,10 @@ if i/=0,j/=0
 - 基础问题:打印一行
 - 边界初值,边界更新
 - 循环结束条件,边界干涉是循环结束
+- while(true)循环，通过内部break退出循环
+- 矩阵分为行列
+- 矩阵bottom边界 为矩阵行数-1，matrix.size()-1;矩阵right边界 为矩阵列数-1，matrix[0].size()-1
+- break条件 left> right和right< left 不是一个意思，两者不等价
 
 **offer31**
 - while 循环中，怎么包含for循环中步进index的功能

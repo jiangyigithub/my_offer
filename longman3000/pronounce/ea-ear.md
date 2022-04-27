@@ -16,6 +16,7 @@ steak
 
 **ear**
 `/ɪə/`
+theatre
 Dear doctor,I fear my ear is too near the gear.
 
 `/eə/`
