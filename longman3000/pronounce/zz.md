@@ -87,6 +87,10 @@ technique
 tablet
 toilet
 
+`tical`
+theoretical
+practical
+
 ## 单词变音
 (在s/x后)
 1. p --> b

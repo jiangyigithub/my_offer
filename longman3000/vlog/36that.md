@@ -8,9 +8,19 @@
 The book’s theme is the conflict between love and duty.
 
 **theoretical** 
+`/ˈre/`
+She has theoretical knowledge of teaching, but no practical experience.
+
 **theory** 
+Freudian theory has had a great influence on psychology.
+
 **therefore** 
+`/fɔː/`
+Progress so far has been very good. We are, therefore, confident that the work will be completed on time.
+
 **thick** 
+*bold*
+
 **thin** 
 **thing** 
 **though** 

@@ -436,6 +436,7 @@ throat - toast
 though - through
 theme - them
 trade - tradition
+tough - though
 
 vital - rival
 various - curious
