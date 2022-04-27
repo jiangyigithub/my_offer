@@ -437,6 +437,9 @@ though - through
 theme - them
 trade - tradition
 tough - though
+thin - thing - think
+thick - think
+terrible - horrible
 
 vital - rival
 various - curious

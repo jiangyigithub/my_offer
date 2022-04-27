@@ -20,10 +20,17 @@ Progress so far has been very good. We are, therefore, confident that the work w
 
 **thick** 
 *bold*
+The furniture was thick with dust 
 
 **thin** 
+Most high school girls say they want to be thinner.
+
 **thing** 
+It was a horrible thing to happen.
+
 **though** 
+`/ðəʊ/`
+I thought he’d been drinking, though I wasn’t completely sure.
 
 ## 2
 **thought** 
