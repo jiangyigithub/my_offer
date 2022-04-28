@@ -1,8 +1,10 @@
 ## 1
 **theatre** 
+`/ˈθɪə/`
 ‘Bambi’ was the first movie I ever saw in the theater.
 
 **theirs** 
+When our washing machine broke, our neighbours let us use theirs.
 
 **theme** 
 The book’s theme is the conflict between love and duty.
@@ -20,7 +22,7 @@ Progress so far has been very good. We are, therefore, confident that the work w
 
 **thick** 
 *bold*
-The furniture was thick with dust 
+The furniture was thick with dust. 
 
 **thin** 
 Most high school girls say they want to be thinner.
