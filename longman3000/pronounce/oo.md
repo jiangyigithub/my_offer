@@ -8,3 +8,4 @@ floor
 `/uː/`
 pool
 spoon
+tooth

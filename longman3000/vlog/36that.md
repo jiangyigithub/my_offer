@@ -70,17 +70,37 @@ bathroom tiles
 
 ## 3
 **till** 
+*until*
+The shop’s open till nine o'clock on Fridays.
+
 **tin** 
+a biscuit tin
+
 **toast** 
 I had a piece of toast for breakfast.
 
 **toe** 
+*finger*
+
 **ton** 
+`/tʌn/`
+a unit for measuring weight
+
 **tone** 
+`/təʊn/`
+It was obvious from her tone of voice that she didn’t like me.
+
 **tongue** 
+She felt more comfortable talking in her native tongue.
+
 **tooth** 
+Sugar is bad for your teeth.
+
 **total** 
+There were probably about 40 people there in total.
+
 **totally** 
+I totally agree.
 
 ## 4
 **tough** 
