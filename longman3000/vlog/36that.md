@@ -104,24 +104,36 @@ I totally agree.
 
 ## 4
 **tough** 
+`/tʌf/`
+The company admitted that it had been a tough year.
 
 **tour** 
+a 10-day tour of China
 
 **towards** 
+He noticed two policemen coming towards him.
 
 **towel** 
+Have you got a clean towel I could use?
 
 **tower** 
+a castle with tall towers
 
 **toy** 
+some toys for the baby
 
 **trade** 
+A lot of pubs nowadays do most of their trade at lunchtimes.
 
 **tradition** 
+By tradition, it’s the bride’s parents who pay for the wedding.
 
 **traditional** 
+Tax cuts have a powerful influence on both aggregate demand and aggregate supply. They increase aggregate demand by increasing households’ disposable income,
+as emphasized in traditional Keynesian analysis.
 
 **traffic** 
+There wasn’t much traffic on the roads.
 
 ## 5
 **trailer** 
