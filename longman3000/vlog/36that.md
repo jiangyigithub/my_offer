@@ -104,21 +104,36 @@ I totally agree.
 
 ## 4
 **tough** 
+
 **tour** 
+
 **towards** 
+
 **towel** 
+
 **tower** 
+
 **toy** 
+
 **trade** 
+
 **tradition** 
+
 **traditional** 
+
 **traffic** 
 
 ## 5
 **trailer** 
+
 **transaction** 
+
 **transfer**
+
 **transform**
+
 **transition** 
+
 **translate** 
+
 **transport** 
