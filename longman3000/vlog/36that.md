@@ -34,20 +34,46 @@ I thought he’d been drinking, though I wasn’t completely sure.
 
 ## 2
 **thought** 
+`/θɔːt/`
+The thought that I might not have a job next year is a bit troubling.
+
 **throat** 
+`/θrəʊt/`
+The singer complained of a sore throat after Wednesday’s show.
+
 **through** 
+`/θruː/`
+She got her first job through an employment agency.
+
 **throughout** 
-**throw** 
+The disease spread rapidly throughout Europe.
+
+**throw**
+`/θrəʊ/` 
+He threw his shirt to someone in the crowd.
+
 **thus** 
+`/ðʌs/`
+Most of the evidence was destroyed in the fire. Thus it would be almost impossible to prove him guilty.
+
 **tidy** 
+Ellen’s room is always neat and tidy.
+
 **tie** 
+Tie this label to your suitcase.
+
 **tight** 
+My shoes were so tight that I could hardly walk.
+
 **tile** 
+bathroom tiles
 
 ## 3
 **till** 
 **tin** 
 **toast** 
+I had a piece of toast for breakfast.
+
 **toe** 
 **ton** 
 **tone** 
