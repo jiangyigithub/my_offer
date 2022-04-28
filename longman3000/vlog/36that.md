@@ -137,15 +137,30 @@ There wasn’t much traffic on the roads.
 
 ## 5
 **trailer** 
+a vehicle that can be pulled behind another vehicle, used for carrying something
 
 **transaction** 
+*buying or selling something*
+The bank charges a fixed rate for each transaction.
 
 **transfer**
+`/fɜː/`
+*to move from ...*
+Ideas that work well in one school often don’t transfer well to another.
 
 **transform**
+`/fɔːm /`
+*to completely change the appearance, form, or character of something or someone*
+The movie transformed her almost overnight from an unknown schoolgirl into a megastar.
 
 **transition** 
+*changes from one form or state to another*
+the smooth transition from full-time work to full retirement
 
 **translate** 
+Translate the text from Italian into English.
 
 **transport** 
+Improved rail transport is essential for business.
+
+trucks used for transporting oil

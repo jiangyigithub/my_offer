@@ -442,6 +442,7 @@ thick - think
 terrible - horrible
 through - threw
 towel - tower
+trailer - trainer
 
 vital - rival
 various - curious
