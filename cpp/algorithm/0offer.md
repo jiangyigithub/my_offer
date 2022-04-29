@@ -77,6 +77,32 @@
 - 2分查找的矩阵形式，两维形象
 - 2分查找怎么确定查找的起点，通过起点可以消除一半的搜索范围
 
+**剑指 Offer 11. 旋转数组的最小数字**
+- 二分查找，需要移动左边界或右边界来减少搜索范围
+- 最右侧元素一定大于等于说要查找的元素
+- 该题与最基础的二分查找的区别
+- 应用if else三连，而非多个if
+```python
+def binary_search(arr, x):
+    left = 0
+    right = len(arr) - 1
+    while left <= right:
+        mid = (right + left) // 2
+        if arr[mid] < x:
+            left = mid + 1
+        elif arr[mid] > x:
+            right = mid - 1
+        else:
+            return mid
+    return -1
+```
+
+**剑指 Offer 50. 第一个只出现一次的字符**
+- 对空间复杂度的优化，将记录次数的，value类型为int哈希表改为value类型为bool的哈希表
+- 对时间复杂的优化，有序字典
+
+
+
 ### 3 排序
 
 **offer 40**
