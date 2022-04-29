@@ -106,8 +106,13 @@ def binary_search(arr, x):
 **剑指 Offer 53 - I. 在排序数组中查找数字 I**
 - 哈希表 时间复杂度为O(n)
 - 输入是有序的 --> 二分 
+- 边界问题
+  - 二分查找循环终止条件,left< right 还是left<= right
+  - 左右指针更新的值，左边界更新为是mid,还是mid+1
+  - 与target的比较，有没有等号，nums[mid]<=target
 
 **剑指 Offer 53 - II. 0～n-1 中缺失的数字**
+- 二分判断条件：nums[mid]==mid
 - 边界问题
   - 二分查找循环终止条件,left< right 还是left<= right
   - 左右指针更新的值，是mid,还是mid+1
