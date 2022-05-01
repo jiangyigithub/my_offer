@@ -1,49 +1,55 @@
 #include "head.hpp"
 
-class MaxQueue {
-    queue<int> q;
-    deque<int> d;
+class MaxQueue
+{
+    queue<int> que;
+    deque<int> deq;
+
 public:
-    MaxQueue() {
+    MaxQueue()
+    {
     }
-    
-    int max_value() {
-        if (d.empty())
+
+    int max_value()
+    {
+        if (deq.empty())
             return -1;
-        return d.front();
+        return deq.front();
     }
-    
-    void push_back(int value) {
-        while (!d.empty() && d.back() < value) {
-            d.pop_back();
+
+    void push_back(int value)
+    {
+        while (!deq.empty() && deq.back() < value)
+        {
+            deq.pop_back();
         }
-        d.push_back(value);
-        q.push(value);
+        deq.push_back(value);
+        que.push(value);
     }
-    
-    int pop_front() {
-        if (q.empty())
+
+    int pop_front()
+    {
+        if (que.empty())
             return -1;
-        int ans = q.front();
-        if (ans == d.front()) {
-            d.pop_front();
+        int ans = que.front();
+        if (ans == deq.front())
+        {
+            deq.pop_front();
         }
-        q.pop();
+        que.pop();
         return ans;
     }
 };
 
-int main(){
-    MaxQueue* maxQueue = new MaxQueue();
+int main()
+{
+    MaxQueue *maxQueue = new MaxQueue();
+    maxQueue->push_back(5);
     maxQueue->push_back(1);
-    maxQueue->push_back(2);
     maxQueue->max_value();
+    maxQueue->push_back(3);
     maxQueue->pop_front();
     maxQueue->max_value();
+    maxQueue->pop_front();
     return 0;
-
 }
-
-
-
-
