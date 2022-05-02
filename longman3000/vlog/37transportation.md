@@ -23,6 +23,7 @@ As a kid, I loved to climb trees.
 When you travel around the world, you see tremendous variation in the standard of living. The average income in a rich country, such as the United States, Japan, or Germany, is more than ten times the average income in a poor country, such as India, Indonesia, or Nigeria. These large differences in income are reflected in large differences in the quality of life. People in richer countries have better nutrition, safer housing, better healthcare, and longer life expectancy as well as more automobiles, more telephones, and more televisions.
 
 **trend** 
+`/tren/`
 Economics is the study of how society manages its scarce resources. 
 In most societies, resources are allocated not by an all-powerful dictator but through the combined choices of millions of households and firms. 
 Economists, therefore, study how people make decisions: how much they work, what they buy, how much they save, and how they invest their savings. 
