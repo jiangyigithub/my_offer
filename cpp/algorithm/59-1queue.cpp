@@ -32,32 +32,32 @@ public:
         /// sol=="deque"
         if (nums.empty())
             return {}; // 判空
-        deque<int> q; // 双向队列
+        deque<int> deq; // 双向队列
         // 将第一个滑动窗口中的单调队列对应的坐标构建出来
-        // q 中存单调队列中对应的nums坐标
-        // 若新元素比 q 结尾坐标的元素值大
-        // 从 q 结尾开始移除坐标 （始终保持最大值在头）
+        // deq 中存单调队列中对应的nums坐标
+        // 若新元素比 deq 结尾坐标的元素值大
+        // 从 deq 结尾开始移除坐标 （始终保持最大值在头）
         // 否则将新元素的坐标进入队列
         for (int i = 0; i < k; ++i)
         {
-            while (!q.empty() && nums[i] > nums[q.back()])
+            while (!deq.empty() && nums[i] > nums[deq.back()])
             {
-                q.pop_back();
+                deq.pop_back();
             }
-            q.push_back(i);
+            deq.push_back(i);
         }
-        vector<int> ans = {nums[q.front()]}; // 存滑动窗口的最大值
-        // 滑动窗口右移，继续将新元素与 q 结尾的坐标比较
+        vector<int> ans = {nums[deq.front()]}; // 存滑动窗口的最大值
+        // 滑动窗口右移，继续将新元素与 deq 结尾的坐标比较
         for (int i = k; i < nums.size(); ++i)
         {
-            while (!q.empty() && nums[i] > nums[q.back()])
+            while (!deq.empty() && nums[i] > nums[deq.back()])
             {
-                q.pop_back();
+                deq.pop_back();
             }
-            q.push_back(i);
-            while (q.front() <= i - k)      // 若 q 头坐标在滑动窗口左边界外侧
-                q.pop_front();              // 移除 q 头坐标
-            ans.push_back(nums[q.front()]); // q 的头坐标的值即滑动窗口的最大值压入vector
+            deq.push_back(i);
+            while (deq.front() <= i - k)      // 若 deq 头坐标在滑动窗口左边界外侧
+                deq.pop_front();              // 移除 deq 头坐标
+            ans.push_back(nums[deq.front()]); // deq 的头坐标的值即滑动窗口的最大值压入vector
         }
         return ans;
     }
