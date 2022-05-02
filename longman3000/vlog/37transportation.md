@@ -115,24 +115,39 @@ Unfortunately, you were out when we called.
 
 ## 4
 **union** 
+`/ˈju/`
+labor union
 
 **unique** 
+`/ˈniːk/`
+This is a unique opportunity to study these rare creatures.
 
 **unit** 
+The family is the basic social unit of modern society.
 
 **united** 
+`/ˈnaɪ/`
+The two countries were united against a common enemy.
 
 **unity** 
+economic unity
 
 **universal** 
+Many European nations have much higher taxes, which finance a more generous social safety net, including more substantial income support for the poor and
+unemployed and universal government-provided healthcare.
 
 **universe** 
+Isaac Newton, the famous 17th-century scientist and mathematician, allegedly became intrigued one day when he saw an apple fall from a tree. This observation motivated Newton to develop a theory of gravity that applies not only to an apple falling to the earth but to any two objects in the universe.
 
 **unknown** 
+For some unknown reason, Mark quit his job and moved to Greece.
 
 **until** 
+The ticket is valid until March.
 
 **unusual** 
+`/ʒuəl/`
+It’s not unusual (=it is quite common) to feel very angry in a situation like this.
 
 ## 5
 **upon** 
