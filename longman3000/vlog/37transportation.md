@@ -79,25 +79,39 @@ I had a flat tyre (=all the air went out of it) on the way home.
 ## 3
 **ugly** 
 `/ˈʌɡ/`
+the ugliest building in town
 
 **ultimate** 
 `/ˈʌl/`
+The fundamental lessons about the economy as a whole are that productivity is the ultimate source
+of living standards, that growth in the quantity of money is the ultimate source of inflation, and that society
+faces a short-run trade-off between inflation and unemployment.
 
 **ultimately** 
+Ultimately, there’s no free lunch; instead of paying with money, you pay with the effort and time needed to acquire the good.
 
 **unbelievable** 
+It was unbelievable that we were expected to pay twice.
 
 **uncle**  
+I went to stay with my uncle and aunt for a few days.
 
 **underneath** 
+She seems confident, but she’s really quite shy underneath.
 
 **undertake** 
+But the future is unknown. When a person decides to allocate some saving, or a firm decides to undertake an investment, the decision is based on a
+guess about the likely result. The actual result, however, could end up being very different from what was expected.
 
 **unemployed** 
+I’ve only been unemployed for a few weeks.
 
 **unfortunate** 
+On the other hand, a negative income tax would subsidize not only the unfortunate but also those who are simply lazy and, in some people’s eyes, undeserving of government support.
 
 **unfortunately** 
+`/tʃə/`
+Unfortunately, you were out when we called.
 
 ## 4
 **union** 
