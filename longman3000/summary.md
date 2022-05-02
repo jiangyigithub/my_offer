@@ -443,6 +443,10 @@ terrible - horrible
 through - threw
 towel - tower
 trailer - trainer
+trash - cash
+tray - tree
+tray - pray
+try - trial
 
 vital - rival
 various - curious
