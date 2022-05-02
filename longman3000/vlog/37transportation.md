@@ -76,9 +76,23 @@ the troop commander
 
 ## 5
 **upon** 
+We are completely dependent upon your help.
+
 **upset** 
+She was deeply upset about the way her father treated her.
+
 **urban** 
+the deprived sections of the urban population
+
 **urge** 
+I have urged upon him the need for extreme secrecy.
+
 **us** 
+`/əs/`
+He arranged for us all to have a drink.
+
 **vacation**
+We’re planning a vacation in Europe.
+
 **vague** 
+The governor gave only a vague outline of his tax plan.
