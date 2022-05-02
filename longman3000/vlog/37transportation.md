@@ -110,7 +110,7 @@ I’ve only been unemployed for a few weeks.
 On the other hand, a negative income tax would subsidize not only the unfortunate but also those who are simply lazy and, in some people’s eyes, undeserving of government support.
 
 **unfortunately** 
-`/tʃə/`
+`/ˈfɔː/` `/tʃə/`
 Unfortunately, you were out when we called.
 
 ## 4
