@@ -40,38 +40,78 @@ the troop commander
 
 ## 2
 **trouble** 
+`/ˈtrʌ/`
+*trouble is a friend*
+We’re having a lot of trouble with the new computer system.
+
 **trousers** 
+`/ˈtraʊ/`
+His trousers were slightly too short.
+
 **truly** 
+
 **truth** 
+
 **tube** 
+
 **tune** 
+
 **tunnel** 
+`/ˈtʌ/`
+
 **twice** 
+`/twaɪ/`
+
 **twist** 
+`/twɪ/`
+He twisted his head slightly, and looked up at her.
+
 **tyre** 
+`/ə/`
+I had a flat tyre (=all the air went out of it) on the way home.
 
 ## 3
 **ugly** 
+`/ˈʌɡ/`
+
 **ultimate** 
+`/ˈʌl/`
+
 **ultimately** 
+
 **unbelievable** 
+
 **uncle**  
+
 **underneath** 
+
 **undertake** 
+
 **unemployed** 
+
 **unfortunate** 
+
 **unfortunately** 
 
 ## 4
 **union** 
+
 **unique** 
+
 **unit** 
+
 **united** 
+
 **unity** 
+
 **universal** 
+
 **universe** 
+
 **unknown** 
+
 **until** 
+
 **unusual** 
 
 ## 5
