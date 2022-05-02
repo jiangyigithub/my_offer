@@ -49,18 +49,24 @@ We’re having a lot of trouble with the new computer system.
 His trousers were slightly too short.
 
 **truly** 
+Like a biology teacher’s plastic model, economic models omit many details to allow us to see what is truly important.
 
 **truth** 
+There is no truth in the rumour.
 
 **tube** 
+a round pipe made of metal, glass, rubber etc
 
 **tune** 
+Someone’s coming tomorrow to tune the piano.
 
 **tunnel** 
 `/ˈtʌ/`
+a road tunnel through the mountains
 
 **twice** 
 `/twaɪ/`
+They employ 90 people, twice as many as last year.
 
 **twist** 
 `/twɪ/`
