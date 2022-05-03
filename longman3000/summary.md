@@ -110,6 +110,7 @@ essential - central
 extreme - dream
 elastic - static
 earning - learning
+energy - enemy
 
 fail - fair - fear - fill
 file - fire
