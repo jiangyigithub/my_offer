@@ -89,6 +89,8 @@ Write an essay of about five hundred words.
 **worth** 
 The new computer system has already proved its worth.
 
+It is not surprising that they often decide that the benefit of a college education is not worth the cost.
+
 **would** 
 `/wʊ/`
 She said she wouldn’t be coming to the library anymore.
