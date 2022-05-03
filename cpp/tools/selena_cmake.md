@@ -1,10 +1,10 @@
-`serialization and deserialization`
+`serialization and deserialization` --> mdf-exporter
 
-`replay`
+`replay` --> selena
 
-`visulization`
+`visulization` --> plotstr
 
-`evalution`
+`evalution` --> snoopy
 
 
 https://inside-docupedia.bosch.com/confluence/display/DP/SELENA+Build+System
