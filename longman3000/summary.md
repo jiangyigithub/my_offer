@@ -458,6 +458,10 @@ wage - age
 world - word
 width - with
 written - return
+win - wing
+worth - worse
+will - where - wheel
+
 
 
 
