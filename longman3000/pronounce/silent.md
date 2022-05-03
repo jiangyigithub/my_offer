@@ -16,5 +16,7 @@ frighten
 while
 
 **w**
+whose
+whole
 wrap
 write
