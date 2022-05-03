@@ -105,10 +105,27 @@ He wrote some very famous books
 
 ## 4
 **writer** 
+She’s one of my favourite writers.
+
 **writing** 
+Some of his most powerful writing is based on his childhood experiences.
+
 **yeah** 
+`/eə/`
+*yes*
+
 **yesterday** 
+What did you do yesterday?
+
 **youngster** 
+*a child or young person*
+
 **yours** 
+This is our room, and yours is just across the hall.
+
 **youth** 
+The youth of today are the pensioners of tomorrow.
+
 **zone**
+`/zəʊ/`
+The government has set up a special economic zone to promote private enterprise.
