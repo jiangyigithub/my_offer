@@ -24,5 +24,9 @@ https://hubojing.github.io/2019/01/22/C-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%
 * 操作符重载
 * 成员函数还是全局函数
 
-## 项目二：web项目
+## 项目二: xml parser项目
+（序列化与反序列化）
+
+## 项目三：web项目
 https://github.com/linyacool/WebServer
+（网络编程）
