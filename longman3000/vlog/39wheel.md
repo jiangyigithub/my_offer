@@ -25,6 +25,7 @@ Are you OK? You’re white as a sheet (=extremely pale).
 Solar energy is an idea whose time has come.
 
 **wicked** 
+`/ˈwɪ/`
 *evil*
 with a wicked grin
   
