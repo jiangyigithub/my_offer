@@ -1,3 +1,12 @@
+`serialization and deserialization`
+
+`replay`
+
+`visulization`
+
+`evalution`
+
+
 https://inside-docupedia.bosch.com/confluence/display/DP/SELENA+Build+System
 
 (关于vfc和DADDY)
