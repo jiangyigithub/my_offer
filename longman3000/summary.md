@@ -473,6 +473,8 @@ written - return
 win - wing
 worth - worse
 will - where - wheel
+wild - wide
+wipe - whisper
 
 
 

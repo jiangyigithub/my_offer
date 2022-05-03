@@ -37,15 +37,36 @@ These laws were widely regarded as too strict.
 
 ## 2
 **widespread** 
+the widespread use of chemicals in agriculture
+
 **wild** 
+`/waɪl/`
+wild animals
+
 **will** 
+A meeting will be held next Tuesday at 3 p.m.
+
 **willing** 
+How much are they willing to pay?
+
 **wind** 
+Planes were unable to take off because of high winds.
+
 **windy** 
+It’s too windy for a picnic.
+
 **wine** 
+`/waɪn/`
+a bottle of red wine
+
 **wing** 
+a butterfly with beautiful markings on its wings
+
 **winter** 
+It usually snows here in the winter.
+
 **wipe** 
+Bill wiped his eyes (=wiped the tears from his face) and apologized.
 
 ## 3
 **wire** 
