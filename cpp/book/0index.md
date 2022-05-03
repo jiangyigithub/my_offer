@@ -19,6 +19,7 @@ project
 # 学习编程的方法论
 
 [如何系统地学习 C++ 语言](https://www.zhihu.com/question/23447320)
+[trade-off](https://www.zhihu.com/question/352329405/answer/927271065)
 
 学习一件事物必须是要花费时间的，你之所以要去学习，你内心是期望通过它是有收获的，所以你学习编程是有成本的，其中最大的成本就是时间
 

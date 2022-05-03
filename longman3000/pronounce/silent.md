@@ -2,6 +2,7 @@
 climb
 lamb
 doubt
+debt
 
 **gh**
 high
