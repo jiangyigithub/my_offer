@@ -452,7 +452,18 @@ underneath - beneath
 
 vital - rival
 various - curious
+vary - very
+victory - vector
 
+wake - weak - week
+wander- wonder
+war - word - world
+warm - warn
+wear- where
+weather - whether
+welfare - well
+wet - west
+weigh - way - weight
 weight - wait
 wage - age
 world - word
