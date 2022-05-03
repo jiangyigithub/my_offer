@@ -4,7 +4,7 @@
 
 `visulization` --> plotstr
 
-`evalution` --> snoopy
+`evaluation` --> snoopy
 
 
 https://inside-docupedia.bosch.com/confluence/display/DP/SELENA+Build+System
