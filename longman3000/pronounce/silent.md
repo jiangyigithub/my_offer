@@ -14,6 +14,7 @@ frighten
 
 **h**
 while
+white
 
 **w**
 whose
