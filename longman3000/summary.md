@@ -475,6 +475,9 @@ worth - worse
 will - where - wheel
 wild - wide
 wipe - whisper
+wool - wood
+would - wood
+wrap - rap
 
 
 

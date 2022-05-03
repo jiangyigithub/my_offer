@@ -70,15 +70,38 @@ Bill wiped his eyes (=wiped the tears from his face) and apologized.
 
 ## 3
 **wire** 
+a telephone wire
+
 **wise** 
+It’s wise to check whether the flight times have changed before you leave for the airport.
+
 **witness** 
+Police have appealed for witnesses to come forward.
+
 **wool** 
+`/wʊ/`
+a pure wool skirt
+
 **word** 
+`/ɜː/`
+Write an essay of about five hundred words.
+
 **worth** 
+The new computer system has already proved its worth.
+
 **would** 
+`/wʊ/`
+She said she wouldn’t be coming to the library anymore.
+
 **wound** 
+It took several months for his wounds to heal.
+
 **wrap** 
+*wrapper*
+The present was beautifully wrapped in gold paper.
+
 **write** 
+He wrote some very famous books
 
 ## 4
 **writer** 
