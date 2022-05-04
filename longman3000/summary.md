@@ -455,6 +455,7 @@ vital - rival
 various - curious
 vary - very
 victory - vector
+valley - village
 
 wake - weak - week
 wander- wonder

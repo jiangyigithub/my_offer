@@ -1,13 +1,23 @@
+## 1
 **valley** 
+*village*
+`/ˈvæ/` `/li/`
+The valley becomes narrower at this point.
+
 **valuable** 
 **van** 
 **variation** 
 **variety** 
+`/və/` `/ˈraɪə/`
+
 **various** 
+*curious*
 **vegetable** 
 **vet** 
 **via** 
 **victim** 
+
+## 2
 **victory** 
 **village** 
 **virtually** 
@@ -18,6 +28,8 @@
 **vital** 
 **volume** 
 **voluntary** 
+
+## 3
 **vulnerable** 
 **wage** 
 **wake** 
@@ -28,6 +40,8 @@
 **war** 
 **ward** 
 **wardrobe** 
+
+## 4
 **warm** 
 **warn** 
 **waste** 
@@ -38,6 +52,8 @@
 **wedding** 
 **weigh** 
 **weight** 
+
+## 5
 **weird** 
 **welfare** 
 **west** 
