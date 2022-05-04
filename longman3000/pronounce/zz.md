@@ -71,6 +71,7 @@ pronounce
 
 `ible`
 accessible
+visible
 
 `pid`
 rapid
@@ -94,6 +95,20 @@ practical
 `middle l`
 word - world
 wide - wild
+
+`iety`
+anxiety
+society
+variety
+
+`ia`
+`/aɪə/`
+
+via
+diagram
+diary
+giant
+trial
 
 ## 单词变音
 (在s/x后)
