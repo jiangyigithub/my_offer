@@ -128,15 +128,38 @@ Can you hang these in the wardrobe,please?
 
 ## 4
 **warm** 
+`/ɔː/`
+They gathered round the fire to warm their hands.
+
 **warn** 
+I warned you not to walk home alone.
+
 **waste** 
+We should never have gone - it was a total waste of time.
+
 **wave** 
-**weakness** 
+There was a wave of public protest.
+
+**weakness**
+The plan has strengths and weaknesses.
+
 **wear** 
+`/eə/`
+*where*
+He wore glasses for reading.
+
 **weather** 
+`/ˈwe/`
+What's the weather like today?
+
 **wedding** 
+She's busy planning her daughter's wedding.
+
 **weigh** 
+Do you know how much it weigh?
+
 **weight** 
+The average weight of a baby at birth is just over seven pounds?
 
 ## 5
 **weird** 
