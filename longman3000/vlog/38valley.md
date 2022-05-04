@@ -5,9 +5,11 @@
 The valley becomes narrower at this point.
 
 **valuable** 
+`/ˈvæ/`
 a job that gave him valuable experience
 
 **van** 
+`/æn/`
 *fan*
 a delivery van
 
@@ -47,6 +49,7 @@ All these people are innocent victims.
 The court’s decision represents a victory for all women.
 
 **village** 
+`/lɪdʒ/`
 a little fishing village
 
 **virtually** 
@@ -163,8 +166,22 @@ The average weight of a baby at birth is just over seven pounds?
 
 ## 5
 **weird** 
+`/wɪəd/`
+They sell all sorts of weird and wonderful products.
+
 **welfare** 
+`/feə/`
+*fair*
+Our only concern is the children's welfare.
+
 **west** 
+There are slight chance of some sunshine in the west.
+
 **western** 
+Western Philosophies
+
 **wet**
+Take an umbrella or you’ll get wet.
+
 **whatsoever** 
+He's had no luck whatsoever.
