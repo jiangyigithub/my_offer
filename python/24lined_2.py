@@ -3,8 +3,7 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
-from ds import ListNode
-import json
+from head import *
 
 class Solution:
     # [1,2,3,4,5]
