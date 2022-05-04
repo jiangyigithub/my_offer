@@ -86,15 +86,45 @@ Workers are being encouraged to take voluntary redundancy.
 
 ## 3
 **vulnerable** 
+`/ˈvʌl/`
+*Vulnerable Road User* 
+Children are most vulnerable to abuse within their own home.
+
 **wage** 
+*salary*
+He earns a good wage.
+
 **wake** 
+Try not to wake the baby.
+
 **walk** 
+`/ɔː/`
+*within (easy) walking distance*
+here are plenty of bars and restaurants within walking distance of the hotel.
+
 **wall** 
+`/ɔːl/`
+The estate is surrounded by high stone walls.
+
 **wander** 
+`/ˈwɒn/`
+I’ll wander around the mall for half an hour.
+
 **want** 
+You can order whatever you want.
+
 **war** 
+`/wɔː/`
+He served as a pilot during the war.
+
 **ward** 
+`/ɔːd/`
+*yard*
+a young nurse's first day on the wards
+
 **wardrobe** 
+`/drəʊb/`
+Can you hang these in the wardrobe,please?
 
 ## 4
 **warm** 
