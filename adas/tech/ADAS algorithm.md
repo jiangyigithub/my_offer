@@ -1,4 +1,6 @@
-## Perception fusion
+## Detect
+
+## Fusion
 
 - model based -IMM
 - state estimate-EKF
