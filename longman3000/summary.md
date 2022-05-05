@@ -418,6 +418,7 @@ stress - dress
 stream - dream
 surgery - soldier
 species - suspicious
+snap - nap
 
 try - trial
 temper - temple
