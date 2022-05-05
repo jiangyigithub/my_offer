@@ -98,3 +98,49 @@ iostream
 
 学习编程与学习English有很多类似之处，你的有些词汇量，但每个单词是不平等的，
 你的知道编程里的关键字和语法，但对于每种语法你掌握的并不一定一样。
+
+
+JAVA与C++
+
+语法：
+1. 指针与引用。C++ 类型，值，引用，左值，右值，指针
+2. 多重继承
+3. 自动内存管理，对象创建， jave用new,C++堆/栈 RAII
+4. 操作符重载
+5. 预处理 #
+6. 类型转换，C++存在隐式转换 RTTI
+7. 异常
+8. java 纯OO， 不支持全局函数，C++多编程范式
+9. 面向对象，C++ 用virtual ,JAVA默认都是virtual, 纯虚函数和接口
+10. callback回调的实现，lambada ,bind
+11. 字符串，java是定长的
+12. boolean C++非0
+
+生态：
+1. 平台移植
+C++ 平台差异 linux,window ，C++ 中内存大小可能不一样size of ，GCC,CLANG,VC++
+java jvm 跨平台
+
+2. 外部库
+C++库：C++ QT,STL,boost
+JAVA 库：数据库，网络，IO,并发,thread
+
+3. 工具链
+C++ vscode visual studio
+java IDEA
+
+网络 TCP/HTTP
+
+应用：
+`每个语言有自己的优势和生态，做什么应用觉得你使用哪些语言`
+操作系统 linux  --> linux
+Office --> 轮子哥
+编译器 LLVM --> 蓝色
+服务器后端 --> 陈硕
+游戏开发 -->
+web 后端--> java
+自动驾驶--> 浦东新村轱天乐https://www.zhihu.com/people/ma-rong-bo-38
+
+C++ primer
+https://www.zhihu.com/question/32087709/answer/1664944308
+
