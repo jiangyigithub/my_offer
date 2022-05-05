@@ -7,6 +7,6 @@ std::shared_pt
 std::move
 lambda
 
-## libaray
+## library
 Eigen
 openCV
