@@ -10,3 +10,5 @@ https://labuladong.gitbook.io/algo/
 - 视频：https://keepv.id/6/
 - 字幕：https://downsub.com/
 - auto AI subtitle: https://www.veed.io/tools/auto-subtitle-generator-online
+
+https://www.zhihu.com/question/19628851/answer/2018824998
