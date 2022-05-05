@@ -12,3 +12,6 @@ https://labuladong.gitbook.io/algo/
 - auto AI subtitle: https://www.veed.io/tools/auto-subtitle-generator-online
 
 https://www.zhihu.com/question/19628851/answer/2018824998
+
+作为计算机专业学生，最应该学习的课程前五位是什么？ - 编程指北的回答 - 知乎
+https://www.zhihu.com/question/19628851/answer/1860111811
