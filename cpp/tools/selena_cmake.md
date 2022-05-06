@@ -349,8 +349,12 @@ set(CORE_CGEN_DIR ${CMAKE_CGEN_DIR}/nogen/ros_nodes/selena/src)
 ## bosch 自定了哪些cmake command
 1. dc_create_component(ip_dc\dc_tools\cmake\utils\dc_dependencies.cmake)
 
-## package download and environment variable setting
-// https://download.qt.io/new_archive/qt/5.8/5.8.0/
-// https://sourceforge.net/projects/boost/files/boost-binaries/1.63.0/
-// export BOOST_ROOT="$BOOST_ROOT C:/TCC/Tools/boost/1.63.0_WIN64"
-// echo $BOOST_ROOT
+## package download 
+* [QT](https://download.qt.io/new_archive/qt/5.8/5.8.0/)
+* [BOOST](https://sourceforge.net/projects/boost/files/boost-binaries/1.63.0/)
+
+## 环境变量的设置 environment variable setting
+```bash
+export BOOST_ROOT="$BOOST_ROOT C:/TCC/Tools/boost/1.63.0_WIN64"
+echo $BOOST_ROOT
+```
