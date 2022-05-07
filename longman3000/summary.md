@@ -418,6 +418,7 @@ stress - dress
 stream - dream
 surgery - soldier
 species - suspicious
+store - distort
 snap - nap
 
 try - trial
