@@ -1,3 +1,5 @@
+## programming paradigm
+
 `object oriented programming`
 the idea of object oriented programming is to combine algorithm and data into a class which is a so-called object
 
