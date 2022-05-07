@@ -480,6 +480,8 @@ wipe - whisper
 wool - wood
 would - wood
 wrap - rap
+wheel - will
+weekend - wicked
 
 
 
