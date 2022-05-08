@@ -30,6 +30,7 @@ https://www.zhihu.com/question/19628851/answer/2018824998
 
 component的组成为:
 上层应用(业务知识 + 数据结构与算法+一门计算机语言+业务所需要的toolchain)
+
 编译器
 操作系统
 计算机体系结构(CPU/IO/ROM/RAM)

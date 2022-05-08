@@ -2,13 +2,15 @@ from head import *
 from typing import List
 from json import *
 import collections
-#        3
-#      /   \
-#     5     1
-#    / \   /  \
-#   6   2 0    8
+
+# line = "[6,2,8,0,4,7,9,null,null,3,5]"
+#        6
+#      /    \
+#     2      8
+#    / \    /  \
+#   0   4  7    9
 #      / \
-#     7   4
+#     3   5
 
 
 class Solution:
@@ -17,11 +19,13 @@ class Solution:
     # 1
     # root 3-->5-->6-->5-->2-->7-->2-->4-->2-->5-->3
     def lowestCommonAncestor(self, root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
-        if not root or root == p or root == q:
-            return root
-        l = self.lowestCommonAncestor(root.left,  p, q)
-        r = self.lowestCommonAncestor(root.right,  p, q)
-        return root if l and r else l or r
+        while root:
+            if root.val<p.val and root.val<q.val:
+                root=root.right
+            elif root.val>p.val and root.val>q.val:
+                root=root.left
+            else:break
+        return root
 
 
 def stringToTreeNode(input):
@@ -99,12 +103,12 @@ def levelOrder(root: TreeNode) -> List[List[int]]:
 def main():
     import sys
     import io
-    line = "[3,5,1,6,2,0,8,null,null,7,4]"
+    line = "[6,2,8,0,4,7,9,null,null,3,5]"
     root = stringToTreeNode(line)
     treeStr = levelOrder(root)
     print(treeStr)
-    p = TreeNode(5)
-    q = TreeNode(1)
+    p = TreeNode(3)
+    q = TreeNode(5)
     ret = Solution().lowestCommonAncestor(root, p, q)
     out = treeNodeToString(ret)
     print(out)
