@@ -19,3 +19,10 @@ He studied architecture at university.
 
 **attorney**
 a lawyer
+
+**chemist**
+`/ˈke/`
+
+**clerk**
+`/klɜːr/`
+a clerk in a commercial firm

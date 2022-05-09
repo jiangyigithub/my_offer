@@ -81,8 +81,7 @@ Owen played a central role in the negotiations.
 It’s not exactly a cultural center like Paris.
 
 ## 3
-**century**
-The church was built in the 13th century.
+
 
 **cereal**
 a bowl of breakfast cereal
@@ -151,8 +150,7 @@ Top graduates from the university are chased by major companies.
 `/tʃiː/`
 Billy had rosy cheeks and blue eyes.
 
-**chemist**
-`/ˈke/`
+
 
 ## 5
 **chemistry**
