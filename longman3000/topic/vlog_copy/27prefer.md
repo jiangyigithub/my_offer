@@ -23,9 +23,7 @@ Plans for the new school are now in preparation.
 `/prɪ/`
 we must encourage the planting of new trees and preserve our existing woodlands.
 
-**president** 
-`/ˈpre/`
-the president of France
+
 
 **press** 
 `/pre/`

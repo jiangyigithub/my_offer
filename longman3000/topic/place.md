@@ -31,3 +31,9 @@ a little fishing village
 **cottage**
 *college*
 We're staying in a holiday cottage.
+
+**restaurant** 
+The company runs a chain of restaurants.
+
+**beach**
+a sandy beach

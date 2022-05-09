@@ -16,3 +16,18 @@ These bras are specially designed for women with  large breasts.
 
 **brain**
 Messages from the brain are carried by the central nervous system.
+
+**shoulder** 
+`/əʊ/`
+His shoulders were broad and powerful.
+
+**heart** 
+`/hɑː/`
+Regular exercise is good for heart.
+
+**beard**
+`/ɪə/`
+beard means hair that grow around a man's chin and cheeks.
+
+**muscle** 
+Relax your stomach muscles, then stretch again.

@@ -27,3 +27,15 @@ She's now assistant marketing manager for south east area.
 **infant** 
 `/ˈɪnfən/`
 An infant's skin is very senstive.
+
+**audience**
+The audience began clapping and cheering.
+
+**bother**
+Many young people didn't bother voting.
+
+**mum** 
+ = mom
+
+**mummy** 
+ = mommy

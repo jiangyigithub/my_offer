@@ -1,4 +1,11 @@
 ## thing
+**battery**
+when the red light comes on, we should recharge the battery.
+
+**ladder** 
+`/ˈlæ/`
+She climbed up the ladder.
+
 **refrigerator** 
 *fridge/freezer*
 
@@ -35,6 +42,11 @@ She hammered a nail into the wall.
 He was called on the carpet by his boss to explain his excessive spending.
 
 ## food
+**steak** 
+`/steɪ/`
+*stake*
+good quality beef
+
 **pizza** 
 a slice of pizza
 

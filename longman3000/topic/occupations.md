@@ -5,11 +5,11 @@ Please state your name, address and occupation.
 **writer** 
 She’s one of my favourite writers.
 
-- **write** 
-  He wrote some very famous books
+**write** 
+He wrote some very famous books
 
-- **writing** 
-  Some of his most powerful writing is based on his childhood experiences.
+**writing** 
+Some of his most powerful writing is based on his childhood experiences.
 
 **actor**
 She has starred with many leading actors.
@@ -41,6 +41,14 @@ a financial adviser
 `/ˈæn/`
 Cleary has been working as a computer analyst in XXX.
 
+**analyse**
+`/æn/`
+She still needs to analyse the data.
+
+**analysis**
+`/əˈn/`
+They were doing some type of statistical analysis.
+
 **captain**
 `/ˈkæ/`
 The captain and crew welcome you aboard.
@@ -66,3 +74,18 @@ The whole house could do with a fresh coat of paint.
 
 **painting** 
 Can you help me hang this painting?
+
+**scientist** 
+someone who works or is trained in science
+
+**science** 
+`/ˈsaɪ/`
+
+**scientific** 
+The essence of science,however, is the scientific method—the dispassionate development and testing of theories about how the world works.
+
+**lawyer** 
+someone whose job is to advise people about laws, write formal agreements, or represent people in court
+
+**law** 
+This is illegal under English law.

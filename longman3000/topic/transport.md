@@ -7,6 +7,9 @@ A higher gasoline tax also encourages people to carpool, take public transportat
 **bike**
 They'll be coming by bike.
 
+**ambulance**
+Do you think we need to call an ambulance.
+
 **boat**
 `/əʊ/`
 some of the beaches can only be reached by boat.
@@ -30,8 +33,19 @@ The car slid sideways, it rears wheels spinning.
 `/ə/`
 I had a flat tyre (=all the air went out of it) on the way home.
 
+**motor** 
+an electric motor
+
+**rail** 
+*by train*
+I need to buy a rail ticket.
+
+We continued our journey by rail.
 
 ## Road
+**motorway** 
+He was driving along the motorway at a steady sixty miles an hour.
+
 **bridge**
 a scheme to build bridges between the police and community
 
@@ -45,3 +59,8 @@ the station entrance
 
 **entry** 
 Entry to the gardens is included in the price of admission.
+
+## events
+**accident**
+`/ˈæk/` 
+Over 70,000 people are seriously injured every year in road accidents.

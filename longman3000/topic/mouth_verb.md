@@ -10,3 +10,7 @@ Tony was laughing so hard he had to steady himself on the table.
 
 **swear** 
 Don’t swear in front of the children.
+
+**blow**
+`/əʊ/`
+A cold breeze was blowing hard.
