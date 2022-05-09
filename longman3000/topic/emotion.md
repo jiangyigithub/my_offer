@@ -11,3 +11,7 @@ the shocking news that Mark had hanged himself
 
 **afraid**
 the government was afraid of a public outcry.
+
+**awful**
+`/ˈɔː/`
+The last six mouths have been awful for her.

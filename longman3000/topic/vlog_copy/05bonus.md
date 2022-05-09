@@ -89,8 +89,7 @@ His first brush with law came when he was 16.
 **buck**
 He owns me ten bucks.
 
-**buddy**
-Hey,buddy! this your car.
+
 
 **bump**
 `/ʌm/`

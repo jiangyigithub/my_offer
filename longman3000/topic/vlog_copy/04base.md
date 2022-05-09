@@ -111,14 +111,7 @@ May God bless you.
 `/ɒ/`
 a block of ice
 
-**bloke**
-`/əʊ/`
-guy-bloke
-He's a nice bloke.
 
-**blonde**
-`/ɒn/`
-a beautiful blonde
 
 **blood**
 `/ʌ/`

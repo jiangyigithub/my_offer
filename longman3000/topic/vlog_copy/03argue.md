@@ -106,9 +106,7 @@ As you are aware, a fee will be charged annually.
 **awareness**
 an artist's awareness of light and color
 
-**awful**
-`/ˈɔː/`
-The last six mouths have been awful for her.
+
 
 **awkward**
 A laugh can help people over an awkward situation.
