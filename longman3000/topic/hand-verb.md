@@ -17,3 +17,9 @@ Someone’s coming tomorrow to tune the piano.
 **attach**
 `/əˈtæ/`
 Attach your recent photograph to your application form.
+
+**wipe** 
+Bill wiped his eyes (=wiped the tears from his face) and apologized.
+
+**click**
+Choose the image you want by clicking twice.

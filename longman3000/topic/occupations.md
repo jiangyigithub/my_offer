@@ -16,3 +16,6 @@ Tinoco is one of the architects of the government 's economic reforms.
 
 **architecture**
 He studied architecture at university.
+
+**attorney**
+a lawyer
