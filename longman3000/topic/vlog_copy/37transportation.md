@@ -43,9 +43,7 @@ the troop commander
 *trouble is a friend*
 We’re having a lot of trouble with the new computer system.
 
-**trousers** 
-`/ˈtraʊ/`
-His trousers were slightly too short.
+
 
 **truly** 
 Like a biology teacher’s plastic model, economic models omit many details to allow us to see what is truly important.

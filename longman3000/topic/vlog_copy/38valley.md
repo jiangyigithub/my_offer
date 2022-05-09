@@ -40,8 +40,7 @@ someone who is trained to give medical care and treatment to sick animals
 *diary*
 You can access our homepage via the Internet.
 
-**victim** 
-All these people are innocent victims.
+
 
 ## 2
 **victory** 

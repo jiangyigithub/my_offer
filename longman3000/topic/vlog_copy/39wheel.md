@@ -10,8 +10,7 @@ While there was no conclusive evidence, most people thought he was guilty.
 
 
 
-**whisper** 
-You don’t have to whisper, no one can hear us.
+
 
 
 
@@ -56,11 +55,9 @@ It’s too windy for a picnic.
 **wing** 
 a butterfly with beautiful markings on its wings
 
-**winter** 
-It usually snows here in the winter.
 
-**wipe** 
-Bill wiped his eyes (=wiped the tears from his face) and apologized.
+
+
 
 ## 3
 **wire** 

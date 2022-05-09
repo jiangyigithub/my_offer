@@ -25,8 +25,7 @@ a clerk in a commercial firm
 **clever**
 He was clever at finding bargains.
 
-**click**
-Choose the image you want by clicking twice.
+
 
 **client**
 `/aɪ/`

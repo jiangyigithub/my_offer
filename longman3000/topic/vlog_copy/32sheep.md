@@ -15,16 +15,7 @@ They are in need of food and shelter.
 
 For example, one proposal is to expand eligibility for special accounts, such as Individual Retirement Accounts, that allow people to shelter some of their saving from taxation.
 
-**shock** 
-It was a real shock to hear that the factory would have to close.
 
-**shocked** 
-*surprised*
-He is shocked at what happened to his son.
-
-**shocking** 
-*surprising*
-the shocking news that Mark had hanged himself
 
 **shoe** 
 I sat down and took off my shoes and socks.

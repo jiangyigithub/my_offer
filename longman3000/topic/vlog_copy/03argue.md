@@ -61,8 +61,7 @@ She passed her driving test at the first attempt.
 **attention**
 If you paid more attention in class, you might actually learn something.
 
-**attorney**
-a lawyer
+
 
 **audience**
 The audience began clapping and cheering.
@@ -84,8 +83,7 @@ My camera is fully automatic.
 **automatically**
 the door open automatically as we approached.
 
-**autumn**
-autumn mists
+
 
 **average**
 `/ˈæ/`
