@@ -1,3 +1,4 @@
+## by hand directly
 **wrap** 
 *wrapper*
 The present was beautifully wrapped in gold paper.
@@ -23,3 +24,18 @@ Bill wiped his eyes (=wiped the tears from his face) and apologized.
 
 **click**
 Choose the image you want by clicking twice.
+
+**swing** 
+Let your arms swing as you walk.
+
+**dump** 
+Ellie dumped all the photos of her ex-husband.
+
+## by tools
+**punch** 
+`/pʌn/`
+The guard punched my ticket and I got on.
+
+**bake**
+I'm baking some bread.
+

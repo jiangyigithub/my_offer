@@ -16,11 +16,14 @@ the film is rated R for language and adult themes.
 **aunt**
 aunt - uncle
 
-**author**
-`/ˈɔː/`
-He was the author of two books on China.
-
 **colleague**
 `/ˈkɒ/`
 catalogue
 She discussed the idea with some of her colleagues.
+
+**manager** 
+She's now assistant marketing manager for south east area.
+
+**infant** 
+`/ˈɪnfən/`
+An infant's skin is very senstive.
