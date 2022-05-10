@@ -23,3 +23,16 @@ a return to democracy after 16 years of military rule
 **democratic**
 `/ˌdemə/` `/ˈkræ/`
 a democratic government
+
+**clue**
+`/uː/`
+This information is a valuable clue in out hunt for the bombers.
+
+**court**
+`/ɔː/`
+*coat*
+The court case lasted six weeks.
+
+**criminal**
+`/ˈkrɪ/`
+Experts cannot agree on the causes of cirminal behaviour.

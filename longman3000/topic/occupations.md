@@ -116,9 +116,16 @@ I'm going to dentist this afternoon.
 **dealer**
 a dealer in modern art
 
+**career**
+`/kə/`
+He realized thant his acting career was over.
 
+**client**
+`/aɪ/`
+a meeting with an important client
 
-
+**consumer**
+Consumer demand led to higher imports of manufactured goods.
 
 
 

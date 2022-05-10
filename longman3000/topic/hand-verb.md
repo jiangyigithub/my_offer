@@ -38,9 +38,19 @@ Tie this label to your suitcase.
 `/e/`
 Electric cables are buried beneath the streets.
 
+**beat**
+rain beating oon the windows
 
+**carry**
+Gina was carrying a small bunch of flowers.
 
+**chuck**
+`/tʃʌ/`
+throw
+I think I might have chucked it by mistake.
 
+**climb**
+The divorce rate had climbed to almost 30% of all marriages.
 
 ## by tools
 **punch** 
@@ -49,6 +59,13 @@ The guard punched my ticket and I got on.
 
 **bake**
 I'm baking some bread.
+
+**brush**
+His first brush with law came when he was 16.
+
+**chop**
+`/ɒ/`
+Can you chop up some carrots for me?
 
 
 

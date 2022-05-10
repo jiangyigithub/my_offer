@@ -38,3 +38,11 @@ Sugar is bad for your teeth.
 **deaf**
 `/e/`
 She was deaf to his pleas.
+
+**cheek**
+`/tʃiː/`
+Billy had rosy cheeks and blue eyes.
+
+**chest**
+breast
+He collapsed with servere chest pains.
