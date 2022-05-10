@@ -1,5 +1,13 @@
 # BOSCH车端软件工作总结
-## tasks:
+## summary
+1. 路侧信号前处理,时间同步
+2. 融合策略，路侧感知融合，建立统一的环境模型，拓展FOV
+3. 行为behaviror pediction(概率图模型) 
+4. behavior evaluation metric
+5. 车内软件架构, 系统架构，OBU通信 filter，路侧传感器拓扑
+6. 算法软件部署，schedule, run time analysis,bus load,RAM resource
+   
+## tasks
 - RSP
     - time sync
         - autosar master/salve
@@ -53,7 +61,7 @@
     - software module decouple
 
 
-## hard skills:
+## hard skills
 - C++
   - OO
   - STL
@@ -66,7 +74,7 @@
 - AI
 
 
-## soft skills:
+## soft skills
 - communication
 - English
   - longman 3000
