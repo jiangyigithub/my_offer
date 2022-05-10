@@ -1,18 +1,10 @@
 ## 1
-
-
 **whereas** 
 `/eə/` `/ˈæz/`
 The old system was fairly complicated whereas the new system is really very simple.
 
 **while** 
 While there was no conclusive evidence, most people thought he was guilty.
-
-
-
-
-
-
 
 **whose** 
 `/huːz/`
@@ -44,20 +36,8 @@ A meeting will be held next Tuesday at 3 p.m.
 **willing** 
 How much are they willing to pay?
 
-**wind** 
-Planes were unable to take off because of high winds.
-
-**windy** 
-It’s too windy for a picnic.
-
-
-
 **wing** 
 a butterfly with beautiful markings on its wings
-
-
-
-
 
 ## 3
 **wire** 
@@ -65,10 +45,6 @@ a telephone wire
 
 **wise** 
 It’s wise to check whether the flight times have changed before you leave for the airport.
-
-
-
-
 
 **word** 
 `/ɜː/`

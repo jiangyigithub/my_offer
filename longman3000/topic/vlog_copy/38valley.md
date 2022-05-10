@@ -1,17 +1,7 @@
 ## 1
-**valley** 
-*village*
-`/ˈvæ/` `/li/`
-The valley becomes narrower at this point.
-
 **valuable** 
 `/ˈvæ/`
 a job that gave him valuable experience
-
-**van** 
-`/æn/`
-*fan*
-a delivery van
 
 **variation** 
 *vary*
@@ -27,29 +17,15 @@ I really like the variety the store has to offer.
 *curious*
 There are various ways to answer your question.
 
-**vegetable** 
-*telephone*
-fresh fruit and vegetables
-
-**vet** 
-*wet*
-someone who is trained to give medical care and treatment to sick animals
-
 **via**
 `/aɪə/`
 *diary*
 You can access our homepage via the Internet.
 
-
-
 ## 2
 **victory** 
 *defeat*
 The court’s decision represents a victory for all women.
-
-**village** 
-`/lɪdʒ/`
-a little fishing village
 
 **virtually** 
 `/ɜː/`
@@ -57,6 +33,7 @@ Virtually all the children come to school by bus.
 
 **virtue** 
 `/tʃuː/`
+*advantage*
 Adam Smith believed in the virtues of free trade.
 
 **virus** 
@@ -92,14 +69,8 @@ Workers are being encouraged to take voluntary redundancy.
 *Vulnerable Road User* 
 Children are most vulnerable to abuse within their own home.
 
-**wage** 
-*salary*
-He earns a good wage.
-
 **wake** 
 Try not to wake the baby.
-
-
 
 **wall** 
 `/ɔːl/`
@@ -121,10 +92,6 @@ He served as a pilot during the war.
 *yard*
 a young nurse's first day on the wards
 
-**wardrobe** 
-`/drəʊb/`
-Can you hang these in the wardrobe,please?
-
 ## 4
 **warm** 
 `/ɔː/`
@@ -141,12 +108,6 @@ There was a wave of public protest.
 
 **weakness**
 The plan has strengths and weaknesses.
-
-
-
-**weather** 
-`/ˈwe/`
-What's the weather like today?
 
 **wedding** 
 She's busy planning her daughter's wedding.

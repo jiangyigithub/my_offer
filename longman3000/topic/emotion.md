@@ -19,7 +19,6 @@ There is considerable anxiety among the stall about job losses.
 `/ˈæŋkʃ/`
 He was a bit anxious about the safety of the machinery.
 
-
 **embarrassed** 
 Lori gets embarrassed if we ask her to sing.
 

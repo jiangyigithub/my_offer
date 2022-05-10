@@ -29,3 +29,13 @@ The decision to increase interest rates was widely blamed for the crisis.
 
 **aware**
 As you are aware, a fee will be charged annually.
+
+**admire**
+I really admire the way she brings up those kids all on her own.
+
+**agree**
+if she felt he was right.she would agree with him.
+
+**annoy**
+`/əˈn/`
+It really annoys me when I see people dropping litter.

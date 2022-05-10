@@ -1,9 +1,6 @@
 dark l -->`/l/`
 
 ## 1
-**boom**
-`/uː/`
-The economy went from boom to bust very quickly.
 
 **border**
 `/ɔː/`
@@ -43,26 +40,14 @@ When you are dealing with so many patients, mistakes are bound to happen.
 **bowl**
 Beat the butter in a mixing bowl until creamy and soft.
 
-**brain**
-Messages from the brain are carried by the central nervous system.
-
 **brave**
 Despite their captain's brave performance,Arsenal lost 2-1.
 
 **bread**
 Writing is my bread and butter.
 
-**breast**
-These bras are specially designed for women with  large breasts.
-
-**breathe**
-Relax and breathe deeply.
-
 **brick**
 Protesters attacked police with stones and bricks.
-
-**bridge**
-a scheme to build bridges between the police and community
 
 ## 3
 **bright**
@@ -86,8 +71,7 @@ He'd been on vacation and looked very brown.
 **brush**
 His first brush with law came when he was 16.
 
-**buck**
-He owns me ten bucks.
+
 
 
 

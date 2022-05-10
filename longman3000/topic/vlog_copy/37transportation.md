@@ -56,9 +56,7 @@ a round pipe made of metal, glass, rubber etc
 
 
 
-**tunnel** 
-`/ˈtʌ/`
-a road tunnel through the mountains
+
 
 **twice** 
 `/twaɪ/`

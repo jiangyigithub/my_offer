@@ -89,3 +89,28 @@ someone whose job is to advise people about laws, write formal agreements, or re
 
 **law** 
 This is illegal under English law.
+
+**coach**
+a tennis coach
+
+**soldier** 
+`/dʒə/`
+an enemy soldier
+
+**solicitor** 
+`/sə/` `/ˈlɪ/`
+You need to see a solicitor.
+
+**colleague**
+`/ˈkɒ/`
+catalogue
+She discussed the idea with some of her colleagues.
+
+**assistant**
+a clerical assistant.
+
+**manager** 
+She's now assistant marketing manager for south east area.
+
+**audience**
+The audience began clapping and cheering.

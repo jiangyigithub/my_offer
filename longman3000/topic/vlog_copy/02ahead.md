@@ -2,15 +2,6 @@
 **ahead**
 There were four people ahead of me at the doctor's.
 
-**alarm**
-`/ɑː/`
-I was still asleep when the alarm went off.
-
-**album**
-The band plan to release their new album next week.
-
-
-
 **allow**
 `/aʊ/`
 Are dictionaries allowed in the exam?
@@ -29,9 +20,6 @@ No, this is my responsibility,although I appreciate your offer.
 `/æm/`
 She had always had an ambition to be a pilot.
 
-**ambulance**
-Do you think we need to call an ambulance.
-
 **among**
 `/əˈmʌŋ/`
 The girl quickly disappeared among the crowd.
@@ -41,45 +29,17 @@ The girl quickly disappeared among the crowd.
 `/əˈmaʊn/`
 Her case has attracted an enormous amount of public sympathy.
 
-**analyse**
-`/æn/`
-She still needs to analyse the data.
-
-**analysis**
-`/əˈn/`
-They were doing some type of statistical analysis.
-
-**analyst**
-`/ˈæn/`
-Cleary has been working as a computer analyst in XXX.
-
 **ancient** 
 `/eɪn/`
 That phote makes me look ancient.
-
-**annoy**
-`/əˈn/`
-It really annoys me when I see people dropping litter.
 
 **annual**
 `/æn/`
 The school trip has become an annual event.
 
-
-
-**apology**
-The minister had to issue a formal public apology for his remarks.
-
 ## 3
 **apparently**
 She turned to face him, her anger apparently gone.
-
-**appeal**
-*appeal for*
-The police have issued a new appeal for information.
-
-**appoint**
-The committee was appointed to consider the plans.
 
 **appointment**
 I 'd like to make a appointment to see the doctor.
@@ -89,8 +49,6 @@ It would not appropriate for me to discuss that now.
 
 **approximate**
 What 's the approximate number of students in each class.
-
-
 
 **area**
 `/ˈe/`

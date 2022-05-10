@@ -43,6 +43,10 @@ I need to buy a rail ticket.
 We continued our journey by rail.
 
 ## Road
+**tunnel** 
+`/ˈtʌ/`
+a road tunnel through the mountains
+
 **motorway** 
 He was driving along the motorway at a steady sixty miles an hour.
 

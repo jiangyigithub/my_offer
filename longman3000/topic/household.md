@@ -1,4 +1,8 @@
 ## thing
+**bell**
+`/e/`
+The bell went and everyone rushed out of the classroom.
+
 **battery**
 when the red light comes on, we should recharge the battery.
 
@@ -40,6 +44,10 @@ She hammered a nail into the wall.
 `/ɑː/`
 `be/get called on the carpet` --> `to be criticized by someone in authority because you have done something wrong`
 He was called on the carpet by his boss to explain his excessive spending.
+
+**wardrobe** 
+`/drəʊb/`
+Can you hang these in the wardrobe,please?
 
 ## food
 **steak** 
@@ -107,3 +115,13 @@ His trousers were slightly too short.
 **cotton**
 `/ˈkɒ/`
 Made from 100% cotton.
+
+**coat**
+I need a new winter coat.
+
+**collar**
+`/ˈkɒ/`
+He loosened his collar and tie.
+
+**belt**
+The comments hit below the belt.

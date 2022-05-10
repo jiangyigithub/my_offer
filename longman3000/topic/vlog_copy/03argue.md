@@ -10,8 +10,6 @@ Both my sons are in the army.
 `/ə/`
 Contact your local branch to arrange an appointment.
 
-
-
 **arrival**
 Traffic problems account for one third of late arrivals.
 
@@ -41,16 +39,11 @@ Many of adults were assessed as having learning difficulties.
 **assessment**
 a reading assessment test
 
-**assistant**
-a clerical assistant.
-
 **assumption**
 My calculations were based on the assumption that house price remain steady.
 
 **assure**
 The dealer had assured me of its quality.
-
-
 
 **attack**
 There have been several attacks on foreigners recently.
@@ -61,19 +54,6 @@ She passed her driving test at the first attempt.
 **attention**
 If you paid more attention in class, you might actually learn something.
 
-
-
-**audience**
-The audience began clapping and cheering.
-
-## 3
-**aunt**
-aunt - uncle
-
-**author**
-`/ˈɔː/`
-He was the author of two books on China.
-
 **authority**
 Only the president has the authority to declare war.
 
@@ -82,8 +62,6 @@ My camera is fully automatic.
 
 **automatically**
 the door open automatically as we approached.
-
-
 
 **average**
 `/ˈæ/`
@@ -100,25 +78,12 @@ I hope he's awake now.
 The movie has won a number of awards.
 
 ## 4
-**aware**
-As you are aware, a fee will be charged annually.
 
 **awareness**
 an artist's awareness of light and color
 
-
-
-**awkward**
-A laugh can help people over an awkward situation.
-
 **badly**
 The company has been very badly managed.
-
-**bake**
-I'm baking some bread.
-
-**ball**
-Do you want to go out and play ball?
 
 **barrier**
 Problems with childcare remain the biggest barrier to women succeeding at work.
