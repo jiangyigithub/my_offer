@@ -50,3 +50,6 @@ The last six mouths have been awful for her.
 `/skeə/`
 *afraid*
 I’ve always been scared of dogs.
+
+**curious**
+He was curious about how she would react.

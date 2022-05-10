@@ -1,4 +1,10 @@
 ## thing
+**curtain**
+Ella drew the curtains and swithed the light on.
+
+**cushion**
+Savings can act as a cushion against unemployment.
+
 **bell**
 `/e/`
 The bell went and everyone rushed out of the classroom.

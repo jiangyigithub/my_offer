@@ -34,3 +34,7 @@ Relax your stomach muscles, then stretch again.
 
 **tooth** 
 Sugar is bad for your teeth.
+
+**deaf**
+`/e/`
+She was deaf to his pleas.

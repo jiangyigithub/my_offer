@@ -41,3 +41,6 @@ A deposit of 10% is required.
 `/e/`
 *technical debt*
 Nearly half the students said they were in debt.
+
+**currency**
+The bank can supply you with foreign currency.

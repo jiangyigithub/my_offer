@@ -34,3 +34,6 @@ Many young people didn't bother voting.
 
 **uncle**  
 I went to stay with my uncle and aunt for a few days.
+
+**dad**
+She lives with her mon and dad.
