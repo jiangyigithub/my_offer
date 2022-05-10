@@ -31,3 +31,6 @@ beard means hair that grow around a man's chin and cheeks.
 
 **muscle** 
 Relax your stomach muscles, then stretch again.
+
+**tooth** 
+Sugar is bad for your teeth.

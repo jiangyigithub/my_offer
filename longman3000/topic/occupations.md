@@ -101,16 +101,54 @@ an enemy soldier
 `/sə/` `/ˈlɪ/`
 You need to see a solicitor.
 
+**assistant**
+a clerical assistant.
+
+**designer**
+an interior designer
+
+**design**
+The new plane is in its final design stage.
+
+**dentist**
+I'm going to dentist this afternoon.
+
+**dealer**
+a dealer in modern art
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## relationship
 **colleague**
 `/ˈkɒ/`
 catalogue
 She discussed the idea with some of her colleagues.
-
-**assistant**
-a clerical assistant.
 
 **manager** 
 She's now assistant marketing manager for south east area.
 
 **audience**
 The audience began clapping and cheering.
+
+**boss**
+Since I'm my own boss,my hours are flexible.
+
+**candidate**
+Candidates are not allowed to use calculator in this exam.
+

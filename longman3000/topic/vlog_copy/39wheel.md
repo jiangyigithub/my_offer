@@ -62,21 +62,10 @@ She said she wouldn’t be coming to the library anymore.
 **wound** 
 It took several months for his wounds to heal.
 
-
-
-
-
 ## 4
-
-
 **yeah** 
 `/eə/`
 *yes*
-
-
-
-**youngster** 
-*a child or young person*
 
 **yours** 
 This is our room, and yours is just across the hall.

@@ -37,3 +37,6 @@ The company runs a chain of restaurants.
 
 **beach**
 a sandy beach
+
+**tower** 
+a castle with tall towers

@@ -1,13 +1,4 @@
 ## 1
-
-
-**trash** 
-`/træ/`
-Will someone take out the trash.
-
-**tray** 
-The waiter brought drinks on a tray.
-
 **treat** 
 Any complaint about safety standards must be treated very seriously.
 
@@ -43,8 +34,6 @@ the troop commander
 *trouble is a friend*
 We’re having a lot of trouble with the new computer system.
 
-
-
 **truly** 
 Like a biology teacher’s plastic model, economic models omit many details to allow us to see what is truly important.
 
@@ -54,10 +43,6 @@ There is no truth in the rumour.
 **tube** 
 a round pipe made of metal, glass, rubber etc
 
-
-
-
-
 **twice** 
 `/twaɪ/`
 They employ 90 people, twice as many as last year.
@@ -65,10 +50,6 @@ They employ 90 people, twice as many as last year.
 **twist** 
 `/twɪ/`
 He twisted his head slightly, and looked up at her.
-
-**tyre** 
-`/ə/`
-I had a flat tyre (=all the air went out of it) on the way home.
 
 ## 3
 **ugly** 
@@ -86,9 +67,6 @@ Ultimately, there’s no free lunch; instead of paying with money, you pay with 
 
 **unbelievable** 
 It was unbelievable that we were expected to pay twice.
-
-**uncle**  
-I went to stay with my uncle and aunt for a few days.
 
 **underneath** 
 She seems confident, but she’s really quite shy underneath.
@@ -149,9 +127,6 @@ We are completely dependent upon your help.
 
 **upset** 
 She was deeply upset about the way her father treated her.
-
-**urban** 
-the deprived sections of the urban population
 
 **urge** 
 I have urged upon him the need for extreme secrecy.

@@ -42,6 +42,9 @@ I need to buy a rail ticket.
 
 We continued our journey by rail.
 
+**trailer** 
+a vehicle that can be pulled behind another vehicle, used for carrying something
+
 ## Road
 **tunnel** 
 `/ˈtʌ/`
@@ -68,3 +71,9 @@ Entry to the gardens is included in the price of admission.
 **accident**
 `/ˈæk/` 
 Over 70,000 people are seriously injured every year in road accidents.
+
+##
+**transport** 
+Improved rail transport is essential for business.
+
+trucks used for transporting oil

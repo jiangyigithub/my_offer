@@ -49,7 +49,20 @@ He was called on the carpet by his boss to explain his excessive spending.
 `/drəʊb/`
 Can you hang these in the wardrobe,please?
 
+**towel** 
+Have you got a clean towel I could use?
+
+**toy** 
+some toys for the baby
+
 ## food
+**diet**
+`/daɪ/`
+She doesn't eat very healthy diet.
+
+**cookie**
+a glass of milk and a cookie
+
 **steak** 
 `/steɪ/`
 *stake*

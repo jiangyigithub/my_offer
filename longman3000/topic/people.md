@@ -28,3 +28,9 @@ Many young people didn't bother voting.
 
 **mummy** 
  = mommy
+
+**youngster** 
+*a child or young person*
+
+**uncle**  
+I went to stay with my uncle and aunt for a few days.

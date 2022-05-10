@@ -31,6 +31,17 @@ Let your arms swing as you walk.
 **dump** 
 Ellie dumped all the photos of her ex-husband.
 
+**tie** 
+Tie this label to your suitcase.
+
+**bury**
+`/e/`
+Electric cables are buried beneath the streets.
+
+
+
+
+
 ## by tools
 **punch** 
 `/pʌn/`
@@ -38,4 +49,7 @@ The guard punched my ticket and I got on.
 
 **bake**
 I'm baking some bread.
+
+
+
 

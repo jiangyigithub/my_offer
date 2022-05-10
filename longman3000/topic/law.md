@@ -15,3 +15,11 @@ The professor stands accused of stealing his student's ideas and publishing them
 *count*
 `/ˈkaʊn/` `/səl/`
 He sent a letter to the council to complain about the noise.
+
+**democracy**
+`/di/` `/ˈmɒ/` `/krə/`
+a return to democracy after 16 years of military rule
+
+**democratic**
+`/ˌdemə/` `/ˈkræ/`
+a democratic government

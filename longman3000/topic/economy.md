@@ -30,3 +30,14 @@ Industrial production has risen by 0.5% since November.
 
 **industry** 
 This type of software is widely used in industry.
+
+**borrow**
+you are allowed to borrow six books from the library at a time.
+
+**deposit**
+A deposit of 10% is required.
+
+**debt**
+`/e/`
+*technical debt*
+Nearly half the students said they were in debt.
