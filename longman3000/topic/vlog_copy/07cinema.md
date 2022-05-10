@@ -58,8 +58,7 @@ Our chess club really need more members.
 `/uː/`
 This information is a valuable clue in out hunt for the bombers.
 
-**coach**
-a tennis coach
+
 
 **coal**
 `/əʊ/`
@@ -68,8 +67,7 @@ Put some coal on the fire.
 **coast**
 I used to live in a small village on the coast.
 
-**coat**
-I need a new winter coat.
+
 
 **code**
 Each state in US. has different criminal and civil code.
@@ -82,15 +80,10 @@ Do you like your coffee white and black.
 `/kə/`
 The roof had collapsed long ago.
 
-**collar**
-`/ˈkɒ/`
-He loosened his collar and tie.
+
 
 ## 3
-**colleague**
-`/ˈkɒ/`
-catalogue
-She discussed the idea with some of her colleagues.
+
 
 **collect**
 `/kə/`
