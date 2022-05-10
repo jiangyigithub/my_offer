@@ -57,7 +57,7 @@
     - mdf-exporter
     - lauterbash
 - De-couple in-vehicle software for business
-    - experience for arch
+    - experience benefit for future arch
     - software module decouple
 
 

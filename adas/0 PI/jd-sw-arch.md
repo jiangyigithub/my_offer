@@ -12,23 +12,23 @@ Job Description
 
 Location can be Suzhou Or Shanghai.
 
-    Design decision making for overall L2-L4 autonomous driving system application software, to achieve desired highway and urban driving assistant function up to partially autonomous driving function
-    Ensure the SW design according to modularity, extendibility and iterative development
-    Define software component, interface of the software component, measurement and KPI of the software component
-    Lead and guide component software architect in video perception, fusion, behavior planning, vehicle motion control, localization to decide and maintain component software architecture
-    Cooperate with system architect and hardware architect to ensure overall automated driving system performance
+    1. Design decision making for overall L2-L4 autonomous driving system application software, to achieve desired highway and urban driving assistant function up to partially autonomous driving function
+    2. Ensure the SW design according to modularity, extendibility and iterative development
+    3. Define software component, interface of the software component, measurement and KPI of the software component
+    4. Lead and guide component software architect in video perception, fusion, behavior planning, vehicle motion control, localization to decide and maintain component software architecture
+    5. Cooperate with system architect and hardware architect to ensure overall automated driving system performance
 
 Qualifications
 
-    More than 5 years’ experience in ADAS development, preferably in OEM or Startup / ICT company leading corresponding SW design.
-    Experience in SOA (service oriented architecture)
-    Experience in Driving Assist or Automated Driving software and algorithm (Perception, planning, fusion and motion control
-    Knowledge in vehicle E/E architecture
-    Good knowledge in POSIX OS (Linux, QNX, VxWorks...)
-     Experience in SW archiecture design for ADAS Domain controller (SoC + MCU)
-    Good Knowledge in Both AUTOSAR CP/AP, and Middleware technology
-    Good overview and insight to the technology trends of automated driving software
-    Cross team and culture technical coordination, Collabration,Innovation
+    1. More than 5 years’ experience in ADAS development, preferably in OEM or Startup / ICT company leading corresponding SW design.
+    2. Experience in SOA (service oriented architecture)
+    3. Experience in Driving Assist or Automated Driving software and algorithm (Perception, planning, fusion and motion control
+    4. Knowledge in vehicle E/E architecture
+    5. Good knowledge in POSIX OS (Linux, QNX, VxWorks...)
+    6. Experience in SW archiecture design for ADAS Domain controller (SoC + MCU)
+    7. Good Knowledge in Both AUTOSAR CP/AP, and Middleware technology
+    8. Good overview and insight to the technology trends of automated driving software
+    9. Cross team and culture technical coordination, Collabration,Innovation
 
 Additional Information
 
