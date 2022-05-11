@@ -39,3 +39,12 @@ if she felt he was right.she would agree with him.
 **annoy**
 `/əˈn/`
 It really annoys me when I see people dropping litter.
+
+**complain**
+She often complains about not feeling appreciated at work.
+
+**complaint**
+The sales assistants are trained to dealing with customer complaint in a friendly manner.
+
+**confused**
+If you're confused about anything ,phone me. 

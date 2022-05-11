@@ -37,3 +37,11 @@ I went to stay with my uncle and aunt for a few days.
 
 **dad**
 She lives with her mon and dad.
+
+**chap**
+*guy*
+`/æ/`
+a decent sort chap
+
+**daughter**
+She's got two daughters and one son.

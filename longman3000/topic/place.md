@@ -40,3 +40,16 @@ a sandy beach
 
 **tower** 
 a castle with tall towers
+
+**castle**
+`/kɑː/`
+a ruined castle
+
+**church**
+My parents go to church every Sunday.
+
+**cinema**
+Do you know what’s on at the cinema?
+
+**coast**
+I used to live in a small village on the coast.

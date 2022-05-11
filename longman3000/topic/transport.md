@@ -72,6 +72,11 @@ Entry to the gardens is included in the price of admission.
 `/ˈæk/` 
 Over 70,000 people are seriously injured every year in road accidents.
 
+**crash**
+`/æ/`
+He was drunk when he crashed the car.
+
+
 ##
 **transport** 
 Improved rail transport is essential for business.

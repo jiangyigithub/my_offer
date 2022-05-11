@@ -1,6 +1,12 @@
 ## thing
+**bowl**
+Beat the butter in a mixing bowl until creamy and soft.
+
 **curtain**
 Ella drew the curtains and swithed the light on.
+
+**chair**
+He was nominated as chair of the board of governors.
 
 **cushion**
 Savings can act as a cushion against unemployment.
@@ -61,10 +67,47 @@ Have you got a clean towel I could use?
 **toy** 
 some toys for the baby
 
+**cabinet**
+`/æ/`
+a cabinet meeting
+
+**candle**
+`/æn/`
+No other singer can hold a candle to her.
+
+**cap**
+a baseball cap
+
+
+
 ## food
 **diet**
 `/daɪ/`
 She doesn't eat very healthy diet.
+
+**cigarette**
+a packet of cigarettes
+
+**chocolate**
+`/ˈtʃɒ/`
+a packet of chocolate biscuits
+
+**chip**
+`/ɪ/`
+a bag of potato chips
+
+**cereal**
+a bowl of breakfast cereal
+
+**candy**
+Most video games are just brain candy.
+
+**closet**
+`/zɪt/`
+a closet full of beautiful clothes
+
+**bread**
+Writing is my bread and butter.
 
 **cookie**
 a glass of milk and a cookie
@@ -76,6 +119,9 @@ good quality beef
 
 **pizza** 
 a slice of pizza
+
+**cream**
+The students of this college are the cream of the crop.
 
 **vegetable** 
 *telephone*
@@ -144,3 +190,9 @@ He loosened his collar and tie.
 
 **belt**
 The comments hit below the belt.
+
+**cloth**
+a dress of the finest silk cloth
+
+**clothes**
+What sort of clothes was he wearing?

@@ -8,9 +8,16 @@ A takeover bid for the airline was launched today.
 **bill**
 The bill for the repairs came to $650.
 
+**cent**
+The price of oil rose 36 cents to $61.95 a barrel.
+
 **wage** 
 *salary*
 He earns a good wage.
+
+**capital**
+`/ˈkæ/`
+The government is eager to attract foreign capital.
 
 ## as a whole
 **agriculture**
@@ -44,3 +51,21 @@ Nearly half the students said they were in debt.
 
 **currency**
 The bank can supply you with foreign currency.
+
+**charity**
+`/æ/`
+All the money raised by the convert go to charity.
+
+**cheque**
+They sent me a cheque for $100
+
+**commercial**
+Our top priorities must be profit and commercial growth.
+
+**contract**
+Employees who refuse relocate are in breach of contract.
+
+**cost**
+`/ɒ/`
+*coast*
+I offered to pay the cost of the taxi.
