@@ -44,7 +44,8 @@ String::~String()
    delete[] m_data;
 }
 
-//拷贝赋值必须重写
+// 拷贝赋值必须重写
+// 通常赋值操作符是通过拷贝构造函数来实现 的（ copy-and-swap 技术，详见《Exceptional C++》一书
 inline
 String& String::operator=(const String& str)
 {
