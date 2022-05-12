@@ -12,7 +12,22 @@ https://inside-docupedia.bosch.com/confluence/display/CCD/CMake+--+Best+Practice
 
 3. target
 
+https://zhuanlan.zhihu.com/p/119426899
 
 selena 构建实例
 - parse
 - code generation
+
+## cmake file 
+file(GLOB_RECURSE XXX XXX)
+add_library(XXX INTERFACE)
+
+include_directories(
+  include
+)
+
+https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Useful+Info
+
+http://derekmolloy.ie/hello-world-introductions-to-cmake/#Introduction
+
+https://www.jianshu.com/p/e7de3de1b0fa
