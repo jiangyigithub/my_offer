@@ -127,6 +127,10 @@ a meeting with an important client
 **consumer**
 Consumer demand led to higher imports of manufactured goods.
 
+**crew**
+`/uː/`
+The plane crashed, killing two crew and four passengers.
+
 
 
 

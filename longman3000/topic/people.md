@@ -45,3 +45,7 @@ a decent sort chap
 
 **daughter**
 She's got two daughters and one son.
+
+**cousin**
+`/ˈkʌ/` `/zən/`
+a drug is a chemical cousin to alcohol.

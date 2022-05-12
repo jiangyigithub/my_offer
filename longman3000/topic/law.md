@@ -33,6 +33,11 @@ This information is a valuable clue in out hunt for the bombers.
 *coat*
 The court case lasted six weeks.
 
+**council**
+*count*
+`/ˈkaʊn/` `/səl/`
+He sent a letter to the council to complain about the noise.
+
 **criminal**
 `/ˈkrɪ/`
 Experts cannot agree on the causes of cirminal behaviour.
