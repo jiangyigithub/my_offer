@@ -1,7 +1,5 @@
 ## 1
-**heart** 
-`/hɑː/`
-Regular exercise is good for heart.
+
 
 **heat** 
 `/hiː/`

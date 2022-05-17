@@ -52,11 +52,7 @@ Dark green leaves are good indication of healthy roots.
 **individual** 
 Most churches were built with donations from private individuals.
 
-**industrial** 
-Industrial production has risen by 0.5% since November.
 
-**industry** 
-This type of software is widely used in industry.
 
 **inevitable** 
 `/ɪnˈe/`
@@ -66,9 +62,7 @@ A further escalation of crisis now seems inevitable.
 The decision will inevitably lead to political tensions.
 
 ## 3
-**infant** 
-`/ˈɪnfən/`
-An infant's skin is very senstive.
+
 
 **infection** 
 The baby had an ear infection.

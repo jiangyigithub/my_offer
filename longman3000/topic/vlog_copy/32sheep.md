@@ -34,9 +34,7 @@ In fact, shortly after this article was written, the Bolivian inflation rate was
 **shot** 
 Where were you when you heard the shot?
 
-**shoulder** 
-`/əʊ/`
-His shoulders were broad and powerful.
+
 
 **shout** 
 `/aʊ/`

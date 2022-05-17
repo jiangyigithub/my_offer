@@ -17,8 +17,7 @@ electronic games
 **elevator** 
 we'll have to take the elevator.
 
-**embarrassed** 
-Lori gets embarrassed if we ask her to sing.
+
 
 **emergency** 
 In case of emergency ,press the alarm button.
@@ -86,12 +85,9 @@ The entire staff agreed.
 **entirely** 
 Our situation is entirely different.
 
-**entrance**
-*enter* 
-the station entrance
 
-**entry** 
-Entry to the gardens is included in the price of admission.
+
+
 
 **envelope** 
 envelopes and stamps

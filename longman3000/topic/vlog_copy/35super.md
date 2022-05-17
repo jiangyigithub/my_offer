@@ -32,21 +32,18 @@ She found it difficult to sustain the children’s interest.
 **swap** 
 We need to get together to swap ideas and information.
 
-**swear** 
-Don’t swear in front of the children.
+
 
 ## 2
 **sweep** 
 I swept the papers quickly into the drawer.
 
-**swing** 
-Let your arms swing as you walk.
+
 
 **symbol** 
 The symbol on the packet is a guarantee that the food has been produced organically.
 
-**sympathy** 
-I have absolutely no sympathy for students who get caught cheating in exams.
+
 
 **tablet** 
 She took a couple of headache tablets.

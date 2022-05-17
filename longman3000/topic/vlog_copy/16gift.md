@@ -5,9 +5,7 @@ a generous gift of 50 prounds
 **give** 
 Researcher were given a 10,000 prounds grant to continue their work.
 
-**glance** 
-`/ɡlɑːn/`
-Can you glance through these figures for me?
+
 
 **glass** 
 `/ɡlɑː/`

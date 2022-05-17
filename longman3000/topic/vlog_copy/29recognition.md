@@ -22,8 +22,7 @@ We will review the case and make a recommendation to the client.
 `/ˈre/`
 The article made no reference to previous research on the subject.
 
-**refrigerator** 
-*fridge/freezer*
+
 
 **refuse** 
 The chairman refused to answer any more questions.

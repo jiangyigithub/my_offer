@@ -120,8 +120,7 @@ It shoulded pretty dull to me.
 **dumb** 
 a bunch of dumb kids.
 
-**dump** 
-Ellie dumped all the photos of her ex-husband.
+
 
 **during** 
 Foxes remain hidden during the day.

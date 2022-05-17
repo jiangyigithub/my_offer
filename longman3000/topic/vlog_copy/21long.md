@@ -49,8 +49,7 @@ Let's meet the mall and go see the movie.
 **management** 
 The shareholders demanded a change in management.
 
-**manager** 
-She's now assistant marketing manager for south east area.
+
 
 **manufacturer** 
 Read the manufacturer's instructions before using your new dishwasher.

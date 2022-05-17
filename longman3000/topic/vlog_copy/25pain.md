@@ -3,12 +3,7 @@
 *take great pains to do sth.*
 He's taken great pains to improve his image.
 
-**paint** 
-`/peɪ/`
-The whole house could do with a fresh coat of paint.
 
-**painting** 
-Can you help me hang this painting?
 
 **palace** 
 `/ˈpæ/` `/lə/`

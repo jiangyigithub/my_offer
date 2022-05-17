@@ -14,27 +14,18 @@ a man who rents a room, building, or piece of land to someone
 **landscape** 
 English landscape artists
 
-**lane** 
-`/leɪ/`
-That idiot changed lanes without signalling.
+
 
 **latter** 
 `/ˈlæ/`
 where unemployment and crime are high ,it can be assumed that the latter is due to the former.
 
-**laugh** 
-`/lɑː/`
-Tony was laughing so hard he had to steady himself on the table.
+
 
 **launch** 
 The company hopes to launch the new drug by next October.
 
-**law** 
-This is illegal under English law.
 
-## 2
-**lawyer** 
-someone whose job is to advise people about laws, write formal agreements, or represent people in court
 
 **leading** 
 The army played a leading role in organizing the attempted coup.

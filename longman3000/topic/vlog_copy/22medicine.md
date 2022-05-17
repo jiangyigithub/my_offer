@@ -121,11 +121,7 @@ Man is gifted with moral sense by which he distinguishs good from evil.
 `/ˈmɔː/` `/ɡɪdʒ/`
 Your family takes out a mortgage and buys a new house.
 
-**motor** 
-an electric motor
 
-**motorway** 
-He was driving along the motorway at a steady sixty miles an hour.
 
 **mountain** 
 I've got mountains of paperwork to deal with.
@@ -133,18 +129,11 @@ I've got mountains of paperwork to deal with.
 **mud** 
 By the end of game, all the kids were covered in mud.
 
-**mum** 
- = mom
 
-**mummy** 
- = mommy
 
-**muscle** 
-Relax your stomach muscles, then stretch again.
 
-**museum** 
-`/mju/` `/ˈziːəm/`
-The museum has an extensive collection of early photographs.
+
+
 
 **mushroom** 
 `/ˈmʌ/`

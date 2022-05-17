@@ -14,10 +14,7 @@ I decided to stay home.
 `/ˈste/` 
 Employment is holding steady at 96%.
 
-**steak** 
-`/steɪ/`
-*stake*
-good quality beef
+
 
 **steal** 
 `/stiː/`

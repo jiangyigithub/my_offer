@@ -45,8 +45,7 @@ His behaviour was frankly disgraceful.
 **freeze**
 I think I'll freeze that extra meat.
 
-**freezer** 
-*fridge*
+
 
 **frequent** 
 She was a frequent visitor to the house.

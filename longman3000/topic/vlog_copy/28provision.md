@@ -14,12 +14,9 @@ Do you fancy going to the pub?
 **publicity** 
 The adverse publicity had damaged sales.
 
-**pudding** 
-There's ice cream for pudding
 
-**punch** 
-`/pʌn/`
-The guard punched my ticket and I got on.
+
+
 
 **punishment** 
 *punishment for*
@@ -98,11 +95,7 @@ They are proposing radical changes to the way the company is run.
 **radio**
 We’ve lost radio contact with the plane.
 
-**rail** 
-*by train*
-I need to buy a rail ticket.
 
-We continued our journey by rail.
 
 **raise** 
 Can you raise the lamp so I can see?

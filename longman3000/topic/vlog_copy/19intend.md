@@ -74,6 +74,3 @@ Workers withdrew their labour for twenty-four hours.
 `/læ/`
 Too many teachers are treated with a lack of respect.
 
-**ladder** 
-`/ˈlæ/`
-She climbed up the ladder.

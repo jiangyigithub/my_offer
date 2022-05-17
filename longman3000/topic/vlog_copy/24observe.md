@@ -16,9 +16,7 @@ We should have enough money left for the occasional trip.
 **occasionally** 
 We only see each other very occasionally.
 
-**occupation** 
-`/ˈɒ/`
-Please state your name, address and occupation.
+
 
 **occupy** 
 He occupies the house without paying any rent.

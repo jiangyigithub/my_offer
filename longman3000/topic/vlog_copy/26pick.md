@@ -33,8 +33,7 @@ A pipe had burst in the kitchen and flooded the floor.
 pitch of the ball
 
 ## 2
-**pizza** 
-a slice of pizza
+
 
 **place** 
 Make sure you keep the key in a safe place.
