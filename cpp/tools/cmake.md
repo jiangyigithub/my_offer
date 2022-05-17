@@ -26,14 +26,25 @@ include_directories(
   include
 )
 
-https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Useful+Info
+集成VFC
+https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+VFC+library
 
+集成GTEST
+https://github.com/google/googletest/tree/main/googletest
+https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+GoogleTest
+https://www.youtube.com/watch?v=Lp1ifh9TuFI
+
+good article
 http://derekmolloy.ie/hello-world-introductions-to-cmake/#Introduction
 
+头文件Include
 https://www.jianshu.com/p/e7de3de1b0fa
+https://zhuanlan.zhihu.com/p/82244559
 
 Effective Modern CMake
 https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1
+https://raw.githubusercontent.com/boostcon/cppnow_presentations_2017/master/05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf
+https://www.youtube.com/watch?v=bsXLMQ6WgIk
 
 ## CMake 实践
 
@@ -50,13 +61,15 @@ add_executable()
 
 
 ### 自己有多个文件，且文件分布在不同的文件夹
-`include_directories`
-`target_include_directories`
 `add_executable`
 `add_library`
 
+
+`target_include_directories`
 `target_link_libraries`
 
+obsolete
+`include_directories`
 
 ### 涉及到其他的第三方库，需要添加lib
 1. 第三方库打包成lib
@@ -76,3 +89,9 @@ add_executable()
 
 #### function
 #### macro
+
+
+## DACORE 实践
+1. 编写CMakeLists.txt
+2. 通过python call cmake
+3. 通过shell 来执行python
