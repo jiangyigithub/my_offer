@@ -51,6 +51,11 @@ add_executable()
 
 ### 自己有多个文件，且文件分布在不同的文件夹
 `include_directories`
+`target_include_directories`
+`add_executable`
+`add_library`
+
+`target_link_libraries`
 
 
 ### 涉及到其他的第三方库，需要添加lib
@@ -61,6 +66,13 @@ add_executable()
 ### 怎么处理测试代码(link 单元测试库，生成)
 
 ### advanced
-#### .cmake 文件
+1. solution 1 --> multi CMakeList.txt
+`add_subdirectory`
+`CMakeLists.txt`
+
+2. solution 2 --> .cmake 文件
+`include`
+`XXX.cmake`
+
 #### function
 #### macro
