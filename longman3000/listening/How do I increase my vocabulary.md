@@ -1,3 +1,10 @@
+[不死记硬背如何掌握12000英文词汇量](https://www.bilibili.com/video/BV11t411W7f1?spm_id_from=333.999.0.0)
+
+
+
+
+
+## warm-up
 I think anyone who's learning a new language has this question:
 How do I increase my vocabulary?
 How do i do it in a shorter  period of time?
@@ -33,7 +40,8 @@ Like oxygen.
 
 Today I'm mainly focusing on abstract words.
 
-No.1 Study within a range.Or within a certain frequency.
+
+## No.1 Study within a range.Or within a certain frequency.
 Words have different levels, and different rates of frequency.
 You don't want to read beyond your level,you don't want to study the words that are not that frequent or not that common in your everyday life just yet.
 For beginners, you need to stick to the 3000 words first.
