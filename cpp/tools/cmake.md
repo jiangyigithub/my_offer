@@ -98,3 +98,6 @@ obsolete
 1. 编写CMakeLists.txt
 2. 通过python call cmake
 3. 通过shell 来执行python
+
+`target_compile_definitions`
+target_compile_definitions(${PROJECT_NAME} PUBLIC USE_ROS)
