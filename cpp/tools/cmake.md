@@ -46,6 +46,9 @@ https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1
 https://raw.githubusercontent.com/boostcon/cppnow_presentations_2017/master/05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf
 https://www.youtube.com/watch?v=bsXLMQ6WgIk
 
+find_package
+https://zhuanlan.zhihu.com/p/97369704
+
 ## CMake 实践
 
 ### introduction
