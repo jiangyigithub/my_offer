@@ -13,7 +13,7 @@
         - autosar master/salve
         - time base and system solution
         - 测试试验
-    - coordinate transform
+    - space sync/coordinate transform
         - 法规WGS84/02 
         - GPS -->ENU --> local frame(reference point)
     - ROI and delete ego
