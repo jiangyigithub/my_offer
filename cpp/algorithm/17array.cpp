@@ -66,7 +66,7 @@ string integerVectorToString(vector<int> list, int length = -1)
 
 int main()
 {
-    string line = "1";
+    string line = "2";
 
     int n = stringToInteger(line);
 

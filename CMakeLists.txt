@@ -9,6 +9,7 @@ add_executable(code47dp cpp/algorithm/47dp.cpp)
 add_executable(code48dp cpp/algorithm/48dp.cpp)
 add_executable(code01stl cpp/demos/complex_test.cpp)
 add_executable(code11modern cpp/modern/constexpr.cpp)
+add_executable(code17 cpp/algorithm/17array.cpp)
 # cpp/demos/string_test.cpp
 # cpp/algorithm/32tree_a.cpp
 
