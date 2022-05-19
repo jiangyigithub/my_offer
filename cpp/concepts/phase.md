@@ -1,7 +1,9 @@
 程序的编译和运行过程（Hello World 是如何运行的）
 
+# Top-Down
 `compile time` and `run time`
-## configure  --> CMake
+## Configure  --> CMake 文件组织
+
 ## Preprocessing --> #define
 - #include 属于编译前的Preprocessing阶段
 
@@ -20,18 +22,20 @@
 3. 程序打包
 生成安装包如 .exe文件 和.deb文件，ELF文件（Executableand linking format） x86 Linux系统下的一种常用目标文件(objectfile)格式, 提供程序的进程映像，加载到内存执行
 
+## Target
+1. 单元测试 --> enable_testing
+target 包含单元测试 
+
 ## 程序运行 run time --> link .so file, dynamics binding
 动态绑定 多态
 动态链接 .so
 
-## 单元测试
-target 包含单元测试
 
+# Bottom-Up
+## 编写CMake --> 程序的组织结构
 
-# Top-down
-## 程序的组织结构CMake
+## 操作系统 
 
-## 操作
 ## 预处理
 
 ## 编译器
@@ -40,6 +44,7 @@ inline
 constexpr 编译期常量
 override
 
+## 运行时多态
 ref: 
 - [编译器的工作过程](http://www.ruanyifeng.com/blog/2014/11/compiler.html)
 - [深入理解计算机系统（二）：Hello World 是如何运行的](https://zhuanlan.zhihu.com/p/37479652)
