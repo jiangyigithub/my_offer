@@ -4,14 +4,14 @@ Linux kernel
 
 BSD TCP/IP ＋ Ethernet 
 
-计算机是实践学科
+计算机是实践学科,一个好的
 
 
 核心课程| 产品|demo|comment
 -----|-----|-----|-----
  数据结构与算法 |STL|O |O
- 计算机体系结构 |O|O|O
  操作系统 |Linux|O|O
-计算机网络 |TCP/IP + 网络编程|O
-编译原理 |LLVM/Clang|O|
+ 计算机网络 |TCP/IP + 网络编程|O
+ 编译原理 |LLVM/Clang|O|
+ 计算机体系结构 |O|O|O
  数据库 |MySQL+Redis|O|
