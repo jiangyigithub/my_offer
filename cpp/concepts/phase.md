@@ -20,13 +20,12 @@
 3. 程序打包
 生成安装包如 .exe文件 和.deb文件，ELF文件（Executableand linking format） x86 Linux系统下的一种常用目标文件(objectfile)格式, 提供程序的进程映像，加载到内存执行
 
-
 ## 程序运行 run time --> link .so file, dynamics binding
 动态绑定 多态
 动态链接 .so
 
-
-
+## 单元测试
+target 包含单元测试
 
 
 # Top-down
