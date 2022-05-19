@@ -1,6 +1,5 @@
+`最佳实践`
 Primer C++ 里描述了各个零散的语法知识，but how to apply it in correct scenario practically?
-
-最佳实践
 
 提前优化
 
