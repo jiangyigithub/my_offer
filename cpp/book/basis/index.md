@@ -19,7 +19,7 @@
 ## 与智能驾驶的关联
 `体系结构`
 I/O -->sensor set,actor,localization,MAP
-CPU -->MCU+SOC
+CPU/GPU  -->MCU+SOC
 
 `操作系统`
 RTOS
