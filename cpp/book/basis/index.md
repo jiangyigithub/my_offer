@@ -22,12 +22,15 @@ I/O -->sensor set,actor,localization,MAP
 CPU/GPU  -->MCU+SOC
 
 `操作系统`
-RTOS
+RTOS/QNX
 
 `网络`
-CAN/CANFD/Ethernet
+CAN/CANFD/Ethernet/V2X
 
-`APP` 智能驾驶 感知，决策，控制
+`编译器`
+深度学习编译器/CUDA
+
+`应用APP` 智能驾驶 感知，决策，控制
 
 
 
