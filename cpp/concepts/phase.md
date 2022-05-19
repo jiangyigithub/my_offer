@@ -31,12 +31,17 @@ target 包含单元测试
 动态链接 .so
 
 
-# Bottom-Up
+# Bottom-Up 写程序与各component打交道的地方
 ## 编写CMake --> 程序的组织结构
+1. 确定有哪些.o文件
 
 ## 操作系统 
+1. 编程语言与操作系统的接口抽象成标准库 `#include<pthread.h>`
+2. 直接call system函数
 
-## 预处理
+## 预处理器
+#include 
+#define
 
 ## 编译器
 explicit 
