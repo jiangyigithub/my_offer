@@ -21,6 +21,7 @@
 
 3. 程序打包
 生成安装包如 .exe文件 和.deb文件，ELF文件（Executableand linking format） x86 Linux系统下的一种常用目标文件(objectfile)格式, 提供程序的进程映像，加载到内存执行
+https://www.yhspy.com/2020/06/17/Linux%20%E4%B8%8B%E7%9A%84%20ELF%20%E5%AE%8C%E6%95%B4%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90/
 
 ## Target
 1. 单元测试 --> enable_testing
