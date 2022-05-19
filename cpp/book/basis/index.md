@@ -25,6 +25,7 @@ CPU/GPU  -->MCU+SOC
 RTOS/QNX
 
 `网络`
+内部通信，外部通信
 CAN/CANFD/Ethernet/V2X
 
 `编译器`
