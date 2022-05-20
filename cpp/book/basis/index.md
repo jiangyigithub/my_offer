@@ -12,12 +12,12 @@
 
 核心课程| 产品|demo|comment
 -----|-----|-----|-----
- 数据结构与算法 |STL|O |O
- 操作系统 |Linux|O|O
- 计算机网络 |TCP/IP + 网络编程|O
- 编译原理 |LLVM/Clang|O|
- 计算机体系结构 |O|O|O
- 数据库 |MySQL+Redis|O|
+ 1数据结构与算法 |STL|O |O
+ 2操作系统 |Linux|O|O
+ 3计算机网络 |TCP/IP + 网络编程|O
+ 4编译原理 |LLVM/Clang|O|
+ 5计算机体系结构 |O|O|O
+ 6数据库 |MySQL+Redis|O|
 
 ## 与智能驾驶的关联
 `体系结构`
