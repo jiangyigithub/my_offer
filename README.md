@@ -15,3 +15,5 @@ https://www.zhihu.com/question/19628851/answer/2018824998
 
 作为计算机专业学生，最应该学习的课程前五位是什么？ - 编程指北的回答 - 知乎
 https://www.zhihu.com/question/19628851/answer/1860111811
+
+https://xiaolincoding.com/os/4_process/process_base.html#%E8%BF%9B%E7%A8%8B
