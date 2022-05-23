@@ -75,7 +75,7 @@ INTERFACE
 obsolete
 `include_directories` 已经被淘汰了 
 
-### 编译器相关
+### 编译选项相关
 `target_compile_definitions`
 target_compile_definitions(${PROJECT_NAME} PUBLIC USE_ROS)
 
@@ -87,6 +87,12 @@ target_compile_options(jsonutils PRIVATE
     $<$<OR:$<CXX_COMPILER_ID:Clang>,$<CXX_COMPILER_ID:AppleClang>,$<CXX_COMPILER_ID:GNU>>:
     -Wall -Wextra -Wpedantic>)
 
+### 如何适配不同操作系统(windows linux)，编译器(gcc clang msvc)
+if(WIN32)
+if(UNIX)
+if(NOT MSVC10)
+set(CMAKE_CXX_COMPILER ${DC_CUSTOM_COMPILER_PATH}/clang++)
+set(CMAKE_C_COMPILER ${DC_CUSTOM_COMPILER_PATH}/clang)
 
 ### 涉及到其他的第三方库，打包成lib，并在应用它的项目中需要添加lib
 
