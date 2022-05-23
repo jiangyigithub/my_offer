@@ -1,3 +1,28 @@
+Targets and Properties,Imagine Targets as Objects
+
+https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+
+## • Constructors:
+• add_executable()
+• add_library()
+
+## • Member variables:
+• Target properties (too many to list here).
+
+## • Member functions:
+• get_target_property()
+• set_target_properties()
+• get_property(TARGET)
+• set_property(TARGET)
+• target_compile_definitions()
+• target_compile_features()
+• target_compile_options()
+• target_include_directories()
+• target_link_libraries()
+• target_sources()
+
+
+
 https://inside-docupedia.bosch.com/confluence/display/CCD/CMake+--+Best+Practices
 构建一个target需要哪些事情
 1. 内部依赖
