@@ -117,10 +117,6 @@ gtest
 `function`
 `macro`
 
-## 封装CMake脚本
-1. 编写CMakeLists.txt
-2. 通过python call cmake
-3. 通过shell 来执行python
 
 ## SELENA project practice
 https://inside-docupedia.bosch.com/confluence/display/CCD/CMake+--+Best+Practices
@@ -146,6 +142,11 @@ https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+VFC
 https://github.com/google/googletest/tree/main/googletest
 https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+GoogleTest
 https://www.youtube.com/watch?v=Lp1ifh9TuFI
+
+## 封装CMake脚本
+1. 编写CMakeLists.txt
+2. 通过python call cmake
+3. 通过shell 来执行python
 
 
 ## useful link
