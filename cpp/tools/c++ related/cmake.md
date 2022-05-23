@@ -107,6 +107,7 @@ https://zhuanlan.zhihu.com/p/97369704
 `include`
 `XXX.cmake`
 
+3. solution 3 --> Conan 包管理
 
 ### 单元代码怎么构建(单元测试库，生成)
 gtest
