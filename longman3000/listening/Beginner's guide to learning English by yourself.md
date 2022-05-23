@@ -7,7 +7,7 @@ whatsoever
 be reluctant to
 guidelines
 it 's just a matter of 
-studed tuned
+stayed tuned
 
 
 ## 1 you have to define your goal
