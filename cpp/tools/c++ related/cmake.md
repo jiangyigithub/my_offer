@@ -8,7 +8,13 @@ https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 • add_library()
 
 ### • Member variables:
-• Target properties (too many to list here).
+• BINARY_DIR
+• COMPILE_DEFINITIONS
+• COMPILE_FEATURES
+• COMPILE_FLAGS
+• COMPILE_OPTIONS
+• CXX_STANDARD
+
 
 ### • Member functions:
 • get_target_property()
