@@ -1,6 +1,6 @@
 **ex**
 `/ˌeks/`  `/ˈeks/` `X-man`
-exhibition - expert - explanation - expectation - extra
+exhibition - expert - explanation - expectation - extra - execution
 
 `/ɪkˈs/` 
 exception - excitement - exclude
