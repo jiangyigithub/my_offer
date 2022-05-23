@@ -15,7 +15,6 @@ https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 • COMPILE_OPTIONS
 • CXX_STANDARD
 
-
 ### • Member functions:
 • get_target_property()
 • set_target_properties()
@@ -29,19 +28,7 @@ https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 • target_sources()
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## CMake 常用命令
-
 ### 最基础的6个命令
 `cmake_minimum_required`
 `project`
@@ -63,7 +50,7 @@ add_executable()
 
 https://juejin.cn/post/6844903634170298382
 
-```c
+```cmake
 cmake_minimum_required(VERSION 3.5.1)
 project(vfc)
 
@@ -115,7 +102,6 @@ https://zhuanlan.zhihu.com/p/97369704
 `XXX.cmake`
 
 
-
 ### 单元代码怎么构建(单元测试库，生成)
 gtest
 
@@ -148,6 +134,7 @@ https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+VFC
 https://github.com/google/googletest/tree/main/googletest
 https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+GoogleTest
 https://www.youtube.com/watch?v=Lp1ifh9TuFI
+
 
 ## 封装CMake脚本
 1. 编写CMakeLists.txt
