@@ -142,6 +142,12 @@ https://github.com/google/googletest/tree/main/googletest
 https://inside-docupedia.bosch.com/confluence/display/CCDAEHS/Integration+of+GoogleTest
 https://www.youtube.com/watch?v=Lp1ifh9TuFI
 
+## 文件结构的设计
+* custom
+  * src
+  * test
+    * CMakeLists.txt
+  * CMakeLists.txt
 
 ## 封装CMake脚本
 1. 编写CMakeLists.txt
