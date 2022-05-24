@@ -31,3 +31,23 @@ blame sb for sth
 gift
 
 ## 3 You shold come up with an actionable plan
+down to the minute
+the outcome of
+keep in mind
+mentally
+for instance
+overwork
+in terms of
+sanity
+
+## 4 you have to be aware of the three elements to a language
+get so sidetracked by
+fruitful
+identify
+mash together
+an extensive amout of
+well-spent
+productive
+pay off
+in the end
+practice drills
