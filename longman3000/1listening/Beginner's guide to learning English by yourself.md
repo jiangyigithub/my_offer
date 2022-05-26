@@ -45,7 +45,7 @@ get so sidetracked by
 fruitful
 identify
 mash together
-an extensive amout of
+an extensive amount of
 well-spent
 productive
 pay off
