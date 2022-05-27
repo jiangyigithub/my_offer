@@ -32,7 +32,7 @@ The court case lasted six weeks.
 
 **cousin**
 `/ˈkʌ/` `/zən/`
-a drug is a chemical consin to alcohol.
+a drug is a chemical cousin to alcohol.
 
 **cow**
 `/aʊ/`
