@@ -51,3 +51,13 @@ productive
 pay off
 in the end
 practice drills
+
+## 5  you have to stick to the basic vocabulary
+accordingly
+encounter
+extensively
+in different contexts
+dimensional
+blindly
+explain
+extreme
