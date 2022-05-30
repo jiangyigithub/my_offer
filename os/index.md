@@ -10,3 +10,9 @@ https://pdos.csail.mit.edu/6.828/2021/schedule.html
 
 pthread
 https://www.cnblogs.com/zhangjiansheng/p/9332799.html
+
+OSTEP
+
+https://zhuanlan.zhihu.com/p/49286109
+
+https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese
