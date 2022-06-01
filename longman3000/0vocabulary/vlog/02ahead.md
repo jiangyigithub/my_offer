@@ -2,6 +2,9 @@
 **ahead**
 There were four people ahead of me at the doctor's.
 
+**aim**
+an initiative aimed at reducing road accidents
+
 **alarm**
 `/ɑː/`
 I was still asleep when the alarm went off.
