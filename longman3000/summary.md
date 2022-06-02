@@ -487,6 +487,7 @@ would - wood
 wrap - rap
 wheel - will
 weekend - wicked
+where - aware
 
 
 
