@@ -38,3 +38,11 @@ ENTRYPOINT ["/ros_entrypoint.sh"]
 CMD ["bash"]
 WORKDIR /
 ```
+
+## workflow
+Step 1: Create a file named Dockerfile
+Step 2: Add instructions in Dockerfile
+Step 3: Build dockerfile to create image
+Step 4: Run image to create container
+https://www.youtube.com/watch?v=LQjaJINkQXY
+https://github.com/wsargent/docker-cheat-sheet#dockerfile
