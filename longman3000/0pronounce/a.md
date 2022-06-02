@@ -4,6 +4,11 @@
 average - acid - actually - add - agriculture
 crack - exactly
 
+`/ə/`
+an - about - around - amazing - alarm - appear
+banana - data
+arrive - arrest - arrange
+
 `/eə/`
 area
 share - dare - prepare 
@@ -13,7 +18,7 @@ army -article
 father - car - rather
 
 `/ɔː/`
-all
+all - alternative
 call -saw - law - alter
 
 `/eɪ/`
@@ -23,11 +28,6 @@ may - pay - table - data
 
 `/ɪ/` or `/ə/`
 average - climate - private
-
-`/ə/`
-an - about - around - amazing - alarm - appear
-banana - data
-arrive - arrest - arrange
 
 `/silent A/`
 basically - typically - separately - automatically
