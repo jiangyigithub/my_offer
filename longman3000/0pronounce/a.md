@@ -1,7 +1,7 @@
 **a**  `An average father may share all he has.`
 
 `/æ/`
-average - acid - actually
+average - acid - actually - add - agriculture
 crack - exactly
 
 `/eə/`
@@ -25,7 +25,7 @@ may - pay - table - data
 average - climate - private
 
 `/ə/`
-an - about - around - amazing - alarm
+an - about - around - amazing - alarm - appear
 banana - data
 arrive - arrest - arrange
 

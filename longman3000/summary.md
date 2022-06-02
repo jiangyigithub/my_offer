@@ -31,6 +31,7 @@ advertise - adverse
 add - end
 abroad - broad
 aboard - board - onboard
+appear - appeal
 
 bean bin
 bit beat
