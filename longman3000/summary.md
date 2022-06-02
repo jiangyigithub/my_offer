@@ -52,6 +52,7 @@ biscuit - circuit
 buddy - daddy
 bag - badge
 burst - birth
+board - onboard
 
 conduct - deduct
 chop-shop
@@ -310,6 +311,7 @@ presume - assume
 purse - pause
 physics - fix
 plenty - penalty
+poor - pool
 
 quality - quantity
 quiet - quite
