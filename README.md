@@ -4,7 +4,7 @@ https://github.com/settings/tokens
 
 https://leetcode-cn.com/leetbook/read/illustration-of-algorithm/55bvvv/
 
-https://labuladong.gitbook.io/algo/
+https://labuladong.github.io/algo/1/3/
 
 ## 怎么获得网页视频字幕及其字幕
 - 视频：https://keepv.id/6/
