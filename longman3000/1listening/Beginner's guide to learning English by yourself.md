@@ -53,6 +53,9 @@ in the end
 practice drills
 
 ## 5  you have to stick to the basic vocabulary
+institution instruction
+emphasis
+probably
 accordingly
 encounter
 extensively
@@ -61,3 +64,5 @@ dimensional
 blindly
 explain
 extreme
+flat out
+instructor

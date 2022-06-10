@@ -18,7 +18,7 @@ public:
         }
         // is not tail
         if(cur->next!=nullptr){
-            pre->next = cur->next;
+            pre->next = cur->next;// 删除节点
         }
         return head;
     }
