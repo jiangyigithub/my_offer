@@ -11,6 +11,7 @@ add_executable(code48dp cpp/algorithm/48dp.cpp)
 add_executable(code01stl cpp/demos/complex_test.cpp)
 add_executable(code11modern cpp/modern/constexpr.cpp)
 add_executable(code17 cpp/algorithm/17array.cpp)
+add_executable(code22 cpp/algorithm/22pointer.cpp)
 
 aux_source_directory(. PROBLEMS)
 foreach(PROBLEM ${PROBLEMS})
