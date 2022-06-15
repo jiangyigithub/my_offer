@@ -94,6 +94,9 @@ complain - comply
 chain - channel
 chair - cheer - child
 course(courses) - cause
+cost - course
+combination - compilation
+
 
 drunk - run
 degree - disagree
@@ -490,6 +493,11 @@ wrap - rap
 wheel - will
 weekend - wicked
 where - aware
+wages - weights
+
+yield - yard
+
+
 
 
 
