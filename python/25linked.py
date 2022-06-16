@@ -12,13 +12,16 @@ class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         ret=l1
         cur=l1
+        pre=l1
         while cur!=None:
             if(cur.val<l2.val):
+                pre=cur
                 cur=cur.next
             else:
-                temp=cur.next
-                cur.next=l2
-                cur.next.next=temp
+                temp=pre.next
+                pre.next=l2
+                pre.next.next=temp
+                break
         return ret
 
 
