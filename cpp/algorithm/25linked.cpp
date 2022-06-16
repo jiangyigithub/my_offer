@@ -9,24 +9,23 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        ListNode* dump = new ListNode(0);
-        ListNode* cur = dump;
-        while(l1!= nullptr && l2!=nullptr){
-            if(l1->val <= l2->val){
-                //cur->next->val = l1->val;
-                cur->next = l1;
-                l1 = l1->next; 
+        ListNode* ret = l1;
+        ListNode* cur=l1;
+        while(cur!=nullptr){
+            if(cur->val<l2->val){
+                ret->next=cur;
+                cur=cur->next;
             }
             else{
-                //cur->next->val = l2->val;
-                cur->next = l2;
-                l2 = l2->next;
+                ListNode* temp=cur->next;
+                ret->next=l2;
+                ret->next->next=temp;
+                cur=cur->next;
             }
-            cur = cur->next;
-        } 
-        cur->next = l1!=nullptr? l1:l2;
-        return dump->next;
+        }
+        return ret;
     }
+
 };
 
 void trimLeftTrailingSpaces(string &input) {
@@ -89,7 +88,7 @@ int main() {
     string line = "[1,2,4]";
   
     ListNode* l1 = stringToListNode(line);
-    line = "[1,3,4]";
+    line = "[3]";
     ListNode* l2 = stringToListNode(line);
     
     ListNode* ret = Solution().mergeTwoLists(l1, l2);
