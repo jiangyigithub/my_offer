@@ -9,6 +9,17 @@ from ds import ListNode
 # [1,3,4]
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        ret=l1
+        cur=l1
+        while cur!=None:
+            if(cur.val<l2.val):
+                cur=cur.next
+            else:
+                temp=cur.next
+                cur.next=l2
+                cur.next.next=temp
+        return ret
+
 
 def stringToIntegerList(input):
     return json.loads(input)
