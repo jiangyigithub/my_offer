@@ -33,6 +33,8 @@ This information is a valuable clue in out hunt for the bombers.
 *coat*
 The court case lasted six weeks.
 
+the court discourages frivolous law suits.
+
 **council**
 *count*
 `/ˈkaʊn/` `/səl/`
