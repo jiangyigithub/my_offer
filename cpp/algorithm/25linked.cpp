@@ -9,21 +9,22 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        ListNode* ret = l1;
-        ListNode* cur=l1;
-        while(cur!=nullptr){
-            if(cur->val<l2->val){
-                ret->next=cur;
+        ListNode* dummy=new ListNode(0);
+        ListNode* cur = dummy;
+        while(l1!=nullptr&&l2!=nullptr){
+            if(l1->val<l2->val){
+                cur->next=l1;
+                l1=l1->next;
                 cur=cur->next;
             }
             else{
-                ListNode* temp=cur->next;
-                ret->next=l2;
-                ret->next->next=temp;
+                cur->next=l2;
+                l2=l2->next;
                 cur=cur->next;
             }
         }
-        return ret;
+        return dummy->next;
+   
     }
 
 };
@@ -85,10 +86,10 @@ string listNodeToString(ListNode* node) {
 }
 
 int main() {
-    string line = "[1,2,4]";
+    string line = "[1,3,5]";
   
     ListNode* l1 = stringToListNode(line);
-    line = "[3]";
+    line = "[2,4,6]";
     ListNode* l2 = stringToListNode(line);
     
     ListNode* ret = Solution().mergeTwoLists(l1, l2);
