@@ -29,5 +29,8 @@ https://hubojing.github.io/2019/01/22/C-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%
 
 ## 项目三：web项目
 基于Epoll的简易Http服务器https://zhuanlan.zhihu.com/p/503390413
+
+https://www.zhihu.com/question/29637351
+
 https://github.com/linyacool/WebServer
 （网络编程）
