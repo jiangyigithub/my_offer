@@ -1,32 +1,22 @@
 #include "head.hpp"
 
-// class Solution {
-// public:
-//     vector<int> twoSum(vector<int>& nums, int target) {
-//         vector<int> res ;
-//         for(int i = 0;i<nums.size()-1;i++){
-//             for(int j = i+1;j< nums.size();j++){
-//                 if(nums[j]==(target - nums[i])){
-//                     res.push_back(nums[i]);
-//                     res.push_back(nums[j]);
-//                     return res;
-//                 }
-//             }
-//         }
-//         return res;
-//     }
-// };
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int pre =0, inv = nums.size()-1;
-        while(pre<inv){
-            if(nums[pre]+nums[inv]>target){inv--;}
-            else if(nums[pre]+nums[inv]<target){pre++;}
-            else if(nums[pre] + nums[inv] == target){return {nums[pre],nums[inv]};}
+        int p1=0;
+        int p2=nums.size()-1;
+        while(nums[p1]+nums[p2]!=target){
+            if(nums[p1]+nums[p2]<target){
+                p1++;
+            }
+            else{
+                p2--;
+            }
         }
-        return {};
+        vector<int> res;
+        res.push_back(p1);
+        res.push_back(p2);
+        return res;
     }
 };
 
