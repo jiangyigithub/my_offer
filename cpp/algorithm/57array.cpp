@@ -14,8 +14,8 @@ public:
             }
         }
         vector<int> res;
-        res.push_back(p1);
-        res.push_back(p2);
+        res.push_back(nums[p1]);
+        res.push_back(nums[p2]);
         return res;
     }
 };
