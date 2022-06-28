@@ -32,6 +32,7 @@ add - end
 abroad - broad
 aboard - board - onboard
 appear - appeal
+access- accept
 
 bean bin
 bit beat
