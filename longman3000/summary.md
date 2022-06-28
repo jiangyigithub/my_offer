@@ -320,6 +320,7 @@ purse - pause
 physics - fix
 plenty - penalty
 poor - pool
+precise - process
 
 quality - quantity
 quiet - quite
