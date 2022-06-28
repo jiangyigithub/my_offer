@@ -235,6 +235,7 @@ nasty - last
 neat - need
 nut - not
 northern - neither
+nut - peanut
 
 odd - old
 once - ones
