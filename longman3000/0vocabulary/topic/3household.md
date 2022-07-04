@@ -81,7 +81,8 @@ No other singer can hold a candle to her.
 **cap**
 a baseball cap
 
-
+**dish**
+I' ll just do the dishes before we go.
 
 ## food
 **diet**
