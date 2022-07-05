@@ -46,3 +46,6 @@ Billy had rosy cheeks and blue eyes.
 **chest**
 breast
 He collapsed with servere chest pains.
+
+**tongue**
+She felt more comfortable talking in her native tongue.
