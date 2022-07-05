@@ -211,6 +211,7 @@ def binary_search(arr, x):
 **offer 58-1**
 
 - if和 while ，只执行一次用if，可能执行多次用while
+- 处理字符串的一个常用操作是取子字符串
 
 ### 5 搜索与回溯算法
 
