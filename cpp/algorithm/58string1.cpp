@@ -4,12 +4,19 @@ class Solution
 {
 public:
     string reverseWords(string s)
-    {
-        int i = s.size() - 1, j = s.size() - 1;
+    {   
+        string res;
+        int i = s.size() - 1;
+        int j=i;
         while(s[i]!=' '){
             i--;
         }
-        return s.substr(i+1,j);
+        res=s.substr(i,j-i+1);
+        while(s[i]==' '){
+            i--;
+            j=i;
+        }
+        return res;
     }
 };
 
