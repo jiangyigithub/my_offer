@@ -35,10 +35,6 @@ Relax your stomach muscles, then stretch again.
 **tooth** 
 Sugar is bad for your teeth.
 
-**deaf**
-`/e/`
-She was deaf to his pleas.
-
 **cheek**
 `/tʃiː/`
 Billy had rosy cheeks and blue eyes.
@@ -49,3 +45,13 @@ He collapsed with servere chest pains.
 
 **tongue**
 She felt more comfortable talking in her native tongue.
+
+**nail** 
+`/neɪ/`
+She hammered a nail into the wall.
+
+--- 
+
+**deaf**
+`/e/`
+She was deaf to his pleas.
