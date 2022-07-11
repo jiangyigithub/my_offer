@@ -49,7 +49,7 @@ You can find these words everywhere.
 You can google it. You can baidu it.
 You can look up the words in Longman Dictionary and see if it's labeled 3 or 2.
 
-No.2 Study abstract words first.
+## No.2 Study abstract words first.
 A lot of us dragged into identifying objects at the beginning when you first started learning English.
 We would spend so much time on words like Friday,colors,a girl,a boy
 I think those things aren't necessarily useful when it comes to conversions.
@@ -60,11 +60,11 @@ how to construct phrases and sentences using abstract words.
 It doesn't actually do us any good.
 And it's not relevant to our everyday life. and therefore we forget.
 
-No.3 Read bilingual materials.
+## No.3 Read bilingual materials.
 That's anything from textbooks with translation of course,
 TV shows with Chinese and English subtitles or English song with translations.
 
-No.4 Study the words and take notes.
+## No.4 Study the words and take notes.
 After you get a good idea of the general concept.
 you wanna go back and study the words individually.
 and study it carefully and extensively.
@@ -75,5 +75,5 @@ When you're taking notes,you're actually repeating the words.
 You're actually saying the words in your head.So it gives you more exposure.
 It gives you more repetition.
 
-No.5 Have constant and consistent exposure to English.
+## No.5 Have constant and consistent exposure to English.
  
