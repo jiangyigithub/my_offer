@@ -30,7 +30,7 @@ courses
 blame sb for sth
 gift
 
-## 3 You shold come up with an actionable plan
+## 3 You should come up with an actionable plan
 down to the minute
 the outcome of
 keep in mind
