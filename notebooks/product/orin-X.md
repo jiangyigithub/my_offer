@@ -16,3 +16,8 @@
 
 The NVIDIA DRIVE Orin™ SoC (system on a chip) delivers 254 TOPS and is the central computer for intelligent vehicles. It’s the ideal solution for powering autonomous driving capabilities, confidence views, digital clusters, infotainment, and passenger interaction with AI. The scalable DRIVE Orin product family lets developers build, scale, and leverage one development investment across an entire fleet, from Level 2+ systems all the way to Level 5 fully autonomous vehicles.
 
+
+#
+优先级 wave3 >L4 AVP
+自动驾驶是一个马拉松
+
