@@ -71,7 +71,7 @@ Projects
    * `serialization and deserialization` --> mdf-exporter
    * `replay` --> selena
    * `visulization` --> plotstr
-   * `evaluation` --> snoopy
+   * `evaluation` --> snoopy/PT2015
    
    ## `deployment for  target hardware` --> 不要花精力
     * 算法软件部署和迭代和优化，schedule, run time analysis,bus load,RAM resource，software QA,CI(CLARA)
