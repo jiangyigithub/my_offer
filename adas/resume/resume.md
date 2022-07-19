@@ -74,6 +74,19 @@ Projects
    * `evaluation` --> snoopy
    
    ## `deployment for  target hardware` --> 不要花精力
-    * 算法软件部署和迭代，schedule, run time analysis,bus load,RAM resource，software QA,CI(CLARA)
+    * 算法软件部署和迭代和优化，schedule, run time analysis,bus load,RAM resource，software QA,CI(CLARA)
+  
+  ICV基于路侧感知的高阶自动驾驶预研项目：
+  `痛点`：
+  红绿灯被遮挡和红绿灯识别力不足
+  目标被遮挡和目标识别力不足或太远
+
+  厂内原型开发POC
+
+  无锡双智项目
+
+
+
+
 
 
