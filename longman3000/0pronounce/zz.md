@@ -108,3 +108,11 @@ diary
 giant
 trial
 diamond
+
+`ial` --> `/ʃəl/`
+essential
+
+controversial
+
+financial
+social
