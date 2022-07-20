@@ -91,5 +91,6 @@ Projects
 5. 分析对相关子系统的需求，如OBU通信 filter，路侧传感器拓扑等
 项目中应用的技术或工具，C++，python，linux，GTest, ROS2, CMake, Vector Tool等
 
+CN ICV Collabrative Vehicle-Road Side System POC + Wuxi ICV Pilot Zone Ecosystem 
 
 
