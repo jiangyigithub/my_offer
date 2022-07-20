@@ -94,11 +94,13 @@ Projects
 CN ICV Collabrative Vehicle-Road Side System POC + Wuxi ICV Pilot Zone Ecosystem 
 
 
-This project is about collaborative vehicle-roadside system , this system extend the perception of in-vehicle system, enable intelligent connected vehicle to perceive their environment with smart infrastructure data, to enhance user experience & availability . we develop DAY1/DAY2 ADAS feature such as .
+This project is about collaborative vehicle-roadside system , this system extend the perception of in-vehicle system, enable intelligent connected vehicle to perceive their environment with smart infrastructure data, to enhance user experience & availability . we develop DAY1/DAY2 ADAS feature such as collaborative adaptive cruise control, 
+
 in this project , I am responsible for the software architecture design and the software development of perception fusion part.
 1. the design of software  architecture for in-vehicle function module 
 2. software development and test for fusion part, include the preprocessing of road side data, time sync,object fusion 
-3. software optimization and software decouple, deployment the system into the target hardware,sovle these issue such as scheduling, run time,bus loading, RAM resource
-4. the requirement for related system ,such as On-Board Unit, road side perception unit
+3. software optimization and software decouple, make efforts to our system adapt to prototype system and embedded system.
+4. deployment the system into the target hardware,sovle these issue such as scheduling, run time,bus loading, RAM resource
+5. the requirement for related system ,such as On-Board Unit, road side perception unit
 
 
