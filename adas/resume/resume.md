@@ -88,19 +88,24 @@ Projects
 2. 负责相应模块的软件开发和测试 ，如 路侧信号前处理,时间同步，设计感知融合策略融合路侧目标，建立统一的环境模型
 3. 软件优化和模块解耦，使其适用于ROS2原型和嵌入式硬件平台
 4. 算法嵌入式硬件软件部署，软件部署于博世量产平台，解决如schedule, run time,bus load,RAM resource等问题
-5. 分析对相关子系统的需求，如OBU通信 filter，路侧传感器拓扑等
+5. 与相关子系统相关负责人沟通的需求，如OBU通信 filter，路侧传感器拓扑等
+6. 培训新人，帮助新成员的项目所需技术栈
+
 项目中应用的技术或工具，C++，python，linux，GTest, ROS2, CMake, Vector Tool等
 
-CN ICV Collabrative Vehicle-Road Side System POC + Wuxi ICV Pilot Zone Ecosystem 
+---
 
+## CN ICV Collabrative Vehicle-Road Side System POC + Wuxi ICV Pilot Zone Ecosystem 
 
-This project is about collaborative vehicle-roadside system , this system extend the perception of in-vehicle system, enable intelligent connected vehicle to perceive their environment with smart infrastructure data, to enhance user experience & availability . we develop DAY1/DAY2 ADAS feature such as collaborative adaptive cruise control, 
+This project is about collaborative vehicle-roadside system , this system extend the perception skills of in-vehicle system, enable intelligent connected vehicle to perceive their environment with smart infrastructure data, to enhance user experience & availability. we develop DAY1/DAY2 ADAS feature such as collaborative adaptive cruise control, collaborative ramp merge-in features.In this project, I am responsible for the software architecture design and the software development of perception fusion part.
 
-in this project , I am responsible for the software architecture design and the software development of perception fusion part.
-1. the design of software  architecture for in-vehicle function module 
+1. the design of software architecture for in-vehicle function module 
 2. software development and test for fusion part, include the preprocessing of road side data, time sync,object fusion 
 3. software optimization and software decouple, make efforts to our system adapt to prototype system and embedded system.
-4. deployment the system into the target hardware,sovle these issue such as scheduling, run time,bus loading, RAM resource
+4. deployment the system into the target hardware,solve these issue such as scheduling, run time,bus loading, RAM resource
 5. the requirement for related system ,such as On-Board Unit, road side perception unit
+6. training and build technical stack for new employees
+
+Tools: C++，python，linux，GTest, ROS2, CMake, Vector Tool
 
 
