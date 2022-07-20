@@ -94,3 +94,6 @@ Projects
 CN ICV Collabrative Vehicle-Road Side System POC + Wuxi ICV Pilot Zone Ecosystem 
 
 
+collaborative vehicle-roadside system extend the perception of in-vehicle system, enable intelligent connected vehicle to perceive their environment with smart infrastructure data, to enhance user experience & availability .   
+
+
