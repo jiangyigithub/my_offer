@@ -90,14 +90,13 @@ Projects
   算法题
 
 
-POC:ROS2 平台，嵌入式平台
 
-1. 路侧信号前处理,时间同步
-2. 融合策略，路侧感知融合，建立统一的环境模型，拓展FOV
-3. 行为behaviror pediction(概率图模型) 
-4. behavior evaluation metric
-5. 车内软件架构, 系统架构，OBU通信 filter，路侧传感器拓扑
-6. 算法软件部署，schedule, run time analysis,bus load,RAM resource
+项目介绍：通过车路协同技术拓展车路感知能力，实现智能网联汽车DAY1/DAY2相关功能，如协作式自适应巡航，协作式匝道汇入，超视距信息辅助等。项目中我主要负责车内软件功能架构的设计和感知融合部分的软件开发工作。
+1. 参与车内软件架构的设计和定义，分析对相关子系统的需求，如OBU通信 filter，路侧传感器拓扑等
+2. 对应负责模块的软件开发和测试 ，如 路侧信号前处理,时间同步，设计感知融合策略融合路侧目标，建立统一的环境模型
+3. 算法的快速原型部署和迭代，基于ROS2
+4. 算法嵌入式硬件软件部署，schedule, run time analysis,bus load,RAM resource
+项目中应用的技术或工具，C++，python，linux，ROS2,CMake,Vector Tool等
 
 
 
