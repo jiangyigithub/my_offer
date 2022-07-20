@@ -83,7 +83,7 @@ Projects
 
   ## 内部原型开发POC
 
-  ## 无锡双智项目
+  ## 车路协同的高阶自动驾驶POC项目 + 无锡（锡山）“双智”试点核心区项目   　　　　    
 
 
   C++
@@ -91,6 +91,13 @@ Projects
 
 
 POC:ROS2 平台，嵌入式平台
+
+1. 路侧信号前处理,时间同步
+2. 融合策略，路侧感知融合，建立统一的环境模型，拓展FOV
+3. 行为behaviror pediction(概率图模型) 
+4. behavior evaluation metric
+5. 车内软件架构, 系统架构，OBU通信 filter，路侧传感器拓扑
+6. 算法软件部署，schedule, run time analysis,bus load,RAM resource
 
 
 
