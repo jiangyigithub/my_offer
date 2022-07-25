@@ -19,7 +19,6 @@ class Solution
 public:
     vector<int> deepOrder1(TreeNode *root)
     {
-
         vector<int> res;
         if (root == nullptr)
             return res;
