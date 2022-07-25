@@ -276,6 +276,7 @@ def binary_search(arr, x):
 
 - queue  的size() 方法 
 - 怎么知道当前遍历到哪一层
+- 统计每层的元素总数
 
 **offer 32-3** 二叉树蛇形打印
 
