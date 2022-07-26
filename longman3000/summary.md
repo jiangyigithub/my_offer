@@ -164,6 +164,7 @@ heat - hit - heart
 hung - hungry
 hunt - hurt
 height - eight
+height - hi
 
 idiot - idol
 imagine - image
