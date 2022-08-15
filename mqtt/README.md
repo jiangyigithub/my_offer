@@ -12,13 +12,13 @@ https://docs.emqx.com/en/enterprise/v4.4/development/c.html#paho-c-usage-example
 
 
 # 1. broker install, use 'mosquitto' as an  local broker example
-- install
+1. install
 ```
 sudo apt-get install mosquitto   --> broker
 sudo apt-get install mosquitto-clients --> client
 ```
 
-- start server
+2. start server
 ```
 mosquitto -c /etc/mosquitto/mosquitto.conf -d
 mosquitto -p 1883
@@ -26,7 +26,7 @@ sudo service mosquitto start
 sudo service mosquitto stop
 ```
 
-- check process state and networking state
+3. check process state and networking state
 ```bash process
 sudo kill -9 $(pidof mosquitto)
 ps -aux | grep mosquitto
