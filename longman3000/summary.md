@@ -142,6 +142,7 @@ faith - face
 flight - fly - flat
 force - forth - focus
 formal - former
+fuel - few
 
 gather - together
 gear - ear
