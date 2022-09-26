@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=kayOhGRcNt4
  # thank you for giving me the opportunity to be interviewed for this position today.my name is jiang yi. i am working at Bosch suzhou as a senior software engineer in the automatic driving and intelligent connected vehicle.
  as a software engineering. i am responsible for sensor fusion module for customer project while i was at veoneer for the level 2 adas project for Gleey and  BYD OEMs.
 
+ Overall, due to my strong background and achievements in successfully identifying gaps and creating efficiencies, i am confident i'll be able to succeed in this role you're hiring for.
+
 
 
 
