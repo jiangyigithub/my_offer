@@ -206,6 +206,7 @@ lump - lamp
 lord - landlord
 league - leg
 league - lounge
+laws - loss
 
 margin - merge
 main - lane
