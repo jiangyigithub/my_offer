@@ -9,3 +9,20 @@ in Geely and SAIC project.
 I love swimming and reading as my hobbies.
 
  I am jiang yi ,nice to meet you in bosch . thank you
+
+
+https://www.youtube.com/watch?v=520_-W9aVcs
+
+https://www.youtube.com/watch?v=kayOhGRcNt4
+
+1. skills and qualities 
+2. experience
+3. achievement
+4. as a team member , i am help the team to build-up competency for junior developers.
+
+ # thank you for giving me the opportunity to be interviewed for this position today.my name is jiang yi. i am working at Bosch suzhou as a senior software engineer in the automatic driving and intelligent connected vehicle.
+ as a software engineering. i am responsible for sensor fusion module for customer project while i was at veoneer for the level 2 adas project for Gleey and  BYD OEMs.
+
+
+
+
