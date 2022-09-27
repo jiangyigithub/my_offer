@@ -143,6 +143,7 @@ faith - face
 flight - fly - flat
 force - forth - focus
 formal - former
+fuel - few
 
 gather - together
 gear - ear
@@ -206,6 +207,7 @@ lump - lamp
 lord - landlord
 league - leg
 league - lounge
+laws - loss
 
 margin - merge
 main - lane
