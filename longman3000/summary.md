@@ -35,6 +35,7 @@ aboard - board - onboard
 appear - appeal
 access- accept
 admit - submit
+adverse - diverse
 
 bean bin
 bit beat
