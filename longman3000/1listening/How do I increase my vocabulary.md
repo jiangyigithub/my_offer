@@ -59,10 +59,16 @@ and not actually learn how to put those words together,
 how to construct phrases and sentences using abstract words.
 It doesn't actually do us any good.
 And it's not relevant to our everyday life. and therefore we forget.
+And even if we remember,
+Just knowing words like Monday,Friday,red,blue,yellow doesn't get us anywhere.
 
 ## No.3 Read bilingual materials.
 That's anything from textbooks with translation of course,
 TV shows with Chinese and English subtitles or English song with translations.
+You want to read bilingual materials.
+beacuse you can quickly identify what the word means.
+and you know,that's gonna save your time
+because you don't have to look up the world.
 
 ## No.4 Study the words and take notes.
 After you get a good idea of the general concept.
@@ -74,6 +80,17 @@ And take notes if it's necessary.
 When you're taking notes,you're actually repeating the words.
 You're actually saying the words in your head.So it gives you more exposure.
 It gives you more repetition.
+Therefor you have a higer chances of 
+rememobering the words the next time you hear it.
 
 ## No.5 Have constant and consistent exposure to English.
+Don't memorize the vocubulary,but you can't just read and call it a day.
+The second day you have to repeat whatever you did the day before.
+Make sure you're studying English at least 10 minutes a day.
+to build up the habit first.
+The more you repeat,the more exposure you have to English
+the easier it is for you to memorize random words.
+because you'll see words pop up again and again.
+And you'll remeber multiple words all at once.
+because they're related and interconnected.
  
