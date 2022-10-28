@@ -2,21 +2,17 @@
 
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        int p1=0;
-        int p2=nums.size()-1;
-        while(nums[p1]+nums[p2]!=target){
-            if(nums[p1]+nums[p2]<target){
-                p1++;
-            }
-            else{
-                p2--;
-            }
-        }
-        vector<int> res;
-        res.push_back(nums[p1]);
-        res.push_back(nums[p2]);
-        return res;
+	vector<int> twoSum(vector<int>& nums, int target) {
+		int i = 0;
+		int j = nums.size() - 1;
+		while (nums[i] + nums[j] != target) {
+			if (nums[i] + nums[j] < target) i++;
+			else j--;
+		}
+		vector<int> res;
+		res.push_back(nums[i]);
+		res.push_back(nums[j]);
+		return res;
     }
 };
 
@@ -71,7 +67,7 @@ string integerVectorToString(vector<int> list, int length = -1) {
 int main() {
     string line = "[2,7,11,15]";
         vector<int> nums = stringToIntegerVector(line);
-        line = "9";
+        line = "18";
         int target = stringToInteger(line);
         
         vector<int> ret = Solution().twoSum(nums, target);
