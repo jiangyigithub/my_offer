@@ -34,6 +34,9 @@ private:
 
 int main(){
     string s="abc";
-    Solution* slt=new Solution();
-    vector<string> ret = slt->permutation(s);
+    vector<string> out = Solution().permutation(s);
+    for(auto elem:out){
+         cout << elem << endl;
+    }
+    return 0;
 }

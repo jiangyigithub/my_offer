@@ -30,7 +30,8 @@
         "iostream": "cpp",
         "vector": "cpp",
         "xutility": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "ostream": "cpp"
     },
     "jupyter.jupyterServerType": "local",
     "jupyter.useDefaultConfigForJupyter": false,
