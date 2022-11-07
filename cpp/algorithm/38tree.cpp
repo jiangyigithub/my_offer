@@ -31,3 +31,9 @@ private:
         }
     }
 };
+
+int main(){
+    string s="abc";
+    Solution* slt=new Solution();
+    vector<string> ret = slt->permutation(s);
+}
