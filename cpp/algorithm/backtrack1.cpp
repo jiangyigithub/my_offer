@@ -1,9 +1,10 @@
-#include "head.hpp"
+﻿#include "head.hpp"
 class Solution {
 private:
 vector<vector<int>> res;
 
 void backtrack(vector<int>& nums, vector<int>& paths){
+	/// recur end contion, while the length of path is meet
     if(paths.size()==nums.size()){
         res.push_back(paths);
         return;
