@@ -5,3 +5,6 @@ git reflog
 git init
 git remote -v
 git remote add origin https://github.com/jiangyigithub/tianlinpython.git 
+
+git pitch
+https://www.cnblogs.com/kaosine/p/10770420.html
