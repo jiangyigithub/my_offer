@@ -51,6 +51,9 @@ What sort of clothes was he wearing?
 **cloud**
 Dark clouds floated across the moom.
 
+**cloudy**
+a cloudy night with some light rain
+
 ## 2
 **club**
 Our chess club really need more members.
