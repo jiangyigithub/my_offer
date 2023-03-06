@@ -38,6 +38,7 @@ You can format an entire file with Format Document by keyboard shortcut `Ctrl+Sh
 - Ctrl+B --> toggle Side bar Visibility
 - Ctrl+Z --> undo
 - Ctrl+Shift+I --> Formatting
+- Ctrl+G --> Go Line
 
 
 **extension**
