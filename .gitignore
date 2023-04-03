@@ -30,7 +30,7 @@ apl_bjev/tools/Jenkins/Canalyzer/*.txt
 
 # SW uC build
 build/
-book/
+# book/
 build_cmake/
 generatedFiles/
 key.md
