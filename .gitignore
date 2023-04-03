@@ -43,7 +43,7 @@ build.previous/
 *.bak
 *.zip
 *.exe
-*.pdf
+# *.pdf
 
 # created by AEEE
 .plbluearx
