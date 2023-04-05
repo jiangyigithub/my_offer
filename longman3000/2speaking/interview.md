@@ -18,3 +18,5 @@ increase company sales.
 
 TYPE OF PERSON - I am the type of person who always takes responsibility for 
 are outside of my job
+
+https://www.youtube.com/watch?v=-snw_gwviHY
