@@ -8,3 +8,5 @@ find
 mkdir
 >
 >> 
+echo
+export
