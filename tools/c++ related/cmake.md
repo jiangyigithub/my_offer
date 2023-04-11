@@ -1,6 +1,7 @@
 ## CMake principal
 Targets and Properties,Imagine Targets as Objects
 
+https://www.hahack.com/codes/cmake/
 https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 
 ### • Constructors:
