@@ -34,10 +34,12 @@ public:
             return {}; // 判空
         deque<int> deq; // 双向队列
         // 将第一个滑动窗口中的单调队列对应的坐标构建出来
-        // deq 中存单调队列中对应的nums坐标
+        // deq 中存单调队列中对应的nums index
         // 若新元素比 deq 结尾坐标的元素值大
         // 从 deq 结尾开始移除坐标 （始终保持最大值在头）
         // 否则将新元素的坐标进入队列
+        // input:  [1, 3,-1,-3, 5, 3, 6, 7]
+        // output:       [3, 3, 5, 5, 6, 7]
         for (int i = 0; i < k; ++i)
         {
             while (!deq.empty() && nums[i] > nums[deq.back()])
@@ -122,7 +124,8 @@ string integerVectorToString(vector<int> list, int length = -1)
 
 int main()
 {
-    string line = "[1,3,-1,-3,5,3,6,7]";
+    // string line = "[1,3,-1,-3,2,1,1,0]";
+    string line = "[1, 3,-1,-3, 5, 3, 6, 7]";
     vector<int> nums = stringToIntegerVector(line);
 
     int k = 3;

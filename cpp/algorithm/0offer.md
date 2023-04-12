@@ -86,6 +86,11 @@ cur=cur->next //cur将被改写
 
 2. 单调队列（通过deque来是实现）
 - 按索引对应的数据排序，但可以只存索引，既可以找到对应的数据
+- for deque, we can remove data both from front and back
+- for deque, remove from back new inserted data is more larger
+- for deque, remove from front if the window is sliding out 
+- put the available max value in the front of deque
+
 
 **剑指 Offer 59 - II. 队列的最大值**
 - 对时间复杂度有额外需求,一般的思路是以空间换时间
