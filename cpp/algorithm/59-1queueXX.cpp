@@ -31,9 +31,10 @@ public:
     vector<int> maxSlidingWindow(vector<int> &nums, int k, string sol)
     {
         /// sol=="deque"
-        vector<int> res;
+        
         deque<int> deq;
         // "[1, 3,-1,-3, 5, 3, 6, 7]"
+        /// handle the first window
         for (int i = 0; i < k; i++)
         {
             while (!deq.empty() && nums[i] > nums[deq.back()])
@@ -42,11 +43,18 @@ public:
             }
             deq.push_back(i); // add element
         }
-        res.push_back(nums[deq.front()]);
-        for(auto i:deq){
-            std::cout<< "deque max value index is: "<< i << "; the value is: " << nums[i] <<std::endl;
+        /// let the window slding at the step = 1
+        vector<int> res = {nums[deq.front()]};
+        for (int i=k;i<nums.size();i++){
+            while(!deq.empty()&&nums[i]>nums[deq.back()]){
+                deq.pop_back();
+            }
+            deq.push_back(i);
+            while(deq.front()<=i-k){
+                deq.pop_front();
+            }
+            res.push_back(nums[deq.front()]);
         }
-        
         return res;
     }
 };
@@ -114,7 +122,7 @@ public:
         string line = "[8, 3,-1,-3, 5, 3, 6, 4]";
         vector<int> nums = stringToIntegerVector(line);
 
-        int k = 8;
+        int k = 3;
 
         // vector<int> ret = Solution().maxSlidingWindow(nums, k);
         vector<int> ret = Solution().maxSlidingWindow(nums, k, "deque");

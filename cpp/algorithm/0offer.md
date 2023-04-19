@@ -86,10 +86,25 @@ cur=cur->next //cur将被改写
 
 2. 单调队列（通过deque来是实现）
 - 按索引对应的数据排序，但可以只存索引，既可以找到对应的数据
-- for deque, we can remove data both from front and back
+- for deque, we can remove data from both front and back
 - for deque, remove from back new inserted data is more larger
 - for deque, remove from front if the window is sliding out 
 - put the available max value in the front of deque
+* add first element into deque
+* condition remove, check whether the container is empty?
+* i-k, the lenght of window is 3, while i =4,
+* if the lenght of window equal to data pool size, return the result at the first loop
+
+  |
+0 1 [2 3 4]
+2 8 [5 6 7]
+
+i=4
+k=3
+i-k
+deque.front 1
+nums[deque.front] 8
+
 
 
 **剑指 Offer 59 - II. 队列的最大值**
