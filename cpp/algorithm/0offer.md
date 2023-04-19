@@ -94,6 +94,7 @@ cur=cur->next //cur将被改写
 * condition remove, check whether the container is empty?
 * i-k, the lenght of window is 3, while i =4,
 * if the lenght of window equal to data pool size, return the result at the first loop
+* the boundary condition the deque value is out of the range of window
 
   |
 0 1 [2 3 4]
