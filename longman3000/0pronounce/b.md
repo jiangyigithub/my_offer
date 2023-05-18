@@ -1,3 +1,0 @@
-`/silent B/`
-lamb
-doubt

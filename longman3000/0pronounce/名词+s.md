@@ -1,2 +1,0 @@
-seat belts
-effects
