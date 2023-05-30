@@ -10,3 +10,5 @@ mkdir
 >> 
 echo
 export
+alias
+ping

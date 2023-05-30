@@ -35,4 +35,12 @@
     },
     "jupyter.jupyterServerType": "local",
     "jupyter.useDefaultConfigForJupyter": false,
+    "python.autoComplete.extraPaths": [
+        "/home/jan5szh/workspaces/icv_ipc/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jan5szh/workspaces/icv_ipc/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
 }
