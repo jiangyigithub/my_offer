@@ -1,31 +1,54 @@
 #include "head.hpp"
 #include "PrintUtil.hpp"
 
+#include <stack>
+
 class MinStack
 {
 public:
-    stack<int> A, B;
-    MinStack() {}
-    void push(int x)
+    void push(int value)
     {
-        A.push(x);
-        if (B.empty() || B.top() >= x)
-            B.push(x);
+        data_stack.push(value);
+        if (min_stack.empty() || value <= min_stack.top())
+        {
+            min_stack.push(value);
+        }
     }
+
     void pop()
     {
-        if (A.top() == B.top())
-            B.pop();
-        A.pop();
+        if (!data_stack.empty())
+        {
+            int value = data_stack.top();
+            data_stack.pop();
+            if (value == min_stack.top())
+            {
+                min_stack.pop();
+            }
+        }
     }
+
     int top()
     {
-        return A.top();
+        if (!data_stack.empty())
+        {
+            return data_stack.top();
+        }
+        return -1; // 栈为空时返回一个特殊值
     }
+
     int min()
     {
-        return B.top();
+        if (!min_stack.empty())
+        {
+            return min_stack.top();
+        }
+        return -1; // 栈为空时返回一个特殊值
     }
+
+private:
+    std::stack<int> data_stack; // 存储数据的主栈
+    std::stack<int> min_stack;  // 存储最小值的辅助栈
 };
 
 int main()
