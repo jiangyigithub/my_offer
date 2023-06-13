@@ -1,0 +1,158 @@
+imagemagick: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    imagemagick
+python_pygraphviz: # pjfa.supervisor / condition_monitor_rqt_plugin
+  ubuntu:
+    xenial:
+      python-pygraphviz
+    bionic:
+      python-pygraphviz
+    focal:
+      python3-pygraphviz
+python-excelerator: # pjfa.vcm / autobus (aka: audi hardware access)
+  ubuntu:
+    xenial:
+      python-excelerator
+    bionic:
+      python-excelerator
+    focal:
+      # not present under focal ?
+default-jdk: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    default-jdk
+ftgl: # pjfa.tools / driving_rviz_plugins
+  ubuntu:
+    libftgl-dev
+gsl:
+  ubuntu:
+      libgsl-dev
+qwt-qt5: # beam / planning_tools
+  ubuntu: 
+    libqwt-qt5-dev
+libblas-dev: # probably deprecated, used by pjfa.common / dnn_semantic_segmentation
+  ubuntu: 
+    libblas-dev
+freetype: # pjfa.tools / driving_rviz_plugins
+  ubuntu:
+    libfreetype6-dev
+geographiclib: # used by geographic_transform, adma, novatel_to_adma
+  ubuntu:
+      libgeographic-dev
+python-numpy: # used by geographic_transform & deprecated pjfa.common / dnn_semantic_segmentation (+ many base ros system components)
+  ubuntu:
+    trusty:
+      python-numpy
+    xenial:
+      python-numpy
+    bionic:
+      python-numpy
+    focal:
+      python3-numpy
+python-scipy: # used by josm_editor & deprecated pjfa.common / dnn_semantic_segmentation
+  ubuntu:
+    trusty:
+      python-scipy
+    xenial:
+      python-scipy
+    bionic:
+      python-scipy
+    focal:
+      python3-scipy
+rubber: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu: 
+    rubber
+mathjax: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu: 
+    fonts-mathjax-extras
+plantuml: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    plantuml
+batik-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libbatik-java
+avalon-framework-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libavalon-framework-java
+commons-io-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libcommons-io-java
+commons-logging-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libcommons-logging-java
+fop-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libfop-java
+xmlgraphics-commons-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libxmlgraphics-commons-java
+xml-commons-external-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    libxml-commons-external-java
+ant-java: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    ant
+texlive-base: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    texlive-base
+texlive-latex-extra: # probably deprecated, used by pjfa_doxygen_module
+  ubuntu:
+    texlive-latex-extra
+python-theano: # probably deprecated, used by pjfa.common / dnn_semantic_segmentation
+  ubuntu:
+    trusty:
+      pip:
+        packages: [Theano, six]
+    xenial:
+      pip:
+        packages: [Theano]
+    bionic:
+      python-theano
+    focal:
+      python3-theano
+python-lasagne: # probably deprecated, used by pjfa.common / dnn_semantic_segmentation
+  ubuntu:
+    trusty:
+      pip:
+        packages: [Lasagne, six]
+    xenial:
+      pip:
+        packages: [Lasagne, six]
+    bionic:
+      python-lasagne
+    focal:
+      python3-lasagne
+python-h5py: # probably deprecated, used by pjfa.common / dnn_semantic_segmentation
+  ubuntu:
+    xenial:
+      python-h5py
+    bionic:
+      python-h5py
+    focal:
+      python3-h5py
+python-gtk2: # probably deprecated, used by pjfa.ux
+  ubuntu:
+    xenial:
+      python-gtk2
+    bionic:
+      python-gtk2
+    focal:
+      # not present under focal ?
+nlopt: # only required for optimization_based_motion_planning which is no core module
+  ubuntu:
+    xenial:
+      libnlopt-dev
+    bionic:
+      libnlopt-dev
+    focal:
+      libnlopt-dev
+      libnlopt-cxx-dev # for some reason the hpp version was separated
+gfortran: # beam / minimum_variation_curve (aka: reference_line helpers)
+  ubuntu:
+    gfortran
+libusb-0.1-4: # explicit version required for Audi can kernel module 
+  ubuntu:
+    libusb-0.1-4
+bdd:
+  ubuntu:
+    libbdd-dev
+
