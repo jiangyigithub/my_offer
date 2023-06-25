@@ -35,7 +35,7 @@ https://www.zhihu.com/question/23447320/answer/26069300
 ## For Effect
 写一份个人网站
 
-how to make a video
+## how to make a video
 https://www.youtube.com/watch?v=N6-Q2dgodLs
 
 
