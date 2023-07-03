@@ -53,6 +53,9 @@ are outside of my job description to help the business continually succeed.
 Thank you for considering me for this software engineering position in the autonomous driving industry. I want to emphasize my software skills and industry experience that make me a strong fit for this role.
 
 SKILLS AND QUALITIES:
+Thank you for giving me the opportunity to be 
+interviewed for this position today. Over the years, I have gained numerous skills and 
+qualities that are a match for the job description.
 As a software engineer, I have a strong command of programming languages such as Python, C++, and Java. These skills are crucial in developing software for autonomous systems. I also have a solid understanding of software engineering principles and practices, including version control and testing methodologies.
 
 EXPERIENCE:
