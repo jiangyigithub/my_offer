@@ -48,5 +48,23 @@ increase company sales.
 TYPE OF PERSON - I am the type of person who always takes responsibility for 
 are outside of my job description to help the business continually succeed.
 
+---
+
+Thank you for considering me for this software engineering position in the autonomous driving industry. I want to emphasize my software skills and industry experience that make me a strong fit for this role.
+
+SKILLS AND QUALITIES:
+As a software engineer, I have a strong command of programming languages such as Python, C++, and Java. These skills are crucial in developing software for autonomous systems. I also have a solid understanding of software engineering principles and practices, including version control and testing methodologies.
+
+EXPERIENCE:
+In my previous role, I worked as a software engineer in an autonomous driving company. I gained hands-on experience developing perception systems for self-driving vehicles. This involved working with sensors like lidar, radar, and cameras to detect and track objects. I also implemented machine learning techniques to improve the accuracy and performance of the algorithms.
+
+ACHIEVEMENT:
+One of my notable achievements was developing a perception algorithm that enhanced object detection in challenging scenarios. This algorithm significantly improved the accuracy and efficiency of the system, contributing to the successful deployment of autonomous vehicles.
+
+TYPE OF PERSON:
+As a software engineer, I am motivated, proactive, and committed to staying up-to-date with the latest technologies in the autonomous driving industry. I enjoy collaborating with colleagues to solve complex problems and thrive in fast-paced environments with tight deadlines. Continuous learning and professional growth are important to me, and I actively engage in industry communities and projects.
+
+In summary, my software skills, industry experience, and commitment to learning make me a strong candidate for this software engineering position in the autonomous driving industry. I am excited about the opportunity to contribute to cutting-edge technology and be part of a dynamic team shaping the future of transportation.
+
 
 
