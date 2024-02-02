@@ -1,5 +1,6 @@
 RAII
 内存分配和对象初始化
+动态分配和静态分配
 new delete
 malloc free
 operator new/delete

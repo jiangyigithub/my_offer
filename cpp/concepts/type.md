@@ -13,3 +13,5 @@ static_cast
 
 3. 阻止转换
 explicit
+
+类型转换和协议解析
