@@ -1,4 +1,5 @@
 RAII
+对象
 内存分配和对象初始化
 new delete
 malloc free
