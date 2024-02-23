@@ -12,3 +12,5 @@ shared_ptr
 unique_ptr 移动[o] 拷贝[x]
 stack heap
 scope - static local global
+存储分配（Allocation）
+初始化（Initialization）--> 初始化列表
