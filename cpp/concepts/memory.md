@@ -1,4 +1,5 @@
 RAII
+对象
 内存分配和对象初始化
 动态分配和静态分配
 new delete
@@ -12,3 +13,5 @@ shared_ptr
 unique_ptr 移动[o] 拷贝[x]
 stack heap
 scope - static local global
+存储分配（Allocation）
+初始化（Initialization）--> 初始化列表
