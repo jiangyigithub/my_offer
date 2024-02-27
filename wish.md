@@ -29,3 +29,5 @@ web：
 软件
 
 https://zh-v1.d2l.ai/chapter_optimization/index.html
+
+**软件**
