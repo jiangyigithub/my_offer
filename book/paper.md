@@ -23,3 +23,11 @@ such as standard libraries and programming environments can also provide signifi
 digms.
 
 支持某种编译范式，不仅仅是为这种范式提供很明显的语法支持，还在编译期和运行器确保不会偏离这种编程范式。类型检查则是说明这个的明显例子。
+模糊检查和运行期检测可以被用于拓展对编程范式的语法支持，而像标准库和编程环境这些非语法的设施也可以为编程范式提供重要的支持。
+
+A language is not necessarily better than another because it possesses a feature the other does not.
+There are many example to the contrary. The important issue is not so much what features a language pos-
+sesses but that the features it does possess are sufficient to support the desired programming styles in the
+desired application areas:
+不会因为一个语言拥有一个特性而另一个没有，这个语言就一定比另一个好。
+重要的不是一个语言拥有某个feature，而是这个语言拥有的feature足以支持所期望的应用场景中所需要的编程范式。
