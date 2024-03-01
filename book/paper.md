@@ -1,3 +1,11 @@
+1 Introduction
+Not all programming languages can be ‘‘object oriented’’. Yet claims have been made to the effect that
+APL, Ada, Clu, C++, LOOPS, and Smalltalk are object-oriented programming languages. I have heard dis-
+cussions of object-oriented design in C, Pascal, Modula-2, and CHILL. Could there somewhere be propo-
+nents of object-oriented Fortran and Cobol programming? I think there must be. ‘‘Object-oriented’’ has in
+many circles become a high-tech synonym for ‘‘good’’, and when you examine discussions in the trade
+press, you can find arguments that appear to boil down to syllogisms like:
+不是所以的程序都支持面向对象，
 Object-oriented programming is a technique for programming – a paradigm for writing ‘‘good’’ pro-
 grams for a set of problems. If the term ‘‘object-oriented programming language’’ means anything it must
 mean a programming language that provides mechanisms that support the object-oriented style of program-
