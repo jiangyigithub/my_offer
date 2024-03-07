@@ -12,6 +12,10 @@ R value右值
 static_cast
 
 3. 阻止转换
-explicit
+`explicit`
 
 类型转换和协议解析
+
+`RTTI`
+
+## Type Checking
