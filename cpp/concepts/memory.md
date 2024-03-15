@@ -10,6 +10,7 @@ move
 constructor/destructor
 smart pointer
 shared_ptr
+week_ptr 循环引用
 unique_ptr 移动[o] 拷贝[x]
 stack heap
 scope - static local global
