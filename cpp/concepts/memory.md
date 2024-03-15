@@ -5,6 +5,7 @@ RAII
 new delete
 malloc free
 operator new/delete
+容器 new[] delete[]
 STL allocator
 move
 constructor/destructor
