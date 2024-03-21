@@ -2,6 +2,7 @@ RAII
 对象
 内存分配和对象初始化
 动态分配和静态分配
+动态和不确定性是同义词，以vector为例
 new delete
 malloc free
 operator new/delete
