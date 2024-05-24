@@ -44,16 +44,16 @@ void foo2()
 
 void foo3()
 {
-    shared_ptr<Dog> p(new Dog("Gunner")); // count = 1
+    shared_ptr<Dog> p1(new Dog("Gunner")); // count = 1
     {
-        shared_ptr<Dog> p2 = p; // count = 2
+        shared_ptr<Dog> p2 = p1; // count = 2
         p2->bark();
         // stack object
         Dog p3("Stack Gunner");
         // temp object
         Dog("Temp Gunner");
     } // count = 1 , out of p2 range
-    p->bark();
+    p1->bark();
 } // count = 0, out of p1 range
 
 int main()
