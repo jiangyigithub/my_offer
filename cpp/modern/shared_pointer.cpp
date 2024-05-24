@@ -56,8 +56,25 @@ void foo3()
     p1->bark();
 } // count = 0, out of p1 range
 
+void foo4()
+{
+    auto p = std::make_shared<int>(4);
+    auto p1 = std::shared_ptr<int>(new int(4));
+    std::cout << p << "\t" << p1 << "\n";
+}
+
+void foo5()
+{
+    auto p = std::make_shared<int>(4);
+    auto p1 = p;// 拷贝赋值
+    std::cout << "p use_count: " << p.use_count() << "\n";
+    auto p2 = std::move(p);// 
+    std::cout << "p use_count: " << p1.use_count() << "\n";
+}
 int main()
 {
-    foo3();
+    // foo3();
+    // foo4();
+    foo5();
     return 0;
 }
