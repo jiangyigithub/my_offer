@@ -67,7 +67,7 @@ As a software engineer, I am motivated, proactive, and committed to staying up-t
 In summary, my software skills, industry experience, and commitment to learning make me a strong candidate for this software engineering position in the autonomous driving industry. I am excited about the opportunity to contribute to cutting-edge technology and be part of a dynamic team shaping the future of transportation.
 
 
-
+https://www.douban.com/note/802729564/?_i=1887854_xPKBcB
 题目： Towards Next-Generation Password Protocols: A Cryptographic Perspective
 
 摘要：
