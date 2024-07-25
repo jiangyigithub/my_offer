@@ -3,12 +3,12 @@ Hello everyone,Good afternoon
 My name is Jiang Yi,I come from Huangshi, a beatiful city in hubei province.
 
 currently I work as a software engineer in project ICV.
- I have some experience in Object fusion and  LKA  system 
+I have some experience in Object fusion and  LKA  system 
 in Geely and SAIC project.
 
 I love swimming and reading as my hobbies.
 
- I am jiang yi ,nice to meet you in bosch . thank you
+I am jiang yi ,nice to meet you in bosch . thank you
 
 
 https://www.youtube.com/watch?v=520_-W9aVcs
@@ -49,8 +49,6 @@ TYPE OF PERSON - I am the type of person who always takes responsibility for
 are outside of my job description to help the business continually succeed.
 
 ---
-
-Thank you for considering me for this software engineering position in the autonomous driving industry. I want to emphasize my software skills and industry experience that make me a strong fit for this role.
 
 SKILLS AND QUALITIES:
 Thank you for giving me the opportunity to be interviewed for this position today. Over the years, I have gained numerous skills and 
