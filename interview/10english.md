@@ -68,3 +68,13 @@ In summary, my software skills, industry experience, and commitment to learning 
 
 
 
+题目： Towards Next-Generation Password Protocols: A Cryptographic Perspective
+
+摘要：
+
+Passwords have long been the most ubiquitous method of authentication on the Internet. The current password authentication approach, "password-over-TLS," suffers from three major drawbacks: (1) the security of this protocol critically relies on the assumption that the server's public key is correctly distributed to the client; (2) the server obtains the client's password in the clear upon TLS decryption;  and (3) an offline dictionary attack is inevitable upon server  compromise. Recent years have witnessed an increasing number of attacks exploiting these deficiencies, leading to billions of password leakages.
+
+In this talk, I will present two key findings from my cryptographic research towards eliminating the aforementioned weaknesses. First, I  will present a new security analysis of the highly efficient SPAKE2 password-authenticated key exchange (PAKE) protocol, showing that its security preserves under arbitrary composition. Second, I will show my  protocol OPAQUE that combines the security guarantees of PAKE and  "password-over-TLS." Overall, these results contribute to the next-generation protocols for password authentication that achieve significantly stronger security. I will conclude with my long-term vision for password protocols from a multi-angle approach that combines cryptography, security, and social sciences.
+
+
+
